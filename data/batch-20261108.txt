@@ -1,19 +1,19 @@
 # todo corpus accepts
-قەڵەم|قەلەم|پێنووس|core|ar|vejin
-قەد||باڵا|core|ar|vejin
-خەڵق|خەلق|گەل|core|ar|vejin
-حاشا||نکۆڵی|core|ar|vejin
-قووت||بژێوی|strict|ar|vejin
-حەیران||سەرسام,سەرسوڕمان|core|ar|vejin
-عەیش||ژیان|core|ar|vejin
-سەحەر||بەرەبەیان|core|ar|vejin
-قەترە||دڵۆپ|core|ar|vejin
-دەعوا|دەعوە|دادخوازی,سکاڵا|core|ar|vejin
-حیلە|حیله|فێل|core|ar|vejin
-قارەمان||پالەوان|core|fa|vejin
-حەوز||گۆم|strict|ar|vejin
-تاقم||دەستە|core|tr|vejin
-شوعلە|شەعلە|بڵێسە,گڕ|core|ar|vejin
+قەڵەم|قەلەم|پێنووس|core|ar|literature
+قەد||باڵا|core|ar|literature
+خەڵق|خەلق|گەل|core|ar|literature
+حاشا||نکۆڵی|core|ar|literature
+قووت||بژێوی|strict|ar|literature
+حەیران||سەرسام,سەرسوڕمان|core|ar|literature
+عەیش||ژیان|core|ar|literature
+سەحەر||بەرەبەیان|core|ar|literature
+قەترە||دڵۆپ|core|ar|literature
+دەعوا|دەعوە|دادخوازی,سکاڵا|core|ar|literature
+حیلە|حیله|فێل|core|ar|literature
+قارەمان||پالەوان|core|fa|literature
+حەوز||گۆم|strict|ar|literature
+تاقم||دەستە|core|tr|literature
+شوعلە|شەعلە|بڵێسە,گڕ|core|ar|literature
 # user suggestion
 تەسادوف|تەسادف|ڕێکەوت|core|ar|user
 # everyday speech - own knowledge

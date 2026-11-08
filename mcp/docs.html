@@ -55,8 +55,10 @@ footer{margin-top:48px;font-size:14px}
 <tr><td>پشکنینی دەق <code>check_text</code></td><td>دەقێکی کوردی دەپشکنێت و هەڵەی پیت و وشەی بیانی نیشان دەدات، لەگەڵ پێشنیاری چاککردن.</td></tr>
 <tr><td>گەڕان <code>search</code></td><td>گەڕانی گشتی لە فەرهەنگ و ڕێنماییەکاندا.</td></tr>
 <tr><td>هێنانی وشە <code>fetch</code></td><td>زانیاریی تەواوی وشەیەک یان بەشێکی ڕێنمایی بە ناسنامەکەیەوە دەهێنێت.</td></tr>
+<tr><td>زاراوەی ڕووکار <code>ui_term</code></td><td>زاراوەکانی ڕووکاری بەرنامە و ماڵپەڕ (وەک Save و Settings) بۆ کوردیی پەتی وەردەگێڕێت.</td></tr>
+<tr><td>پێشنیارکردنی وشە <code>suggest_word</code></td><td>وشەیەکی نوێ و جێگرەوە کوردییەکەی بۆ پێداچوونەوە دەنێرێت.</td></tr>
 </table>
-<p class="mut">هەموو ئامرازەکان تەنها دەخوێننەوە؛ هیچ شتێک ناگۆڕن و هیچ شتێک پاشەکەوت ناکەن.</p>
+<p class="mut">هەموو ئامرازەکان تەنها دەخوێننەوە، جگە لە «پێشنیارکردنی وشە» کە پێشنیارەکە بۆ پێداچوونەوە پاشەکەوت دەکات.</p>
 
 <h2>نموونەی بەکارهێنان</h2>
 <ul>
@@ -67,22 +69,24 @@ footer{margin-top:48px;font-size:14px}
 
 <h2>پەیوەندی</h2>
 <p>بۆ پرسیار، هەڵە یان پێشنیار: <a href="mailto:awara.ahmad@gmail.com">awara.ahmad@gmail.com</a><br>
-<a href="/privacy.html">پاراستنی نهێنی</a></p>
+<a href="/privacy.html">پاراستنی نهێنی</a> · <a href="/terms.html">مەرجەکانی بەکارهێنان</a></p>
 
 <section class="en">
 <h2>English</h2>
 <p><b>Kurdî Petî (Pure Kurdish)</b> is a remote MCP server that helps Claude and other AI assistants write Central Kurdish (Sorani) with correct Unicode orthography and without Arabic, Persian, Turkish or English loanwords. It provides a glossary of pure Kurdish words and a text checker.</p>
 <p><b>Setup:</b> Claude → Settings → Connectors → Add custom connector. Name: <i>کوردیی پەتی</i>, URL: <code>https://kurdi-peti.vercel.app/mcp</code>. No authentication is required. Once added on the web, it is also available in the Claude mobile and desktop apps.</p>
-<p><b>Tools</b> (all read-only):</p>
+<p><b>Tools</b> (all read-only except <code>suggest_word</code>, which stores a word suggestion for review):</p>
 <ul>
 <li><code>get_guide</code> – writing rules: orthography, punctuation, grammar.</li>
 <li><code>search_word</code> – find the pure Kurdish equivalent of a loanword.</li>
 <li><code>check_text</code> – check Kurdish text for wrong characters and loanwords, with suggested fixes.</li>
 <li><code>search</code> – general search across the glossary and guides.</li>
 <li><code>fetch</code> – fetch a full glossary entry or guide section by id.</li>
+<li><code>ui_term</code> – translate an app or website UI term (Save, Settings, Sign in) into pure Sorani.</li>
+<li><code>suggest_word</code> – suggest a new loanword and its pure Kurdish replacement for review.</li>
 </ul>
 <p><b>Example prompts:</b> "Check this Kurdish text and replace the loanwords." · "Translate this app's UI strings into pure Sorani."</p>
-<p><b>Support:</b> <a href="mailto:awara.ahmad@gmail.com">awara.ahmad@gmail.com</a> · <a href="/privacy.html">Privacy policy</a></p>
+<p><b>Support:</b> <a href="mailto:awara.ahmad@gmail.com">awara.ahmad@gmail.com</a> · <a href="/privacy.html">Privacy policy</a> · <a href="/terms.html">Terms of service</a></p>
 </section>
 
 <footer class="mut">کوردیی پەتی · <a href="/">سەرەکی</a></footer>

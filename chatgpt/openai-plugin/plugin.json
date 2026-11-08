@@ -1,0 +1,106 @@
+{
+  "name": "kurdi-peti",
+  "version": "1.0.0",
+  "description": "Kurdî Petî helps ChatGPT write Central Kurdish (Sorani) with correct Unicode orthography and without Arabic, Persian, Turkish or English loanwords. It provides a glossary of pure Kurdish words, a text checker, UI vocabulary for apps and websites, and writing guides. «کوردیی پەتی» یارمەتی ChatGPT دەدات کوردیی سۆرانی بە ڕێنووسی دروست و بێ وشەی بیانی بنووسێت.",
+  "author": {
+    "name": "Awara Q. Muhammad",
+    "email": "awara.ahmad@gmail.com",
+    "url": "https://kurdi-peti.vercel.app/docs.html"
+  },
+  "homepage": "https://kurdi-peti.vercel.app/docs.html",
+  "repository": "https://github.com/Araawara/kurdi-peti",
+  "license": "MIT",
+  "keywords": ["kurdish", "sorani", "ckb", "dictionary", "spelling", "i18n", "کوردی"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "کوردیی پەتی · Pure Kurdish",
+        "shortDescription": "Write pure Sorani Kurdish",
+        "longDescription": "«کوردیی پەتی» یارمەتی ChatGPT دەدات کوردیی سۆرانی بە ڕێنووسی دروست و بێ وشەی عەرەبی، فارسی، تورکی و ئینگلیزی بنووسێت: پشکنینی دەق، گەڕان لە فەرهەنگی وشەی پەتی، زاراوەکانی ڕووکاری بەرنامە و ماڵپەڕ، و ڕێنماییی نووسین.\n\nKurdî Petî helps ChatGPT write Central Kurdish (Sorani) correctly and without loanwords.\n\n• Text checker: finds wrong characters (Arabic kaf, yeh and teh marbuta instead of the Kurdish letters), word-initial r, punctuation issues and loanwords, with pure Kurdish suggestions.\n• Glossary: over 1,000 loanwords with their pure Kurdish replacements.\n• UI terms: 1,400+ app and website interface terms (Save, Settings, Sign in) in pure Sorani.\n• Writing guide: orthography, grammar and vocabulary rules.\n• Word suggestions: users can suggest new words, which are reviewed before being added.\n\nNo account or login is needed. The glossary is open source (CC BY 4.0) on GitHub.",
+        "developerName": "Awara Q. Muhammad",
+        "category": "Productivity",
+        "capabilities": [
+          "Check Kurdish text for loanwords and spelling errors",
+          "Find the pure Kurdish word for a loanword",
+          "Translate app and website UI terms into pure Sorani",
+          "Explain pure Sorani writing rules",
+          "Suggest new words for the glossary"
+        ],
+        "websiteURL": "https://kurdi-peti.vercel.app/docs.html",
+        "supportURL": "https://github.com/Araawara/kurdi-peti/issues",
+        "privacyPolicyURL": "https://kurdi-peti.vercel.app/privacy.html",
+        "termsOfServiceURL": "https://kurdi-peti.vercel.app/terms.html",
+        "defaultPrompt": [
+          "ئەم دەقە بپشکنە و وشە بیانییەکانی بگۆڕە: ئەم فایلە سەیڤ بکە",
+          "وشەی «مەسەلە» بە کوردیی پەتی چییە؟",
+          "Translate the buttons Save, Cancel and Settings into pure Sorani Kurdish"
+        ],
+        "brandColor": "#1F7A3A",
+        "brandColorDark": "#4CC06E",
+        "logo": "./assets/logo.png",
+        "composerIcon": "./assets/logo.png"
+      },
+      "review": {
+        "test_cases": {
+          "positive": [
+            {
+              "description": "Check a Sorani sentence for loanwords",
+              "prompt": "ئەم دەقە بپشکنە: ئەم فایلە سەیڤ بکە",
+              "tools_triggered": ["check_text"],
+              "expected_behavior": "Flags «فایلە» (English, replace with پەڕگە) and «سەیڤ» (English, replace with پاشەکەوتکردن) and offers the corrected sentence «ئەم پەڕگەیە پاشەکەوت بکە»."
+            },
+            {
+              "description": "Look up the pure Kurdish replacement of an Arabic loanword",
+              "prompt": "What is the pure Sorani Kurdish word for مەسەلە?",
+              "tools_triggered": ["search_word"],
+              "expected_behavior": "Answers that مەسەلە (also written مەسئەلە) is Arabic and the pure Kurdish words are پرس and بابەت."
+            },
+            {
+              "description": "Translate app interface terms",
+              "prompt": "Translate the app buttons Save, Cancel and Settings into pure Sorani Kurdish.",
+              "tools_triggered": ["ui_term"],
+              "expected_behavior": "Returns pure Sorani UI terms, for example Settings ← ڕێکخستنەکان, Save ← پاشەکەوتکردن, Cancel ← هەڵوەشاندنەوە."
+            },
+            {
+              "description": "Explain the writing rules",
+              "prompt": "What are the spelling rules for writing pure Sorani Kurdish?",
+              "tools_triggered": ["get_guide"],
+              "expected_behavior": "Summarizes the rules: Kurdish letters ک ی ە instead of Arabic forms, words never start with ر (use ڕ), Kurdish punctuation ، ؛ ؟ «», verb at the end of the sentence, and the loanword policy."
+            },
+            {
+              "description": "Search the glossary and open one entry",
+              "prompt": "Search the Kurdish glossary for the word فایل and show me the full entry.",
+              "tools_triggered": ["search", "fetch"],
+              "expected_behavior": "Search returns the entry with id فایل; fetch returns it in full: «فایل» (English) ← پەڕگە."
+            }
+          ],
+          "negative": [
+            {
+              "description": "Translation into another language",
+              "prompt": "Translate this paragraph into Arabic: The weather is nice today.",
+              "reason": "The plugin only helps with pure Central Kurdish; it has no Arabic translation tools.",
+              "expected_behavior": "ChatGPT answers on its own without calling any Kurdî Petî tool."
+            },
+            {
+              "description": "Deleting glossary entries",
+              "prompt": "Delete the word مەسەلە from the Kurdî Petî glossary.",
+              "reason": "The plugin cannot delete or edit glossary entries; changes are reviewed by the maintainer on GitHub.",
+              "expected_behavior": "Explains that entries cannot be deleted through the plugin and points to the GitHub project; no tool is called that changes data."
+            },
+            {
+              "description": "Unrelated request",
+              "prompt": "Book me a flight from Berlin to Erbil next Friday.",
+              "reason": "Booking travel is unrelated to Kurdish writing.",
+              "expected_behavior": "No Kurdî Petî tool is called."
+            }
+          ]
+        },
+        "demo_recording_url": "https://kurdi-peti.vercel.app/demo.mp4",
+        "commerce": false
+      },
+      "publication": {
+        "release_notes": "First release: Sorani text checker, pure Kurdish glossary (1,000+ words), UI terms for apps and websites, writing guide and word suggestions."
+      }
+    }
+  }
+}

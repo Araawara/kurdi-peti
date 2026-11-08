@@ -17,8 +17,8 @@ Work only inside this folder. Only use the commands below. Do not ask questions;
    Mon technology, Tue health and medicine, Wed law and government, Thu education and science,
    Fri economy and trade, Sat media and culture, Sun everyday speech. Avoid words already in glossary.json.
 5. Write accepted entries to data/batch-YYYYMMDD.txt, one per line:
-   `loan|variant1,variant2|pure1,pure2|core|ar|vejin`  (level core or strict; origin ar/fa/tr/en;
-   source vejin, user, or common). Do not create helper scripts. Write rejected words, one per line, to data/reject-YYYYMMDD.txt.
+   `loan|variant1,variant2|pure1,pure2|core|ar|literature`  (level core or strict; origin ar/fa/tr/en;
+   source literature, user, or common). Do not create helper scripts. Write rejected words, one per line, to data/reject-YYYYMMDD.txt.
    Then run `python grow.py merge data/batch-YYYYMMDD.txt` and `python grow.py reject data/reject-YYYYMMDD.txt`.
 6. Run `python grow.py fp data/batch-YYYYMMDD.txt`. If an entry matches genuine Kurdish words
    (e.g. a short loan + suffix forming a native word), fix it in glossary.json: add "exact": true, drop the

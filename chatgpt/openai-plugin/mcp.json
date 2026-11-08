@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kurdi-peti": {
+      "type": "streamable-http",
+      "url": "https://kurdi-peti.vercel.app/mcp"
+    }
+  }
+}
