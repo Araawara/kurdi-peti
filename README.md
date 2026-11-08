@@ -52,7 +52,7 @@ python build.py
 
 ئامرازەکان: `search_word` (گەڕان لە فەرهەنگ)، `ui_term` (زاراوەی ڕووکار، ئینگلیزی ← کوردی)، `check_text` (پشکنینی دەق)، `suggest_word` (پێشنیارکردنی وشە)، `get_guide` (ڕێنمایی)، `search` و `fetch`.
 
-بڵاوکردنەوەی وەشانی نوێ: `python build.py` ئینجا لە بوخچەی `mcp`: `npx vercel deploy --prod`
+بڵاوکردنەوەی وەشانی نوێ: هەر گۆڕانکارییەک لە لقی `main`ی GitHub، Vercel خۆکارانە بڵاوی دەکاتەوە (Root Directory: `mcp`). وشەیەک کە لە Issuesدا پەسەند دەکرێت، دوای چەند خولەکێک لە connectorەکەدا بەردەست دەبێت.
 
 ڕێنماییی تەواو: https://kurdi-peti.vercel.app/docs.html
 

@@ -6,7 +6,7 @@
   python grow.py merge FILE      زیادکردنی کۆمەڵەیەک (loan|variants|pure|level|origin|source) بە review: true
   python grow.py reject FILE     وشەکانی FILE (یەک لە هەر ڕیزێک) بۆ data/rejected.txt، تا دووبارە پێشنیار نەکرێنەوە
   python grow.py fp FILE         پشکنینی هەڵەی ناسینەوە: وشەکانی FILE لە کتێبەکاندا چی دەگرن
-  python grow.py publish         build.py، نوێکردنەوەی سکیڵی Claude Code و بڵاوکردنەوە لە Vercel
+  python grow.py publish         build.py و نوێکردنەوەی سکیڵی Claude Code (Vercel لە ڕێگەی GitHubەوە بڵاو دەکاتەوە)
   python grow.py done            پێشنیارە نوێیەکان وەک چارەسەرکراو نیشان دەکات
   python grow.py sync            وەرگرتنی نوێترین وەشان لە GitHub (وشە پەسەندکراوەکانی Issues)
   python grow.py commit          ناردنی گۆڕانکارییەکانی ئەمڕۆ بۆ GitHub
@@ -192,12 +192,8 @@ def cmd_publish():
     installed = Path.home() / ".claude" / "skills" / "kurdi-peti"
     shutil.rmtree(installed, ignore_errors=True)
     shutil.copytree(SKILL, installed)
-    r = subprocess.run([NPX, "-y", "vercel@latest", "deploy", "--prod", "--yes"], cwd=MCP, capture_output=True, text=True,
-                       encoding="utf-8", errors="replace")
-    if r.returncode != 0:
-        log("publish: Vercel هەڵەی دا\n" + r.stdout[-2000:] + r.stderr[-2000:])
-        sys.exit(1)
-    log(f"publish: {len(load()['entries'])} وشە بڵاوکرایەوە")
+    # Vercel is connected to GitHub (root directory: mcp), so `commit` deploys the connector.
+    log(f"publish: {len(load()['entries'])} وشە دروستکرا؛ دوای commit، Vercel خۆکارانە بڵاوی دەکاتەوە")
 
 
 def git(*args, check=True):
