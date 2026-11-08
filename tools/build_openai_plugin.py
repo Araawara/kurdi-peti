@@ -10,7 +10,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "chatgpt" / "openai-plugin"
-SKILL = ROOT / "skills" / "kurdi-peti"
 OUT = ROOT / "chatgpt" / "kurdi-peti-openai.zip"
 
 
@@ -19,9 +18,6 @@ def main():
         for f in sorted(SRC.rglob("*")):
             if f.is_file():
                 z.write(f, f.relative_to(SRC))
-        for f in sorted(SKILL.rglob("*")):
-            if f.is_file() and "__pycache__" not in f.parts:
-                z.write(f, Path("skills") / "kurdi-peti" / f.relative_to(SKILL))
     print(OUT, OUT.stat().st_size)
 
 
