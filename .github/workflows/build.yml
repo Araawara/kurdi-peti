@@ -1,0 +1,27 @@
+# دوای هەر گۆڕانکارییەک لە فەرهەنگ، پەڕگە دروستکراوەکان نوێ دەکاتەوە
+name: build
+on:
+  push:
+    branches: [main]
+    paths:
+      - "skills/kurdi-peti/**"
+      - "build.py"
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python tools/validate_glossary.py
+      - run: python build.py
+      - name: پاشەکەوتکردنی پەڕگە نوێکراوەکان
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add skills/kurdi-peti/references/glossary.md mcp/api/kp_check.py mcp/api/kp_data.py
+          git diff --cached --quiet || git commit -m "نوێکردنەوەی پەڕگە دروستکراوەکان"
+          git push

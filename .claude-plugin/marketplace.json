@@ -1,0 +1,11 @@
+{
+  "name": "kurdi-peti",
+  "owner": { "name": "Awara Q. Muhammad" },
+  "plugins": [
+    {
+      "name": "kurdi-peti",
+      "source": "./",
+      "description": "Pure Central Kurdish (Sorani) writing for text, apps and code projects. نووسینی کوردیی سۆرانیی پەتی."
+    }
+  ]
+}

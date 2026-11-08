@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ڕێنماییی connectorەکە
+    url: https://kurdi-peti.vercel.app/docs.html
+    about: چۆن «کوردیی پەتی» لە Claude یان ChatGPT بەکاربهێنیت.

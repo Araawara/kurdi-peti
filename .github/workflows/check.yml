@@ -1,0 +1,44 @@
+# پشکنینی هەر گۆڕانکارییەک پێش پەسەندکردن
+name: check
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: پشکنینی فەرهەنگ
+        run: python tools/validate_glossary.py
+      - name: دروستکردنی پاکێجەکان
+        run: python build.py
+      - name: پشکنینی کوردیی بەڵگەنامەکان
+        run: python skills/kurdi-peti/scripts/check.py README.md CONTRIBUTING.md
+      - name: پشکنینی ڕاژەکار
+        working-directory: mcp/api
+        run: |
+          python - <<'PY'
+          import json, threading, urllib.request
+          from http.server import HTTPServer
+          import index
+          server = HTTPServer(("127.0.0.1", 0), index.handler)
+          threading.Thread(target=server.serve_forever, daemon=True).start()
+          url = f"http://127.0.0.1:{server.server_port}/mcp"
+          def call(method, params):
+              body = json.dumps({"jsonrpc": "2.0", "id": 1, "method": method, "params": params}).encode()
+              req = urllib.request.Request(url, body, {"content-type": "application/json", "accept": "application/json, text/event-stream"})
+              return json.loads(urllib.request.urlopen(req).read())["result"]
+          tools = call("tools/list", {})["tools"]
+          assert len(tools) == 5, tools
+          for t in tools:
+              assert t["annotations"].get("title") and t["annotations"].get("readOnlyHint"), t["name"]
+          text = call("tools/call", {"name": "check_text", "arguments": {"text": "ئەم فایلە"}})["content"][0]["text"]
+          assert "پەڕگە" in text, text
+          print("ڕاژەکار باشە:", [t["name"] for t in tools])
+          PY

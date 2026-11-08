@@ -1,0 +1,70 @@
+name: پێشنیاری وشەی نوێ
+description: وشەیەکی بیانی و جێگرەوە کوردییە پەتییەکەی پێشنیار بکە. (Suggest a loanword and its pure Kurdish replacement.)
+title: "وشەی نوێ: "
+labels: ["وشەی نوێ"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        سوپاس بۆ یارمەتیدانت! ئەم فۆڕمە پڕ بکەرەوە. دوای پشکنین، وشەکە بە شێوەیەکی خۆکار دەخرێتە ناو فەرهەنگەکە.
+  - type: input
+    id: loan
+    attributes:
+      label: وشە بیانییەکە
+      description: ئەو وشەیەی دەبێت بگۆڕدرێت.
+      placeholder: ئیمتیحان
+    validations:
+      required: true
+  - type: input
+    id: variants
+    attributes:
+      label: شێوەکانی تری نووسینی
+      description: ئەگەر بە شێوەی تریش دەنووسرێت، بە کۆما (،) لێکیان جیا بکەرەوە.
+      placeholder: ئیمتحان، ئمتحان
+  - type: dropdown
+    id: origin
+    attributes:
+      label: زمانی بنەڕەت
+      options:
+        - عەرەبی (ar)
+        - فارسی (fa)
+        - تورکی (tr)
+        - ئینگلیزی یان ئەورووپی (en)
+    validations:
+      required: true
+  - type: input
+    id: pure
+    attributes:
+      label: وشە کوردییە پەتییەکان
+      description: یەک یان چەند وشەی کوردی، بە کۆما (،) لێکیان جیا بکەرەوە. باشترینیان یەکەم بنووسە.
+      placeholder: تاقیکردنەوە
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: ئاست
+      description: core بۆ وشەی بیانیی ڕوون؛ strict بۆ وشەی زۆر باو کە تەنها لە کوردیی سەد لە سەد پەتیدا دەگۆڕدرێت.
+      options:
+        - core – هەمیشە بگۆڕدرێت
+        - strict – تەنها بۆ کوردیی سەد لە سەد پەتی
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: ڕستەی نموونە
+      description: ڕستەیەک کە وشە کوردییەکەی تێدا بەکارهاتبێت.
+      placeholder: سبەی تاقیکردنەوەم هەیە.
+  - type: input
+    id: source
+    attributes:
+      label: سەرچاوە
+      description: بۆ نموونە ناوی فەرهەنگێک، یان «زانیاریی خۆم».
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: ڕەزامەندی
+      options:
+        - label: ڕازیم ئەم پێشنیارە بە ڕێگەپێدانی CC BY 4.0 بڵاو بکرێتەوە. (I agree to license this suggestion under CC BY 4.0.)
+          required: true

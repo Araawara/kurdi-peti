@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="ckb" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>کوردیی پەتی – ڕێنمایی</title>
+<meta name="description" content="ڕێنماییی connectorی «کوردیی پەتی» بۆ Claude و ChatGPT. Documentation for the Pure Central Kurdish (Sorani) MCP connector.">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<style>
+:root{--bg:#fbfaf7;--fg:#1d1b18;--mut:#5f5a52;--card:#fff;--line:#e6e1d8;--acc:#1f7a3a;--red:#c8102e;--sun:#f2b705}
+@media (prefers-color-scheme:dark){:root{--bg:#141311;--fg:#ece8e1;--mut:#a59f95;--card:#1d1c19;--line:#2e2c28;--acc:#4cc06e}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.75 "Vazirmatn","Noto Naskh Arabic","Noto Sans Arabic",system-ui,sans-serif}
+.wrap{max-width:760px;margin:0 auto;padding:32px 16px 64px}
+.flag{height:6px;background:linear-gradient(var(--red) 0 33%,#fff 33% 66%,var(--acc) 66%)}
+header{display:flex;align-items:center;gap:14px;margin-bottom:8px}
+header img{width:56px;height:56px;border-radius:12px;border:1px solid var(--line)}
+h1{font-size:30px;margin:0}
+h2{font-size:21px;margin:36px 0 8px;padding-top:8px;border-top:1px solid var(--line)}
+p,li{color:var(--fg)}
+.mut{color:var(--mut)}
+code,.url{font-family:ui-monospace,Consolas,monospace;font-size:15px;direction:ltr;unicode-bidi:embed}
+.url{display:block;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin:10px 0;text-align:left;overflow-wrap:anywhere}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+td,th{padding:10px 12px;border-bottom:1px solid var(--line);text-align:start;vertical-align:top}
+tr:last-child td{border-bottom:0}
+.en{direction:ltr;text-align:left;font-family:system-ui,sans-serif;font-size:16px;line-height:1.6}
+.en h2{font-size:19px}
+a{color:var(--acc)}
+footer{margin-top:48px;font-size:14px}
+</style>
+</head>
+<body>
+<div class="flag"></div>
+<main class="wrap">
+<header><img src="/icon.svg" alt="ئاڵای کوردستان"><div><h1>کوردیی پەتی</h1><div class="mut">connector بۆ نووسینی کوردیی سۆرانیی پەتی</div></div></header>
+
+<p>«کوردیی پەتی» ڕاژەکارێکی (server) لە جۆری MCP، کە یارمەتی Claude و یاریدەدەرە زیرەکەکانی تر دەدات کوردیی سۆرانی بە ڕێنووسی دروست و بێ وشەی بیانی بنووسن. فەرهەنگێکی وشەی پەتی و پشکنەرێکی دەقی تێدایە.</p>
+
+<h2>زیادکردن بۆ Claude</h2>
+<ol>
+<li>لە Claude.ai بچۆ ناو «ڕێکخستنەکان» ← «Connectors».</li>
+<li>«Add custom connector» هەڵبژێرە.</li>
+<li>ناو: <b>کوردیی پەتی</b>، و ئەم بەستەرە بنووسە:</li>
+</ol>
+<span class="url">https://kurdi-peti.vercel.app/mcp</span>
+<p>چوونەژوورەوە پێویست نییە. دوای زیادکردن لە وێب، لە بەرنامەی مۆبایل و کۆمپیوتەریشدا بەکاردێت.</p>
+
+<h2>ئامرازەکان</h2>
+<table>
+<tr><th>ئامراز</th><th>کار</th></tr>
+<tr><td>ڕێنماییی نووسین <code>get_guide</code></td><td>یاساکانی ڕێنووس، خاڵبەندی و ڕێزمانی سۆرانیی پەتی دەدات.</td></tr>
+<tr><td>گەڕان لە فەرهەنگ <code>search_word</code></td><td>بۆ وشەیەکی بیانی، هاوتا کوردییە پەتییەکەی دەدۆزێتەوە.</td></tr>
+<tr><td>پشکنینی دەق <code>check_text</code></td><td>دەقێکی کوردی دەپشکنێت و هەڵەی پیت و وشەی بیانی نیشان دەدات، لەگەڵ پێشنیاری چاککردن.</td></tr>
+<tr><td>گەڕان <code>search</code></td><td>گەڕانی گشتی لە فەرهەنگ و ڕێنماییەکاندا.</td></tr>
+<tr><td>هێنانی وشە <code>fetch</code></td><td>زانیاریی تەواوی وشەیەک یان بەشێکی ڕێنمایی بە ناسنامەکەیەوە دەهێنێت.</td></tr>
+</table>
+<p class="mut">هەموو ئامرازەکان تەنها دەخوێننەوە؛ هیچ شتێک ناگۆڕن و هیچ شتێک پاشەکەوت ناکەن.</p>
+
+<h2>نموونەی بەکارهێنان</h2>
+<ul>
+<li>«ئەم دەقە بپشکنە و وشە بیانییەکانی بگۆڕە.»</li>
+<!-- kurdi-peti-ignore-start --><li>«وشەی "مەسەلە" بە کوردیی پەتی چییە؟»</li><!-- kurdi-peti-ignore-end -->
+<li>«ڕووکاری ئەم بەرنامەیە بە کوردیی پەتی وەربگێڕە.»</li>
+</ul>
+
+<h2>پەیوەندی</h2>
+<p>بۆ پرسیار، هەڵە یان پێشنیار: <a href="mailto:awara.ahmad@gmail.com">awara.ahmad@gmail.com</a><br>
+<a href="/privacy.html">پاراستنی نهێنی</a></p>
+
+<section class="en">
+<h2>English</h2>
+<p><b>Kurdî Petî (Pure Kurdish)</b> is a remote MCP server that helps Claude and other AI assistants write Central Kurdish (Sorani) with correct Unicode orthography and without Arabic, Persian, Turkish or English loanwords. It provides a glossary of pure Kurdish words and a text checker.</p>
+<p><b>Setup:</b> Claude → Settings → Connectors → Add custom connector. Name: <i>کوردیی پەتی</i>, URL: <code>https://kurdi-peti.vercel.app/mcp</code>. No authentication is required. Once added on the web, it is also available in the Claude mobile and desktop apps.</p>
+<p><b>Tools</b> (all read-only):</p>
+<ul>
+<li><code>get_guide</code> – writing rules: orthography, punctuation, grammar.</li>
+<li><code>search_word</code> – find the pure Kurdish equivalent of a loanword.</li>
+<li><code>check_text</code> – check Kurdish text for wrong characters and loanwords, with suggested fixes.</li>
+<li><code>search</code> – general search across the glossary and guides.</li>
+<li><code>fetch</code> – fetch a full glossary entry or guide section by id.</li>
+</ul>
+<p><b>Example prompts:</b> "Check this Kurdish text and replace the loanwords." · "Translate this app's UI strings into pure Sorani."</p>
+<p><b>Support:</b> <a href="mailto:awara.ahmad@gmail.com">awara.ahmad@gmail.com</a> · <a href="/privacy.html">Privacy policy</a></p>
+</section>
+
+<footer class="mut">کوردیی پەتی · <a href="/">سەرەکی</a></footer>
+</main>
+</body>
+</html>

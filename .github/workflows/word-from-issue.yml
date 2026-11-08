@@ -1,0 +1,49 @@
+# کاتێک خاوەنی پڕۆژە نیشانەی «پەسەندکراو» دەخاتە سەر پێشنیارێک، داواکارییەکی pull request دروست دەکات
+name: word-from-issue
+on:
+  issues:
+    types: [labeled]
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+jobs:
+  add-word:
+    if: github.event.label.name == 'پەسەندکراو' && contains(github.event.issue.labels.*.name, 'وشەی نوێ')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: زیادکردنی وشە
+        id: add
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          set +e
+          python tools/issue_to_entry.py > result.txt 2>&1
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+          cat result.txt
+      - name: وەڵام لە کاتی هەڵەدا
+        if: steps.add.outputs.code != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body-file result.txt
+          exit 1
+      - name: دروستکردنی pull request
+        if: steps.add.outputs.code == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          branch="word/issue-${{ github.event.issue.number }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add skills/kurdi-peti/references/glossary.json
+          git commit -m "$(head -n1 result.txt)" -m "Closes #${{ github.event.issue.number }}"
+          git push -f origin "$branch"
+          gh pr create --base main --head "$branch" \
+            --title "$(head -n1 result.txt)" \
+            --body "$(printf 'پێشنیارەکەی #%s\n\nCloses #%s' '${{ github.event.issue.number }}' '${{ github.event.issue.number }}')"

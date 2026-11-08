@@ -1,0 +1,26 @@
+name: ڕاستکردنەوەی وشەیەک
+description: وشەیەک لە فەرهەنگەکەدا هەڵەیە یان جێگرەوەیەکی باشتری هەیە. (Report a wrong or weak entry.)
+title: "ڕاستکردنەوە: "
+labels: ["ڕاستکردنەوە"]
+body:
+  - type: input
+    id: loan
+    attributes:
+      label: وشەکە لە فەرهەنگەکەدا
+      placeholder: مەسەلە
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: کێشەکە چییە؟
+      description: بۆچی هەڵەیە و چی دەبێت لە جیاتی بنووسرێت؟
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: ڕەزامەندی
+      options:
+        - label: ڕازیم ئەم پێشنیارە بە ڕێگەپێدانی CC BY 4.0 بڵاو بکرێتەوە. (I agree to license this suggestion under CC BY 4.0.)
+          required: true

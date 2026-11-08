@@ -1,0 +1,7 @@
+{
+  "name": "kurdi-peti",
+  "version": "0.1.0",
+  "description": "Pure Central Kurdish (Sorani) writing for text, apps and code projects. نووسینی کوردیی سۆرانیی پەتی.",
+  "author": { "name": "Awara Q. Muhammad" },
+  "keywords": ["kurdish", "sorani", "ckb", "i18n", "rtl", "کوردی"]
+}
