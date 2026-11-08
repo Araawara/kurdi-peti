@@ -2,7 +2,7 @@
 
 **دروستکەر:** ئاوارە ق. محەمەد (Awara Q. Muhammad)
 
-پلگینێک بۆ Claude و ChatGPT کە وا لە ژیریی دەستکرد دەکات هەموو دەق، بەرنامە، وێبسایت و پڕۆژەیەکی بەرنامەسازی بە **کوردیی سۆرانیی سەد لە سەد پەتی** بنووسێت.
+پلگینێک بۆ Claude و ChatGPT کە وا لە ژیریی دەستکرد دەکات هەموو دەق، بەرنامە، ماڵپەڕ و پڕۆژەیەکی بەرنامەسازی بە **کوردیی سۆرانیی سەد لە سەد پەتی** بنووسێت.
 
 ## ئەم پلگینە چی دەکات؟
 <!-- kurdi-peti-ignore-start -->
@@ -50,7 +50,7 @@ python build.py
 - **Claude.ai:** Settings ← Connectors ← Add custom connector ← بەستەرەکە دابنێ.
 - **ChatGPT:** Settings ← Apps & Connectors ← Advanced ← Developer mode چالاک بکە ← Create ← بەستەرەکە دابنێ، Authentication: No authentication.
 
-ئامرازەکان: `search_word` (گەڕان لە فەرهەنگ)، `check_text` (پشکنینی دەق)، `get_guide` (ڕێنمایی)، `search` و `fetch`.
+ئامرازەکان: `search_word` (گەڕان لە فەرهەنگ)، `ui_term` (زاراوەی ڕووکار، ئینگلیزی ← کوردی)، `check_text` (پشکنینی دەق)، `suggest_word` (پێشنیارکردنی وشە)، `get_guide` (ڕێنمایی)، `search` و `fetch`.
 
 بڵاوکردنەوەی وەشانی نوێ: `python build.py` ئینجا لە بوخچەی `mcp`: `npx vercel deploy --prod`
 
@@ -73,12 +73,30 @@ skills/kurdi-peti/          سەرچاوەی هاوبەش
   references/glossary.json  فەرهەنگ (تەنها ئەمە دەستکاری بکە)
   references/glossary.md    خۆکارانە دروست دەکرێت
   references/rules.md       یاساکانی ڕێنووس و ڕێزمان
-  references/software.md    بەرنامە، وێبسایت، RTL، فەرهەنگی ڕووکار
+  references/software.md    بەرنامە، ماڵپەڕ، RTL، فەرهەنگی ڕووکار
   scripts/check.py          پشکنەر
 chatgpt/instructions.md     ڕێنمایی بۆ Custom GPT
 .claude-plugin/             پلگینی Claude Code
 build.py                    دروستکردنی dist/
 ```
+
+## گەشەکردنی ڕۆژانە
+
+فەرهەنگەکە هەموو ڕۆژێک خۆکارانە گەورە دەبێت. کاتژمێر ٢١:٠٠، Windows Task Scheduler ئەرکی `KurdiPeti-Daily` جێبەجێ دەکات (`kurdi-peti-daily.cmd`):
+
+1. پێشنیارەکانی بەکارهێنەران وەردەگرێت (`suggest_word`).
+2. ١٥٠ وشەی گوماناوی لە پەڕتووکەکانی ڤەژین هەڵدەبژێرێت، و ٦٠ تا ٨٠ وشە لە بوارێکی نوێی هەر ڕۆژێک زیاد دەکات.
+3. هەڵەی ناسینەوە دەپشکنێت، بڵاوی دەکاتەوە، و گۆڕانکارییەکان دەنێرێت بۆ GitHub، بۆ ئەوەی فەرهەنگە کراوەکەش گەورە ببێت.
+
+هەموو وشە نوێیەکان `review: true`یان هەیە تا کوردزمانێک پێیاندا دەچێتەوە. ڕاپۆرتەکان لە `data/growth.log` و `data/daily.log`دان.
+
+```
+python grow.py stats     ژمارەکان
+python grow.py pull      وەرگرتنی پێشنیارەکان
+python grow.py publish   بڵاوکردنەوە
+```
+
+زاراوەکانی ڕووکار (`references/ui_terms.tsv`): ١٬٤٠٠+ زاراوە. زاراوە پێداچوونەوەکراوەکانی ئەم پڕۆژەیە لە پێشترن، و ئەوانی تر لە وەرگێڕانی کوردیی Mozilla Firefox وەرگیراون (مۆڵەتی MPL-2.0).
 
 ## بەشداریکردن
 

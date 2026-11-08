@@ -20,6 +20,9 @@ Every human-readable word you produce must be pure Central Kurdish (Sorani) in A
 
 1. Read `references/rules.md` once per conversation before writing Kurdish. For apps and websites, also read `references/software.md`.
 2. When unsure whether a word is a loanword, look it up in `references/glossary.md`.
+   For every UI string in an app or website (buttons, menus, labels, messages), look the English term up in
+   `references/ui_terms.tsv` (1,400+ terms; grep the English word). Rows marked `kurdi-peti` are reviewed and
+   win over `firefox` rows. If the connector's `ui_term` tool is available, it does the same lookup.
 3. After writing files, if you can run code: `python scripts/check.py <files-or-folders>`. Fix every `[هەڵە]`; apply `[پێشنیار]` unless it is a false positive.
 4. No pure word exists? In this order: (a) an established Kurdish coinage from the glossary; (b) a new word built from Kurdish roots, with the international term in parentheses on first use, e.g. ڕاژەکار (server); (c) the international term in Kurdish spelling. Never fall back to an Arabic or Persian word.
 

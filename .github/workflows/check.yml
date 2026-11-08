@@ -35,9 +35,9 @@ jobs:
               req = urllib.request.Request(url, body, {"content-type": "application/json", "accept": "application/json, text/event-stream"})
               return json.loads(urllib.request.urlopen(req).read())["result"]
           tools = call("tools/list", {})["tools"]
-          assert len(tools) == 5, tools
+          assert len(tools) == 7, tools
           for t in tools:
-              assert t["annotations"].get("title") and t["annotations"].get("readOnlyHint"), t["name"]
+              assert t["annotations"].get("title") and "readOnlyHint" in t["annotations"], t["name"]
           text = call("tools/call", {"name": "check_text", "arguments": {"text": "ئەم فایلە"}})["content"][0]["text"]
           assert "پەڕگە" in text, text
           print("ڕاژەکار باشە:", [t["name"] for t in tools])

@@ -33,13 +33,13 @@ a{color:var(--acc)}
 <p>«کوردیی پەتی» هیچ هەژمار، چوونەژوورەوە یان زانیاریی کەسی داوا ناکات. کاتێک یاریدەدەرێکی زیرەک ئامرازێک بەکاردەهێنێت، تەنها ئەو دەقە یان وشەیەی پێویستە بۆ وەڵامدانەوە دەنێردرێت.</p>
 
 <h2>بەکارهێنان و پاشەکەوتکردن</h2>
-<p>دەقی نێردراو تەنها بۆ دروستکردنی وەڵامی هەمان داواکاری بەکاردێت. ڕاژەکارەکە بێ بنکەدراوە و هیچ دەقێک پاشەکەوت ناکات.</p>
+<p>دەقی نێردراو تەنها بۆ دروستکردنی وەڵامی هەمان داواکاری بەکاردێت و پاشەکەوت ناکرێت. تاکە جیاوازی ئامرازی <code>suggest_word</code>ـە: کاتێک وشەیەک پێشنیار دەکرێت، تەنها وشە بیانییەکە، جێگرەوە کوردییەکە، تێبینییە ئارەزوومەندانەکە و کاتەکەی پاشەکەوت دەکرێن. هیچ ناو، هەژمار یان زانیارییەکی کەسی لەگەڵیدا نییە.</p>
 
 <h2>هاوبەشکردن لەگەڵ لایەنی تر</h2>
 <p>زانیاری نافرۆشرێت و لەگەڵ کەس هاوبەش ناکرێت. ڕاژەکارەکە لەسەر Vercel دانراوە؛ Vercel لەوانەیە تۆماری تەکنیکیی ئاسایی (وەک ناونیشانی IP، کات و ڕێڕەوی داواکاری) بۆ ماوەیەکی کورت بۆ پاراستن و چاککردنی هەڵە بهێڵێتەوە. بڕوانە <a href="https://vercel.com/legal/privacy-policy">ڕامیاریی پاراستنی نهێنیی Vercel</a>.</p>
 
 <h2>ماوەی هێشتنەوە</h2>
-<p>«کوردیی پەتی» خۆی هیچ دەقێک ناهێڵێتەوە. تۆمارە تەکنیکییەکانی Vercel بەپێی ماوەی ئاسایی Vercel دەسڕدرێنەوە.</p>
+<p>«کوردیی پەتی» دەقی ئاسایی ناهێڵێتەوە. پێشنیارەکانی <code>suggest_word</code> بە نهێنی لە Vercel Blob هەڵدەگیرێن تا لە ماوەی ڕۆژێکدا دەپشکنرێن، ئینجا لەوێ دەسڕدرێنەوە. ئەو وشانەی پەسەند دەکرێن دەبنە بەشێک لە فەرهەنگە کراوەکە لە GitHub. تۆمارە تەکنیکییەکانی Vercel بەپێی ماوەی ئاسایی Vercel دەسڕدرێنەوە.</p>
 
 <h2>پەیوەندی</h2>
 <p>بۆ هەر پرسیارێک دەربارەی پاراستنی نهێنی: <a href="mailto:awara.ahmad@gmail.com">awara.ahmad@gmail.com</a></p>
@@ -48,9 +48,9 @@ a{color:var(--acc)}
 <h2>Privacy Policy (English)</h2>
 <p class="mut">Kurdî Petî connector · Last updated: November 8, 2026</p>
 <p><b>Data collection.</b> Kurdî Petî requires no account, login or personal information. When an AI assistant calls a tool, only the text or word needed to answer that request is sent.</p>
-<p><b>Usage and storage.</b> Submitted text is used only to produce the response to that same request. The server has no database and does not store submitted text.</p>
+<p><b>Usage and storage.</b> Submitted text is used only to produce the response to that same request. Submitted text is not stored. The one exception is the <code>suggest_word</code> tool: when a word is suggested, only the loanword, the proposed Kurdish replacement, an optional note and a timestamp are stored. No name, account or other personal information is attached.</p>
 <p><b>Third-party sharing.</b> Data is not sold or shared. The server is hosted on Vercel, which may keep standard technical logs (such as IP address, time and request path) for a short period for security and debugging. See <a href="https://vercel.com/legal/privacy-policy">Vercel's privacy policy</a>.</p>
-<p><b>Retention.</b> Kurdî Petî itself retains no text. Vercel's technical logs are deleted according to Vercel's standard retention periods.</p>
+<p><b>Retention.</b> Kurdî Petî retains no ordinary text. Suggestions from <code>suggest_word</code> are kept privately in Vercel Blob until they are reviewed (normally within a day) and are then deleted there; accepted words become part of the open glossary on GitHub. Vercel's technical logs are deleted according to Vercel's standard retention periods.</p>
 <p><b>Contact.</b> <a href="mailto:awara.ahmad@gmail.com">awara.ahmad@gmail.com</a></p>
 </section>
 <p><a href="/docs.html">ڕێنمایی</a> · <a href="/">سەرەکی</a></p>
