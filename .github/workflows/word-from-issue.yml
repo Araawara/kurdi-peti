@@ -1,14 +1,17 @@
-# کاتێک خاوەنی پڕۆژە نیشانەی «پەسەندکراو» دەخاتە سەر پێشنیارێک، داواکارییەکی pull request دروست دەکات
+# کاتێک خاوەنی پڕۆژە نیشانەی «پەسەندکراو» دەخاتە سەر پێشنیارێک، وشەکە ڕاستەوخۆ دەخرێتە ناو فەرهەنگەکە
 name: word-from-issue
 on:
   issues:
     types: [labeled]
 permissions:
   contents: write
-  pull-requests: write
   issues: write
+concurrency:
+  group: glossary
+  cancel-in-progress: false
 jobs:
   add-word:
+    # تەنها خاوەنی پڕۆژە دەتوانێت نیشانە دابنێت، بۆیە ئەمە پەسەندکردنی ئەوە
     if: github.event.label.name == 'پەسەندکراو' && contains(github.event.issue.labels.*.name, 'وشەی نوێ')
     runs-on: ubuntu-latest
     steps:
@@ -32,18 +35,17 @@ jobs:
         run: |
           gh issue comment ${{ github.event.issue.number }} --body-file result.txt
           exit 1
-      - name: دروستکردنی pull request
+      - name: دروستکردنەوە و پاشەکەوتکردن
         if: steps.add.outputs.code == '0'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          branch="word/issue-${{ github.event.issue.number }}"
+          python tools/validate_glossary.py
+          python build.py
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b "$branch"
-          git add skills/kurdi-peti/references/glossary.json
+          git add skills/kurdi-peti/references/glossary.json skills/kurdi-peti/references/glossary.md mcp/api/kp_check.py mcp/api/kp_data.py
           git commit -m "$(head -n1 result.txt)" -m "Closes #${{ github.event.issue.number }}"
-          git push -f origin "$branch"
-          gh pr create --base main --head "$branch" \
-            --title "$(head -n1 result.txt)" \
-            --body "$(printf 'پێشنیارەکەی #%s\n\nCloses #%s' '${{ github.event.issue.number }}' '${{ github.event.issue.number }}')"
+          git push
+          printf '%s\n\nسوپاس! وشەکە خرایە ناو فەرهەنگەکە. ✅\n' "$(head -n1 result.txt)" > done.txt
+          gh issue close ${{ github.event.issue.number }} --comment "$(cat done.txt)"

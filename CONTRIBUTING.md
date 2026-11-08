@@ -66,7 +66,7 @@
 
 # Contributing (English)
 
-- **No coding needed:** open an issue with the "پێشنیاری وشەی نوێ" (new word) or "ڕاستکردنەوەی وشەیەک" (fix) form. When the maintainer adds the "پەسەندکراو" (approved) label, a pull request adding the word is created automatically.
+- **No coding needed:** open an issue with the "پێشنیاری وشەی نوێ" (new word) or "ڕاستکردنەوەی وشەیەک" (fix) form. When the maintainer adds the "پەسەندکراو" (approved) label, the word is added to the glossary automatically and the issue is closed.
 - **Developers:** edit `skills/kurdi-peti/references/glossary.json` (one entry per line), run `python tools/validate_glossary.py`, and open a pull request. Do not edit generated files (`glossary.md`, `mcp/api/kp_data.py`).
 - Do not copy dictionaries wholesale.
 - By contributing you agree to license your contribution under CC BY 4.0 (glossary and docs) and MIT (code).
