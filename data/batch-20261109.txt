@@ -1,0 +1,84 @@
+ڕەعیەت|ڕەعییەت|گەل,هاوڵاتییان|strict|ar|literature
+حوزوور|حوضور|ئامادەبوون|strict|ar|literature
+ئیستیلا|ئیستیلاء|داگیرکردن|strict|ar|literature
+مەشق||ڕاهێنان|core|ar|literature
+قۆماندا|کۆماندا,کوماندا|فەرمان|core|tr|literature
+خەیات|خەیاط|دەرزیدوز|core|ar|literature
+عەلەم||ئاڵا|core|ar|literature
+مەنبەع|مەنبەغ|سەرچاوە|strict|ar|literature
+موبتەلا|مبتەلا|تووشبوو|strict|ar|literature
+وەحشەت||ترس,دڵەڕاوکێ|strict|ar|literature
+تەدقیقات|تدقیقات|توێژینەوە|strict|ar|literature
+دەرحاڵ|دەرحال|دەستبەجێ,یەکسەر|core|fa|literature
+دەفعە||جار|core|ar|literature
+مودارا||لێبووردن|strict|fa|literature
+تەریقە||ڕێباز,ڕێگا|strict|ar|literature
+عیتاب||سەرزەنشت|strict|ar|literature
+عورفی||نەریتی|strict|ar|literature
+حیفز|حفز|پاراستن,لەبەرکردن|strict|ar|literature
+کائینات||گەردوون|strict|ar|literature
+قەڕن|قەرن|سەدە|core|ar|literature
+جەماعەت||کۆمەڵ,کۆمەڵگا|core|ar|literature
+ئانتیڤایرۆس||دژە ڤایرۆس|core|en|tech
+فایەروۆڵ|فایەرواڵ|ئاگرەدیوار|core|en|tech
+کاش||حەشارگە|core|en|tech
+بووکمارک||دڵخواز|core|en|tech
+تێمپلەیت||داڕێژە|core|en|tech
+پلەگین|پلۆگین|پێوەکراو|core|en|tech
+واڵپەیپەر||پاشبنەما|core|en|tech
+ئەڤاتار||وێنۆچکە|core|en|tech
+دراگ||ڕاکێشان|core|en|tech
+دڕۆپ||دانان|core|en|tech
+مێنشن|مەنشن|ئاماژەدان|core|en|tech
+تایملاین||هێڵی کات|core|en|tech
+لاتێنسی||دواکەوتن|core|en|tech
+کرەش||ڕووخان|core|en|tech
+فریز||وەستان|core|en|tech
+شەتداون||داخستن|core|en|tech
+ئەپگرەید||بەرزکردنەوە|core|en|tech
+داونگرەید||دواخستنەوە|core|en|tech
+ئینکریپشن||نهێنیکردن|core|en|tech
+دیکریپشن||کردنەوەی نهێنی|core|en|tech
+ئۆتێنتیکەیشن|ئۆسینتیکەیشن|پشتڕاستکردنەوە|core|en|tech
+سێشن||دانیشتن|core|en|tech
+ئەتاچمێنت||پاشکۆ|core|en|tech
+مالوێر||بەرنامەی زیانبەخش|core|en|tech
+دیڤایس||دەستگا|core|en|tech
+ئۆفلاین||دەرهێڵ|core|en|tech
+ستیکەر||چەسپاوە|core|en|tech
+بارکۆد||هێڵکۆد|core|en|tech
+کلاود||هەور|core|en|tech
+ئینپوت||تێخراو|core|en|tech
+ئاوتپوت||دەرهێنراو|core|en|tech
+ڤاریەبڵ||گۆڕاو|core|en|tech
+ئەڕەی||ڕیزبەند|core|en|tech
+لووپ||خولانەوە|core|en|tech
+کلاس||پۆل|core|en|tech
+ڤایبرەیشن||لەرزین|core|en|tech
+فلاش||بروسکە|core|en|tech
+کرۆپ||بڕین|core|en|tech
+ڕیزایز||گۆڕینی قەبارە|core|en|tech
+ڕۆتەیت||سووڕاندن|core|en|tech
+ئۆتۆسەیڤ||خۆپاشەکەوتکردن|core|en|tech
+ئۆتۆکۆڕێکت||خۆچاککردنەوە|core|en|tech
+فوڵسکرین||پڕاوپڕ|core|en|tech
+دارک مۆد||دۆخی تاریک|core|en|tech
+لایت مۆد||دۆخی ڕووناک|core|en|tech
+جیستچەر||جۆڵە|core|en|tech
+تاچ||دەستلێدان|core|en|tech
+دیسکتۆپ||ڕوومێزی|core|en|tech
+ئەلارم||زەنگ|core|en|tech
+ڤۆڵیوم||بڵندی دەنگ|core|en|tech
+برایتنس||ڕووناکی|core|en|tech
+تایپ||نووسین|core|en|tech
+سلیکت||هەڵبژاردن|core|en|tech
+دیسلیکت||لابردنی هەڵبژاردن|core|en|tech
+پۆپ ئەپ||دەرپەڕین|core|en|tech
+میوت||بێدەنگکردن|core|en|tech
+ئەتاچ||پاشکۆکردن|core|en|tech
+ناتیفای||ئاگادارکردنەوە|core|en|tech
+ڤێریفای||دڵنیاکردنەوە|core|en|tech
+ڕیسایکڵ بین|تراش,تراش بین|خڵتەدان|core|en|tech
+لۆگ||تۆمار|core|en|tech
+ڕیسپۆنس||وەڵام|core|en|tech
+ڕیکوێست||داواکاری|core|en|tech
