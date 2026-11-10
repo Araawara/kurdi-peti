@@ -202,15 +202,26 @@ def git(*args, check=True):
                           encoding="utf-8", errors="replace")
 
 
+# Built by build.py; the GitHub `build` workflow regenerates and commits them after every push,
+# so local copies are never committed (that caused rebase conflicts).
+GENERATED = ["skills/kurdi-peti/references/glossary.md", "mcp/api/kp_check.py", "mcp/api/kp_data.py"]
+
+
+def pull_latest():
+    git("checkout", "--", *GENERATED)
+    git("pull", "--rebase", "--autostash")
+    subprocess.run([sys.executable, str(ROOT / "build.py")], check=True, capture_output=True)
+
+
 def cmd_sync():
     """Pick up words approved on GitHub (issues, pull requests) before today's work."""
-    git("pull", "--rebase", "--autostash")
+    pull_latest()
     log(f"sync: {git('log', '-1', '--format=%h %s').stdout.strip()}")
 
 
 def cmd_commit():
     """Commit today's glossary changes and push them to GitHub, so the open dictionary grows too."""
-    git("add", "skills/kurdi-peti/references", "mcp/api/kp_check.py", "mcp/api/kp_data.py",
+    git("add", "skills/kurdi-peti/references/glossary.json", "skills/kurdi-peti/references/ui_terms.tsv",
         "data/rejected.txt", *[str(p.relative_to(ROOT)) for p in DATA.glob("batch-*.txt")],
         *[str(p.relative_to(ROOT)) for p in DATA.glob("reject-*.txt")])
     if git("diff", "--cached", "--quiet", check=False).returncode == 0:
@@ -219,7 +230,7 @@ def cmd_commit():
     total = len(load()["entries"])
     git("commit", "-m", f"گەشەی ڕۆژانە: {time.strftime('%Y-%m-%d')} · {total} وشە",
         "-m", "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>")
-    git("pull", "--rebase", "--autostash")
+    pull_latest()
     git("push")
     log(f"commit: بۆ GitHub نێردرا ({total} وشە)")
 
