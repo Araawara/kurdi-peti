@@ -11,3 +11,5 @@ data/loan_candidates.tsv
 data/pure_words.tsv
 mcp/.vercel/
 mcp/.env*
+data/wiki/
+data/_*

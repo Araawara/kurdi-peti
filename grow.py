@@ -2,7 +2,7 @@
 """گەشەپێدانی فەرهەنگ: کۆکردنەوەی پێشنیارەکان، وشەی نوێ، پشکنین و بڵاوکردنەوە.
 
   python grow.py pull            پێشنیارەکانی بەکارهێنەران لە Vercel Blob دەهێنێت بۆ data/suggestions.jsonl
-  python grow.py todo [N]        N وشەی گوماناوی نوێ لە کتێبەکان دەنووسێت بۆ data/todo.txt (بنەڕەت: 150)
+  python grow.py todo [N] [wiki] N وشەی گوماناوی نوێ لە کتێبەکان (یان ویکیپیدیا) بۆ data/todo.txt
   python grow.py merge FILE      زیادکردنی کۆمەڵەیەک (loan|variants|pure|level|origin|source) بە review: true
   python grow.py reject FILE     وشەکانی FILE (یەک لە هەر ڕیزێک) بۆ data/rejected.txt، تا دووبارە پێشنیار نەکرێنەوە
   python grow.py fp FILE         پشکنینی هەڵەی ناسینەوە: وشەکانی FILE لە کتێبەکاندا چی دەگرن
@@ -103,14 +103,15 @@ def cmd_pull():
 
 # ---- todo: next corpus candidates ----
 
-def cmd_todo(n=150):
+def cmd_todo(n=150, source="corpus"):
     entries = load()["entries"]
     skip = known_forms(entries) | {p for e in entries for p in e["pure"]}
     rejected = DATA / "rejected.txt"
     if rejected.exists():
         skip |= {w.strip() for w in rejected.read_text(encoding="utf-8").splitlines() if w.strip()}
     out = []
-    for line in (DATA / "loan_candidates.tsv").read_text(encoding="utf-8").splitlines()[1:]:
+    path = DATA / "wiki" / "wiki_candidates.tsv" if source == "wiki" else DATA / "loan_candidates.tsv"
+    for line in path.read_text(encoding="utf-8").splitlines()[1:]:
         stem, freq, reason, example = line.split("\t")
         if stem in skip or example in skip or any(rx.fullmatch(example) for rx, _ in COMPILED_CACHE(entries)):
             continue
@@ -249,7 +250,7 @@ if __name__ == "__main__":
     if cmd == "pull":
         cmd_pull()
     elif cmd == "todo":
-        cmd_todo(int(args[1]) if len(args) > 1 else 150)
+        cmd_todo(int(args[1]) if len(args) > 1 else 150, args[2] if len(args) > 2 else "corpus")
     elif cmd in ("merge", "reject", "fp"):
         {"merge": cmd_merge, "reject": cmd_reject, "fp": cmd_fp}[cmd](args[1])
     elif cmd == "publish":

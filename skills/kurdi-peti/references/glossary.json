@@ -1290,6 +1290,12 @@
     {"loan": "تەواری", "variants": ["تەوارئ"], "origin": "ar", "pure": ["پەلە"], "level": "core", "source": "common", "review": true},
     {"loan": "سەرەتان", "variants": [], "origin": "ar", "pure": ["شیرپەنجە"], "level": "core", "source": "common", "review": true},
     {"loan": "ئەشیعە", "variants": [], "origin": "ar", "pure": ["تیشک"], "level": "core", "source": "common", "review": true},
-    {"loan": "زووکام", "variants": ["زکام"], "origin": "fa", "pure": ["سەرماهەڵگرتن"], "level": "core", "source": "common", "review": true}
+    {"loan": "زووکام", "variants": ["زکام"], "origin": "fa", "pure": ["سەرماهەڵگرتن"], "level": "core", "source": "common", "review": true},
+    {"loan": "قەیران", "variants": [], "origin": "ar", "pure": ["تەنگژە"], "level": "core", "source": "wiki", "review": true},
+    {"loan": "ستەیشن", "variants": ["ستەشن"], "origin": "en", "pure": ["وێستگە"], "level": "core", "source": "wiki", "review": true},
+    {"loan": "میکانیزم", "variants": ["میکانیزیم"], "origin": "en", "pure": ["سازوکار"], "level": "core", "source": "wiki", "review": true},
+    {"loan": "ماتماتیک", "variants": ["ماتیماتیک"], "origin": "en", "pure": ["بیرکاری"], "level": "core", "source": "wiki", "review": true},
+    {"loan": "حوکمڕانی", "variants": ["حکومڕانی"], "origin": "ar", "pure": ["فەرمانڕەوایی"], "level": "core", "source": "wiki", "review": true},
+    {"loan": "حکومی", "variants": ["حکوومی"], "origin": "ar", "pure": ["میری"], "level": "core", "source": "wiki", "review": true}
   ]
 }
