@@ -12,6 +12,11 @@ Do not create helper scripts.
    - REJECT personal or place names, Quranic or classical Arabic phrases, religious terms with no real
      replacement, words that are actually Kurdish, words so assimilated they have no replacement (قسە، خەیاڵ)،
      inflected verb forms, and anything you are unsure about.
+   Accept assimilated loans too when a clear pure word exists (e.g. موعجیزە ← پەرجوو، قەوارە ← قەبارە is NOT pure).
+3b. Most Wikipedia candidates are names, so also add 40 to 60 entries from your own knowledge: Arabic/English
+   scientific and technical terms common in Kurdish Wikipedia (pick one field per run at random: physics, chemistry,
+   biology, medicine, mathematics, computing, geography, economics, law, philosophy, linguistics, history),
+   each with an established pure Kurdish replacement. Check glossary.json first to avoid duplicates.
 4. Write accepted entries to data/batch-wiki-HHMM.txt (HHMM = current time), one per line:
    `loan|variant1,variant2|pure1,pure2|core|ar|wiki`  (level core or strict; origin ar/fa/tr/en).
    Write EVERY rejected candidate exactly as it appears in todo.txt, one per line, to data/reject-wiki-HHMM.txt.

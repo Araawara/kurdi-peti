@@ -18,7 +18,10 @@ check = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(check)
 
 WORD = re.compile(f"[{check.LETTERS}]+")
-NORM = str.maketrans({"ك": "ک", "ي": "ی", "ى": "ی", "ة": "ە", "ـ": None, "‌": None})
+NORM = str.maketrans({"ك": "ک", "ي": "ی", "ى": "ی", "ة": "ە", "ھ": "ه", "ـ": None, "‌": None})
+ARABIC_TEXT = re.compile(r"[ً-ٰٟۖ-ۭٱ]|^ال|^وال|^بال")
+VERB_END = re.compile(r"(دەکات|دەدات|دەبێت|بکات|بدات|ەکات|ەدات|ویەتی|وویەتی)$")
+PRIORITY = {"english-pattern": 0, "arabic-pattern": 1, "arabic-letter": 2, "ع/ح/ق": 3}
 SUFFIXES = sorted(set(check.SUFFIXES) - {"ش", "م", "ت", "ێ"}, key=len, reverse=True)
 ARABIC_ONLY = set("صضطظثذءأإؤ")
 ARABIC_HINT = set("عحق")
@@ -99,6 +102,8 @@ def main(dump):
         if c < 15:
             break
         top = forms[s].most_common(1)[0][0]
+        if ARABIC_TEXT.search(top) or VERB_END.search(top):
+            continue
         r = reason(s)
         if not r or s in known or top in known or s in rejected or top in rejected:
             continue
