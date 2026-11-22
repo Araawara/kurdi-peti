@@ -1,0 +1,27 @@
+جازیبییەت|جازیبیەت|ڕاکێشان|core|ar|knowledge
+تەوازن|توازن,تەوازون|هاوسەنگی|core|ar|knowledge
+تەعادل|تعادل,تەعادول|هاوسەنگی|core|ar|knowledge
+تەحەول|تحول,تەحەوول|گۆڕان|core|ar|knowledge
+تەبخیر|تبخیر,تبخر|هەڵمبوون|core|ar|knowledge
+تەمەدود|تمدد,تەمەدوود|فراوانبوون|core|ar|knowledge
+تەبادل|تبادل,تەبادول|گۆڕینەوە|core|ar|knowledge
+ئینحیراف|انحراف|لادان|core|ar|knowledge
+ئیهتیزاز|اهتزاز|لەرزین|core|ar|knowledge
+تەولید|تولید|بەرهەمهێنان|core|ar|knowledge
+دماغ|دیماغ|مێشک|core|ar|knowledge
+ڕیە|رئة|سییە|core|ar|knowledge
+عەزەلە|عەزەلەت|ماسولکە|strict|ar|knowledge
+مەفسل|مەفسەل|جومگە|core|ar|knowledge
+تەکاسوور|تەکاسور|زاوزێ|core|ar|knowledge
+هەزم|هەزمکردن|هەرس|strict|ar|knowledge
+مەناعەت|مناعة|بەرگری|core|ar|knowledge
+تەتعیم|تەتعیمات|دەرمانلێدان|core|ar|knowledge
+جایحە|جایحه|دەردی جیهانگیر|strict|ar|knowledge
+تەحال|تەحاڵ|سپرز|strict|ar|knowledge
+تەخەمور|تخمر|ترشبوون|strict|ar|knowledge
+تەقریب|تقریب|نزیکردنەوە|strict|ar|knowledge
+ڕوکود|رکود|کزی|strict|ar|knowledge
+شوعور|شعور|هەستکردن|strict|ar|knowledge
+ئیتفاقیە|اتفاقیە,ئیتفاقیەت|ڕێکەوتننامە|strict|ar|knowledge
+مەلەف|ملف|پەڕگە|core|ar|knowledge
+قارە|قاره|کیشوەر|core|ar|knowledge
