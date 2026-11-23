@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Kurdî Petî helps ChatGPT write Central Kurdish (Sorani) with correct Unicode orthography and without Arabic, Persian, Turkish or English loanwords. It provides a glossary of pure Kurdish words, a text checker, UI vocabulary for apps and websites, and writing guides. «کوردیی پەتی» یارمەتی ChatGPT دەدات کوردیی سۆرانی بە ڕێنووسی دروست و بێ وشەی بیانی بنووسێت.",
   "author": {
-    "name": "Awara Q. Muhammad",
+    "name": "M.Amin Awara",
     "email": "awara.ahmad@gmail.com",
     "url": "https://kurdi-peti.vercel.app/docs.html"
   },
@@ -17,7 +17,7 @@
         "displayName": "کوردیی پەتی · Pure Kurdish",
         "shortDescription": "Write pure Sorani Kurdish",
         "longDescription": "«کوردیی پەتی» یارمەتی ChatGPT دەدات کوردیی سۆرانی بە ڕێنووسی دروست و بێ وشەی عەرەبی، فارسی، تورکی و ئینگلیزی بنووسێت: پشکنینی دەق، گەڕان لە فەرهەنگی وشەی پەتی، زاراوەکانی ڕووکاری بەرنامە و ماڵپەڕ، و ڕێنماییی نووسین.\n\nKurdî Petî helps ChatGPT write Central Kurdish (Sorani) correctly and without loanwords.\n\n• Text checker: finds wrong characters (Arabic kaf, yeh and teh marbuta instead of the Kurdish letters), word-initial r, punctuation issues and loanwords, with pure Kurdish suggestions.\n• Glossary: over 1,000 loanwords with their pure Kurdish replacements.\n• UI terms: 1,400+ app and website interface terms (Save, Settings, Sign in) in pure Sorani.\n• Writing guide: orthography, grammar and vocabulary rules.\n• Word suggestions: users can suggest new words, which are reviewed before being added.\n\nNo account or login is needed. The glossary is open source (CC BY 4.0) on GitHub.",
-        "developerName": "Awara Q. Muhammad",
+        "developerName": "M.Amin Awara",
         "category": "Productivity",
         "capabilities": [
           "Check Kurdish text for loanwords and spelling errors",
