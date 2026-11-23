@@ -29,7 +29,7 @@ def build_glossary_md():
         "",
         "ئەم پەڕگەیە خۆکارانە لە glossary.json دروست دەکرێت. دەستکاری glossary.json بکە، نەک ئەمە.",
         "",
-        "| ❌ وشەی بیانی | ✅ کوردیی پەتی | ڕەگ | ئاست | English | Deutsch |",
+        "| ❌ وشەی بیانی | ✅ کوردیی پەتی | English | Deutsch | ڕەگ | ئاست |",
         "|---|---|---|---|---|---|",
     ]
     for e in sorted(entries, key=lambda e: (e["origin"], e["loan"])):
@@ -37,7 +37,7 @@ def build_glossary_md():
         level = "هەمیشە" if e["level"] == "core" else "توند"
         if e.get("review"):
             level += " (پێداچوونەوە)"
-        lines.append(f"| {loans} | {'، '.join(e['pure'])} | {ORIGINS[e['origin']]} | {level} | {', '.join(e.get('en', []))} | {', '.join(e.get('de', []))} |")
+        lines.append(f"| {loans} | {'، '.join(e['pure'])} | {', '.join(e.get('en', []))} | {', '.join(e.get('de', []))} | {ORIGINS[e['origin']]} | {level} |")
     (REFS / "glossary.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     return len(entries)
 

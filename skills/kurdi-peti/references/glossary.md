@@ -2,2269 +2,2269 @@
 
 ئەم پەڕگەیە خۆکارانە لە glossary.json دروست دەکرێت. دەستکاری glossary.json بکە، نەک ئەمە.
 
-| ❌ وشەی بیانی | ✅ کوردیی پەتی | ڕەگ | ئاست | English | Deutsch |
+| ❌ وشەی بیانی | ✅ کوردیی پەتی | English | Deutsch | ڕەگ | ئاست |
 |---|---|---|---|---|---|
-| ئابڵووقە | گەمارۆ | عەرەبی | هەمیشە (پێداچوونەوە) | siege, blockade | Belagerung, Blockade |
-| ئاخیر | دوایین | عەرەبی | هەمیشە (پێداچوونەوە) | last, final | letzte |
-| ئازمە، أزمە، ازمە | تەنگانە | عەرەبی | هەمیشە (پێداچوونەوە) | crisis, hardship | Krise, Notlage |
-| ئافەت | بەڵا، کارەسات | عەرەبی | توند (پێداچوونەوە) | disaster, calamity, plague | Katastrophe, Unglück, Plage |
-| ئالەت | ئامێر | عەرەبی | هەمیشە (پێداچوونەوە) | tool, instrument, device | Werkzeug, Instrument, Gerät |
-| ئوسبووع، ئوسبوع | هەفتە | عەرەبی | هەمیشە (پێداچوونەوە) | week | Woche |
-| ئوستاز | مامۆستا | عەرەبی | هەمیشە (پێداچوونەوە) | teacher, professor | Lehrer, Professor |
-| ئوسلوب، ئوسلووب، اسلوب | شێواز | عەرەبی | هەمیشە (پێداچوونەوە) | style, method | Stil, Methode |
-| ئوسوول | بنەما | عەرەبی | هەمیشە (پێداچوونەوە) | principles, fundamentals, basis | Grundsätze, Prinzipien, Grundlagen |
-| ئوفوقی | ئاسۆیی | عەرەبی | هەمیشە (پێداچوونەوە) | horizontal | waagerecht, horizontal |
-| ئۆقیانووس، ئۆقیانوس | زەریا | عەرەبی | هەمیشە (پێداچوونەوە) | ocean, sea | Ozean, Meer |
-| ئیبتیدائی، ئیبتیدایی | سەرەتایی | عەرەبی | هەمیشە (پێداچوونەوە) | primary, elementary | Grundschule, elementar |
-| ئیبتیکار | داهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | innovation, invention | Innovation, Erfindung |
-| ئیبداع | داهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | creativity, innovation, creation | Kreativität, Schöpfung, Innovation |
-| ئیبدال، ابدال | گۆڕینەوە | عەرەبی | هەمیشە (پێداچوونەوە) | substitution, replacement, exchange | Ersetzung, Austausch |
-| ئیبرام، ابرام | بەستن | عەرەبی | هەمیشە (پێداچوونەوە) | conclusion of a contract, conclude | Abschluss, abschließen |
-| ئیبلاغ، ابلاغ | ئاگادارکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | notification, notify | Benachrichtigung, benachrichtigen |
-| ئیتاعەت، تاعەت | گوێڕایەڵی | عەرەبی | هەمیشە (پێداچوونەوە) | obedience | Gehorsam |
-| ئیتحاد | یەکیەتی | عەرەبی | هەمیشە (پێداچوونەوە) | union, unity | Union, Einheit, Verband |
-| ئیتفاقیە، اتفاقیە، ئیتفاقیەت | ڕێکەوتننامە | عەرەبی | توند (پێداچوونەوە) | agreement, treaty, accord | Abkommen, Vertrag, Vereinbarung |
-| ئیتیجاه، اتجاه | ئاراستە | عەرەبی | هەمیشە (پێداچوونەوە) | direction, trend | Richtung, Tendenz |
-| ئیتیحاد، ئیتتیحاد | یەکگرتن | عەرەبی | هەمیشە (پێداچوونەوە) | union, unity | Vereinigung, Einheit, Union |
-| ئیتیسال | پەیوەندی | عەرەبی | هەمیشە | contact, communication, connection | Kontakt, Verbindung, Kommunikation |
-| ئیتیفاق، ئیتتیفاق | ڕێککەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | agreement | Vereinbarung, Abkommen, Einigung |
-| ئیتیفاقیە، اتفاقیه، ئیتیفاقیه | ڕێکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | agreement, treaty | Abkommen, Vereinbarung, Vertrag |
-| ئیتیلاف، ائتلاف | هاوپەیمانی | عەرەبی | هەمیشە (پێداچوونەوە) | coalition, alliance | Koalition, Bündnis |
-| ئیتیهام، اتهام | تۆمەتبارکردن | عەرەبی | هەمیشە (پێداچوونەوە) | accusation, charge, accuse | Anklage, Beschuldigung, beschuldigen |
-| ئیجاب | ئەرێنی | عەرەبی | هەمیشە (پێداچوونەوە) | affirmation, affirmative, positive | Bejahung, positiv |
-| ئیجارە، اجارة | کرێ | عەرەبی | هەمیشە (پێداچوونەوە) | rent, lease | Miete, Pacht |
-| ئیجازە | مۆڵەت | عەرەبی | هەمیشە | permission, license, leave | Erlaubnis, Genehmigung, Lizenz |
-| ئیجتیماع | کۆبوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | meeting, gathering, social | Versammlung, Sitzung, Treffen |
-| ئیجتیماعی | کۆمەڵایەتی | عەرەبی | هەمیشە | social | sozial, gesellschaftlich |
-| ئیجتیهاد | هەوڵ | عەرەبی | هەمیشە (پێداچوونەوە) | effort, endeavor, independent reasoning | Bemühung, Anstrengung, Fleiß |
-| ئیجرا | جێبەجێکردن | عەرەبی | هەمیشە (پێداچوونەوە) | implementation, execution, carry out | Durchführung, Umsetzung, ausführen |
-| ئیجراء، اجراء، ئیجراا | ڕێوشوێن | عەرەبی | هەمیشە (پێداچوونەوە) | procedure, measure | Verfahren, Maßnahme |
-| ئیجرائات | ڕێوشوێن | عەرەبی | هەمیشە (پێداچوونەوە) | procedures, measures | Maßnahmen, Verfahren |
-| ئیجماع | کۆدەنگی | عەرەبی | هەمیشە (پێداچوونەوە) | consensus, unanimity | Konsens, Einstimmigkeit |
-| ئیحالە، احالة | گوازنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | transfer, referral | Überweisung, Übertragung, Weiterleitung |
-| ئیحترام | ڕێز | عەرەبی | هەمیشە | respect | Respekt, Achtung |
-| ئیحتیاج | پێویستی | عەرەبی | هەمیشە | need, necessity | Bedarf, Bedürfnis, Notwendigkeit |
-| ئیحتیاط، احتیاط | وریایی | عەرەبی | هەمیشە (پێداچوونەوە) | caution, precaution | Vorsicht, Vorsorge |
-| ئیحتیال | فێڵ | عەرەبی | هەمیشە (پێداچوونەوە) | fraud, deception, trick | Betrug, Täuschung |
-| ئیحتیجاج | ناڕەزایی | عەرەبی | هەمیشە (پێداچوونەوە) | protest, objection | Protest, Einspruch |
-| ئیحتیراق، احتراق | سووتان | عەرەبی | توند (پێداچوونەوە) | combustion, burning | Verbrennung |
-| ئیحتیرام | ڕێز | عەرەبی | هەمیشە (پێداچوونەوە) | respect | Respekt, Achtung |
-| ئیحتیلال | داگیرکاری | عەرەبی | هەمیشە (پێداچوونەوە) | occupation | Besatzung, Besetzung |
-| ئیحتیمال | لەوانەیە، ئەگەر | عەرەبی | هەمیشە | probability, possibility, maybe, perhaps | Wahrscheinlichkeit, Möglichkeit, vielleicht |
-| ئیحتیکار | یەکدەستی | عەرەبی | هەمیشە (پێداچوونەوە) | monopoly | Monopol |
-| ئیحسا، احصاء، احصائیە | ئامار | عەرەبی | هەمیشە (پێداچوونەوە) | statistics | Statistik |
-| ئیحساس | هەست | عەرەبی | هەمیشە (پێداچوونەوە) | feeling, sensation, sense | Gefühl, Empfindung |
-| ئیحسان | چاکە | عەرەبی | هەمیشە (پێداچوونەوە) | kindness, good deed, charity | Güte, Wohltat |
-| ئیحصائیات، ئیحسائیات | ئامار | عەرەبی | هەمیشە (پێداچوونەوە) | statistics | Statistik |
-| ئیحیا | زیندووکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | revival, revive | Wiederbelebung, wiederbeleben |
-| ئیختراع | داهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | invention | Erfindung |
-| ئیختیار | هەڵبژاردن | عەرەبی | هەمیشە | choice, selection, choose | Wahl, Auswahl, wählen |
-| ئیختیراع | داهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | invention, invent | Erfindung, erfinden |
-| ئیختیلاف، اختلاف | جیاوازی | عەرەبی | توند (پێداچوونەوە) | difference, disagreement | Unterschied, Meinungsverschiedenheit |
-| ئیخراج | دەرهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | directing, production, extraction | Regie, Inszenierung |
-| ئیخلاس | دڵسۆزی | عەرەبی | هەمیشە (پێداچوونەوە) | sincerity, loyalty, devotion | Aufrichtigkeit, Treue, Hingabe |
-| ئیدارە | بەڕێوەبردن، بەڕێوەبەرایەتی | عەرەبی | هەمیشە | management, administration, directorate | Verwaltung, Leitung, Management |
-| ئیدانە | تاوانبارکردن | عەرەبی | توند (پێداچوونەوە) | condemnation, conviction, accusation | Verurteilung, Anklage, Beschuldigung |
-| ئیدراک | تێگەیشتن | عەرەبی | هەمیشە (پێداچوونەوە) | perception, understanding, awareness | Wahrnehmung, Verständnis, Erkenntnis |
-| ئیدعا، ادعاء، ئیدعاء | داواکاری | عەرەبی | هەمیشە (پێداچوونەوە) | claim, lawsuit | Anspruch, Klage, Behauptung |
-| ئیدیعا، ئیددیعا | بانگەشە | عەرەبی | هەمیشە (پێداچوونەوە) | claim, assertion | Behauptung, Anspruch |
-| ئیرادات، ایرادات | داهات | عەرەبی | هەمیشە (پێداچوونەوە) | revenue, income | Einnahmen, Einkommen |
-| ئیرادە، ارادة، ئیراده | خواست | عەرەبی | هەمیشە (پێداچوونەوە) | will, desire | Wille, Wunsch |
-| ئیرتیفاع، ارتفاع | بڵندی | عەرەبی | هەمیشە (پێداچوونەوە) | height, altitude | Höhe |
-| ئیرشاد | ڕێنمایی | عەرەبی | هەمیشە (پێداچوونەوە) | guidance, instruction | Anleitung, Beratung, Orientierung |
-| ئیزاحات، ئیزاح | ڕوونکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | explanation, clarification | Erklärung, Erläuterung |
-| ئیزاعە | ئێزگە | عەرەبی | هەمیشە (پێداچوونەوە) | radio, radio station, broadcast | Rundfunk, Radio, Sender |
-| ئیزافە | زیادکردن | عەرەبی | هەمیشە | add, addition | hinzufügen, Ergänzung |
-| ئیزن، اذن | مۆڵەت | عەرەبی | هەمیشە (پێداچوونەوە) | permission, leave, permit | Erlaubnis, Genehmigung, Urlaub |
-| ئیسابە | تووشبوون | عەرەبی | هەمیشە (پێداچوونەوە) | infection, injury, affliction | Infektion, Verletzung, Erkrankung |
-| ئیسبات | سەلماندن | عەرەبی | هەمیشە (پێداچوونەوە) | proof, prove | Beweis, beweisen |
-| ئیستاذ | مامۆستا | عەرەبی | توند (پێداچوونەوە) | teacher, professor | Lehrer, Professor |
-| ئیستبداد، استبداد | زۆرداری | عەرەبی | توند (پێداچوونەوە) | tyranny, despotism, oppression | Tyrannei, Despotismus, Unterdrückung |
-| ئیستبیان، ئیستبانە | ڕاپرسی | عەرەبی | هەمیشە (پێداچوونەوە) | questionnaire, survey | Fragebogen, Umfrage |
-| ئیستخدام | بەکارهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | use, usage | Benutzung, Verwendung, benutzen |
-| ئیستخلاص | کوورتکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | summary, summarize, extraction | Zusammenfassung, zusammenfassen |
-| ئیستدلال | بەڵگەهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | reasoning, argumentation | Argumentation, Schlussfolgerung, Beweisführung |
-| ئیستراحەت | پشوو، ئارامگیری | عەرەبی | توند (پێداچوونەوە) | rest, break, relaxation | Ruhe, Pause, Erholung |
-| ئیستقلال | سەربەخۆیی | عەرەبی | هەمیشە (پێداچوونەوە) | independence | Unabhängigkeit |
-| ئیستیئناف، استئناف | پێداچوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | appeal, review | Berufung, Revision |
-| ئیستیثمار، استثمار، ئیستسمار | وەبەرهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | investment | Investition, Anlage |
-| ئیستیجابە، استجابة | وەلامدانەوە | عەرەبی | هەمیشە (پێداچوونەوە) | response, reply, respond | Reaktion, Antwort, antworten |
-| ئیستیجواب، ئیستجواب | لێپرسینەوە | عەرەبی | توند (پێداچوونەوە) | interrogation, questioning | Verhör, Vernehmung, Befragung |
-| ئیستیدعا | داواکاری | عەرەبی | هەمیشە (پێداچوونەوە) | request, application, petition | Antrag, Gesuch, Anfrage |
-| ئیستیذکار | پێداچوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | revision, review, studying | Wiederholung, Durchsicht, Lernen |
-| ئیستیراحەت | پشوو | عەرەبی | هەمیشە | rest, break | Ruhe, Pause, Erholung |
-| ئیستیراد | هاوردن | عەرەبی | هەمیشە (پێداچوونەوە) | import | Import, importieren |
-| ئیستیسمار | وەبەرهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | investment, exploitation | Investition, Ausbeutung |
-| ئیستیشارە | ڕاوێژ | عەرەبی | هەمیشە (پێداچوونەوە) | consultation, advice | Beratung, Rat |
-| ئیستیعاب | تێگەیشتن | عەرەبی | هەمیشە (پێداچوونەوە) | comprehension, understanding | Verständnis, Erfassung |
-| ئیستیعارە، ئیستعارە | خوازە | عەرەبی | هەمیشە (پێداچوونەوە) | metaphor | Metapher |
-| ئیستیعداد | ئامادەیی | عەرەبی | هەمیشە (پێداچوونەوە) | readiness, preparedness, aptitude | Bereitschaft, Begabung |
-| ئیستیعراض | پێشکەشکردن | عەرەبی | هەمیشە (پێداچوونەوە) | presentation, review, display | Präsentation, Vorführung, Überblick |
-| ئیستیعفا | لەکارکشانەوە | عەرەبی | هەمیشە (پێداچوونەوە) | resignation | Rücktritt, Kündigung |
-| ئیستیعمار، ئیستعمار | داگیرکاری | عەرەبی | هەمیشە (پێداچوونەوە) | colonialism, colonization | Kolonialismus, Besatzung |
-| ئیستیعمال | بەکارهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | use, usage | Gebrauch, Verwendung, benutzen |
-| ئیستیفادە، ئستفادە | بەکارهێنان، سوود وەرگرتن | عەرەبی | هەمیشە | use, utilize, benefit | benutzen, verwenden, Nutzung |
-| ئیستیفتاء، ئیستیفتا | ڕاپرسی | عەرەبی | هەمیشە (پێداچوونەوە) | referendum, poll | Referendum, Volksabstimmung, Umfrage |
-| ئیستیفهام، استفهام | پرسیارکردن | عەرەبی | هەمیشە (پێداچوونەوە) | question, interrogation, inquiry | Frage, Fragestellung |
-| ئیستیقرار | سەقامگیری | عەرەبی | هەمیشە (پێداچوونەوە) | stability | Stabilität |
-| ئیستیقلال | سەربەخۆیی | عەرەبی | هەمیشە (پێداچوونەوە) | independence | Unabhängigkeit |
-| ئیستیلا، ئیستیلاء | داگیرکردن | عەرەبی | توند (پێداچوونەوە) | seizure, conquest, occupation | Eroberung, Besetzung, Inbesitznahme |
-| ئیستیلام، استلام | وەرگرتن | عەرەبی | هەمیشە (پێداچوونەوە) | receipt, receive | Empfang, empfangen, erhalten |
-| ئیستیمرار | بەردەوامی | عەرەبی | هەمیشە (پێداچوونەوە) | continuity, continuation | Kontinuität, Fortsetzung, Beständigkeit |
-| ئیستینتاج | دەرئەنجام | عەرەبی | هەمیشە (پێداچوونەوە) | conclusion, inference, result | Schlussfolgerung, Folgerung, Ergebnis |
-| ئیستیهزا | گاڵتەپێکردن | عەرەبی | هەمیشە (پێداچوونەوە) | mockery, ridicule | Spott, Verspottung, verspotten |
-| ئیستیهلاک | بەکاربردن | عەرەبی | هەمیشە (پێداچوونەوە) | consumption | Verbrauch, Konsum |
-| ئیستیکشاف | دۆزینەوە | عەرەبی | هەمیشە (پێداچوونەوە) | discovery, exploration | Entdeckung, Erkundung |
-| ئیسراف | بەفیڕۆدان | عەرەبی | هەمیشە (پێداچوونەوە) | waste, extravagance | Verschwendung |
-| ئیسعاف | فریاگوزاری | عەرەبی | هەمیشە (پێداچوونەوە) | ambulance, first aid, emergency service | Krankenwagen, Erste Hilfe, Rettungsdienst |
-| ئیسلاح | چاکسازی | عەرەبی | هەمیشە (پێداچوونەوە) | reform, correction | Reform, Verbesserung |
-| ئیسم | ناو | عەرەبی | هەمیشە | name | Name |
-| ئیسهال | سکچوون | عەرەبی | هەمیشە (پێداچوونەوە) | diarrhea | Durchfall |
-| ئیشارە | ئاماژە | عەرەبی | هەمیشە | sign, signal, reference, indication | Zeichen, Hinweis, Verweis |
-| ئیشارەت، ئیشاره | ئاماژە | عەرەبی | هەمیشە (پێداچوونەوە) | sign, signal, reference, gesture | Zeichen, Hinweis, Geste |
-| ئیشتیاق | تامەزرۆیی | عەرەبی | هەمیشە (پێداچوونەوە) | longing, yearning, eagerness | Sehnsucht, Verlangen |
-| ئیشتیباه | هەڵە | عەرەبی | هەمیشە (پێداچوونەوە) | mistake, error | Fehler, Irrtum |
-| ئیشتیراک | بەشداریکردن | عەرەبی | هەمیشە | participation, subscription, participate | Teilnahme, Abonnement, teilnehmen |
-| ئیشراف | سەرپەرشتی | عەرەبی | هەمیشە (پێداچوونەوە) | supervision, oversight | Aufsicht, Beaufsichtigung |
-| ئیشراق | تیشکدانەوە | عەرەبی | هەمیشە (پێداچوونەوە) | radiance, illumination, sunrise | Ausstrahlung, Strahlen, Erleuchtung |
-| ئیشعار، اشعار | ئاگاداری | عەرەبی | هەمیشە (پێداچوونەوە) | notice, notification | Mitteilung, Benachrichtigung |
-| ئیشکال، اشکال | کێشە | عەرەبی | توند (پێداچوونەوە) | problem, issue, difficulty | Problem, Schwierigkeit |
-| ئیصدار | بڵاوکردنەوە | عەرەبی | توند (پێداچوونەوە) | publication, release, issue | Herausgabe, Veröffentlichung |
-| ئیعادە | دووبارەکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | repetition, repeat, return | Wiederholung, wiederholen |
-| ئیعانە | یارمەتی | عەرەبی | هەمیشە (پێداچوونەوە) | aid, help, assistance | Hilfe, Unterstützung |
-| ئیعتراز | ناڕەزایی | عەرەبی | توند (پێداچوونەوە) | objection, protest | Einspruch, Einwand, Protest |
-| ئیعتیبار، ئیعتبار، ئیعتباری | متمانە | عەرەبی | هەمیشە (پێداچوونەوە) | trust, confidence, credibility | Vertrauen, Glaubwürdigkeit |
-| ئیعتیدا، ئیعتیداء | هێرش | عەرەبی | هەمیشە (پێداچوونەوە) | attack, assault, aggression | Angriff, Überfall |
-| ئیعتیدال، اعتدال | مامناوەندی | عەرەبی | توند (پێداچوونەوە) | moderation | Mäßigung, Mäßigkeit |
-| ئیعتیراز | ناڕەزایی | عەرەبی | هەمیشە (پێداچوونەوە) | objection, protest | Einspruch, Protest, Widerspruch |
-| ئیعتیراف، ئیعتراف | دانپێدانان | عەرەبی | هەمیشە (پێداچوونەوە) | confession, admission, recognition | Geständnis, Eingeständnis, Anerkennung |
-| ئیعتیزار، اعتذار | لێبووردن | عەرەبی | هەمیشە (پێداچوونەوە) | apology, apologize | Entschuldigung, sich entschuldigen |
-| ئیعتیساب | مانگرتن | عەرەبی | هەمیشە (پێداچوونەوە) | strike, sit-in | Streik, Sitzstreik |
-| ئیعتیقاد | باوەڕ | عەرەبی | هەمیشە (پێداچوونەوە) | belief, faith | Glaube, Überzeugung |
-| ئیعتیقال، ئیعتقال | دەستگیرکردن | عەرەبی | توند (پێداچوونەوە) | arrest, detention | Festnahme, Verhaftung |
-| ئیعتیماد | پشتبەستن، متمانە | عەرەبی | هەمیشە (پێداچوونەوە) | reliance, trust, confidence | Vertrauen, Verlass |
-| ئیعدادات | ڕێکخستنەکان | عەرەبی | هەمیشە | settings, configuration | Einstellungen, Konfiguration |
-| ئیعدام | لەسێدارەدان | عەرەبی | هەمیشە (پێداچوونەوە) | execution | Hinrichtung |
-| ئیعلام | ڕاگەیاندن | عەرەبی | هەمیشە (پێداچوونەوە) | media, announcement | Medien, Bekanntmachung |
-| ئیعلامی | ڕاگەیاندنی | عەرەبی | توند (پێداچوونەوە) | media, press | medial, Medien, Presse |
-| ئیعلان | ڕاگەیاندن | عەرەبی | هەمیشە | announcement, notification, announce | Bekanntmachung, Ankündigung, bekanntgeben |
-| ئیعلانات | ڕاگەیاندنەکان | عەرەبی | هەمیشە (پێداچوونەوە) | announcements, advertisements | Bekanntmachungen, Anzeigen, Werbung |
-| ئیفادە | دەربڕین | عەرەبی | هەمیشە (پێداچوونەوە) | expression, statement | Ausdruck, Aussage |
-| ئیفتیراز، افتراض | گریمان | عەرەبی | هەمیشە (پێداچوونەوە) | assumption, supposition | Annahme, Vermutung |
-| ئیفراج | ئازادکردن | عەرەبی | هەمیشە (پێداچوونەوە) | release, liberation | Freilassung, Befreiung |
-| ئیفراز، افراز | دەرچواندن | عەرەبی | هەمیشە (پێداچوونەوە) | secretion, excretion | Absonderung, Ausscheidung, Sekretion |
-| ئیفراط، افراط | زیادەڕۆیی | عەرەبی | توند (پێداچوونەوە) | excess, extremism, exaggeration | Übermaß, Übertreibung, Exzess |
-| ئیقاع، ایقاع | ئاهەنگ | عەرەبی | هەمیشە (پێداچوونەوە) | rhythm | Rhythmus |
-| ئیقامە | نیشتەجێبوون | عەرەبی | هەمیشە (پێداچوونەوە) | residence, stay | Aufenthalt, Wohnsitz |
-| ئیقتیباس | وەرگرتنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | quotation, citation, quote | Zitat, Zitieren |
-| ئیقتیدار | توانا | عەرەبی | هەمیشە (پێداچوونەوە) | ability, capability, power | Fähigkeit, Können, Macht |
-| ئیقتیراح | پێشنیار | عەرەبی | هەمیشە | suggestion, proposal | Vorschlag |
-| ئیقتیراز، اقتراض، ئیقتراز | وامگرتن | عەرەبی | توند (پێداچوونەوە) | borrowing, borrow | Kreditaufnahme, leihen, borgen |
-| ئیقتیساد | ئابووری | عەرەبی | هەمیشە | economy, economics | Wirtschaft |
-| ئیقرار | دانپێدانان | عەرەبی | هەمیشە (پێداچوونەوە) | confession, admission, confess | Geständnis, Bekenntnis, gestehen |
-| ئیقلیم | هەرێم | عەرەبی | هەمیشە (پێداچوونەوە) | region, climate | Region, Gebiet, Klima |
-| ئیقناع | دڵنیاکردن | عەرەبی | هەمیشە (پێداچوونەوە) | persuasion, convince | Überzeugung, überzeugen |
-| ئیلتزام، التزام | پابەندبوون | عەرەبی | هەمیشە (پێداچوونەوە) | commitment, obligation | Verpflichtung, Engagement |
-| ئیلتیئام | چاکبوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | healing, recovery | Heilung, Genesung |
-| ئیلتیزام | پابەندی | عەرەبی | هەمیشە (پێداچوونەوە) | commitment, obligation | Verpflichtung, Engagement |
-| ئیلتیفات | ئاوڕدانەوە | عەرەبی | هەمیشە (پێداچوونەوە) | attention, regard, consideration | Beachtung, Aufmerksamkeit, Rücksicht |
-| ئیلتیماس، التماس | داواکاری | عەرەبی | توند (پێداچوونەوە) | petition, request, plea | Gesuch, Bitte, Antrag |
-| ئیلتیهاب | ئاوسان | عەرەبی | هەمیشە (پێداچوونەوە) | inflammation, swelling | Entzündung, Schwellung |
-| ئیلغاء، ئیلغا | هەڵوەشاندنەوە | عەرەبی | توند (پێداچوونەوە) | cancellation, abolition, annulment | Aufhebung, Abschaffung, Annullierung |
-| ئیمارەت، ئیمارە، امارة | میرنشین | عەرەبی | هەمیشە (پێداچوونەوە) | emirate, principality | Emirat, Fürstentum |
-| ئیمتیاز، امتیاز | تایبەتمەندی | عەرەبی | هەمیشە (پێداچوونەوە) | privilege, feature, distinction | Privileg, Merkmal, Auszeichnung |
-| ئیمتیحان | تاقیکردنەوە | عەرەبی | هەمیشە | exam, test | Prüfung, Test |
-| ئیمتیساس، امتصاص | هەڵمژین | عەرەبی | هەمیشە (پێداچوونەوە) | absorption, absorb | Aufnahme, Absorption, aufnehmen |
-| ئیمزا | واژۆ | عەرەبی | هەمیشە | signature, sign | Unterschrift, unterschreiben |
-| ئیمساک، امساک، إمساك | سکڕاگرتن | عەرەبی | توند (پێداچوونەوە) | constipation | Verstopfung |
-| ئیملا، إملاء، یملا | ڕاستنووسی | عەرەبی | هەمیشە (پێداچوونەوە) | spelling, dictation, orthography | Rechtschreibung, Diktat |
-| ئیمکان | توانا، دەرفەت | عەرەبی | هەمیشە | possibility, opportunity, ability | Möglichkeit, Gelegenheit, Fähigkeit |
-| ئیمکانیات | تواناکان | عەرەبی | هەمیشە (پێداچوونەوە) | capabilities, resources, possibilities | Möglichkeiten, Fähigkeiten, Mittel |
-| ئینایە، عینایە | چاودێری | عەرەبی | هەمیشە (پێداچوونەوە) | care, supervision | Pflege, Betreuung, Aufsicht |
-| ئینباط، انبات | چرپین | عەرەبی | هەمیشە (پێداچوونەوە) | germination, sprouting, germinate | Keimung, keimen |
-| ئینتاج | بەرهەمهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | production | Produktion, Herstellung |
-| ئینتیخابات، ئینتیخاب | هەڵبژاردن | عەرەبی | هەمیشە (پێداچوونەوە) | election | Wahl |
-| ئینتیزار | چاوەڕوانی | عەرەبی | هەمیشە | waiting, expectation, wait | Warten, Erwartung, warten |
-| ئینتیسار | سەرکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | victory, triumph | Sieg, Triumph |
-| ئینتیشار | بڵاوبوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | spread, dissemination | Verbreitung, Ausbreitung |
-| ئینتیفازە، انتفاضة، ئینتیفاضه | ڕاپەرین | عەرەبی | توند (پێداچوونەوە) | uprising, intifada | Aufstand, Intifada |
-| ئینتیقال | گواستنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | transfer, transition | Übertragung, Übergang, Versetzung |
-| ئینتیقام | تۆڵە | عەرەبی | هەمیشە (پێداچوونەوە) | revenge, vengeance | Rache |
-| ئینتیها | کۆتایی | عەرەبی | هەمیشە (پێداچوونەوە) | end, expiry, conclusion | Ende, Ablauf, Abschluss |
-| ئینتیهاک | پێشێلکردن | عەرەبی | هەمیشە (پێداچوونەوە) | violation, breach | Verletzung, Verstoß |
-| ئینحیاز، انحیاز، انحياز | لایەنگری | عەرەبی | هەمیشە (پێداچوونەوە) | bias, partiality, alignment | Parteilichkeit, Voreingenommenheit, Parteinahme |
-| ئینحیراف، انحراف | لادان | عەرەبی | هەمیشە (پێداچوونەوە) | deviation, deflection, deviate | Abweichung, Ablenkung, abweichen |
-| ئینحیسار، انحصار | یەکدەستی | عەرەبی | توند (پێداچوونەوە) | monopoly | Monopol |
-| ئینحیلال | هەڵوەشاندنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | dissolution, disintegration | Auflösung, Zerfall |
-| ئینساف، انصاف | دادپەروەری | عەرەبی | هەمیشە (پێداچوونەوە) | fairness, justice, equity | Fairness, Gerechtigkeit |
-| ئینسان | مرۆڤ | عەرەبی | هەمیشە | human, person, human being | Mensch |
-| ئینسیجام | گونجان | عەرەبی | هەمیشە (پێداچوونەوە) | harmony, coherence, consistency | Harmonie, Kohärenz, Einklang |
-| ئینسیحاب، انسحاب | کشانەوە | عەرەبی | هەمیشە (پێداچوونەوە) | withdrawal, retreat | Rückzug |
-| ئینسیهار، انصهار | توانەوە | عەرەبی | هەمیشە (پێداچوونەوە) | melting, fusion | Schmelzen |
-| ئینعام | بەخشش | عەرەبی | هەمیشە (پێداچوونەوە) | gift, grant, bounty | Gabe, Geschenk, Gnade |
-| ئینعیکاس، انعكاس | ڕاگەرانەوە | عەرەبی | هەمیشە (پێداچوونەوە) | reflection | Reflexion, Spiegelung |
-| ئینفیجار، انفجار، ئینفجار | تەقینەوە | عەرەبی | هەمیشە (پێداچوونەوە) | explosion, blast, explode | Explosion, explodieren |
-| ئینقلاب، ئینقلابی | شۆڕش | عەرەبی | هەمیشە (پێداچوونەوە) | revolution, coup | Revolution, Umsturz |
-| ئینقیراز | لەناوچوون | عەرەبی | هەمیشە (پێداچوونەوە) | extinction | Aussterben |
-| ئینقیسام، انقسام | دابەشبوون | عەرەبی | هەمیشە (پێداچوونەوە) | division, split | Teilung, Spaltung |
-| ئینقیلاب | شۆڕش | عەرەبی | هەمیشە (پێداچوونەوە) | revolution | Revolution |
-| ئینهیار، انهیار، انهيار | ڕووخان | عەرەبی | هەمیشە (پێداچوونەوە) | collapse, breakdown | Zusammenbruch, Einsturz |
-| ئینکیسار، انکسار | شکان | عەرەبی | هەمیشە (پێداچوونەوە) | refraction, breaking | Brechung |
-| ئیهانە | سووکایەتی | عەرەبی | هەمیشە (پێداچوونەوە) | insult, humiliation | Beleidigung, Demütigung |
-| ئیهتیرام، احترام | ڕێزگرتن | عەرەبی | هەمیشە (پێداچوونەوە) | respect, honor | Respekt, Achtung, Ehrerbietung |
-| ئیهتیزاز، اهتزاز | لەرزین | عەرەبی | هەمیشە (پێداچوونەوە) | vibration, oscillation, vibrate | Schwingung, Vibration, Zittern |
-| ئیهتیمام | گرنگیدان | عەرەبی | هەمیشە (پێداچوونەوە) | attention, care, concern | Aufmerksamkeit, Interesse, Beachtung |
-| ئیهمال | کەمتەرخەمی | عەرەبی | هەمیشە (پێداچوونەوە) | negligence, neglect | Nachlässigkeit, Vernachlässigung |
-| ئیکتیئاب | خەمۆکی | عەرەبی | هەمیشە (پێداچوونەوە) | depression | Depression |
-| ئیکتیشاف | دۆزینەوە | عەرەبی | هەمیشە (پێداچوونەوە) | discovery, discover | Entdeckung, entdecken |
-| ئەتفال | منداڵان | عەرەبی | هەمیشە (پێداچوونەوە) | children | Kinder |
-| ئەجر، اجر، أجر | مووچە، کرێ | عەرەبی | هەمیشە (پێداچوونەوە) | wage, salary, fee | Lohn, Gehalt, Gebühr |
-| ئەجهیزە | ڕەقەکاڵا | عەرەبی | هەمیشە (پێداچوونەوە) | hardware, devices | Hardware, Geräte |
-| ئەحباب | هاوڕێیان، خۆشەویستان | عەرەبی | هەمیشە (پێداچوونەوە) | loved ones, friends | Freunde, Liebsten |
-| ئەحسەن | باشتر | عەرەبی | هەمیشە (پێداچوونەوە) | better, best | besser, beste |
-| ئەحمەق | گەمژە، دیوانە | عەرەبی | هەمیشە (پێداچوونەوە) | stupid, fool, idiot, crazy | dumm, Dummkopf, Idiot, verrückt |
-| ئەحواڵ | بارودۆخ | عەرەبی | هەمیشە (پێداچوونەوە) | circumstances, conditions, situation | Umstände, Lage, Verhältnisse |
-| ئەخلاق | ڕەوشت | عەرەبی | هەمیشە (پێداچوونەوە) | morals, ethics, behavior | Moral, Ethik, Benehmen |
-| ئەدیب | وێژەوان، نووسەر | عەرەبی | توند (پێداچوونەوە) | writer, man of letters | Schriftsteller, Literat |
-| ئەدەب | وێژە | عەرەبی | هەمیشە (پێداچوونەوە) | literature | Literatur |
-| ئەدەبیات | وێژە | عەرەبی | توند (پێداچوونەوە) | literature | Literatur |
-| ئەراضی | خاک، زەوی | عەرەبی | توند (پێداچوونەوە) | territory, land, soil | Gebiet, Land, Boden |
-| ئەرواح | گیانەکان | عەرەبی | هەمیشە (پێداچوونەوە) | spirits, souls | Geister, Seelen |
-| ئەساس | بنەما | عەرەبی | هەمیشە | basis, foundation, principle | Grundlage, Basis, Prinzip |
-| ئەساسی | سەرەکی، بنەڕەتی | عەرەبی | هەمیشە | basic, main, fundamental | grundlegend, wesentlich |
-| ئەساسەن | لە بنەڕەتدا | عەرەبی | هەمیشە (پێداچوونەوە) | basically, fundamentally, originally | grundsätzlich, eigentlich, im Grunde |
-| ئەسلەحە | چەکەکان | عەرەبی | هەمیشە (پێداچوونەوە) | weapons, arms | Waffen |
-| ئەسڵەن | هەرگیز، لە بنەڕەتدا | عەرەبی | هەمیشە | never, at all, basically, originally | nie, überhaupt, grundsätzlich, ursprünglich |
-| ئەشعار | هۆنراوەکان | عەرەبی | توند (پێداچوونەوە) | poems | Gedichte |
-| ئەشیعە | تیشک | عەرەبی | هەمیشە (پێداچوونەوە) | radiation, ray, x-ray | Strahlung, Strahl, Röntgenstrahlen |
-| ئەعراز | نیشانەکان | عەرەبی | هەمیشە (پێداچوونەوە) | symptoms, signs | Symptome, Anzeichen |
-| ئەعزا | ئەندام | عەرەبی | هەمیشە (پێداچوونەوە) | member, organ, limb | Mitglied, Organ, Glied |
-| ئەعمال | کارەکان، کردەوەکان | عەرەبی | هەمیشە (پێداچوونەوە) | deeds, actions, works | Taten, Handlungen, Werke |
-| ئەغلەبیەت، اغلبیة، أغلبیة | زۆرینە | عەرەبی | هەمیشە (پێداچوونەوە) | majority | Mehrheit |
-| ئەغڵەبیەت، ئەکثەریەت | زۆرینە | عەرەبی | هەمیشە (پێداچوونەوە) | majority | Mehrheit |
-| ئەقرەبا، ئەقاریب | خزمان | عەرەبی | هەمیشە (پێداچوونەوە) | relatives | Verwandte |
-| ئەقەلیەت | کەمینە | عەرەبی | هەمیشە (پێداچوونەوە) | minority | Minderheit |
-| ئەلان، ئاڵان | ئێستا | عەرەبی | هەمیشە | now | jetzt |
-| ئەلحان | ئاواز | عەرەبی | توند (پێداچوونەوە) | melodies, tunes | Melodien |
-| ئەلکتریکی، ئیلێکتریکی، ئەلیکتریکی | کارەبایی | عەرەبی | هەمیشە (پێداچوونەوە) | electric, electrical | elektrisch |
-| ئەلەم، الم | ئازار | عەرەبی | توند (پێداچوونەوە) | pain, ache | Schmerz |
-| ئەمر | فەرمان | عەرەبی | هەمیشە | order, command | Befehl, Anordnung |
-| ئەمعا، أمعاء | هەناو | عەرەبی | هەمیشە (پێداچوونەوە) | intestines, bowels | Darm, Eingeweide |
-| ئەمما | بەڵام | عەرەبی | هەمیشە (پێداچوونەوە) | but, however | aber, jedoch |
-| ئەمەل | هیوا | عەرەبی | هەمیشە (پێداچوونەوە) | hope | Hoffnung |
-| ئەنسیجە، انسجة | بافت | عەرەبی | هەمیشە (پێداچوونەوە) | tissue | Gewebe |
-| ئەنف | لوت | عەرەبی | هەمیشە (پێداچوونەوە) | nose | Nase |
-| ئەنواع | جۆرەکان | عەرەبی | هەمیشە (پێداچوونەوە) | types, kinds | Arten, Typen |
-| ئەوراق | پەڕەکان، بەڵگەنامەکان | عەرەبی | هەمیشە (پێداچوونەوە) | papers, documents | Papiere, Dokumente, Unterlagen |
-| ئەولاد، عەولاد | منداڵ، نەوە | عەرەبی | هەمیشە (پێداچوونەوە) | children, offspring, descendants | Kinder, Nachkommen, Nachwuchs |
-| ئەوەل | یەکەم | عەرەبی | هەمیشە (پێداچوونەوە) | first | erste |
-| ئەوەلەن | یەکەم | عەرەبی | هەمیشە (پێداچوونەوە) | first, firstly | erstens, zuerst |
-| ئەکسەر | زۆربەی | عەرەبی | هەمیشە (پێداچوونەوە) | most, majority | meiste, Mehrheit |
-| ئەکیدەن | بێگومان، بە دڵنیاییەوە | عەرەبی | هەمیشە | certainly, surely, definitely | sicher, bestimmt, auf jeden Fall |
-| ئەڵبەتە | بێگومان | عەرەبی | هەمیشە (پێداچوونەوە) | certainly, of course | natürlich, selbstverständlich, sicherlich |
-| ئەڵقە، ئەلقە، ئەڵقەی | بازنە | عەرەبی | توند (پێداچوونەوە) | ring, circle, loop | Ring, Kreis, Schlaufe |
-| اتحاد | یەکگرتن | عەرەبی | هەمیشە (پێداچوونەوە) | union, unity, unification | Union, Einheit, Vereinigung |
-| باحیس، باحث | توێژەر | عەرەبی | هەمیشە (پێداچوونەوە) | researcher | Forscher |
-| باعیس | هۆ | عەرەبی | هەمیشە (پێداچوونەوە) | cause, reason | Ursache, Grund |
-| باقی | ماوە، ئەوانی تر | عەرەبی | هەمیشە (پێداچوونەوە) | remaining, rest, the others | übrig, Rest, die anderen |
-| بالذات | بەتایبەتی | عەرەبی | هەمیشە (پێداچوونەوە) | especially, in particular, specifically | besonders, insbesondere |
-| بایع، بائع | فرۆشیار | عەرەبی | هەمیشە (پێداچوونەوە) | seller, vendor | Verkäufer |
-| بتولە، بوتولە | پاڵەوانیەتی | عەرەبی | هەمیشە (پێداچوونەوە) | championship, tournament | Meisterschaft, Turnier |
-| بوتوولە، بطولة، بوتوولەت | پاڵەوانیەتی | عەرەبی | توند (پێداچوونەوە) | heroism, championship | Heldentum, Meisterschaft |
-| بوحران، بحران | تەنگانە | عەرەبی | هەمیشە (پێداچوونەوە) | crisis | Krise |
-| بوحەیرە | گۆل | عەرەبی | توند (پێداچوونەوە) | lake | See |
-| بوخار، بخار | هەڵم | عەرەبی | هەمیشە (پێداچوونەوە) | steam, vapor | Dampf |
-| بورهان | سەلماندن | عەرەبی | هەمیشە (پێداچوونەوە) | proof, evidence | Beweis, Nachweis |
-| بورودە، برودة، بوروودە | ساردی | عەرەبی | هەمیشە (پێداچوونەوە) | coldness, cold | Kälte |
-| بورودەت، بروودەت | سەرما | عەرەبی | هەمیشە (پێداچوونەوە) | cold | Kälte |
-| بولعوم | گەروو | عەرەبی | هەمیشە (پێداچوونەوە) | throat, pharynx | Rachen, Kehle |
-| بوویزە، بویضە | هێلکە | عەرەبی | هەمیشە (پێداچوونەوە) | egg, ovum | Ei, Eizelle |
-| بڕکان، بورکان | چیای ئاگرین | عەرەبی | هەمیشە (پێداچوونەوە) | volcano | Vulkan |
-| بیئە، بیئەت | ژینگە | عەرەبی | هەمیشە (پێداچوونەوە) | environment | Umwelt, Umgebung |
-| بیع | فرۆشتن | عەرەبی | هەمیشە (پێداچوونەوە) | sale, selling, sell | Verkauf, verkaufen |
-| بێعار | بێشەرم | عەرەبی | هەمیشە (پێداچوونەوە) | shameless, impudent | schamlos, unverschämt |
-| بێڕەحمی، بێرەحمی | بێبەزەیی | عەرەبی | هەمیشە (پێداچوونەوە) | cruelty, mercilessness | Grausamkeit, Erbarmungslosigkeit |
-| بەتالە، بطالة | بێکاری | عەرەبی | هەمیشە (پێداچوونەوە) | unemployment | Arbeitslosigkeit |
-| بەتەل | پاڵەوان | عەرەبی | هەمیشە (پێداچوونەوە) | hero, champion | Held, Meister |
-| بەحر | دەریا | عەرەبی | هەمیشە (پێداچوونەوە) | sea | Meer, See |
-| بەحس | باس، گفتوگۆ | عەرەبی | هەمیشە (پێداچوونەوە) | discussion, debate, topic | Diskussion, Debatte, Gespräch |
-| بەخیل | چاوتەنگ | عەرەبی | هەمیشە (پێداچوونەوە) | stingy, miserly | geizig |
-| بەراءەت، براءت، بەراعەت | بێتاوانی | عەرەبی | هەمیشە (پێداچوونەوە) | innocence, acquittal | Unschuld, Freispruch |
-| بەرائەت | بێتاوانی | عەرەبی | توند (پێداچوونەوە) | innocence, acquittal | Unschuld, Freispruch |
-| بەرابەر | یەکسان، هاوشان | عەرەبی | هەمیشە (پێداچوونەوە) | equal, equivalent, opposite | gleich, gleichwertig, gegenüber |
-| بەرق، برق | بروسکە | عەرەبی | هەمیشە (پێداچوونەوە) | lightning | Blitz |
-| بەرمەجیات | نەرمەکاڵا | عەرەبی | هەمیشە (پێداچوونەوە) | software | Software |
-| بەرودەت | ساردی | عەرەبی | هەمیشە (پێداچوونەوە) | coldness, cold | Kälte |
-| بەزاعە، بزاعە | کاڵا | عەرەبی | هەمیشە (پێداچوونەوە) | goods, merchandise, commodity | Ware, Güter |
-| بەشەر | مرۆڤ | عەرەبی | هەمیشە (پێداچوونەوە) | human, human being | Mensch |
-| بەشەریەت، بەشەرییەت، ئینسانیەت، ئینسانییەت | مرۆڤایەتی | عەرەبی | هەمیشە (پێداچوونەوە) | humanity, mankind | Menschheit |
-| بەعدەن | دواتر | عەرەبی | هەمیشە (پێداچوونەوە) | later, afterwards | später, danach |
-| بەعزێک، بەعزی، بەعزێ | هەندێک | عەرەبی | هەمیشە | some, a few | einige, manche |
-| بەعزەن | هەندێک جار | عەرەبی | هەمیشە (پێداچوونەوە) | sometimes | manchmal |
-| بەقا | مانەوە | عەرەبی | هەمیشە (پێداچوونەوە) | survival, remaining | Überleben, Fortbestand |
-| بەقاڵ | دووکاندار | عەرەبی | هەمیشە (پێداچوونەوە) | grocer, shopkeeper | Lebensmittelhändler, Krämer |
-| بەقییە، بەقیە | پاشماوە | عەرەبی | هەمیشە (پێداچوونەوە) | remainder, rest | Rest, Überrest |
-| بەلاغ، بلاغ | ئاگادارکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | notification, report, announcement | Benachrichtigung, Meldung, Mitteilung |
-| بەلەدیە، بلدیە | شارەوانی | عەرەبی | هەمیشە (پێداچوونەوە) | municipality | Gemeinde, Stadtverwaltung |
-| بەهەرحال | هەرچۆنێک بێت | عەرەبی | توند (پێداچوونەوە) | anyway, in any case, however | jedenfalls, sowieso, wie auch immer |
-| بەهەرحاڵ | هەرچۆنێک بێت | عەرەبی | هەمیشە (پێداچوونەوە) | anyway, anyhow, in any case | jedenfalls, wie auch immer, sowieso |
-| بەول | میز | عەرەبی | هەمیشە (پێداچوونەوە) | urine | Urin, Harn |
-| بەیزە، بيضة | هێلکە | عەرەبی | هەمیشە (پێداچوونەوە) | egg | Ei |
-| تاجر | بازرگان | عەرەبی | هەمیشە (پێداچوونەوە) | merchant, trader, businessman | Händler, Kaufmann |
-| تاجیر | بازرگان | عەرەبی | هەمیشە (پێداچوونەوە) | merchant, trader, businessman | Händler, Kaufmann |
-| تاریخ | مێژوو، ڕێکەوت | عەرەبی | هەمیشە | history, date | Geschichte, Datum |
-| تاقەت | توانا، ئارام | عەرەبی | توند | patience, strength, endurance | Geduld, Kraft |
-| تالع، تالیع | بەخت، چارەنووس | عەرەبی | هەمیشە (پێداچوونەوە) | luck, fortune, fate, destiny | Glück, Schicksal, Los |
-| تالیب | قوتابی، خوێندکار | عەرەبی | هەمیشە (پێداچوونەوە) | student, pupil | Student, Schüler |
-| تایید | پشتگیری | عەرەبی | توند (پێداچوونەوە) | support, endorsement, approval | Unterstützung, Befürwortung, Zustimmung |
-| تراث | کەلەپور | عەرەبی | توند (پێداچوونەوە) | heritage, tradition | Erbe, Tradition |
-| ترقی، تەرقی | پێشکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | progress, advancement | Fortschritt |
-| تعریف | پێناسە | عەرەبی | هەمیشە (پێداچوونەوە) | definition, define | Definition, definieren |
-| توحفە، تۆحفە | دیاری | عەرەبی | هەمیشە (پێداچوونەوە) | gift, present | Geschenk, Gabe |
-| توقیف | بەندکردن | عەرەبی | هەمیشە (پێداچوونەوە) | arrest, detention | Festnahme, Verhaftung |
-| تووربە، تربة، توربه | خۆڵ | عەرەبی | هەمیشە (پێداچوونەوە) | soil, earth, dust | Erde, Boden, Staub |
-| توول، طول | درێژی | عەرەبی | هەمیشە (پێداچوونەوە) | length | Länge |
-| تیب | پزیشکی | عەرەبی | هەمیشە (پێداچوونەوە) | medicine | Medizin |
-| تیجارە، تجارة | بازرگانی | عەرەبی | هەمیشە (پێداچوونەوە) | trade, commerce | Handel |
-| تیجارەت | بازرگانی | عەرەبی | هەمیشە (پێداچوونەوە) | trade, commerce | Handel |
-| تیفل | منداڵ | عەرەبی | هەمیشە (پێداچوونەوە) | child | Kind |
-| تەئجیل، تأجیل | دواخستن | عەرەبی | هەمیشە (پێداچوونەوە) | postponement, delay | Aufschub, Verschiebung, verschieben |
-| تەئخیر، تأخیر، تاخیر | دواخستن | عەرەبی | هەمیشە (پێداچوونەوە) | delay, postponement, postpone | Verzögerung, Aufschub, verschieben |
-| تەئسیر | کاریگەری | عەرەبی | هەمیشە (پێداچوونەوە) | influence, effect, impact | Einfluss, Wirkung, Auswirkung |
-| تەئسیس، تأسیس، تاسیس | دامەزراندن | عەرەبی | هەمیشە (پێداچوونەوە) | establishment, founding, establish | Gründung, gründen |
-| تەئمین، تأمین، تامین | دابینکردن | عەرەبی | هەمیشە (پێداچوونەوە) | provision, securing, insurance, provide | Bereitstellung, Sicherstellung, Versicherung, bereitstellen |
-| تەئکید، تاکید | جەختکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | emphasis, affirmation, confirmation | Betonung, Bekräftigung, Bestätigung |
-| تەئیید، تائید | پشتڕاستکردنەوە | عەرەبی | توند (پێداچوونەوە) | confirmation, endorsement | Bestätigung, Befürwortung |
-| تەبابەت | پزیشکی | عەرەبی | هەمیشە (پێداچوونەوە) | medicine | Medizin, Heilkunde |
-| تەبادل | گۆڕینەوە | عەرەبی | هەمیشە (پێداچوونەوە) | exchange, swap | Austausch, Tausch |
-| تەبادول، تبادل، تبادول | ئاڵوگۆڕ | عەرەبی | هەمیشە (پێداچوونەوە) | exchange, trade | Austausch, Tausch, Handel |
-| تەبخیر، تبخیر | هەڵمبوون | عەرەبی | هەمیشە (پێداچوونەوە) | evaporation, vaporization | Verdampfung, Verdunstung |
-| تەبرید، تبرید | ساردکردنەوە | عەرەبی | توند (پێداچوونەوە) | cooling, refrigeration | Kühlung, kühlen |
-| تەبریک، تبریک | پیرۆزبایی | عەرەبی | هەمیشە (پێداچوونەوە) | congratulation, congratulate | Glückwunsch, gratulieren |
-| تەبعە | چاپ | عەرەبی | هەمیشە (پێداچوونەوە) | edition, print, printing | Auflage, Ausgabe, Druck |
-| تەبعەن | بێگومان | عەرەبی | هەمیشە | of course, certainly | natürlich, selbstverständlich |
-| تەبلیغ | ڕاگەیاندن | عەرەبی | هەمیشە (پێداچوونەوە) | announcement, notification, propaganda | Bekanntmachung, Mitteilung, Verkündigung |
-| تەبوخور | هەڵاوسان | عەرەبی | هەمیشە (پێداچوونەوە) | evaporation, evaporate | Verdunstung, Verdampfung, verdunsten |
-| تەبیب | پزیشک | عەرەبی | هەمیشە | doctor, physician | Arzt |
-| تەبیعی | سروشتی | عەرەبی | هەمیشە | natural | natürlich |
-| تەبیعەت، تەبع | سروشت | عەرەبی | هەمیشە (پێداچوونەوە) | nature | Natur |
-| تەبەخخور | هەڵقواڵین | عەرەبی | توند (پێداچوونەوە) | evaporation, boiling | Verdampfung, Verdunstung, Sieden |
-| تەبەخور، تبخر | هەڵمبوون | عەرەبی | هەمیشە (پێداچوونەوە) | evaporation | Verdampfung, Verdunstung |
-| تەبەرع | بەخشین | عەرەبی | توند (پێداچوونەوە) | donation, contribution | Spende, Schenkung |
-| تەبەقە | چین | عەرەبی | هەمیشە (پێداچوونەوە) | class, layer, level | Schicht, Klasse |
-| تەتابوق | گونجان | عەرەبی | توند (پێداچوونەوە) | congruence, correspondence, match | Übereinstimmung, Kongruenz |
-| تەتبیق | جێبەجێکردن | عەرەبی | هەمیشە (پێداچوونەوە) | implementation, apply, implement | Umsetzung, anwenden, umsetzen |
-| تەتعیم، تەتعیمات | دەرمانلێدان | عەرەبی | هەمیشە (پێداچوونەوە) | vaccination, immunization, vaccinate | Impfung, impfen |
-| تەتویر | پەرەپێدان | عەرەبی | هەمیشە (پێداچوونەوە) | development, improvement | Entwicklung, Weiterentwicklung |
-| تەتەوور، تەتەووور | پەرەسەندن | عەرەبی | هەمیشە (پێداچوونەوە) | development, evolution | Entwicklung, Evolution |
-| تەجاوز | پێشێلکردن | عەرەبی | هەمیشە (پێداچوونەوە) | violation, transgression, exceed | Verletzung, Übertretung, überschreiten |
-| تەجدید | نوێکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | renewal, renovation, update | Erneuerung, Renovierung, Aktualisierung |
-| تەجروبە، تەجرەبە | ئەزموون | عەرەبی | هەمیشە | experience, experiment | Erfahrung, Experiment |
-| تەجریبی، تجریبي، تجریبی | ئەزموونی | عەرەبی | هەمیشە (پێداچوونەوە) | experimental, empirical | experimentell, empirisch |
-| تەجهیزات | کەرەستە | عەرەبی | هەمیشە (پێداچوونەوە) | equipment | Ausrüstung, Ausstattung, Geräte |
-| تەجەدود، تجدد | نوێبوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | renewal, regeneration | Erneuerung, Regeneration |
-| تەجەمود، تجمد | بەستن | عەرەبی | هەمیشە (پێداچوونەوە) | freezing, solidification | Gefrieren, Erstarrung |
-| تەحال، تەحاڵ | سپرز | عەرەبی | توند (پێداچوونەوە) | spleen | Milz |
-| تەحالوف، تحالف | هاوپەیمانی | عەرەبی | هەمیشە (پێداچوونەوە) | alliance, coalition | Bündnis, Allianz, Koalition |
-| تەحدید | دیاریکردن | عەرەبی | هەمیشە (پێداچوونەوە) | determine, define, limit | bestimmen, festlegen, begrenzen |
-| تەحریر | ئازادکردن | عەرەبی | هەمیشە (پێداچوونەوە) | liberation, liberate, free | Befreiung, befreien |
-| تەحریم، تحریم | گەمارۆ | عەرەبی | هەمیشە (پێداچوونەوە) | sanction, embargo, blockade | Sanktion, Embargo, Blockade |
-| تەحریک | هاندان | عەرەبی | هەمیشە (پێداچوونەوە) | incite, provoke, stimulate, encourage | anstiften, anregen, ermutigen, provozieren |
-| تەحسیل | خوێندن، بەدەستهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | study, education, acquisition | Studium, Ausbildung, Erwerb |
-| تەحسین | ستایش | عەرەبی | هەمیشە (پێداچوونەوە) | praise, admiration | Lob, Bewunderung, loben |
-| تەحفیز | هاندان | عەرەبی | هەمیشە (پێداچوونەوە) | motivation, encouragement | Motivation, Ansporn, Ermutigung |
-| تەحقیق، تەحقیقات | لێکۆڵینەوە | عەرەبی | هەمیشە (پێداچوونەوە) | investigation, research | Untersuchung, Forschung, Ermittlung |
-| تەحلیل | شیکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | analysis, analyze | Analyse, analysieren |
-| تەحویل | گواستنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | transfer, conversion, transformation | Überweisung, Übertragung, Umwandlung |
-| تەحکیم | بەهێزکردن | عەرەبی | هەمیشە (پێداچوونەوە) | strengthen, consolidate, fortify | stärken, festigen, befestigen |
-| تەحەدی، تەحەددی | ڕووبەڕووبوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | challenge, confrontation | Herausforderung, Konfrontation |
-| تەحەلول، تحلل | بۆگەنبوون | عەرەبی | هەمیشە (پێداچوونەوە) | decomposition, decay | Zersetzung, Verfall |
-| تەحەممول، تەحەمول | بەرگەگرتن | عەرەبی | هەمیشە (پێداچوونەوە) | endurance, tolerance, bear | Ertragen, Ausdauer, ertragen |
-| تەحەول | گۆڕان | عەرەبی | هەمیشە (پێداچوونەوە) | change, transformation, transition | Wandel, Veränderung, Übergang |
-| تەحەوول، تحول | گۆڕان | عەرەبی | هەمیشە (پێداچوونەوە) | change, transformation | Wandel, Veränderung, Umwandlung |
-| تەخدیر | بێهۆشکردن | عەرەبی | هەمیشە (پێداچوونەوە) | anesthesia, sedation | Narkose, Betäubung |
-| تەخریب، تەخریبات | وێرانکاری | عەرەبی | هەمیشە (پێداچوونەوە) | destruction, sabotage, vandalism | Zerstörung, Sabotage, Verwüstung |
-| تەخسیب، تخصیب | پیتاندن | عەرەبی | هەمیشە (پێداچوونەوە) | fertilization, fertilize | Befruchtung, Düngung, befruchten |
-| تەخمین | خەمڵاندن | عەرەبی | هەمیشە (پێداچوونەوە) | estimate, estimation | Schätzung, schätzen |
-| تەخەروج | دەرچوون | عەرەبی | هەمیشە (پێداچوونەوە) | graduation | Abschluss |
-| تەخەسوس، تخصص | پسپۆڕی | عەرەبی | هەمیشە (پێداچوونەوە) | specialization, expertise, specialty | Spezialisierung, Fachgebiet, Fachwissen |
-| تەخەمور، تخمر | ترشبوون | عەرەبی | توند (پێداچوونەوە) | fermentation, ferment | Gärung, gären |
-| تەدریس | وانەوتنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | teaching, teach | Unterricht, unterrichten |
-| تەدقیق، تدقیق | پێداچوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | review, check, proofreading | Überprüfung, Korrektur, überprüfen |
-| تەدقیقات، تدقیقات | توێژینەوە | عەرەبی | توند (پێداچوونەوە) | research, investigations | Forschung, Untersuchungen |
-| تەدوین، تدوین | تۆمارکردن | عەرەبی | هەمیشە (پێداچوونەوە) | recording, compilation, documentation | Aufzeichnung, Niederschrift |
-| تەربیە، تەربیەت | پەروەردە | عەرەبی | هەمیشە (پێداچوونەوە) | education, upbringing | Erziehung, Bildung |
-| تەرتیب | ڕێکخستن | عەرەبی | هەمیشە | arrangement, organization, order, arrange | Anordnung, Ordnung, ordnen |
-| تەرتیبات | ڕێکخستنەکان | عەرەبی | هەمیشە (پێداچوونەوە) | arrangements, preparations | Vorkehrungen, Anordnungen, Vorbereitungen |
-| تەرجومە | وەرگێڕان | عەرەبی | هەمیشە (پێداچوونەوە) | translation, translate | Übersetzung, übersetzen |
-| تەرجیح | هەڵبژاردن | عەرەبی | توند (پێداچوونەوە) | preference, choice | Vorzug, Bevorzugung, Wahl |
-| تەرجەمە | وەرگێڕان | عەرەبی | هەمیشە | translation, translate | Übersetzung, übersetzen |
-| تەرح، طرح | لاکردنەوە، پێشنیار | عەرەبی | هەمیشە (پێداچوونەوە) | subtraction, proposal, subtract | Subtraktion, Vorschlag, subtrahieren |
-| تەرخان | تایبەتکردن | عەرەبی | هەمیشە (پێداچوونەوە) | allocate, dedicate, assign | zuweisen, widmen, bereitstellen |
-| تەرفیع | بەرزکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | raise, promotion, elevation | Beförderung, Erhöhung, anheben |
-| تەرقیم، ترقیم | خاڵبەندی | عەرەبی | هەمیشە (پێداچوونەوە) | punctuation, numbering | Zeichensetzung, Interpunktion |
-| تەرقیە، ترقیة | بەرزکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | promotion | Beförderung |
-| تەرکیب | پێکهاتە | عەرەبی | هەمیشە (پێداچوونەوە) | composition, structure, compound | Zusammensetzung, Struktur, Verbindung |
-| تەرکیز، ترکیز | سەرنج | عەرەبی | توند (پێداچوونەوە) | concentration, focus, attention | Konzentration, Aufmerksamkeit |
-| تەریقە | ڕێباز، ڕێگا | عەرەبی | توند (پێداچوونەوە) | path, way, order, method | Weg, Pfad, Orden, Methode |
-| تەرەددود | دوودڵی | عەرەبی | توند (پێداچوونەوە) | hesitation, indecision | Zögern, Unentschlossenheit |
-| تەرەدود، تردد | بەسامد | عەرەبی | هەمیشە (پێداچوونەوە) | frequency | Frequenz |
-| تەرەف، طرف | لایەن | عەرەبی | هەمیشە (پێداچوونەوە) | side, party | Seite, Partei |
-| تەرەقی، تەرەققی | پێشکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | progress, advancement, development | Fortschritt, Entwicklung |
-| تەزاد | دژواتا | عەرەبی | هەمیشە (پێداچوونەوە) | contrast, antithesis, antonymy | Gegensatz, Kontrast, Antithese |
-| تەزامون، تضامن | هاوپشتی | عەرەبی | هەمیشە (پێداچوونەوە) | solidarity | Solidarität |
-| تەزاوج، تزاوج | جووتبوون | عەرەبی | هەمیشە (پێداچوونەوە) | mating, pairing | Paarung |
-| تەزریق | دەرزی | عەرەبی | هەمیشە (پێداچوونەوە) | injection | Spritze, Injektion |
-| تەزویر | ساختەکاری | عەرەبی | توند (پێداچوونەوە) | forgery, fraud, falsification | Fälschung, Betrug |
-| تەزییق، تەزیق | گوشار | عەرەبی | هەمیشە (پێداچوونەوە) | pressure, harassment, constraint | Druck, Bedrängnis, Belästigung |
-| تەزەخوم، تضخم | هەڵچوون | عەرەبی | هەمیشە (پێداچوونەوە) | inflation | Inflation |
-| تەسادوف، تەسادف | ڕێکەوت | عەرەبی | هەمیشە (پێداچوونەوە) | coincidence, chance | Zufall |
-| تەساوی، تساوی | یەکسانی | عەرەبی | هەمیشە (پێداچوونەوە) | equality | Gleichheit |
-| تەسجیل | تۆمارکردن | عەرەبی | هەمیشە (پێداچوونەوە) | registration, record | Registrierung, Eintragung, registrieren |
-| تەسحیح | ڕاستکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | correction, correct | Korrektur, korrigieren, berichtigen |
-| تەسخین، تسخین | گەرمکردن | عەرەبی | توند (پێداچوونەوە) | heating | Erhitzung, Heizung, erwärmen |
-| تەسدیر | هەناردن | عەرەبی | هەمیشە (پێداچوونەوە) | export | Export, exportieren |
-| تەسدیق | پشتڕاستکردنەوە | عەرەبی | هەمیشە | confirmation, verification, confirm | Bestätigung, bestätigen |
-| تەسلیم | ڕادەستکردن | عەرەبی | هەمیشە (پێداچوونەوە) | delivery, handover, surrender | Übergabe, Lieferung, Kapitulation |
-| تەسنیف | پۆلێنکردن | عەرەبی | هەمیشە (پێداچوونەوە) | classification, categorization | Klassifizierung, Einteilung |
-| تەسویت، تصویت | دەنگدان | عەرەبی | هەمیشە (پێداچوونەوە) | voting, vote | Abstimmung, Wahl, abstimmen |
-| تەسویر | وێنە | عەرەبی | هەمیشە | picture, image, photo | Bild, Foto |
-| تەسویق | بازاڕکردن | عەرەبی | هەمیشە (پێداچوونەوە) | marketing | Marketing, Vermarktung |
-| تەسەمم، تسمم | ژەهراوبوون | عەرەبی | توند (پێداچوونەوە) | poisoning | Vergiftung |
-| تەسەموم | ژەهراویبوون | عەرەبی | هەمیشە (پێداچوونەوە) | poisoning, intoxication | Vergiftung |
-| تەشبیه | لێکچواندن | عەرەبی | هەمیشە (پێداچوونەوە) | simile, comparison | Vergleich, Gleichnis |
-| تەشجیع | هاندان | عەرەبی | هەمیشە (پێداچوونەوە) | encouragement, encourage | Ermutigung, ermutigen |
-| تەشخیس، تشخیص | هەڵسەنگاندن | عەرەبی | هەمیشە (پێداچوونەوە) | diagnosis, assessment, evaluation | Diagnose, Bewertung, Beurteilung |
-| تەشخیص | دەستنیشانکردن | عەرەبی | هەمیشە (پێداچوونەوە) | diagnosis, identification, diagnose | Diagnose, Feststellung, diagnostizieren |
-| تەشریح، تەشریخ | شیکاری لەش | عەرەبی | هەمیشە (پێداچوونەوە) | anatomy, dissection | Anatomie, Sektion |
-| تەشریع | یاساسازی | عەرەبی | توند (پێداچوونەوە) | legislation, lawmaking | Gesetzgebung |
-| تەشفیر | نهێنیکردن | عەرەبی | هەمیشە (پێداچوونەوە) | encryption, encrypt | Verschlüsselung, verschlüsseln |
-| تەشویق | هاندان | عەرەبی | هەمیشە (پێداچوونەوە) | encouragement, encourage | Ermutigung, ermutigen |
-| تەشکیل | پێکهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | formation, form, establish | Bildung, bilden, gründen |
-| تەشکیلات | پێکهاتە، ڕێکخراو | عەرەبی | هەمیشە (پێداچوونەوە) | organization, structure, formation | Organisation, Struktur |
-| تەشەکور، تشکر | سوپاس | عەرەبی | هەمیشە (پێداچوونەوە) | thanks, thank | Dank, danken |
-| تەصدیق، تصدیق | پەسندکردن | عەرەبی | هەمیشە (پێداچوونەوە) | certification, approval, endorsement | Beglaubigung, Bestätigung, Genehmigung |
-| تەصویر | وێنەگرتن | عەرەبی | هەمیشە (پێداچوونەوە) | photography, filming | Fotografie, Aufnahme |
-| تەضخوم، تەزخوم | هەڵکشانی نرخ | عەرەبی | توند (پێداچوونەوە) | inflation | Inflation, Teuerung |
-| تەعادل، تعادل، تەعادول | هاوسەنگی | عەرەبی | هەمیشە (پێداچوونەوە) | balance, equilibrium | Gleichgewicht |
-| تەعافی، تعافی | چاکبوونەوه | عەرەبی | هەمیشە (پێداچوونەوە) | recovery, healing | Genesung, Erholung, Heilung |
-| تەعام | خواردن | عەرەبی | هەمیشە (پێداچوونەوە) | food, meal | Essen, Nahrung, Mahlzeit |
-| تەعاون | هاوکاری | عەرەبی | هەمیشە (پێداچوونەوە) | cooperation | Zusammenarbeit, Kooperation |
-| تەعایوش | پێکەوەژیان | عەرەبی | هەمیشە (پێداچوونەوە) | coexistence | Koexistenz, Zusammenleben |
-| تەعبیر | دەربڕین | عەرەبی | هەمیشە (پێداچوونەوە) | expression | Ausdruck, Äußerung |
-| تەعتیل، تەعطیل | پشوو | عەرەبی | هەمیشە (پێداچوونەوە) | holiday, vacation, closure | Ferien, Urlaub, Feiertag |
-| تەعجوب، تعجب | سەرسوڕمان | عەرەبی | هەمیشە (پێداچوونەوە) | astonishment, surprise, amazement | Erstaunen, Verwunderung |
-| تەعجیل | پەلەکردن | عەرەبی | هەمیشە (پێداچوونەوە) | hurry, haste | Eile, beeilen |
-| تەعدی | دەستدرێژی | عەرەبی | هەمیشە (پێداچوونەوە) | assault, aggression, abuse | Übergriff, Angriff, Missbrauch |
-| تەعدیل | دەستکاری، گۆڕانکاری | عەرەبی | هەمیشە | modification, change, edit | Änderung, ändern, bearbeiten |
-| تەعریف | پێناسە | عەرەبی | هەمیشە (پێداچوونەوە) | definition, define | Definition, definieren |
-| تەعزیب | ئەشکەنجەدان | عەرەبی | هەمیشە (پێداچوونەوە) | torture, torment | Folter, foltern, Qual |
-| تەعزیم | ڕێزلێنان | عەرەبی | هەمیشە (پێداچوونەوە) | respect, honor, reverence | Respekt, Ehre, Verehrung |
-| تەعقیب | شوێنکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | pursuit, follow, prosecute | Verfolgung, verfolgen, folgen |
-| تەعقیم | پاکژکردن | عەرەبی | هەمیشە (پێداچوونەوە) | sterilization, sterilize, disinfect | Sterilisation, sterilisieren, desinfizieren |
-| تەعلیق | لێدوان | عەرەبی | هەمیشە (پێداچوونەوە) | comment, commentary | Kommentar, Stellungnahme |
-| تەعلیم | فێرکردن | عەرەبی | هەمیشە | teaching, education, teach | Unterricht, Lehre, lehren |
-| تەعلیمات | ڕێنمایی | عەرەبی | هەمیشە | instructions, guidelines, regulations | Anweisungen, Richtlinien, Anleitung |
-| تەعمیر | چاککردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | repair, fix | reparieren, Reparatur |
-| تەعمیم، تعمیم | گشتیکردن | عەرەبی | هەمیشە (پێداچوونەوە) | generalization, generalize, circular | Verallgemeinerung, verallgemeinern, Rundschreiben |
-| تەعویض | قەرەبووکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | compensation, indemnity | Entschädigung, Ausgleich |
-| تەعیین، تەعین | دیاریکردن | عەرەبی | هەمیشە (پێداچوونەوە) | determine, appoint, designation | bestimmen, festlegen, ernennen |
-| تەعەب | ماندووبوون | عەرەبی | هەمیشە (پێداچوونەوە) | fatigue, tiredness, exhaustion | Müdigkeit, Erschöpfung |
-| تەعەسوب، تەعەسسوب | دەمارگیری | عەرەبی | هەمیشە (پێداچوونەوە) | fanaticism, bigotry, prejudice | Fanatismus, Engstirnigkeit, Voreingenommenheit |
-| تەعەفون، تعفن | بۆگەنبوون | عەرەبی | هەمیشە (پێداچوونەوە) | rot, decay, putrefaction | Fäulnis, Verwesung |
-| تەعەللوق، تەعەلوق | پەیوەندی | عەرەبی | هەمیشە (پێداچوونەوە) | attachment, connection, relation | Bindung, Verbindung, Beziehung |
-| تەعەلوم، تەعەللوم | فێربوون | عەرەبی | هەمیشە (پێداچوونەوە) | learning | Lernen |
-| تەغزیە، تغذیة، تغذیه | خۆراک | عەرەبی | توند (پێداچوونەوە) | nutrition, food, nourishment | Ernährung, Nahrung |
-| تەغییر | گۆڕان | عەرەبی | هەمیشە (پێداچوونەوە) | change, alteration | Änderung, Veränderung, Wandel |
-| تەفاعل | کارلێک | عەرەبی | هەمیشە (پێداچوونەوە) | interaction | Wechselwirkung, Interaktion |
-| تەفاعول، تفاعل | کارلێک | عەرەبی | هەمیشە (پێداچوونەوە) | interaction, reaction | Wechselwirkung, Reaktion |
-| تەفتیش | پشکنین | عەرەبی | هەمیشە (پێداچوونەوە) | inspection, search, check | Inspektion, Durchsuchung, Kontrolle |
-| تەفریق | کەمکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | subtraction, separation | Subtraktion, Trennung |
-| تەفرەقە | دووبەرەکی | عەرەبی | هەمیشە (پێداچوونەوە) | division, discord, disunity | Spaltung, Zwietracht, Uneinigkeit |
-| تەفسیر | ڕوونکردنەوە، لێکدانەوە | عەرەبی | توند (پێداچوونەوە) | interpretation, explanation | Interpretation, Erklärung, Auslegung |
-| تەفسیل، تەفاسیل | وردەکاری | عەرەبی | هەمیشە | detail | Detail, Einzelheit |
-| تەفسیلات، تەفصیلات | وردەکاری | عەرەبی | هەمیشە (پێداچوونەوە) | details | Einzelheiten, Details |
-| تەقازا | داوا | عەرەبی | هەمیشە (پێداچوونەوە) | demand, request | Forderung, Anfrage, verlangen |
-| تەقاعود | خانەنشینی | عەرەبی | هەمیشە (پێداچوونەوە) | retirement | Ruhestand, Rente |
-| تەقدیر | پێزانین | عەرەبی | هەمیشە (پێداچوونەوە) | appreciation, estimate | Anerkennung, Wertschätzung, Schätzung |
-| تەقدیم | پێشکەشکردن | عەرەبی | هەمیشە | presentation, submission, present | Präsentation, Vorstellung, vorlegen |
-| تەقریب، تقریب | نزیکردنەوە | عەرەبی | توند (پێداچوونەوە) | approximation, rounding, approximate | Annäherung, Rundung, runden |
-| تەقریبەن | نزیکەی | عەرەبی | هەمیشە | approximately, about, nearly | ungefähr, etwa, fast |
-| تەقس، طقس، تەخس | کەش و هەوا | عەرەبی | هەمیشە (پێداچوونەوە) | weather, climate | Wetter, Klima |
-| تەقسیر | کەمتەرخەمی | عەرەبی | هەمیشە (پێداچوونەوە) | negligence, shortcoming, fault | Nachlässigkeit, Versäumnis, Schuld |
-| تەقسیط، تقسیط، تەقسیت | قیستبەندی | عەرەبی | توند (پێداچوونەوە) | installment, installment payment | Ratenzahlung, Rate |
-| تەقسیم | دابەشکردن | عەرەبی | هەمیشە (پێداچوونەوە) | division, divide, distribute | Teilung, teilen, aufteilen |
-| تەقصیر، تقصیر | کەموکوڕی | عەرەبی | توند (پێداچوونەوە) | shortcoming, negligence, fault | Versäumnis, Mangel, Nachlässigkeit |
-| تەقلید | لاسایی | عەرەبی | هەمیشە (پێداچوونەوە) | imitation, imitate | Nachahmung, nachahmen |
-| تەقنیە | تەکنیک | عەرەبی | هەمیشە (پێداچوونەوە) | technique, technology | Technik, Technologie |
-| تەقویم | ڕۆژژمێر | عەرەبی | هەمیشە (پێداچوونەوە) | calendar | Kalender |
-| تەقییم | هەڵسەنگاندن | عەرەبی | هەمیشە (پێداچوونەوە) | evaluation, assessment | Bewertung, Beurteilung |
-| تەقەدوم، تەقەددوم | پێشکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | progress, advance | Fortschritt |
-| تەقەلا | هەوڵ | عەرەبی | هەمیشە (پێداچوونەوە) | effort, attempt | Mühe, Bemühung, Versuch |
-| تەقەللوب، تەقەلوب | گۆڕانکاری | عەرەبی | هەمیشە (پێداچوونەوە) | fluctuation, change, upheaval | Schwankung, Wandel, Umwälzung |
-| تەلخیص | کوورتکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | summary, summarize | Zusammenfassung, zusammenfassen |
-| تەلقیح، تلقیح | پیتاندن | عەرەبی | هەمیشە (پێداچوونەوە) | vaccination, pollination, fertilization | Impfung, Bestäubung, Befruchtung |
-| تەلیف | نووسین | عەرەبی | توند (پێداچوونەوە) | writing, authorship, composition | Verfassen, Schreiben |
-| تەلەب | داوا | عەرەبی | هەمیشە (پێداچوونەوە) | request, demand | Antrag, Bitte, Forderung |
-| تەلەبە | قوتابی | عەرەبی | هەمیشە (پێداچوونەوە) | student, pupil | Schüler, Student |
-| تەلەووس، تلوث | پیسبوون | عەرەبی | هەمیشە (پێداچوونەوە) | pollution, contamination | Verschmutzung, Verunreinigung |
-| تەماس | پەیوەندی | عەرەبی | هەمیشە | contact, connection | Kontakt, Verbindung |
-| تەماسول | هاوشێوەیی | عەرەبی | هەمیشە (پێداچوونەوە) | similarity, symmetry | Ähnlichkeit, Symmetrie |
-| تەماع، تەماح، تەمەع | چاوچنۆکی | عەرەبی | هەمیشە (پێداچوونەوە) | greed | Gier, Habgier |
-| تەمام، تمام | تەواو، باشە | عەرەبی | هەمیشە (پێداچوونەوە) | complete, finished, okay | vollständig, fertig, in Ordnung |
-| تەمدید | درێژکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | extension, prolongation, extend | Verlängerung, verlängern |
-| تەمریز، تمریض | پەرستاری | عەرەبی | هەمیشە (پێداچوونەوە) | nursing | Krankenpflege, Pflege |
-| تەمریض | پەرستاری | عەرەبی | هەمیشە (پێداچوونەوە) | nursing | Krankenpflege, Pflege |
-| تەمرین | ڕاهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | exercise, practice, training | Übung, Training |
-| تەمییز | جیاکاری | عەرەبی | هەمیشە (پێداچوونەوە) | discrimination | Diskriminierung |
-| تەمەدود، تمدد، تەمەدوود | فراوانبوون | عەرەبی | هەمیشە (پێداچوونەوە) | expansion, extension, expand | Ausdehnung, Erweiterung, ausdehnen |
-| تەنازوع، تنازع | کێشمەکێش | عەرەبی | هەمیشە (پێداچوونەوە) | dispute, conflict, struggle | Streit, Konflikt, Auseinandersetzung |
-| تەناسوب | ڕێژە | عەرەبی | هەمیشە (پێداچوونەوە) | proportion, ratio, rate | Verhältnis, Proportion, Anteil |
-| تەناسول، تناسل | زاوزێ | عەرەبی | هەمیشە (پێداچوونەوە) | reproduction, breeding | Fortpflanzung, Vermehrung |
-| تەناقوز، تناقض، تەناقوض | ناکۆکی | عەرەبی | توند (پێداچوونەوە) | contradiction, inconsistency | Widerspruch |
-| تەنزیم | ڕێکخستن | عەرەبی | هەمیشە (پێداچوونەوە) | organization, organize, regulate | Organisation, organisieren, regeln |
-| تەنسیق | هەماهەنگی | عەرەبی | هەمیشە (پێداچوونەوە) | coordination | Koordination, Abstimmung |
-| تەنفیذ، تەنفید | جێبەجێکردن | عەرەبی | هەمیشە (پێداچوونەوە) | implementation, execution | Umsetzung, Durchführung, Ausführung |
-| تەنفیز، تنفیذ | جێبەجێکردن | عەرەبی | هەمیشە (پێداچوونەوە) | implementation, execution, implement | Durchführung, Umsetzung, durchführen |
-| تەنمیە | پەرەپێدان | عەرەبی | هەمیشە (پێداچوونەوە) | development, develop | Entwicklung, entwickeln |
-| تەنەفوس | هەناسەدان | عەرەبی | هەمیشە (پێداچوونەوە) | breathing, respiration, breathe | Atmung, atmen |
-| تەنەوع | جۆراوجۆری | عەرەبی | هەمیشە (پێداچوونەوە) | diversity, variety | Vielfalt |
-| تەنەوو | فرەڕەنگی | عەرەبی | هەمیشە (پێداچوونەوە) | diversity, pluralism | Vielfalt, Pluralismus |
-| تەنەووع، تەنووع | فرەڕەنگی | عەرەبی | هەمیشە (پێداچوونەوە) | diversity, variety | Vielfalt, Diversität |
-| تەهجیر، تهجیر | ئاوارەکردن | عەرەبی | توند (پێداچوونەوە) | displacement, deportation, displace | Vertreibung, Deportation, vertreiben |
-| تەهجییە، تهجئة | ڕاستنووسی | عەرەبی | توند (پێداچوونەوە) | spelling, orthography | Rechtschreibung, Buchstabieren |
-| تەهدید | هەڕەشە | عەرەبی | هەمیشە (پێداچوونەوە) | threat | Drohung, Bedrohung |
-| تەهمە، تهمة | تۆمەت | عەرەبی | هەمیشە (پێداچوونەوە) | accusation, charge | Anklage, Beschuldigung, Vorwurf |
-| تەواری، تەوارئ | پەلە | عەرەبی | هەمیشە (پێداچوونەوە) | emergency, urgency, haste | Notfall, Eile, Dringlichkeit |
-| تەوازن، توازن | هاوسەنگی | عەرەبی | هەمیشە (پێداچوونەوە) | balance, equilibrium | Gleichgewicht, Balance |
-| تەوازون | هاوسەنگی | عەرەبی | هەمیشە (پێداچوونەوە) | balance, equilibrium | Gleichgewicht, Balance |
-| تەواسول، تەواصول | پەیوەندی | عەرەبی | هەمیشە (پێداچوونەوە) | communication, contact, connection | Kommunikation, Kontakt, Verbindung |
-| تەوتور، توتر | گرژی | عەرەبی | هەمیشە (پێداچوونەوە) | tension | Spannung |
-| تەوجیه، توجیه | ڕێنمایی | عەرەبی | هەمیشە (پێداچوونەوە) | guidance, instruction, direction | Anleitung, Orientierung, Hinweis |
-| تەوزیح | ڕوونکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | explanation, clarification | Erklärung, Erläuterung |
-| تەوزیع | دابەشکردن | عەرەبی | هەمیشە (پێداچوونەوە) | distribution, distribute | Verteilung, verteilen |
-| تەوسیع، توسیع | فراوانکردن | عەرەبی | توند (پێداچوونەوە) | expansion, enlargement, expand | Erweiterung, Ausbau, erweitern |
-| تەوسیق، توثیق | تۆمارکردن | عەرەبی | هەمیشە (پێداچوونەوە) | documentation, recording | Dokumentation, Beurkundung |
-| تەوضیح، توضیح | ڕوونکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | clarification, explanation | Erklärung, Erläuterung, Klarstellung |
-| تەوقیع | واژۆ | عەرەبی | هەمیشە (پێداچوونەوە) | signature, sign | Unterschrift, unterschreiben |
-| تەوقیف | ڕاگرتن، دەستگیرکردن | عەرەبی | توند (پێداچوونەوە) | stop, arrest, suspension | Festnahme, Verhaftung, Anhalten, Einstellung |
-| تەولید، تولید | بەرهەمهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | production, generation, produce | Produktion, Erzeugung, produzieren |
-| تەوەسوع | فراوانبوون | عەرەبی | هەمیشە (پێداچوونەوە) | expansion, enlargement | Ausdehnung, Erweiterung |
-| تەوەقوف | ڕاگرتن | عەرەبی | توند (پێداچوونەوە) | stop, halt, suspension | Stopp, Anhalten, Einstellung |
-| تەکاسور، تەکاثور | زاوزێ | عەرەبی | هەمیشە (پێداچوونەوە) | reproduction, breeding | Fortpflanzung, Vermehrung |
-| تەکاسوف، تكاثف | چڕبوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | condensation, condense | Kondensation, Verdichtung, kondensieren |
-| تەکاسوور | زاوزێ | عەرەبی | هەمیشە (پێداچوونەوە) | reproduction, multiplication, breeding | Fortpflanzung, Vermehrung |
-| تەکاموول | پەرەسەندن | عەرەبی | هەمیشە (پێداچوونەوە) | evolution, development | Evolution, Entwicklung |
-| تەکرار | دووبارەکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | repetition, repeat | Wiederholung, wiederholen |
-| تەکلیف | سپاردە | عەرەبی | هەمیشە (پێداچوونەوە) | assignment, task, homework | Aufgabe, Auftrag, Hausaufgabe |
-| تەکیف، تکیف | گونجان | عەرەبی | هەمیشە (پێداچوونەوە) | adaptation, adjustment, adapt | Anpassung, anpassen |
-| تەڵاق، تەلاق | جیابوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | divorce | Scheidung |
-| تەیارە | فڕۆکە | عەرەبی | هەمیشە (پێداچوونەوە) | airplane, aircraft | Flugzeug |
-| تەیر | باڵندە | عەرەبی | هەمیشە (پێداچوونەوە) | bird | Vogel |
-| جازیبییەت | ڕاکێشان | عەرەبی | هەمیشە (پێداچوونەوە) | attraction, gravity, charm | Anziehung, Schwerkraft, Anziehungskraft |
-| جازیبیە، جاذبیە | هێزی کێشان | عەرەبی | هەمیشە (پێداچوونەوە) | gravity, gravitation | Schwerkraft, Gravitation |
-| جازیبیەت، جاذبية | کێشان | عەرەبی | هەمیشە (پێداچوونەوە) | gravity, attraction | Schwerkraft, Anziehung |
-| جامیعە، جامعە | زانکۆ | عەرەبی | هەمیشە (پێداچوونەوە) | university | Universität, Hochschule |
-| جاهیل | نەزان | عەرەبی | هەمیشە (پێداچوونەوە) | ignorant | unwissend |
-| جایحە، جایحه | دەردی جیهانگیر | عەرەبی | توند (پێداچوونەوە) | pandemic, epidemic | Pandemie, Seuche |
-| جزئیات | وردەکاری، بەشەکان | عەرەبی | هەمیشە (پێداچوونەوە) | details, particulars, parts | Einzelheiten, Details, Teile |
-| جنس | ڕەگەز | عەرەبی | هەمیشە (پێداچوونەوە) | sex, gender, race | Geschlecht, Rasse |
-| جواب | وەڵام | عەرەبی | هەمیشە (پێداچوونەوە) | answer, reply | Antwort |
-| جوبن | ترسنۆکی | عەرەبی | توند (پێداچوونەوە) | cowardice | Feigheit |
-| جورعە | بەش | عەرەبی | هەمیشە (پێداچوونەوە) | dose, portion | Dosis, Portion |
-| جوسەیم، جسیم، جوسەیمات | وچکە | عەرەبی | توند (پێداچوونەوە) | particle | Teilchen, Partikel |
-| جومجومه، جومجمه | کاسەسەر | عەرەبی | هەمیشە (پێداچوونەوە) | skull | Schädel |
-| جومجومە، جمجمة | کاسەی سەر | عەرەبی | توند (پێداچوونەوە) | skull | Schädel |
-| جومعە، جمعه | هەینی | عەرەبی | هەمیشە (پێداچوونەوە) | Friday | Freitag |
-| جوملە، جومڵە | ڕستە | عەرەبی | هەمیشە | sentence | Satz |
-| جومهوریەت، جمهوریەت، جومهووریه | کۆمار | عەرەبی | توند (پێداچوونەوە) | republic | Republik |
-| جیراحە، جراحە | نەشتەرگەری | عەرەبی | هەمیشە (پێداچوونەوە) | surgery | Chirurgie, Operation |
-| جیسم | لەش | عەرەبی | هەمیشە (پێداچوونەوە) | body | Körper, Leib |
-| جیلد | پێست | عەرەبی | هەمیشە (پێداچوونەوە) | skin | Haut |
-| جینائی، جنائی | تاوانی | عەرەبی | هەمیشە (پێداچوونەوە) | criminal | strafrechtlich, kriminell |
-| جینایی | تاوانی | عەرەبی | توند (پێداچوونەوە) | criminal, penal | kriminell, strafrechtlich |
-| جینایەت | تاوان | عەرەبی | هەمیشە (پێداچوونەوە) | crime | Verbrechen |
-| جینسیە | هاوڵاتیبوون، نەتەوایەتی | عەرەبی | توند (پێداچوونەوە) | citizenship, nationality | Staatsbürgerschaft, Staatsangehörigkeit, Nationalität |
-| جینسیەت، جنسیة | نەتەوایەتی | عەرەبی | هەمیشە (پێداچوونەوە) | nationality, citizenship | Staatsangehörigkeit, Nationalität |
-| جیهاز | ئامێر | عەرەبی | هەمیشە (پێداچوونەوە) | device, apparatus | Gerät, Apparat |
-| جەبەل، جبل | چیا | عەرەبی | هەمیشە (پێداچوونەوە) | mountain | Berg |
-| جەحیم | دۆزەخ | عەرەبی | هەمیشە (پێداچوونەوە) | hell | Hölle |
-| جەدول، جەدوال | خشتە | عەرەبی | هەمیشە (پێداچوونەوە) | table, schedule | Tabelle, Plan |
-| جەدید | نوێ | عەرەبی | هەمیشە (پێداچوونەوە) | new | neu |
-| جەراحی، جراحی، جیراحی | نەشتەرگەری | عەرەبی | هەمیشە (پێداچوونەوە) | surgery, surgical | Chirurgie, Operation, chirurgisch |
-| جەرح | برین | عەرەبی | هەمیشە (پێداچوونەوە) | wound, injury | Wunde, Verletzung |
-| جەرم | تاوان | عەرەبی | هەمیشە (پێداچوونەوە) | crime, offense | Verbrechen, Straftat |
-| جەریدە | ڕۆژنامە | عەرەبی | هەمیشە (پێداچوونەوە) | newspaper | Zeitung |
-| جەریمە، جەرائم | تاوان | عەرەبی | هەمیشە (پێداچوونەوە) | crime, offense | Verbrechen, Straftat |
-| جەزر، جذر | ڕەگ | عەرەبی | هەمیشە (پێداچوونەوە) | root | Wurzel |
-| جەزیرە | دوورگە | عەرەبی | توند (پێداچوونەوە) | island | Insel |
-| جەفاف | وشکەساڵی | عەرەبی | هەمیشە (پێداچوونەوە) | drought | Dürre, Trockenheit |
-| جەلسە، جلسة | دانیشتن | عەرەبی | هەمیشە (پێداچوونەوە) | session, meeting, sitting | Sitzung, Tagung |
-| جەلید، جلید | بەستێن | عەرەبی | توند (پێداچوونەوە) | ice, frost | Eis, Frost |
-| جەماعەت | کۆمەڵ، کۆمەڵگا | عەرەبی | هەمیشە (پێداچوونەوە) | community, group, congregation, society | Gemeinschaft, Gruppe, Gemeinde, Gesellschaft |
-| جەمع | کۆ | عەرەبی | هەمیشە (پێداچوونەوە) | sum, total, plural, collection | Summe, Plural, Sammlung |
-| جەمعییەت، جەمعیەت | کۆمەڵە | عەرەبی | هەمیشە (پێداچوونەوە) | association, society | Verein, Gesellschaft, Verband |
-| جەمیع | هەموو | عەرەبی | هەمیشە (پێداچوونەوە) | all, every | alle, sämtliche |
-| جەمیل | جوان | عەرەبی | هەمیشە (پێداچوونەوە) | beautiful, pretty | schön, hübsch |
-| جەنازە | پرسە | عەرەبی | هەمیشە (پێداچوونەوە) | funeral, mourning, corpse | Beerdigung, Trauerfeier, Leichnam |
-| جەهد، جوهد | خۆڕاگری | عەرەبی | توند (پێداچوونەوە) | effort, endurance, perseverance | Anstrengung, Ausdauer, Durchhaltevermögen |
-| جەهل | نەزانی | عەرەبی | هەمیشە (پێداچوونەوە) | ignorance | Unwissenheit |
-| جەواب | وەڵام | عەرەبی | هەمیشە | answer, reply | Antwort, antworten |
-| جەوهەر، جوهر | بنچینه | عەرەبی | توند (پێداچوونەوە) | essence, substance, basis | Wesen, Substanz, Grundlage |
-| جەڕاح | نەشتەرگەر | عەرەبی | هەمیشە (پێداچوونەوە) | surgeon | Chirurg |
-| جەڕاحی | نەشتەرگەری | عەرەبی | هەمیشە (پێداچوونەوە) | surgery | Chirurgie, Operation |
-| جەیش | سوپا | عەرەبی | هەمیشە (پێداچوونەوە) | army | Armee, Heer |
-| حاجەت، حاجات | پێویستی | عەرەبی | هەمیشە (پێداچوونەوە) | need, necessity | Bedürfnis, Bedarf, Notwendigkeit |
-| حاد | تیژ | عەرەبی | توند (پێداچوونەوە) | acute, sharp | akut, scharf |
-| حادیسە | ڕووداو | عەرەبی | هەمیشە (پێداچوونەوە) | event, incident, accident | Ereignis, Vorfall, Unfall |
-| حارس | پاسەوان | عەرەبی | هەمیشە (پێداچوونەوە) | guard, watchman | Wächter, Wache |
-| حازر | ئامادە | عەرەبی | هەمیشە (پێداچوونەوە) | ready, present | bereit, fertig, anwesend |
-| حاسڵ، حاصل | ئەنجام | عەرەبی | هەمیشە (پێداچوونەوە) | result, outcome | Ergebnis, Resultat |
-| حاسیلی، حاصلی | بەکوورتی، کەواتە | عەرەبی | توند (پێداچوونەوە) | in short, so, therefore | kurz gesagt, also, folglich |
-| حاشا | نکۆڵی | عەرەبی | هەمیشە (پێداچوونەوە) | denial, never | Leugnung, keineswegs, bestreiten |
-| حاشیە | پەراوێز | عەرەبی | هەمیشە (پێداچوونەوە) | margin, footnote, sideline | Rand, Fußnote |
-| حالت | دۆخ | عەرەبی | هەمیشە (پێداچوونەوە) | state, condition, situation | Zustand, Lage, Situation |
-| حامی | پارێزەر | عەرەبی | هەمیشە (پێداچوونەوە) | protector, defender, guardian | Beschützer, Verteidiger, Schützer |
-| حامیلە | دووگیان | عەرەبی | هەمیشە (پێداچوونەوە) | pregnant | schwanger |
-| حاکم | فەرمانڕەوا | عەرەبی | هەمیشە (پێداچوونەوە) | ruler, governor | Herrscher, Machthaber |
-| حاکمییەت، حاکمیەت | دەسەڵات | عەرەبی | هەمیشە (پێداچوونەوە) | sovereignty, authority, rule | Souveränität, Herrschaft, Macht |
-| حاڵ | بار، دۆخ | عەرەبی | هەمیشە (پێداچوونەوە) | condition, state, situation | Zustand, Lage |
-| حاڵا | ئێستا | عەرەبی | هەمیشە | now | jetzt |
-| حاڵیەن، حالیەن | ئێستا | عەرەبی | هەمیشە (پێداچوونەوە) | currently, now, at present | derzeit, jetzt, zurzeit |
-| حاڵەت | دۆخ | عەرەبی | هەمیشە (پێداچوونەوە) | state, condition, case | Zustand, Fall, Lage |
-| حدوود، حەد، حەدد | سنوور | عەرەبی | هەمیشە (پێداچوونەوە) | border, limits, boundary | Grenze, Grenzen |
-| حرف، حروف | پیت | عەرەبی | هەمیشە (پێداچوونەوە) | letter | Buchstabe |
-| حزوور، حضور | ئامادەبوون | عەرەبی | هەمیشە (پێداچوونەوە) | presence, attendance | Anwesenheit, Präsenz |
-| حس، حسّی | هەست | عەرەبی | توند (پێداچوونەوە) | feeling, sense, sensation | Gefühl, Sinn, Empfindung |
-| حقووق | مافەکان | عەرەبی | هەمیشە (پێداچوونەوە) | rights, law | Rechte, Rechtswissenschaft |
-| حوار | گفتوگۆ | عەرەبی | هەمیشە (پێداچوونەوە) | dialogue, conversation | Dialog, Gespräch |
-| حوججەت، حوجەت | بەڵگە | عەرەبی | هەمیشە (پێداچوونەوە) | proof, evidence, argument | Beweis, Argument |
-| حوجوم، هجوم | هێرش | عەرەبی | هەمیشە (پێداچوونەوە) | attack, assault | Angriff, Überfall |
-| حوجە، حجة | بەڵگە | عەرەبی | هەمیشە (پێداچوونەوە) | argument, proof, evidence | Argument, Beweis, Beleg |
-| حودود، حدود | سنوور | عەرەبی | هەمیشە (پێداچوونەوە) | border, boundary, limit | Grenze |
-| حودووس | ڕوودان | عەرەبی | هەمیشە (پێداچوونەوە) | occurrence | Ereignis, Auftreten |
-| حورمەت | ڕێز | عەرەبی | هەمیشە (پێداچوونەوە) | respect | Respekt, Achtung |
-| حوروق، حروق | سووتان | عەرەبی | هەمیشە (پێداچوونەوە) | burning, combustion, burn | Verbrennung, Brennen, Verbrennen |
-| حوزن | خەم | عەرەبی | هەمیشە (پێداچوونەوە) | sorrow, grief, sadness | Trauer, Kummer, Traurigkeit |
-| حوزوور، حوضور | ئامادەبوون | عەرەبی | توند (پێداچوونەوە) | presence, attendance | Anwesenheit, Gegenwart |
-| حوسن | جوانی | عەرەبی | هەمیشە (پێداچوونەوە) | beauty | Schönheit |
-| حوقنە، حقنە | دەرزی | عەرەبی | هەمیشە (پێداچوونەوە) | injection, syringe, shot | Spritze, Injektion |
-| حوقووق، حقوق، حوقوق | ماف | عەرەبی | هەمیشە (پێداچوونەوە) | rights, law | Rechte, Recht |
-| حوقووقی | یاسایی | عەرەبی | هەمیشە (پێداچوونەوە) | legal, juridical | rechtlich, juristisch |
-| حومما | تا | عەرەبی | هەمیشە (پێداچوونەوە) | fever | Fieber |
-| حوودود | سنوور | عەرەبی | هەمیشە (پێداچوونەوە) | border, boundary, limit | Grenze |
-| حوڕیەت | ئازادی | عەرەبی | هەمیشە (پێداچوونەوە) | freedom, liberty | Freiheit |
-| حوکم | فەرمان، دەسەڵات | عەرەبی | هەمیشە (پێداچوونەوە) | rule, authority, power, verdict | Herrschaft, Macht, Urteil |
-| حوکمدار | فەرمانڕەوا | عەرەبی | هەمیشە (پێداچوونەوە) | ruler | Herrscher |
-| حوکمڕانی، حکومڕانی | فەرمانڕەوایی | عەرەبی | هەمیشە (پێداچوونەوە) | governance, rule, reign | Herrschaft, Regierungsführung |
-| حوکەما | داناکان | عەرەبی | هەمیشە (پێداچوونەوە) | wise men, sages, philosophers | Weise, Philosophen |
-| حکایە | چیرۆک | عەرەبی | هەمیشە (پێداچوونەوە) | story, tale | Geschichte, Erzählung |
-| حکومی، حکوومی | میری | عەرەبی | هەمیشە (پێداچوونەوە) | governmental, public, state | staatlich, öffentlich |
-| حکومەت، حوکومەت، حوکوومەت، حکوومەت | میری | عەرەبی | توند | government | Regierung |
-| حیاد | بێلایەنی | عەرەبی | هەمیشە (پێداچوونەوە) | neutrality | Neutralität |
-| حیدەت، حیددەت | توندی | عەرەبی | هەمیشە (پێداچوونەوە) | intensity, sharpness, severity | Intensität, Schärfe, Heftigkeit |
-| حیرس | چاوچنۆکی | عەرەبی | هەمیشە (پێداچوونەوە) | greed, avarice | Gier, Habgier |
-| حیرمان | بێبەشی | عەرەبی | هەمیشە (پێداچوونەوە) | deprivation | Entbehrung, Benachteiligung, Mangel |
-| حیرەت، حەیرەت | سەرسوڕمان | عەرەبی | هەمیشە (پێداچوونەوە) | amazement, astonishment, bewilderment | Staunen, Erstaunen, Verwunderung |
-| حیزب | پارت | عەرەبی | هەمیشە (پێداچوونەوە) | party | Partei |
-| حیساب، حساب | هەژمار | عەرەبی | هەمیشە | calculation, account, count | Berechnung, Rechnung, Konto |
-| حیشمەت | شکۆ | عەرەبی | هەمیشە (پێداچوونەوە) | majesty, grandeur, glory | Pracht, Würde, Herrlichkeit |
-| حیفز، حفز | پاراستن، لەبەرکردن | عەرەبی | توند (پێداچوونەوە) | protection, preserve, memorize, save | Schutz, bewahren, auswendig lernen, speichern |
-| حیلە، حیله | فێل | عەرەبی | هەمیشە (پێداچوونەوە) | trick, ruse | List, Trick |
-| حیمار | گوێدرێژ | عەرەبی | هەمیشە (پێداچوونەوە) | donkey | Esel |
-| حیمایە، حیمایەت | پاراستن | عەرەبی | هەمیشە (پێداچوونەوە) | protection, protect | Schutz, schützen |
-| حیوار | وتووێژ | عەرەبی | هەمیشە (پێداچوونەوە) | dialogue, conversation | Dialog, Gespräch |
-| حیوان | ئاژەڵ | عەرەبی | هەمیشە (پێداچوونەوە) | animal | Tier |
-| حیکایەت | چیرۆک | عەرەبی | هەمیشە (پێداچوونەوە) | story, tale | Geschichte, Erzählung |
-| حیکمەت | دانایی | عەرەبی | هەمیشە (پێداچوونەوە) | wisdom | Weisheit |
-| حیکە | خنیان | عەرەبی | هەمیشە (پێداچوونەوە) | itch, itching | Juckreiz, Jucken |
-| حەب، حەبە، حەبدانە | دەنکە | عەرەبی | هەمیشە (پێداچوونەوە) | pill, tablet | Tablette, Pille |
-| حەبس، حبس | زیندانیکردن | عەرەبی | هەمیشە (پێداچوونەوە) | imprisonment, prison, jail | Haft, Gefängnis, Inhaftierung |
-| حەبیب | خۆشەویست | عەرەبی | هەمیشە (پێداچوونەوە) | beloved, darling | Geliebte, Liebling |
-| حەتا، حەتتا | تەنانەت، تا | عەرەبی | هەمیشە | even, until | sogar, bis |
-| حەتمەن | بێگومان، بەدڵنیایی | عەرەبی | هەمیشە (پێداچوونەوە) | certainly, definitely, surely | bestimmt, sicher, unbedingt |
-| حەجم | ئەندازە | عەرەبی | هەمیشە (پێداچوونەوە) | size, volume | Größe, Umfang, Volumen |
-| حەداسە، حەداسەت | نوێگەری | عەرەبی | هەمیشە (پێداچوونەوە) | modernity, innovation | Modernität, Neuerung |
-| حەدید، حدید | ئاسن | عەرەبی | هەمیشە (پێداچوونەوە) | iron | Eisen |
-| حەرارە، حرارە | گەرمی | عەرەبی | هەمیشە (پێداچوونەوە) | heat, temperature | Wärme, Hitze, Temperatur |
-| حەرارەت | گەرمی | عەرەبی | هەمیشە (پێداچوونەوە) | heat, temperature | Hitze, Wärme, Temperatur |
-| حەرام | ناڕەوا | عەرەبی | توند (پێداچوونەوە) | forbidden, unlawful, sinful | verboten, unrecht, unerlaubt |
-| حەرب | جەنگ | عەرەبی | هەمیشە (پێداچوونەوە) | war | Krieg |
-| حەرف | پیت | عەرەبی | هەمیشە | letter | Buchstabe |
-| حەریف | ڕکابەر | عەرەبی | هەمیشە (پێداچوونەوە) | rival, opponent, competitor | Rivale, Gegner, Konkurrent |
-| حەرەس | پاسەوان | عەرەبی | هەمیشە (پێداچوونەوە) | guard | Wache, Wächter |
-| حەرەکەت، حەرەکە | جووڵە | عەرەبی | هەمیشە (پێداچوونەوە) | movement, motion | Bewegung |
-| حەزارە، حضارة | شارستانیەت | عەرەبی | هەمیشە (پێداچوونەوە) | civilization | Zivilisation |
-| حەزف | سڕینەوە | عەرەبی | هەمیشە | deletion, delete, remove | löschen, entfernen |
-| حەزین | خەمبار | عەرەبی | هەمیشە (پێداچوونەوە) | sad, sorrowful | traurig, betrübt |
-| حەزەر | وریایی، ئاگاداری | عەرەبی | هەمیشە (پێداچوونەوە) | caution, wariness, vigilance, awareness | Vorsicht, Wachsamkeit |
-| حەسادەت | ئیرەیی | عەرەبی | هەمیشە (پێداچوونەوە) | envy, jealousy | Neid, Eifersucht |
-| حەسار، حیسار | پەرژین | عەرەبی | توند (پێداچوونەوە) | fence, enclosure, wall | Zaun, Einfriedung, Mauer |
-| حەساسییەت، حەساسیەت | هەستیاری | عەرەبی | هەمیشە (پێداچوونەوە) | sensitivity, allergy | Empfindlichkeit, Allergie |
-| حەساسیە، حساسیە | هەستیاری | عەرەبی | هەمیشە (پێداچوونەوە) | allergy, sensitivity | Allergie, Empfindlichkeit |
-| حەسبە، حصبة، حەصبە | سورکە | عەرەبی | توند (پێداچوونەوە) | measles | Masern |
-| حەسرەت | داخ، ئاوات | عەرەبی | هەمیشە (پێداچوونەوە) | regret, longing, sorrow | Sehnsucht, Bedauern, Kummer |
-| حەسەد | ئیرەیی | عەرەبی | هەمیشە (پێداچوونەوە) | envy, jealousy | Neid, Eifersucht |
-| حەشو | پڕکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | filling, stuffing | Füllung, Füllen |
-| حەشەرە، حەشەرات | مێرووله | عەرەبی | هەمیشە (پێداچوونەوە) | insect | Insekt |
-| حەفلە، حافلە | ئاهەنگ | عەرەبی | هەمیشە (پێداچوونەوە) | party, celebration, concert | Feier, Fest, Party |
-| حەفید، حفید | نەوە | عەرەبی | هەمیشە (پێداچوونەوە) | grandchild | Enkel, Enkelkind |
-| حەق، هەق، حق | ماف، ڕاستی | عەرەبی | هەمیشە (پێداچوونەوە) | right, truth | Recht, Wahrheit |
-| حەقیبە | جانتا | عەرەبی | هەمیشە (پێداچوونەوە) | bag, suitcase, briefcase | Tasche, Koffer |
-| حەقیقی | ڕاستەقینە | عەرەبی | هەمیشە (پێداچوونەوە) | real, true, genuine | wirklich, echt, wahr |
-| حەقیقەت | ڕاستی | عەرەبی | هەمیشە | truth, reality, fact | Wahrheit, Wirklichkeit |
-| حەقیقەتەن، حقیقتا | بەڕاستی | عەرەبی | هەمیشە (پێداچوونەوە) | really, truly, indeed | wirklich, tatsächlich, wahrhaftig |
-| حەل | چارەسەر | عەرەبی | هەمیشە | solution, solve | Lösung, lösen |
-| حەلقە، حەلقەی | بازنە، چەنبەر | عەرەبی | توند (پێداچوونەوە) | ring, circle, episode | Ring, Kreis, Folge |
-| حەمال، حەمباڵ، حەمباڵی | بارهەڵگر | عەرەبی | هەمیشە (پێداچوونەوە) | porter, carrier | Träger, Gepäckträger |
-| حەمام | گەرماو | عەرەبی | هەمیشە (پێداچوونەوە) | bath, bathhouse, bathroom | Bad, Badehaus, Badezimmer |
-| حەماڵ | کۆڵکێش | عەرەبی | هەمیشە (پێداچوونەوە) | porter | Träger, Gepäckträger |
-| حەمل، حەمڵ | دووگیانی | عەرەبی | هەمیشە (پێداچوونەوە) | pregnancy | Schwangerschaft |
-| حەملە | هێرش | عەرەبی | هەمیشە (پێداچوونەوە) | attack, assault, campaign | Angriff, Attacke, Feldzug |
-| حەواس | هەستەکان | عەرەبی | هەمیشە (پێداچوونەوە) | senses | Sinne |
-| حەوالی، حوالی | نزیکەی، دەوروبەری | عەرەبی | هەمیشە (پێداچوونەوە) | about, approximately, around | ungefähr, etwa, rund |
-| حەواڵە، حواله، حوالة | گواستنەوەی پارە | عەرەبی | هەمیشە (پێداچوونەوە) | money transfer, remittance | Überweisung, Geldtransfer |
-| حەوز | گۆم | عەرەبی | توند (پێداچوونەوە) | pool, pond, basin | Becken, Teich |
-| حەپس | زیندان | عەرەبی | هەمیشە (پێداچوونەوە) | prison, jail | Gefängnis |
-| حەپسخانە | گرتووخانە، زیندان | عەرەبی | هەمیشە (پێداچوونەوە) | prison, jail | Gefängnis |
-| حەکیم | پزیشک، دانا | عەرەبی | هەمیشە (پێداچوونەوە) | doctor, physician, wise | Arzt, weise |
-| حەکەم، حکەم | داوەر | عەرەبی | هەمیشە (پێداچوونەوە) | referee, arbiter, umpire | Schiedsrichter |
-| حەڵاڵ | ڕەوا | عەرەبی | توند (پێداچوونەوە) | lawful, permissible, legitimate | erlaubt, rechtmäßig, legitim |
-| حەیا | شەرم | عەرەبی | هەمیشە (پێداچوونەوە) | modesty, shame, shyness | Scham, Bescheidenheit, Schüchternheit |
-| حەیات | ژیان | عەرەبی | هەمیشە (پێداچوونەوە) | life | Leben |
-| حەیران | سەرسام، سەرسوڕمان | عەرەبی | هەمیشە (پێداچوونەوە) | astonished, amazed, bewildered | erstaunt, verwundert, verblüfft |
-| حەیف | مخابن | عەرەبی | هەمیشە (پێداچوونەوە) | pity, what a pity | schade, Bedauern |
-| حەیوان | ئاژەڵ | عەرەبی | هەمیشە (پێداچوونەوە) | animal | Tier |
-| حەیوانات | ئاژەڵان | عەرەبی | هەمیشە (پێداچوونەوە) | animals | Tiere |
-| خائین | ناپاک | عەرەبی | هەمیشە (پێداچوونەوە) | traitor, treacherous | Verräter, verräterisch |
-| خاتیمە | کۆتایی | عەرەبی | هەمیشە (پێداچوونەوە) | conclusion, end, ending | Schluss, Ende, Abschluss |
-| خادم | خزمەتکار | عەرەبی | توند (پێداچوونەوە) | servant | Diener |
-| خاریج | دەرەوە | عەرەبی | هەمیشە (پێداچوونەوە) | outside, abroad | außen, draußen, Ausland |
-| خاسیەت، خاسییەت | تایبەتمەندی | عەرەبی | هەمیشە (پێداچوونەوە) | characteristic, property, feature | Eigenschaft, Merkmal |
-| خاص | تایبەت | عەرەبی | هەمیشە (پێداچوونەوە) | special, private, specific | besonders, privat, speziell |
-| خاڵیص | پاک، بێگەرد | عەرەبی | توند (پێداچوونەوە) | pure, sheer, unmixed | rein, pur, lauter |
-| خسووسی، خوسووسی، خصوصی | تایبەت | عەرەبی | هەمیشە (پێداچوونەوە) | private, special, particular | privat, besonders, speziell |
-| خوسوف، خسوف، خوسووف | مانگگرتن | عەرەبی | توند (پێداچوونەوە) | lunar eclipse | Mondfinsternis |
-| خوف | ترس | عەرەبی | توند (پێداچوونەوە) | fear | Angst, Furcht |
-| خولاسە | پوختە | عەرەبی | هەمیشە | summary | Zusammenfassung |
-| خولاصە | کوورتە | عەرەبی | هەمیشە (پێداچوونەوە) | summary, abstract | Zusammenfassung |
-| خۆشحاڵ | دڵخۆش | عەرەبی | هەمیشە (پێداچوونەوە) | happy, glad, pleased | glücklich, froh, erfreut |
-| خیانەت | ناپاکی | عەرەبی | هەمیشە (پێداچوونەوە) | betrayal, treason | Verrat |
-| خیتاب | وتار | عەرەبی | هەمیشە (پێداچوونەوە) | speech, address | Rede, Ansprache |
-| خیدمەت، خزمەت | ڕاژە | عەرەبی | توند | service | Dienst, Dienstleistung |
-| خیلاف، خلاف | ناکۆکی | عەرەبی | هەمیشە (پێداچوونەوە) | dispute, disagreement, conflict | Streit, Meinungsverschiedenheit, Konflikt |
-| خیلقەت | سروشت | عەرەبی | هەمیشە (پێداچوونەوە) | creation, nature | Schöpfung, Natur |
-| خەبیر، خبیر | پسپۆر | عەرەبی | هەمیشە (پێداچوونەوە) | expert, specialist | Experte, Fachmann |
-| خەبەر | هەواڵ | عەرەبی | هەمیشە | news | Nachricht, Neuigkeit |
-| خەت، خط | هێڵ | عەرەبی | هەمیشە (پێداچوونەوە) | line | Linie |
-| خەتا، خطا | هەڵە | عەرەبی | هەمیشە (پێداچوونەوە) | mistake, error, fault | Fehler, Schuld |
-| خەتەر | مەترسی | عەرەبی | هەمیشە (پێداچوونەوە) | danger, risk | Gefahr, Risiko |
-| خەرافات | باوەڕی پووچ | عەرەبی | هەمیشە (پێداچوونەوە) | superstition | Aberglaube |
-| خەریتە | نەخشە | عەرەبی | هەمیشە (پێداچوونەوە) | map | Karte, Landkarte |
-| خەسائیس، خصائص | تایبەتمەندی | عەرەبی | هەمیشە (پێداچوونەوە) | characteristic, feature, property | Eigenschaft, Merkmal |
-| خەسارە | زیان | عەرەبی | هەمیشە (پێداچوونەوە) | damage, loss | Schaden, Verlust |
-| خەسارەت، خسارە، خسارت، خساره | زیان | عەرەبی | هەمیشە (پێداچوونەوە) | loss, damage | Verlust, Schaden |
-| خەسب، خصب | بەرهەمدار | عەرەبی | هەمیشە (پێداچوونەوە) | fertile, productive | fruchtbar, ergiebig |
-| خەفیف | سووک | عەرەبی | هەمیشە (پێداچوونەوە) | light, mild | leicht, mild |
-| خەلایق | خەڵک | عەرەبی | توند (پێداچوونەوە) | people, folk | Leute, Volk |
-| خەلیت، خلیط | تێکەڵ | عەرەبی | هەمیشە (پێداچوونەوە) | mixture, mixed | Mischung, gemischt |
-| خەلیج، خلیج | کەنداو | عەرەبی | هەمیشە (پێداچوونەوە) | gulf, bay | Golf, Bucht |
-| خەلیە، خلیە | خانە | عەرەبی | هەمیشە (پێداچوونەوە) | cell | Zelle |
-| خەندەق | چاڵ | عەرەبی | هەمیشە (پێداچوونەوە) | trench, ditch, pit | Graben, Grube |
-| خەوف | ترس | عەرەبی | هەمیشە (پێداچوونەوە) | fear | Angst, Furcht |
-| خەڵق، خەلق | گەل | عەرەبی | هەمیشە (پێداچوونەوە) | people, nation | Volk, Leute |
-| خەیات، خەیاط | دەرزیدوز | عەرەبی | هەمیشە (پێداچوونەوە) | tailor | Schneider |
-| خەیانەت | ناپاکی | عەرەبی | هەمیشە (پێداچوونەوە) | betrayal, treason | Verrat |
-| دائیرە | فەرمانگە | عەرەبی | هەمیشە (پێداچوونەوە) | department, office, circle | Behörde, Amt, Kreis |
-| دائیمی | هەمیشەیی | عەرەبی | هەمیشە (پێداچوونەوە) | permanent | ständig, dauerhaft |
-| دائیمەن | هەمیشە | عەرەبی | هەمیشە | always, constantly | immer, ständig |
-| داخیل | ناوەوە | عەرەبی | هەمیشە (پێداچوونەوە) | inside, interior | innen, Innere |
-| دالە | کریار | عەرەبی | توند (پێداچوونەوە) | function | Funktion |
-| دایین، دائن | وامدەر | عەرەبی | توند (پێداچوونەوە) | creditor, lender | Gläubiger, Kreditgeber |
-| دراسە | لێکۆڵینەوە | عەرەبی | هەمیشە (پێداچوونەوە) | study, research | Studie, Studium, Untersuchung |
-| دوخە، دوخة | گێژبوون | عەرەبی | توند (پێداچوونەوە) | dizziness, vertigo | Schwindel |
-| دوستوور، دوستور | یاسای بنەڕەتی | عەرەبی | هەمیشە (پێداچوونەوە) | constitution | Verfassung |
-| دوعا، دۆعا | نزا | عەرەبی | هەمیشە (پێداچوونەوە) | prayer | Gebet, Bittgebet |
-| دونیا، دنیا | جیهان | عەرەبی | توند | world | Welt |
-| دوهوون، دوهون | چەوری | عەرەبی | هەمیشە (پێداچوونەوە) | fat, grease | Fett |
-| دیراسە، دیراسات | توێژینەوە | عەرەبی | هەمیشە (پێداچوونەوە) | study, research | Studie, Forschung, Studium |
-| دیفاع | بەرگری | عەرەبی | هەمیشە (پێداچوونەوە) | defense | Verteidigung, Abwehr |
-| دیققەت، دیقەت | سەرنج | عەرەبی | هەمیشە (پێداچوونەوە) | attention, notice, care | Aufmerksamkeit, Achtung, Sorgfalt |
-| دیماغ، دماغ | مێشک | عەرەبی | هەمیشە (پێداچوونەوە) | brain | Gehirn, Hirn |
-| دیە، دية | خوێنبەها | عەرەبی | هەمیشە (پێداچوونەوە) | blood money | Blutgeld |
-| دەخاڵەت، دەخالەت، تدخل | تێوەگلان | عەرەبی | توند (پێداچوونەوە) | interference, intervention, involvement | Einmischung, Intervention, Verwicklung |
-| دەخل، دخل | داهات | عەرەبی | هەمیشە (پێداچوونەوە) | income, revenue | Einkommen, Einnahmen |
-| دەرحەق | دەربارەی | عەرەبی | هەمیشە (پێداچوونەوە) | about, regarding | über, bezüglich |
-| دەرس | وانە | عەرەبی | هەمیشە (پێداچوونەوە) | lesson | Lektion, Unterrichtsstunde |
-| دەرەجە | پلە | عەرەبی | هەمیشە (پێداچوونەوە) | degree, rank, level | Grad, Rang, Stufe |
-| دەعم | پشتگیری | عەرەبی | هەمیشە (پێداچوونەوە) | support | Unterstützung, unterstützen |
-| دەعوا | دادخوازی، سکاڵا | عەرەبی | هەمیشە (پێداچوونەوە) | lawsuit, complaint, claim | Klage, Prozess, Anspruch |
-| دەعوەت | بانگهێشت | عەرەبی | هەمیشە (پێداچوونەوە) | invitation, invite | Einladung, einladen |
-| دەفعە | جار | عەرەبی | هەمیشە (پێداچوونەوە) | time, occasion | Mal |
-| دەفن | ناشتن | عەرەبی | هەمیشە (پێداچوونەوە) | burial, bury | Beerdigung, Bestattung, begraben |
-| دەقیق | ورد | عەرەبی | هەمیشە (پێداچوونەوە) | precise, accurate, exact | genau, präzise |
-| دەقیقە | خولەک | عەرەبی | هەمیشە | minute | Minute |
-| دەقیقەن | بە وردی، ڕێک | عەرەبی | هەمیشە (پێداچوونەوە) | exactly, precisely | genau, präzise |
-| دەلال، دلال | ناوبژیوان | عەرەبی | توند (پێداچوونەوە) | broker, middleman, agent | Makler, Vermittler |
-| دەلالە، دلالة | واتاناسی | عەرەبی | هەمیشە (پێداچوونەوە) | semantics, meaning | Semantik, Bedeutung |
-| دەلیل، دلیل | بەڵگە | عەرەبی | هەمیشە (پێداچوونەوە) | evidence, proof, guide | Beweis, Beleg, Nachweis |
-| دەمعە | فرمێسک | عەرەبی | هەمیشە (پێداچوونەوە) | tear | Träne |
-| دەوا | دەرمان | عەرەبی | هەمیشە (پێداچوونەوە) | medicine, medication, drug | Medikament, Arznei, Medizin |
-| دەوام | ئامادەبوون | عەرەبی | هەمیشە (پێداچوونەوە) | attendance, working hours | Anwesenheit, Arbeitszeit, Dienst |
-| رئە، ریە | سی | عەرەبی | هەمیشە (پێداچوونەوە) | lung | Lunge |
-| رابط | بەستەر | عەرەبی | هەمیشە (پێداچوونەوە) | link, connector | Link, Verbindung |
-| راحەت | ئاسووده، ئارام | عەرەبی | هەمیشە (پێداچوونەوە) | comfortable, calm, relaxed | bequem, ruhig, entspannt |
-| ربح | قازانج | عەرەبی | هەمیشە (پێداچوونەوە) | profit, gain | Gewinn, Profit |
-| ریزاعە، رضاعة، ریضاعه | شیردان | عەرەبی | هەمیشە (پێداچوونەوە) | breastfeeding, nursing | Stillen |
-| رەعی، رعي | لەوەڕان | عەرەبی | هەمیشە (پێداچوونەوە) | grazing, graze | Weiden, weiden |
-| رەمل، رمل | خۆڵەمێش | عەرەبی | هەمیشە (پێداچوونەوە) | sand | Sand |
-| زاویە | گۆشە | عەرەبی | هەمیشە (پێداچوونەوە) | angle, corner | Winkel, Ecke |
-| زاکیرە | بیرگە | عەرەبی | هەمیشە (پێداچوونەوە) | memory | Speicher, Gedächtnis |
-| زاڵم، ظالم | ستەمکار | عەرەبی | هەمیشە (پێداچوونەوە) | oppressor, tyrant, unjust | Unterdrücker, Tyrann, ungerecht |
-| زایع | ون | عەرەبی | هەمیشە (پێداچوونەوە) | lost, missing | verloren, vermisst |
-| زوجاج، زجاج | شووشە | عەرەبی | هەمیشە (پێداچوونەوە) | glass | Glas |
-| زووبان، ذوبان | تواندنەوە | عەرەبی | توند (پێداچوونەوە) | melting, dissolving | Schmelzen, Auflösung |
-| زوڵم، ظلم | ستەم | عەرەبی | هەمیشە (پێداچوونەوە) | oppression, injustice, tyranny | Unterdrückung, Ungerechtigkeit, Tyrannei |
-| زیارەت | سەردان | عەرەبی | هەمیشە (پێداچوونەوە) | visit, pilgrimage | Besuch, Wallfahrt |
-| زیلزال، زلزال | بومەلەرزه | عەرەبی | هەمیشە (پێداچوونەوە) | earthquake | Erdbeben |
-| زەباب، ضباب | تەم | عەرەبی | هەمیشە (پێداچوونەوە) | fog, mist | Nebel |
-| زەحمەت | ئەستەم، ماندووبوون | عەرەبی | هەمیشە | difficult, hard, trouble | schwierig, schwer, Mühe |
-| زەراعەت | کشتوکاڵ | عەرەبی | هەمیشە (پێداچوونەوە) | agriculture, farming | Landwirtschaft, Ackerbau |
-| زەرب، ضەرب | لێکدان | عەرەبی | هەمیشە (پێداچوونەوە) | multiplication | Multiplikation |
-| زەرووری، زەروری | پێویست | عەرەبی | هەمیشە (پێداچوونەوە) | necessary, essential | notwendig, nötig, erforderlich |
-| زەریبە، ضریبة | باج | عەرەبی | هەمیشە (پێداچوونەوە) | tax | Steuer |
-| زەرەر | زیان | عەرەبی | هەمیشە (پێداچوونەوە) | damage, harm, loss | Schaden, Verlust |
-| زەعف | لاوازی | عەرەبی | هەمیشە (پێداچوونەوە) | weakness, frailty | Schwäche |
-| زەعیف | لاواز | عەرەبی | هەمیشە (پێداچوونەوە) | weak | schwach |
-| زەعیم | سەرکردە، ڕابەر | عەرەبی | هەمیشە (پێداچوونەوە) | leader | Anführer, Führer |
-| زەغت، ضەغط | پەستان | عەرەبی | هەمیشە (پێداچوونەوە) | pressure | Druck |
-| زەلزەلە | بوومەلەرزە | عەرەبی | هەمیشە (پێداچوونەوە) | earthquake | Erdbeben |
-| زەهەب، ذهب | زێڕ | عەرەبی | هەمیشە (پێداچوونەوە) | gold | Gold |
-| زەواج | هاوسەرگیری | عەرەبی | هەمیشە (پێداچوونەوە) | marriage | Ehe, Heirat |
-| زەوبەعە، زوبعة، زەوبەعه | گەردەلوول | عەرەبی | هەمیشە (پێداچوونەوە) | tornado, whirlwind, cyclone | Tornado, Wirbelsturm |
-| زەوج | مێرد | عەرەبی | هەمیشە (پێداچوونەوە) | husband | Ehemann, Mann |
-| زەوجی | جووت | عەرەبی | توند (پێداچوونەوە) | even, pair | gerade, Paar |
-| زەوجە | هاوسەر | عەرەبی | هەمیشە (پێداچوونەوە) | wife, spouse | Ehefrau, Frau, Ehepartner |
-| زەوق | چێژ | عەرەبی | هەمیشە (پێداچوونەوە) | taste, pleasure, enjoyment | Geschmack, Genuss, Vergnügen |
-| زەکی | زیرەک | عەرەبی | هەمیشە (پێداچوونەوە) | intelligent, clever, smart | intelligent, klug |
-| زەیف | میوان | عەرەبی | هەمیشە (پێداچوونەوە) | guest | Gast |
-| سائیح | گەشتیار | عەرەبی | هەمیشە (پێداچوونەوە) | tourist | Tourist |
-| سائیل، سایل | شلە | عەرەبی | هەمیشە (پێداچوونەوە) | liquid, fluid | Flüssigkeit |
-| سابت، ثابت | نەگۆڕ | عەرەبی | هەمیشە (پێداچوونەوە) | constant, fixed, unchanging | konstant, fest, unveränderlich |
-| سابیت | نەگۆڕ | عەرەبی | هەمیشە (پێداچوونەوە) | constant, fixed, stable | konstant, fest, beständig |
-| سابیق | پێشوو | عەرەبی | هەمیشە (پێداچوونەوە) | former, previous | ehemalig, vorherig, früher |
-| ساحیل، ساحل | کەنار | عەرەبی | هەمیشە (پێداچوونەوە) | coast, shore, beach | Küste, Ufer, Strand |
-| ساحێب، ساحیب | خاوەن | عەرەبی | هەمیشە (پێداچوونەوە) | owner | Besitzer, Eigentümer, Inhaber |
-| سادرات، صادرات | هەنارکردن | عەرەبی | هەمیشە (پێداچوونەوە) | export | Export, Ausfuhr |
-| سادق، سادیق | ڕاستگۆ | عەرەبی | هەمیشە (پێداچوونەوە) | honest, truthful | ehrlich, aufrichtig |
-| سادیر، سادیرات | هەناردن | عەرەبی | هەمیشە (پێداچوونەوە) | exported, export | Export, exportiert, ausgehend |
-| ساعت | کاتژمێر | عەرەبی | هەمیشە (پێداچوونەوە) | hour, clock, watch | Stunde, Uhr |
-| ساعەت، سەعات | کاتژمێر | عەرەبی | هەمیشە | hour, clock, watch | Stunde, Uhr |
-| سامیع، سامع | گوێگر | عەرەبی | هەمیشە (پێداچوونەوە) | listener | Zuhörer |
-| سانیە | چرکە | عەرەبی | هەمیشە | second | Sekunde |
-| سجیللات | تۆمارەکان | عەرەبی | هەمیشە (پێداچوونەوە) | records, registers | Aufzeichnungen, Register, Akten |
-| سریع، سروع | خێرا | عەرەبی | هەمیشە (پێداچوونەوە) | fast, quick, rapid | schnell, rasch |
-| سلاح، ئەسلیحە | چەک | عەرەبی | هەمیشە (پێداچوونەوە) | weapon, arms | Waffe |
-| سلالە، سلالة | تیرە | عەرەبی | هەمیشە (پێداچوونەوە) | breed, strain, lineage | Rasse, Stamm, Abstammung |
-| سلامەتی | تەندروستی | عەرەبی | هەمیشە (پێداچوونەوە) | health, safety | Gesundheit, Sicherheit |
-| سمسار، سیمسار | ناوبژیوان | عەرەبی | توند (پێداچوونەوە) | broker, middleman, agent | Makler, Vermittler |
-| سوئال، سوال | پرسیار | عەرەبی | هەمیشە | question | Frage |
-| سوبح | بەیانی | عەرەبی | هەمیشە (پێداچوونەوە) | morning | Morgen |
-| سوحبەت، سۆحبەت، سوحبەتی | گفتوگۆ | عەرەبی | هەمیشە (پێداچوونەوە) | conversation, chat, talk | Gespräch, Unterhaltung |
-| سورعە، سوورعە، سرعە | خێرایی | عەرەبی | هەمیشە (پێداچوونەوە) | speed, velocity | Geschwindigkeit, Schnelligkeit |
-| سورعەت، سرعة | خێرایی | عەرەبی | هەمیشە (پێداچوونەوە) | speed, velocity | Geschwindigkeit, Schnelligkeit |
-| سوعال، سعال | کۆخە | عەرەبی | هەمیشە (پێداچوونەوە) | cough | Husten |
-| سوعوبەت | ئەستەمی | عەرەبی | هەمیشە (پێداچوونەوە) | difficulty, hardship | Schwierigkeit, Mühe |
-| سوق، سووق | بازاڕ | عەرەبی | توند (پێداچوونەوە) | market | Markt |
-| سوقووت، سقوط | کەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | fall, falling, collapse | Fall, Sturz, Zusammenbruch |
-| سولب، صلب | ڕەق | عەرەبی | هەمیشە (پێداچوونەوە) | solid, hard | fest, hart |
-| سولتانەت، سلطنە، سلطنة، سلتنە | پاشایەتی | عەرەبی | هەمیشە (پێداچوونەوە) | sultanate, kingdom | Sultanat, Königreich |
-| سولتە، سلطة، سلطه | دەسەڵات | عەرەبی | هەمیشە (پێداچوونەوە) | authority, power | Macht, Behörde, Gewalt |
-| سولووک، سلوک، سولوک | هەڵسوکەوت | عەرەبی | هەمیشە (پێداچوونەوە) | behavior, conduct | Verhalten, Benehmen |
-| سوم | ژەهر | عەرەبی | هەمیشە (پێداچوونەوە) | poison, toxin | Gift |
-| سونعی، سوناعی | دەستکرد | عەرەبی | هەمیشە (پێداچوونەوە) | artificial, man-made, handmade | künstlich, handgemacht |
-| سوورعەت | خێرایی | عەرەبی | هەمیشە (پێداچوونەوە) | speed, velocity | Geschwindigkeit, Schnelligkeit |
-| سوکان، سكان | دانیشتوان | عەرەبی | هەمیشە (پێداچوونەوە) | population, inhabitants | Bevölkerung, Einwohner |
-| سوکوت | بێدەنگی | عەرەبی | توند (پێداچوونەوە) | silence | Schweigen, Stille |
-| سوکون، سکون | وەستان | عەرەبی | توند (پێداچوونەوە) | stillness, calm, rest | Ruhe, Stillstand |
-| سوکوون | وەستان | عەرەبی | توند (پێداچوونەوە) | stillness, rest, standstill | Stillstand, Ruhe |
-| سوڵح | ئاشتی | عەرەبی | هەمیشە (پێداچوونەوە) | peace | Frieden |
-| سۆلب | ڕەق | عەرەبی | هەمیشە (پێداچوونەوە) | solid, hard | fest, hart |
-| سیاحە، سیاحەت | گەشتیاری | عەرەبی | هەمیشە (پێداچوونەوە) | tourism | Tourismus |
-| سیادەت، سیادە | سەروەری | عەرەبی | توند (پێداچوونەوە) | sovereignty | Souveränität, Hoheit |
-| سیاسی | ڕامیاری | عەرەبی | توند (پێداچوونەوە) | political, politician | politisch, Politiker |
-| سیاسەت | ڕامیاری | عەرەبی | توند | politics, policy | Politik |
-| سیجل، سجل | تۆمار | عەرەبی | هەمیشە (پێداچوونەوە) | register, record | Register, Verzeichnis |
-| سیححەت، سیحەت | تەندروستی | عەرەبی | هەمیشە (پێداچوونەوە) | health | Gesundheit |
-| سیحر | جادوو | عەرەبی | هەمیشە (پێداچوونەوە) | magic, sorcery | Zauber, Magie |
-| سیحی، سیححی | تەندروستی | عەرەبی | هەمیشە (پێداچوونەوە) | health, sanitary | Gesundheit, gesundheitlich |
-| سیدق | ڕاستی | عەرەبی | هەمیشە (پێداچوونەوە) | truth, honesty | Wahrheit, Ehrlichkeit |
-| سیراع، صراع | کێبەرکێ | عەرەبی | هەمیشە (پێداچوونەوە) | conflict, struggle, competition | Konflikt, Kampf, Wettbewerb |
-| سیعر، سعر | نرخ | عەرەبی | هەمیشە (پێداچوونەوە) | price, rate | Preis, Kurs |
-| سیفارە، سفارة، سیفاره | باڵوزخانه | عەرەبی | هەمیشە (پێداچوونەوە) | embassy | Botschaft |
-| سیلاح | چەک | عەرەبی | هەمیشە (پێداچوونەوە) | weapon, arms | Waffe |
-| سیلسیلە، سلسلة | زنجیرە، بنەماڵە | عەرەبی | هەمیشە (پێداچوونەوە) | series, chain, dynasty | Reihe, Kette, Dynastie |
-| سیلعە، سلعة، سلعه | کاڵا | عەرەبی | توند (پێداچوونەوە) | commodity, goods, product | Ware, Gut, Produkt |
-| سیناعەت، سناعەت | پیشەسازی | عەرەبی | هەمیشە (پێداچوونەوە) | industry | Industrie |
-| سینف، سەنف | پۆل | عەرەبی | هەمیشە (پێداچوونەوە) | class, grade, classroom | Klasse, Klassenzimmer |
-| سییاق، سیاق | چوارچێوە | عەرەبی | توند (پێداچوونەوە) | context, framework | Kontext, Zusammenhang, Rahmen |
-| سەبات | خۆڕاگری، بەردەوامی | عەرەبی | هەمیشە (پێداچوونەوە) | steadfastness, stability, persistence | Standhaftigkeit, Beständigkeit, Stabilität |
-| سەبر | ئارام، ئارامگرتن | عەرەبی | هەمیشە (پێداچوونەوە) | patience | Geduld |
-| سەبەب | هۆ، هۆکار | عەرەبی | هەمیشە | reason, cause, factor | Grund, Ursache, Faktor |
-| سەتح، سطح | ئاست، ڕوو | عەرەبی | هەمیشە (پێداچوونەوە) | surface, level | Oberfläche, Ebene, Niveau |
-| سەحافی | ڕۆژنامەنووس | عەرەبی | هەمیشە (پێداچوونەوە) | journalist | Journalist |
-| سەحافە، سەحافەت | ڕۆژنامەگەری | عەرەبی | هەمیشە (پێداچوونەوە) | journalism, press | Journalismus, Presse |
-| سەحرا | بیابان، دەشت | عەرەبی | هەمیشە (پێداچوونەوە) | desert, plain | Wüste, Ebene |
-| سەحنە | دیمەن | عەرەبی | هەمیشە (پێداچوونەوە) | scene, stage | Szene, Bühne |
-| سەحیح | دروست | عەرەبی | هەمیشە (پێداچوونەوە) | correct, right, true | richtig, korrekt |
-| سەحیفە، سەحیفەی | لاپەڕە، پەڕە | عەرەبی | هەمیشە (پێداچوونەوە) | page, sheet | Seite, Blatt |
-| سەحەر | بەرەبەیان | عەرەبی | هەمیشە (پێداچوونەوە) | dawn, daybreak | Morgendämmerung, Morgengrauen |
-| سەحەرا، صحراء، سحراء | بیابان | عەرەبی | هەمیشە (پێداچوونەوە) | desert | Wüste |
-| سەحەفی | ڕۆژنامەنووس | عەرەبی | هەمیشە (پێداچوونەوە) | journalist | Journalist |
-| سەخا، سخا | دڵفراوانی | عەرەبی | توند (پێداچوونەوە) | generosity | Großzügigkeit |
-| سەخرە، صخرة، سەخره | بەرد | عەرەبی | هەمیشە (پێداچوونەوە) | rock, stone | Fels, Stein |
-| سەداقەت | دڵسۆزی | عەرەبی | هەمیشە (پێداچوونەوە) | sincerity, loyalty, honesty | Aufrichtigkeit, Treue, Ehrlichkeit |
-| سەدیی، سەدییات | شیرەمژ | عەرەبی | هەمیشە (پێداچوونەوە) | mammal | Säugetier |
-| سەدەقە | بەخشین | عەرەبی | هەمیشە (پێداچوونەوە) | alms, charity, donation | Almosen, Spende, Wohltätigkeit |
-| سەرحەد | سنوور | عەرەبی | هەمیشە (پێداچوونەوە) | border, frontier, boundary | Grenze |
-| سەرقە، سرقة | دزی | عەرەبی | هەمیشە (پێداچوونەوە) | theft, robbery | Diebstahl, Raub |
-| سەروەت | دەوڵەمەندی | عەرەبی | هەمیشە (پێداچوونەوە) | wealth, riches | Reichtum, Vermögen |
-| سەریح | ڕاشکاو | عەرەبی | هەمیشە (پێداچوونەوە) | frank, explicit, outspoken | offen, ausdrücklich, freimütig |
-| سەریع | خێرا | عەرەبی | هەمیشە (پێداچوونەوە) | fast, quick | schnell |
-| سەرەتان | شیرپەنجە | عەرەبی | هەمیشە (پێداچوونەوە) | cancer | Krebs |
-| سەطح | ئاست | عەرەبی | هەمیشە (پێداچوونەوە) | surface, level | Oberfläche, Ebene, Niveau |
-| سەعادەت | بەختەوەری | عەرەبی | هەمیشە (پێداچوونەوە) | happiness | Glück |
-| سەعب | ئەستەم | عەرەبی | هەمیشە (پێداچوونەوە) | difficult, hard | schwierig, schwer |
-| سەعی | هەوڵ | عەرەبی | توند (پێداچوونەوە) | effort, endeavor | Bemühung, Anstrengung |
-| سەغیر | بچووک | عەرەبی | هەمیشە (پێداچوونەوە) | small, little | klein |
-| سەفارەت | باڵیۆزخانە | عەرەبی | توند (پێداچوونەوە) | embassy | Botschaft |
-| سەفح، سفح | دامەن | عەرەبی | توند (پێداچوونەوە) | slope, foothill | Hang, Abhang, Berghang |
-| سەفحە | لاپەڕە | عەرەبی | هەمیشە (پێداچوونەوە) | page | Seite |
-| سەفیر | باڵیۆز | عەرەبی | هەمیشە (پێداچوونەوە) | ambassador | Botschafter |
-| سەفینە | کەشتی | عەرەبی | هەمیشە (پێداچوونەوە) | ship | Schiff |
-| سەفەر | گەشت | عەرەبی | هەمیشە (پێداچوونەوە) | trip, journey, travel | Reise, Fahrt |
-| سەقافە، سەقافەت | ڕۆشنبیری | عەرەبی | هەمیشە | culture | Kultur, Bildung |
-| سەقف | بنمیچ | عەرەبی | هەمیشە (پێداچوونەوە) | ceiling, roof | Decke, Dach |
-| سەقیم | نەخۆش | عەرەبی | هەمیشە (پێداچوونەوە) | sick, ill | krank |
-| سەقەت | پەککەوتە | عەرەبی | هەمیشە (پێداچوونەوە) | disabled, handicapped, crippled | behindert, versehrt |
-| سەلات، سەڵات، سلاة، نەماز | نوێژ | عەرەبی | توند (پێداچوونەوە) | prayer | Gebet |
-| سەلج، ثلج | بەفر | عەرەبی | توند (پێداچوونەوە) | snow | Schnee |
-| سەلیقە | چێژ | عەرەبی | هەمیشە (پێداچوونەوە) | taste, flair | Geschmack, Gespür |
-| سەم | ژەهر | عەرەبی | هەمیشە (پێداچوونەوە) | poison, venom | Gift |
-| سەماوات | ئاسمانەکان | عەرەبی | هەمیشە (پێداچوونەوە) | heavens, skies | Himmel |
-| سەمع | بیستن | عەرەبی | هەمیشە (پێداچوونەوە) | hearing, listen | Hören, Gehör, hören |
-| سەمەک | ماسی | عەرەبی | توند (پێداچوونەوە) | fish | Fisch |
-| سەنعەت، سنعەت | پیشەسازی، هونەر | عەرەبی | هەمیشە (پێداچوونەوە) | industry, art, craft | Industrie, Kunst, Handwerk |
-| سەنە | ساڵ | عەرەبی | هەمیشە (پێداچوونەوە) | year | Jahr |
-| سەنەوی | ناوەندی | عەرەبی | هەمیشە (پێداچوونەوە) | secondary, high school | Oberschule, Gymnasium |
-| سەهل | ئاسان | عەرەبی | هەمیشە (پێداچوونەوە) | easy | leicht, einfach |
-| سەهم، سیهم | بەش | عەرەبی | هەمیشە (پێداچوونەوە) | share, stock, portion | Aktie, Anteil |
-| سەوتیات، صوتیات | دەنگناسی | عەرەبی | هەمیشە (پێداچوونەوە) | phonetics, phonology | Phonetik, Phonologie |
-| سەیارە | ئۆتۆمبێل | عەرەبی | هەمیشە (پێداچوونەوە) | car, automobile | Auto, Wagen |
-| سەیدەلی، صیدلی | دەرمانساز | عەرەبی | هەمیشە (پێداچوونەوە) | pharmacist | Apotheker |
-| سەیدەلیە، صیدلیە | دەرمانخانە | عەرەبی | هەمیشە (پێداچوونەوە) | pharmacy | Apotheke |
-| شاتئ، شاطئ، شاطیء | کەنار | عەرەبی | هەمیشە (پێداچوونەوە) | shore, coast, beach | Küste, Ufer, Strand |
-| شاعیر، شاعر | هۆنەر، هەڵبەستوان | عەرەبی | توند (پێداچوونەوە) | poet | Dichter |
-| شاهید | شایەت | عەرەبی | هەمیشە (پێداچوونەوە) | witness | Zeuge |
-| شخصی | کەسی | عەرەبی | هەمیشە (پێداچوونەوە) | personal, private | persönlich, privat |
-| شعوور | هەست | عەرەبی | هەمیشە (پێداچوونەوە) | feeling, awareness, consciousness | Gefühl, Bewusstsein |
-| شوبات | ڕەشەمە | عەرەبی | هەمیشە (پێداچوونەوە) | February | Februar |
-| شوبهە، شبهە | گومان | عەرەبی | توند (پێداچوونەوە) | doubt, suspicion | Zweifel, Verdacht |
-| شوجاع | ئازا | عەرەبی | هەمیشە (پێداچوونەوە) | brave, courageous | mutig, tapfer |
-| شوعاع | تیشک | عەرەبی | هەمیشە (پێداچوونەوە) | ray, beam | Strahl |
-| شوعبە | بەش | عەرەبی | هەمیشە (پێداچوونەوە) | section, branch, department | Abteilung, Zweig |
-| شوعلە، شەعلە | بڵێسە، گڕ | عەرەبی | هەمیشە (پێداچوونەوە) | flame, blaze | Flamme, Lohe |
-| شوعور، شعور | هەستکردن | عەرەبی | توند (پێداچوونەوە) | feeling, consciousness, awareness | Gefühl, Bewusstsein |
-| شوعوور | هەست | عەرەبی | هەمیشە (پێداچوونەوە) | feeling, consciousness, awareness | Gefühl, Bewusstsein |
-| شکایەت | سکاڵا | عەرەبی | هەمیشە (پێداچوونەوە) | complaint, grievance | Beschwerde, Klage |
-| شکڵ | شێوە | عەرەبی | هەمیشە (پێداچوونەوە) | shape, form | Form, Gestalt |
-| شیرا، شراء | کڕین | عەرەبی | هەمیشە (پێداچوونەوە) | purchase, buying, buy | Kauf, kaufen |
-| شیرکەت | کۆمپانیا | عەرەبی | هەمیشە (پێداچوونەوە) | company, firm | Firma, Unternehmen |
-| شیریان | خوێنبەر | عەرەبی | هەمیشە (پێداچوونەوە) | artery | Arterie, Schlagader |
-| شیعر، شێعر، شعر | هۆنراوە، هەڵبەست | عەرەبی | توند (پێداچوونەوە) | poetry, poem | Gedicht, Dichtung, Poesie |
-| شیفا | چاکبوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | recovery, healing, cure | Genesung, Heilung |
-| شیوعی، شیووعی، شیوعیی، شیووعیی | کۆمۆنیستی | عەرەبی | هەمیشە (پێداچوونەوە) | communist | kommunistisch |
-| شەباب | گەنجان | عەرەبی | هەمیشە (پێداچوونەوە) | youth, young people | Jugend, Jugendliche |
-| شەبەکە، شبکە | تۆڕ | عەرەبی | هەمیشە (پێداچوونەوە) | network | Netzwerk, Netz |
-| شەجاعەت | ئازایەتی | عەرەبی | هەمیشە (پێداچوونەوە) | courage, bravery | Mut, Tapferkeit |
-| شەجەر، شەجەرە | دار | عەرەبی | هەمیشە (پێداچوونەوە) | tree | Baum |
-| شەحنە، شحنة | بار | عەرەبی | هەمیشە (پێداچوونەوە) | charge, load, cargo | Ladung, Last |
-| شەخس | کەس | عەرەبی | هەمیشە | person, individual | Person |
-| شەخسی | کەسی | عەرەبی | هەمیشە | personal, private | persönlich, privat |
-| شەخسیەت | کەسایەتی | عەرەبی | هەمیشە (پێداچوونەوە) | personality, character | Persönlichkeit |
-| شەدید | توند | عەرەبی | هەمیشە (پێداچوونەوە) | severe, intense, strong | schwer, heftig, stark |
-| شەراکەت، شراکة، شراکه | هاوبەشی | عەرەبی | هەمیشە (پێداچوونەوە) | partnership, participation | Partnerschaft, Beteiligung |
-| شەرت | مەرج | عەرەبی | هەمیشە | condition, requirement | Bedingung, Voraussetzung |
-| شەرح | ڕاڤە | عەرەبی | هەمیشە (پێداچوونەوە) | explanation, commentary | Erklärung, Erläuterung, Kommentar |
-| شەرعییەت، شرعیه | ڕەواداری | عەرەبی | هەمیشە (پێداچوونەوە) | legitimacy | Legitimität |
-| شەرعیەت | ڕەوایی | عەرەبی | هەمیشە (پێداچوونەوە) | legitimacy | Legitimität |
-| شەرق | ڕۆژهەڵات | عەرەبی | هەمیشە (پێداچوونەوە) | east | Osten |
-| شەریان | شادرگ | عەرەبی | هەمیشە (پێداچوونەوە) | artery | Arterie, Schlagader |
-| شەریک، شریک | هاوبەش | عەرەبی | هەمیشە (پێداچوونەوە) | partner, associate | Partner, Teilhaber |
-| شەریکە، شركة، شەریکەت | هاوبەشی | عەرەبی | هەمیشە (پێداچوونەوە) | company, partnership | Firma, Unternehmen, Partnerschaft |
-| شەعبی | گەلی | عەرەبی | هەمیشە (پێداچوونەوە) | popular, folk, public | volkstümlich, populär |
-| شەفافییە، شفافیە، شفافية | ڕوونی | عەرەبی | هەمیشە (پێداچوونەوە) | transparency, clarity | Transparenz, Klarheit |
-| شەفافیەت | ئاشکرایی | عەرەبی | هەمیشە (پێداچوونەوە) | transparency | Transparenz |
-| شەمس | خۆر | عەرەبی | هەمیشە (پێداچوونەوە) | sun | Sonne |
-| شەمع | مۆم | عەرەبی | هەمیشە (پێداچوونەوە) | candle | Kerze |
-| شەهادە، شەهادەت | بڕوانامە | عەرەبی | هەمیشە (پێداچوونەوە) | certificate, degree, diploma | Zeugnis, Abschluss, Diplom |
-| شەک، شک | گومان | عەرەبی | توند (پێداچوونەوە) | doubt, suspicion | Zweifel, Verdacht |
-| شەکل، شکل | شێوە | عەرەبی | هەمیشە | shape, form, way | Form, Gestalt, Weise |
-| شەیخوخە، شیخوخه | پیربوون | عەرەبی | هەمیشە (پێداچوونەوە) | aging, old age | Altern, Alter |
-| ضمیر، زامیر | جێناو | عەرەبی | هەمیشە (پێداچوونەوە) | pronoun | Pronomen, Fürwort |
-| ضەریبە | باج | عەرەبی | هەمیشە (پێداچوونەوە) | tax | Steuer |
-| طاقا، طاقە | وزە | عەرەبی | هەمیشە (پێداچوونەوە) | energy, power | Energie, Kraft |
-| عائید | پەیوەست | عەرەبی | هەمیشە (پێداچوونەوە) | related, pertaining, belonging | zugehörig, betreffend, bezüglich |
-| عائیلە، عایلە | خێزان | عەرەبی | هەمیشە (پێداچوونەوە) | family | Familie |
-| عابید | پەرستیار | عەرەبی | هەمیشە (پێداچوونەوە) | worshipper, devotee | Anbeter, Verehrer, Gläubiger |
-| عاتیفە | سۆز | عەرەبی | هەمیشە (پێداچوونەوە) | emotion, feeling | Gefühl, Emotion |
-| عاجز | بێتوانا | عەرەبی | هەمیشە (پێداچوونەوە) | unable, helpless, incapable | unfähig, hilflos |
-| عادات | نەریتەکان | عەرەبی | هەمیشە (پێداچوونەوە) | customs, traditions, habits | Bräuche, Sitten, Traditionen |
-| عادی | ئاسایی | عەرەبی | هەمیشە (پێداچوونەوە) | normal, ordinary, usual | normal, gewöhnlich, üblich |
-| عادەت | خوو، نەریت | عەرەبی | هەمیشە (پێداچوونەوە) | habit, custom, tradition | Gewohnheit, Sitte, Tradition |
-| عادەتەن | بەزۆری | عەرەبی | هەمیشە | usually, normally, mostly | normalerweise, gewöhnlich, meistens |
-| عار | شەرم | عەرەبی | هەمیشە (پێداچوونەوە) | shame, disgrace | Schande, Scham |
-| عاریزی، عارزی | کاتی | عەرەبی | هەمیشە (پێداچوونەوە) | temporary, incidental, accidental | vorübergehend, zeitweilig, zufällig |
-| عاریف | زانا | عەرەبی | هەمیشە (پێداچوونەوە) | wise, knowledgeable, sage | weise, kundig, Weiser |
-| عازف | مۆسیقاژەن | عەرەبی | توند (پێداچوونەوە) | musician, player | Musiker, Instrumentalist |
-| عاسیفه، عاصفة، عاسیفە | ڕەشەبا | عەرەبی | هەمیشە (پێداچوونەوە) | storm, tempest | Sturm, Unwetter |
-| عاشق، ئاشق | دڵدار، ئەویندار | عەرەبی | توند (پێداچوونەوە) | lover, in love | Liebhaber, verliebt |
-| عافیەت | تەندروستی | عەرەبی | هەمیشە (پێداچوونەوە) | health, well-being | Gesundheit, Wohlbefinden |
-| عاقل، عەقیل | هۆشیار، وریا | عەرەبی | هەمیشە (پێداچوونەوە) | wise, sensible, intelligent, careful | klug, vernünftig, weise, vorsichtig |
-| عاقڵ، ئاقڵ | ژیر | عەرەبی | هەمیشە (پێداچوونەوە) | wise, sensible, clever | klug, vernünftig, weise |
-| عاقیبەت | ئاکام، کۆتایی | عەرەبی | هەمیشە (پێداچوونەوە) | outcome, end, consequence | Ende, Ausgang, Folge |
-| عالیم | زانا | عەرەبی | هەمیشە (پێداچوونەوە) | scholar, scientist, learned | Gelehrter, Wissenschaftler |
-| عالەم | جیهان | عەرەبی | هەمیشە | world | Welt |
-| عام، عومووم، عموومی، عوموومی | گشتی | عەرەبی | هەمیشە (پێداچوونەوە) | general, public | allgemein, öffentlich |
-| عامل، عوامل | هۆکار | عەرەبی | هەمیشە (پێداچوونەوە) | factor, agent | Faktor, Ursache |
-| عامیل | هۆکار | عەرەبی | هەمیشە (پێداچوونەوە) | factor, cause, agent | Faktor, Ursache |
-| عروس | بووک | عەرەبی | هەمیشە (پێداچوونەوە) | bride | Braut |
-| عودوان | هێرش | عەرەبی | هەمیشە (پێداچوونەوە) | aggression, attack | Aggression, Angriff |
-| عورفی | نەریتی | عەرەبی | توند (پێداچوونەوە) | customary, traditional, conventional | üblich, traditionell, gewohnheitsmäßig |
-| عوریان | ڕووت | عەرەبی | هەمیشە (پێداچوونەوە) | naked, nude | nackt |
-| عوزر | بیانوو | عەرەبی | هەمیشە (پێداچوونەوە) | excuse, pretext | Ausrede, Entschuldigung, Vorwand |
-| عوزو، عوزوو | ئەندام | عەرەبی | هەمیشە (پێداچوونەوە) | member, organ, limb | Mitglied, Organ, Glied |
-| عوسارە، عصارة | شیلە | عەرەبی | هەمیشە (پێداچوونەوە) | juice, sap | Saft |
-| عوقدە | گرێ | عەرەبی | هەمیشە (پێداچوونەوە) | knot, complex | Knoten, Komplex |
-| عوقم، عقم، عوقوم | نەزۆکی | عەرەبی | توند (پێداچوونەوە) | infertility, sterility | Unfruchtbarkeit |
-| عوقوبە، عوقووبە، عقوبە | سزا | عەرەبی | هەمیشە (پێداچوونەوە) | punishment, penalty | Strafe, Bestrafung |
-| عوقوبەت، عقوبة، عوقوبه | سزا | عەرەبی | هەمیشە (پێداچوونەوە) | punishment, penalty | Strafe |
-| عولوم، علووم، علوم | زانست | عەرەبی | هەمیشە (پێداچوونەوە) | science, sciences | Wissenschaft, Wissenschaften |
-| عولووم | زانستەکان | عەرەبی | هەمیشە (پێداچوونەوە) | sciences | Wissenschaften |
-| عومالە، عمالة | کرێکاری | عەرەبی | هەمیشە (پێداچوونەوە) | labor, workforce | Arbeit, Arbeitskräfte |
-| عومر | تەمەن | عەرەبی | هەمیشە (پێداچوونەوە) | age, life | Alter, Leben |
-| عومق، عمق | قوڵایی | عەرەبی | هەمیشە (پێداچوونەوە) | depth | Tiefe |
-| عوملە | دراو | عەرەبی | هەمیشە (پێداچوونەوە) | currency | Währung |
-| عونسور | توخم | عەرەبی | هەمیشە (پێداچوونەوە) | element | Element |
-| عونسوریەت، عونسوریە | ڕەگەزپەرستی | عەرەبی | هەمیشە (پێداچوونەوە) | racism | Rassismus |
-| عونف | توندوتیژی | عەرەبی | هەمیشە (پێداچوونەوە) | violence | Gewalt |
-| عیبادەت، عبادەت | پەرستن | عەرەبی | توند (پێداچوونەوە) | worship | Anbetung, Gottesdienst, anbeten |
-| عیبارەت | دەستەواژە | عەرەبی | هەمیشە (پێداچوونەوە) | phrase, expression | Ausdruck, Redewendung |
-| عیبرەت | پەند | عەرەبی | هەمیشە (پێداچوونەوە) | lesson, moral, example | Lehre, Lektion |
-| عیتاب | سەرزەنشت | عەرەبی | توند (پێداچوونەوە) | reproach, rebuke, blame | Vorwurf, Tadel, Rüge |
-| عیجز | بێتوانایی | عەرەبی | هەمیشە (پێداچوونەوە) | inability, helplessness, impotence | Unfähigkeit, Hilflosigkeit |
-| عیززەت | سەربەرزی | عەرەبی | هەمیشە (پێداچوونەوە) | dignity, honor, pride | Würde, Ehre, Stolz |
-| عیشرەت، عوشرەت | ڕابواردن | عەرەبی | هەمیشە (پێداچوونەوە) | pleasure, revelry, enjoyment | Vergnügen, Genuss |
-| عیففەت، عیفەت | داوێنپاکی | عەرەبی | هەمیشە (پێداچوونەوە) | chastity, virtue | Keuschheit, Tugend |
-| عیقاب | سزا | عەرەبی | هەمیشە (پێداچوونەوە) | punishment, penalty | Strafe, Bestrafung |
-| عیلاج | چارەسەر | عەرەبی | هەمیشە (پێداچوونەوە) | treatment, cure, remedy | Behandlung, Heilung, Heilmittel |
-| عیللەت | هۆ | عەرەبی | هەمیشە (پێداچوونەوە) | cause, reason | Ursache, Grund |
-| عیلم | زانست | عەرەبی | هەمیشە | science, knowledge | Wissenschaft, Wissen |
-| عیلمی | زانستی | عەرەبی | هەمیشە (پێداچوونەوە) | scientific | wissenschaftlich |
-| عیلە، علة | هۆکار | عەرەبی | هەمیشە (پێداچوونەوە) | cause, reason | Ursache, Grund |
-| عینایەت | گرنگیدان | عەرەبی | هەمیشە (پێداچوونەوە) | care, attention, concern | Fürsorge, Aufmerksamkeit, Sorge |
-| عینوان، عنوان | ناونیشان | عەرەبی | هەمیشە | address, title | Adresse, Titel |
-| عەتر | بۆن | عەرەبی | هەمیشە (پێداچوونەوە) | perfume, scent, fragrance | Parfüm, Duft |
-| عەتس | پیژان | عەرەبی | هەمیشە (پێداچوونەوە) | sneeze, sneezing | Niesen |
-| عەتف | سۆز | عەرەبی | هەمیشە (پێداچوونەوە) | affection, compassion, sympathy | Zuneigung, Mitgefühl, Zärtlichkeit |
-| عەتەب | گلەیی | عەرەبی | هەمیشە (پێداچوونەوە) | reproach, complaint, blame | Vorwurf, Tadel, Klage |
-| عەتەش، عطش | تینووێتی | عەرەبی | هەمیشە (پێداچوونەوە) | thirst | Durst |
-| عەجز | بێتوانایی | عەرەبی | هەمیشە (پێداچوونەوە) | inability, incapacity, helplessness | Unfähigkeit, Hilflosigkeit |
-| عەجیب | سەرسوڕهێنەر | عەرەبی | هەمیشە (پێداچوونەوە) | amazing, strange, wonderful | erstaunlich, seltsam, wunderlich |
-| عەجەب، عەجایب | سەرسوڕهێنەر | عەرەبی | هەمیشە (پێداچوونەوە) | amazing, astonishing, wonder | erstaunlich, wunderbar, Wunder |
-| عەجەبا | ئایا، گەلۆ | عەرەبی | توند (پێداچوونەوە) | I wonder, whether | ob, wohl |
-| عەجەلە | پەلە | عەرەبی | هەمیشە | hurry, haste | Eile |
-| عەداڵەت، عەدالەت | دادپەروەری | عەرەبی | هەمیشە (پێداچوونەوە) | justice, fairness | Gerechtigkeit |
-| عەدو، عەدوی | دوژمن | عەرەبی | هەمیشە (پێداچوونەوە) | enemy | Feind |
-| عەدوا | لەقبوون | عەرەبی | هەمیشە (پێداچوونەوە) | infection, contagion | Ansteckung, Infektion |
-| عەدوو | دوژمن | عەرەبی | هەمیشە (پێداچوونەوە) | enemy | Feind |
-| عەدڵ، عەدل | داد | عەرەبی | هەمیشە (پێداچوونەوە) | justice | Gerechtigkeit, Recht |
-| عەدەد | ژمارە | عەرەبی | هەمیشە | number | Zahl, Anzahl |
-| عەدەم | نەبوون | عەرەبی | هەمیشە (پێداچوونەوە) | nonexistence, absence, lack | Nichtsein, Fehlen, Mangel |
-| عەرز، عەرد | زەوی | عەرەبی | هەمیشە (پێداچوونەوە) | earth, land, ground | Erde, Boden, Land |
-| عەروس، عرووس | بووک | عەرەبی | هەمیشە (پێداچوونەوە) | bride, daughter-in-law | Braut, Schwiegertochter |
-| عەرەق | خوێ | عەرەبی | هەمیشە (پێداچوونەوە) | sweat | Schweiß |
-| عەزاب | ئازار | عەرەبی | هەمیشە (پێداچوونەوە) | torment, suffering, pain | Qual, Leid, Schmerz |
-| عەزل | لابردن | عەرەبی | هەمیشە (پێداچوونەوە) | dismissal, removal, dismiss | Entlassung, Absetzung, entlassen |
-| عەزیز | خۆشەویست | عەرەبی | هەمیشە (پێداچوونەوە) | dear, beloved | lieb, geliebt, teuer |
-| عەزیەت | ئازار | عەرەبی | هەمیشە (پێداچوونەوە) | pain, torment, suffering | Schmerz, Qual, Leid |
-| عەزەلات، عەزەلە | مۆسک | عەرەبی | هەمیشە (پێداچوونەوە) | muscle | Muskel |
-| عەسا، عەصا | گۆچان | عەرەبی | توند (پێداچوونەوە) | stick, cane, staff | Stock, Gehstock, Stab |
-| عەسر | سەردەم، ئێوارە | عەرەبی | هەمیشە (پێداچوونەوە) | era, age, afternoon | Zeitalter, Epoche, Nachmittag |
-| عەسکەر | سەرباز، لەشکر | عەرەبی | هەمیشە (پێداچوونەوە) | soldier, army | Soldat, Armee, Heer |
-| عەسکەری | سەربازی | عەرەبی | هەمیشە (پێداچوونەوە) | military | militärisch, Militär |
-| عەسەب، عصب | دەمار | عەرەبی | هەمیشە (پێداچوونەوە) | nerve | Nerv |
-| عەشق، عیشق، عشق | ئەوین، خۆشەویستی | عەرەبی | توند (پێداچوونەوە) | love | Liebe |
-| عەشوائی | هەڕەمەکی | عەرەبی | هەمیشە (پێداچوونەوە) | random, haphazard | zufällig, willkürlich |
-| عەشیرەت، عەشرەت، عەشائیر، عەشایر | هۆز | عەرەبی | هەمیشە (پێداچوونەوە) | tribe, clan | Stamm, Sippe |
-| عەضلە | ماسولکە | عەرەبی | هەمیشە (پێداچوونەوە) | muscle | Muskel |
-| عەفو | لێبوردن | عەرەبی | هەمیشە (پێداچوونەوە) | forgiveness, pardon, amnesty | Vergebung, Verzeihung, Amnestie |
-| عەقد | گرێبەست | عەرەبی | هەمیشە (پێداچوونەوە) | contract | Vertrag |
-| عەقرەب | دووپشک | عەرەبی | هەمیشە (پێداچوونەوە) | scorpion | Skorpion |
-| عەقل، عقل | هۆش، ژیری | عەرەبی | هەمیشە (پێداچوونەوە) | mind, reason, intellect | Verstand, Vernunft, Intellekt |
-| عەقلانی، عقلانی | هۆشمەندانە | عەرەبی | توند (پێداچوونەوە) | rational, reasonable, sensible | rational, vernünftig |
-| عەقڵ، ئەقڵ | ژیری | عەرەبی | توند | mind, reason, intelligence | Verstand, Vernunft, Intelligenz |
-| عەقیدە | باوەڕ، بیروباوەڕ | عەرەبی | هەمیشە (پێداچوونەوە) | belief, creed, doctrine | Glaube, Überzeugung, Weltanschauung |
-| عەقیم | نەزۆک | عەرەبی | هەمیشە (پێداچوونەوە) | sterile, infertile, barren | unfruchtbar, steril |
-| عەلاقە، عیلاقە، عیلاقات | پەیوەندی | عەرەبی | هەمیشە (پێداچوونەوە) | relationship, relation, connection | Beziehung, Verhältnis |
-| عەلامەت | نیشانە | عەرەبی | هەمیشە (پێداچوونەوە) | sign, mark, symptom | Zeichen, Merkmal, Symptom |
-| عەلاوە | سەرەڕای، زیاتر | عەرەبی | هەمیشە (پێداچوونەوە) | in addition, besides, moreover | zusätzlich, außerdem, darüber hinaus |
-| عەلەم | ئاڵا | عەرەبی | هەمیشە (پێداچوونەوە) | flag, banner | Flagge, Fahne |
-| عەمامە | مێزەر | عەرەبی | هەمیشە (پێداچوونەوە) | turban | Turban |
-| عەمبار، عەنبار | کۆگا | عەرەبی | هەمیشە (پێداچوونەوە) | warehouse, storehouse, depot | Lager, Lagerhaus, Speicher |
-| عەمدەن | بە ئەنقەست | عەرەبی | هەمیشە (پێداچوونەوە) | deliberately, intentionally, on purpose | absichtlich, vorsätzlich |
-| عەمر | تەمەن | عەرەبی | توند (پێداچوونەوە) | age, lifetime | Alter, Lebensdauer |
-| عەمودی | ئەستوونی | عەرەبی | هەمیشە (پێداچوونەوە) | vertical | senkrecht, vertikal |
-| عەمید | ڕاگر | عەرەبی | هەمیشە (پێداچوونەوە) | dean | Dekan |
-| عەمەل | کار | عەرەبی | هەمیشە | work, action, deed | Arbeit, Tat, Handlung |
-| عەمەلیات | کردەوە | عەرەبی | هەمیشە (پێداچوونەوە) | operations, procedure, process | Operation, Vorgang, Verfahren |
-| عەمەلە | کرێکار | عەرەبی | هەمیشە (پێداچوونەوە) | worker, laborer | Arbeiter |
-| عەناسر، عەناسیر | توخمەکان | عەرەبی | هەمیشە (پێداچوونەوە) | elements | Elemente |
-| عەنعەنە، عەنعەنات | نەریت | عەرەبی | هەمیشە (پێداچوونەوە) | tradition, custom | Tradition, Brauch |
-| عەنکەبووت، عەنکەبوت | جاڵجاڵۆکە | عەرەبی | هەمیشە (پێداچوونەوە) | spider | Spinne |
-| عەهد | پەیمان | عەرەبی | هەمیشە (پێداچوونەوە) | pact, treaty, covenant | Pakt, Vertrag, Bund |
-| عەولەمە | جیهانگیری | عەرەبی | هەمیشە (پێداچوونەوە) | globalization | Globalisierung |
-| عەکس | وێنە، پێچەوانە | عەرەبی | هەمیشە (پێداچوونەوە) | picture, photo, opposite, reflection | Bild, Foto, Gegenteil |
-| عەیب | شەرم، کەموکوڕی | عەرەبی | هەمیشە (پێداچوونەوە) | shame, defect, fault | Schande, Mangel, Fehler |
-| عەیش | ژیان | عەرەبی | هەمیشە (پێداچوونەوە) | life, living | Leben |
-| عەیلە | خێزان | عەرەبی | هەمیشە (پێداچوونەوە) | family | Familie |
-| عەینەک | چاویلکە | عەرەبی | هەمیشە (پێداچوونەوە) | glasses, spectacles | Brille |
-| غابە | دارستان | عەرەبی | توند (پێداچوونەوە) | forest, woods | Wald |
-| غافل | بێئاگا | عەرەبی | هەمیشە (پێداچوونەوە) | unaware, heedless, careless | ahnungslos, unachtsam, nachlässig |
-| غافڵ | بێئاگا | عەرەبی | توند (پێداچوونەوە) | unaware, heedless, negligent | ahnungslos, unachtsam, achtlos |
-| غایە، غایة | مەبەست | عەرەبی | هەمیشە (پێداچوونەوە) | purpose, goal, aim | Zweck, Ziel |
-| غروور، غرور | لووتبەرزی | عەرەبی | هەمیشە (پێداچوونەوە) | arrogance, pride, vanity | Arroganz, Hochmut, Stolz |
-| غوبار، غبار | تۆز | عەرەبی | هەمیشە (پێداچوونەوە) | dust | Staub |
-| غودە، غدة | چرگ | عەرەبی | توند (پێداچوونەوە) | gland | Drüse |
-| غورفە | ژوور | عەرەبی | هەمیشە (پێداچوونەوە) | room | Zimmer, Raum |
-| غوغا | هاتووهاوار | عەرەبی | توند (پێداچوونەوە) | uproar, commotion, noise | Lärm, Tumult, Aufruhr |
-| غیاب، غەیاب | نەبوون | عەرەبی | هەمیشە (پێداچوونەوە) | absence | Abwesenheit, Fehlen |
-| غیزا | خۆراک | عەرەبی | هەمیشە (پێداچوونەوە) | food, nutrition, nourishment | Nahrung, Essen, Ernährung |
-| غیشا، غشاء، غیشاء | پەردە | عەرەبی | توند (پێداچوونەوە) | membrane | Membran, Hülle |
-| غیلاف | بەرگ | عەرەبی | هەمیشە (پێداچوونەوە) | cover, jacket | Umschlag, Einband, Hülle |
-| غەرامە | پێبژاردن | عەرەبی | هەمیشە (پێداچوونەوە) | fine, penalty | Geldstrafe, Bußgeld |
-| غەرز، غرض، غەرض | مەبەست | عەرەبی | هەمیشە (پێداچوونەوە) | purpose, aim, intention | Zweck, Absicht, Ziel |
-| غەرق، غەریق | خنکاو، نوقم | عەرەبی | هەمیشە (پێداچوونەوە) | drowned, immersed, sunk | ertrunken, versunken |
-| غەریب | نامۆ | عەرەبی | هەمیشە (پێداچوونەوە) | strange, stranger, foreign | fremd, seltsam, Fremder |
-| غەزو، غزو | داگیرکردن | عەرەبی | هەمیشە (پێداچوونەوە) | invasion, occupation, invade | Invasion, Besetzung, einmarschieren |
-| غەزەب | تووڕەیی | عەرەبی | هەمیشە (پێداچوونەوە) | anger, rage | Zorn, Wut |
-| غەسیان، غثیان | دڵەتان | عەرەبی | هەمیشە (پێداچوونەوە) | nausea | Übelkeit |
-| غەسەیان | دڵەتێکچوون | عەرەبی | هەمیشە (پێداچوونەوە) | nausea | Übelkeit |
-| غەشیان | بێهۆشبوون | عەرەبی | هەمیشە (پێداچوونەوە) | fainting, unconsciousness | Ohnmacht, Bewusstlosigkeit |
-| غەصب، غەسب | زەوتکردن | عەرەبی | توند (پێداچوونەوە) | seizure, usurpation, expropriation | Beschlagnahme, Usurpation, Enteignung |
-| غەلا، غلاء، غەلاء | گرانی | عەرەبی | هەمیشە (پێداچوونەوە) | high prices, expensiveness, inflation | Teuerung, hohe Preise |
-| غەلیان، غلیان | کوڵان | عەرەبی | توند (پێداچوونەوە) | boiling | Sieden, Kochen |
-| غەلەت | هەڵە | عەرەبی | هەمیشە (پێداچوونەوە) | mistake, error, wrong | Fehler, Irrtum, falsch |
-| غەلەط، غلەط | هەڵە | عەرەبی | هەمیشە (پێداچوونەوە) | mistake, error, wrong | Fehler, Irrtum, falsch |
-| غەنا | دەوڵەمەندی | عەرەبی | توند (پێداچوونەوە) | wealth, richness | Reichtum |
-| غەنیمەت، غەنیمە | دەستکەوت | عەرەبی | توند (پێداچوونەوە) | spoils, booty, gain | Beute, Gewinn |
-| غەیبوبە، غیبوبە، غەیبووبە | بێهۆشی | عەرەبی | هەمیشە (پێداچوونەوە) | coma, unconsciousness | Koma, Bewusstlosigkeit |
-| غەیری | جگە لە | عەرەبی | توند (پێداچوونەوە) | other than, except, apart from | außer, abgesehen von |
-| فائیدە، فایدە | سوود | عەرەبی | هەمیشە (پێداچوونەوە) | benefit, use, advantage | Nutzen, Vorteil |
-| فاتورە، فاتوورە | پسووڵە | عەرەبی | هەمیشە (پێداچوونەوە) | invoice, bill | Rechnung |
-| فاسد | گەندەڵ | عەرەبی | هەمیشە (پێداچوونەوە) | corrupt, rotten, spoiled | korrupt, verdorben, faul |
-| فاسق، فاسیق | خراپەکار | عەرەبی | هەمیشە (پێداچوونەوە) | wicked, sinner, immoral | sündhaft, Sünder, lasterhaft |
-| فاعیل | بکەر | عەرەبی | هەمیشە (پێداچوونەوە) | subject, agent, doer | Subjekt, Täter, Handelnder |
-| فاقە | هەژاری | عەرەبی | هەمیشە (پێداچوونەوە) | poverty, destitution | Armut, Not |
-| فایز، فائیز | سوود | عەرەبی | هەمیشە (پێداچوونەوە) | interest, profit, benefit | Zins, Gewinn, Nutzen |
-| فرعی | لاوەکی | عەرەبی | توند (پێداچوونەوە) | secondary, subsidiary, side | nebensächlich, untergeordnet |
-| فورسەت، فرصەت | هەل | عەرەبی | هەمیشە (پێداچوونەوە) | opportunity, chance | Gelegenheit, Chance |
-| فیراق، فیرقەت، فراق | دووری، جیابوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | separation, remoteness | Trennung, Ferne |
-| فیرقە | دەستە، تیپ | عەرەبی | هەمیشە (پێداچوونەوە) | group, team, band | Gruppe, Mannschaft, Truppe |
-| فیزە، فضة، فیضە | زیو | عەرەبی | هەمیشە (پێداچوونەوە) | silver | Silber |
-| فیعل | کردار | عەرەبی | هەمیشە (پێداچوونەوە) | verb, act, deed | Verb, Tat, Handlung |
-| فیعلەن، فعلەن | بە کردەوە | عەرەبی | هەمیشە (پێداچوونەوە) | actually, in fact, in practice | tatsächlich, in der Tat, praktisch |
-| فیلحەقیقە | لە ڕاستیدا | عەرەبی | هەمیشە (پێداچوونەوە) | in fact, actually, in reality | tatsächlich, in Wirklichkeit, eigentlich |
-| فیکر | بیر | عەرەبی | هەمیشە | thought, thinking, mind | Gedanke, Denken |
-| فیکرە | بیرۆکە | عەرەبی | هەمیشە | idea | Idee |
-| فەتح، فتح | داگیرکردن | عەرەبی | هەمیشە (پێداچوونەوە) | conquest, conquer, occupation | Eroberung, erobern, Besetzung |
-| فەترە، فەترەت | ماوە | عەرەبی | هەمیشە (پێداچوونەوە) | period, term, duration | Zeitraum, Periode, Amtszeit |
-| فەحس، فحص | پشکنین | عەرەبی | هەمیشە (پێداچوونەوە) | examination, checkup, test | Untersuchung, Prüfung, Test |
-| فەردی | تاک | عەرەبی | توند (پێداچوونەوە) | odd, individual, single | ungerade, einzeln, individuell |
-| فەرزییە، فرضیة | گریمان | عەرەبی | هەمیشە (پێداچوونەوە) | hypothesis, assumption | Hypothese, Annahme |
-| فەرزیە، فرضیە | گریمانە | عەرەبی | هەمیشە (پێداچوونەوە) | hypothesis, assumption | Hypothese, Annahme |
-| فەرعی | لاوەکی | عەرەبی | هەمیشە (پێداچوونەوە) | secondary, subsidiary, minor | nebensächlich, sekundär, untergeordnet |
-| فەرق | جیاوازی | عەرەبی | هەمیشە (پێداچوونەوە) | difference | Unterschied |
-| فەریق | دەستە | عەرەبی | هەمیشە (پێداچوونەوە) | team | Mannschaft, Team |
-| فەرەح | شادی | عەرەبی | هەمیشە (پێداچوونەوە) | joy, happiness | Freude, Glück |
-| فەساحەت | ڕەوانبێژی | عەرەبی | هەمیشە (پێداچوونەوە) | eloquence | Beredsamkeit, Eloquenz |
-| فەساد | گەندەڵی | عەرەبی | هەمیشە (پێداچوونەوە) | corruption | Korruption |
-| فەسل | بەش، وەرز | عەرەبی | هەمیشە (پێداچوونەوە) | chapter, section, season, semester | Kapitel, Abschnitt, Jahreszeit, Semester |
-| فەسیح | ڕەوانبێژ | عەرەبی | هەمیشە (پێداچوونەوە) | eloquent | redegewandt, eloquent |
-| فەشەل، فشل | تێکشکان | عەرەبی | هەمیشە (پێداچوونەوە) | failure | Misserfolg, Scheitern |
-| فەعالییەت، فەعالیەت | چالاکی | عەرەبی | هەمیشە (پێداچوونەوە) | activity | Aktivität, Tätigkeit |
-| فەقر | هەژاری | عەرەبی | هەمیشە (پێداچوونەوە) | poverty | Armut |
-| فەقرە | بڕگە | عەرەبی | توند (پێداچوونەوە) | paragraph, item, clause | Absatz, Punkt, Klausel |
-| فەقس | چرووکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | hatching, hatch | Ausbrüten, Schlüpfen, ausbrüten |
-| فەقیر | هەژار | عەرەبی | هەمیشە (پێداچوونەوە) | poor | arm |
-| فەقەت، فقط | تەنها | عەرەبی | هەمیشە | only, just | nur |
-| فەقەرە، فیقەرە، فقرة | بەند | عەرەبی | هەمیشە (پێداچوونەوە) | paragraph, clause, stanza | Absatz, Abschnitt, Strophe |
-| فەلاح | جووتیار | عەرەبی | هەمیشە (پێداچوونەوە) | farmer, peasant | Bauer, Landwirt |
-| فەلەج | لاساریی | عەرەبی | هەمیشە (پێداچوونەوە) | paralysis | Lähmung |
-| فەن، فەنن | هونەر | عەرەبی | هەمیشە (پێداچوونەوە) | art | Kunst |
-| فەننان، فەنان | هونەرمەند | عەرەبی | هەمیشە (پێداچوونەوە) | artist | Künstler |
-| فەهم | تێگەیشتن | عەرەبی | توند (پێداچوونەوە) | understanding, comprehension | Verständnis, Verstehen |
-| فەوری، فەورا | دەستبەجێ، خێرا | عەرەبی | هەمیشە (پێداچوونەوە) | immediate, instant, urgent | sofortig, unverzüglich, dringend |
-| فەوزا، فوزا، فوضى | شڵەژاوی | عەرەبی | هەمیشە (پێداچوونەوە) | chaos, disorder, turmoil | Chaos, Durcheinander, Unordnung |
-| فەوقەلعادە | نائاسایی | عەرەبی | هەمیشە (پێداچوونەوە) | extraordinary, unusual, exceptional | außergewöhnlich, ungewöhnlich |
-| فەیزان، فەیضان | لافاو | عەرەبی | هەمیشە (پێداچوونەوە) | flood | Überschwemmung, Flut |
-| قائیدە | یاسا، ڕێسا | عەرەبی | هەمیشە (پێداچوونەوە) | rule, principle | Regel, Grundsatz |
-| قاتڵ | بکوژ | عەرەبی | هەمیشە (پێداچوونەوە) | killer, murderer | Mörder |
-| قارئ | خوێنەر | عەرەبی | هەمیشە (پێداچوونەوە) | reader | Leser |
-| قارە، قاره | کیشوەر | عەرەبی | هەمیشە (پێداچوونەوە) | continent | Kontinent, Erdteil |
-| قازی | دادوەر | عەرەبی | هەمیشە (پێداچوونەوە) | judge | Richter |
-| قاسید، قاسد | نامەبەر | عەرەبی | توند (پێداچوونەوە) | messenger, courier | Bote, Kurier |
-| قاعدە | بنەما | عەرەبی | هەمیشە (پێداچوونەوە) | rule, principle, base | Regel, Grundsatz, Basis |
-| قاعیدە | ڕێسا، بنکە | عەرەبی | هەمیشە (پێداچوونەوە) | rule, base, principle | Regel, Basis, Grundsatz |
-| قافیە، قافیەت | سەروا | عەرەبی | هەمیشە (پێداچوونەوە) | rhyme | Reim |
-| قامووس، قاموس | فەرهەنگ | عەرەبی | هەمیشە (پێداچوونەوە) | dictionary | Wörterbuch |
-| قامەت | باڵا | عەرەبی | هەمیشە (پێداچوونەوە) | stature, height, figure | Gestalt, Statur, Größe |
-| قانع، قانیع | ڕازی | عەرەبی | هەمیشە (پێداچوونەوە) | satisfied, content | zufrieden |
-| قانون، قانوون | یاسا | عەرەبی | هەمیشە | law | Gesetz, Recht |
-| قانوونی، قانونی | یاسایی | عەرەبی | هەمیشە (پێداچوونەوە) | legal, lawful | gesetzlich, rechtlich, legal |
-| قایل | ڕازی | عەرەبی | هەمیشە (پێداچوونەوە) | content, satisfied, convinced | zufrieden, einverstanden, überzeugt |
-| قایمە، قائمة، قاییمه | پێڕست | عەرەبی | هەمیشە (پێداچوونەوە) | list, index | Liste, Verzeichnis |
-| قایید، قائد، قاید | ڕابەر | عەرەبی | هەمیشە (پێداچوونەوە) | leader, commander | Führer, Anführer, Befehlshaber |
-| قبووڵ، قەبووڵ، قوبووڵ | پەسەند | عەرەبی | هەمیشە (پێداچوونەوە) | acceptance, accept, approval | Annahme, annehmen, akzeptieren |
-| قبوڵ، قبول | پەسەندکردن، وەرگرتن | عەرەبی | هەمیشە (پێداچوونەوە) | acceptance, accept, approve | Annahme, annehmen, akzeptieren, billigen |
-| قسم | بەش، جۆر | عەرەبی | توند (پێداچوونەوە) | part, section, kind | Teil, Abschnitt, Art |
-| قوبح | ناشیرینی | عەرەبی | هەمیشە (پێداچوونەوە) | ugliness | Hässlichkeit |
-| قوتر | تیر | عەرەبی | هەمیشە (پێداچوونەوە) | diameter | Durchmesser |
-| قودرەت | توانا، هێز | عەرەبی | هەمیشە (پێداچوونەوە) | power, ability, might | Macht, Fähigkeit, Kraft |
-| قوسوور | کەموکوڕی | عەرەبی | هەمیشە (پێداچوونەوە) | shortcoming, deficiency, fault | Mangel, Unzulänglichkeit, Fehler |
-| قوللە | لوتکە | عەرەبی | هەمیشە (پێداچوونەوە) | summit, peak, top | Gipfel, Spitze |
-| قوماش | پارچە | عەرەبی | هەمیشە (پێداچوونەوە) | fabric, cloth, material | Stoff, Tuch |
-| قووت | بژێوی | عەرەبی | توند (پێداچوونەوە) | livelihood, sustenance, daily bread | Lebensunterhalt, Nahrung |
-| قووە، قوە | هێز | عەرەبی | هەمیشە (پێداچوونەوە) | force, power, strength | Kraft, Macht, Stärke |
-| قووەت | هێز | عەرەبی | هەمیشە (پێداچوونەوە) | strength, power, force | Kraft, Stärke |
-| قیاس | پێوانە، بەراورد | عەرەبی | هەمیشە (پێداچوونەوە) | measurement, comparison, analogy | Messung, Vergleich, Analogie |
-| قیافە، قیافەت | ڕووخسار | عەرەبی | هەمیشە (پێداچوونەوە) | appearance, face, look | Aussehen, Gesicht, Erscheinung |
-| قیرائەت، قرائەت | خوێندنەوە | عەرەبی | توند (پێداچوونەوە) | reading, recitation | Lesen, Lesung |
-| قیسمە، قسمة | دابەشکردن | عەرەبی | هەمیشە (پێداچوونەوە) | division, divide | Division, Teilung, teilen |
-| قیسمەت، قسمەت | چارەنووس | عەرەبی | هەمیشە (پێداچوونەوە) | fate, destiny | Schicksal |
-| قیصە | چیرۆک | عەرەبی | هەمیشە (پێداچوونەوە) | story, tale | Geschichte, Erzählung |
-| قیمەت، قیمة، قیمه | نرخ | عەرەبی | هەمیشە (پێداچوونەوە) | price, value | Preis, Wert |
-| قەباحەت | ناشیرینی، خراپە | عەرەبی | هەمیشە (پێداچوونەوە) | ugliness, wickedness, shame | Hässlichkeit, Schändlichkeit, Bosheit |
-| قەبر | گۆڕ | عەرەبی | هەمیشە (پێداچوونەوە) | grave, tomb | Grab |
-| قەبرستان، قبرستان، قەبورستان | گۆڕستان | عەرەبی | هەمیشە (پێداچوونەوە) | cemetery, graveyard | Friedhof |
-| قەبلەن | پێشتر | عەرەبی | هەمیشە (پێداچوونەوە) | before, previously, formerly | vorher, früher, zuvor |
-| قەبوول | پەسەند | عەرەبی | هەمیشە (پێداچوونەوە) | acceptance, approval, accept | Annahme, Akzeptanz, annehmen |
-| قەبیح | ناشیرین | عەرەبی | هەمیشە (پێداچوونەوە) | ugly, shameful | hässlich, schändlich |
-| قەبیلە | هۆز | عەرەبی | هەمیشە (پێداچوونەوە) | tribe, clan | Stamm, Sippe |
-| قەترە | دڵۆپ | عەرەبی | هەمیشە (پێداچوونەوە) | drop | Tropfen |
-| قەتل، قتل | کوشتن | عەرەبی | هەمیشە (پێداچوونەوە) | killing, murder | Tötung, Mord |
-| قەتڵ | کوشتن | عەرەبی | هەمیشە (پێداچوونەوە) | killing, murder | Tötung, Mord, töten |
-| قەحبە | لەشفرۆش | عەرەبی | توند (پێداچوونەوە) | prostitute | Prostituierte |
-| قەد | باڵا | عەرەبی | هەمیشە (پێداچوونەوە) | stature, height, figure | Statur, Größe, Gestalt |
-| قەدد | باڵا | عەرەبی | هەمیشە (پێداچوونەوە) | stature, height | Statur, Körpergröße, Gestalt |
-| قەدر | بەها، ڕێز | عەرەبی | هەمیشە (پێداچوونەوە) | value, worth, respect | Wert, Ansehen |
-| قەدیم، قدیم | کۆن | عەرەبی | هەمیشە (پێداچوونەوە) | old, ancient | alt, antik |
-| قەدەم | هەنگاو | عەرەبی | هەمیشە (پێداچوونەوە) | step | Schritt |
-| قەرار | بڕیار | عەرەبی | هەمیشە | decision | Entscheidung, Beschluss |
-| قەراغ، قەراخ | لێوار | عەرەبی | هەمیشە (پێداچوونەوە) | edge, shore, bank | Rand, Ufer |
-| قەرحە | زوخاو | عەرەبی | هەمیشە (پێداچوونەوە) | ulcer, pus | Geschwür, Eiter |
-| قەرز | وام | عەرەبی | هەمیشە (پێداچوونەوە) | loan, debt | Kredit, Darlehen, Schuld |
-| قەریب | نزیک | عەرەبی | هەمیشە (پێداچوونەوە) | near, close | nah, nahe |
-| قەرین | هاوڕێ | عەرەبی | هەمیشە (پێداچوونەوە) | companion, comrade, friend | Gefährte, Begleiter, Freund |
-| قەزف، قذف | بوختان | عەرەبی | هەمیشە (پێداچوونەوە) | slander, defamation | Verleumdung, Diffamierung |
-| قەزیە، قەزییە | دۆز، پرس | عەرەبی | هەمیشە (پێداچوونەوە) | issue, cause, question | Frage, Sache, Angelegenheit |
-| قەساب | گۆشتفرۆش | عەرەبی | هەمیشە (پێداچوونەوە) | butcher | Metzger, Fleischer |
-| قەسد | مەبەست | عەرەبی | هەمیشە (پێداچوونەوە) | intention, purpose | Absicht, Zweck |
-| قەسر | کۆشک | عەرەبی | هەمیشە (پێداچوونەوە) | palace | Palast, Schloss |
-| قەسیدە، قەسیدەت، قصیدة | هۆنراوە | عەرەبی | توند (پێداچوونەوە) | poem | Gedicht |
-| قەسەم | سوێند | عەرەبی | هەمیشە (پێداچوونەوە) | oath | Eid, Schwur |
-| قەصیدە | هۆنراوە | عەرەبی | توند (پێداچوونەوە) | poem | Gedicht |
-| قەلب | دڵ | عەرەبی | هەمیشە (پێداچوونەوە) | heart | Herz |
-| قەلیل | کەم | عەرەبی | هەمیشە (پێداچوونەوە) | few, little | wenig, wenige |
-| قەمەر | مانگ | عەرەبی | هەمیشە (پێداچوونەوە) | moon | Mond |
-| قەناعەت | ڕازیبوون | عەرەبی | هەمیشە (پێداچوونەوە) | contentment, satisfaction | Zufriedenheit, Genügsamkeit |
-| قەواڵە | بەڵگەنامە | عەرەبی | هەمیشە (پێداچوونەوە) | deed, document | Urkunde, Dokument |
-| قەول | بەڵێن، وتە | عەرەبی | هەمیشە (پێداچوونەوە) | promise, word, saying | Versprechen, Wort, Aussage |
-| قەوم، ئەقوام | گەل، هۆز | عەرەبی | هەمیشە (پێداچوونەوە) | people, nation, tribe | Volk, Stamm |
-| قەومیەت، قومیە، قومیة | نەتەوەیەتی | عەرەبی | هەمیشە (پێداچوونەوە) | nationality, nationalism, ethnicity | Nationalität, Volkszugehörigkeit |
-| قەوی | بەهێز | عەرەبی | هەمیشە (پێداچوونەوە) | strong, powerful | stark, kräftig |
-| قەڕن، قەرن | سەدە | عەرەبی | هەمیشە (پێداچوونەوە) | century | Jahrhundert |
-| قەڵب | دڵ | عەرەبی | هەمیشە (پێداچوونەوە) | heart | Herz |
-| قەڵق، قلق | نیگەرانی | عەرەبی | توند (پێداچوونەوە) | anxiety, worry, concern | Sorge, Unruhe, Besorgnis |
-| قەڵەم، قەلەم | پێنووس | عەرەبی | هەمیشە (پێداچوونەوە) | pen | Stift, Füller |
-| قەیران | تەنگژە | عەرەبی | هەمیشە (پێداچوونەوە) | crisis | Krise |
-| لائیحە، لایحه، لاییحە | ڕێنمایی | عەرەبی | هەمیشە (پێداچوونەوە) | regulation, guideline, bill | Verordnung, Richtlinie, Gesetzentwurf |
-| لائیق، لایق، لایەق | شایستە | عەرەبی | هەمیشە (پێداچوونەوە) | worthy, suitable, deserving | würdig, angemessen, geeignet |
-| لاجیئ، لاجیء | پەنابەر | عەرەبی | هەمیشە (پێداچوونەوە) | refugee | Flüchtling |
-| لازم | پێویست | عەرەبی | هەمیشە | necessary, required, needed | notwendig, nötig, erforderlich |
-| لایتناهی | بێکۆتایی | عەرەبی | هەمیشە (پێداچوونەوە) | infinite, infinity, endless | unendlich, Unendlichkeit |
-| لوتف، لطف | میهرەبانی | عەرەبی | هەمیشە (پێداچوونەوە) | kindness, favor, grace | Freundlichkeit, Güte, Gefallen |
-| لوتفەن | تکایە | عەرەبی | هەمیشە (پێداچوونەوە) | please | bitte |
-| لوغەت | وشە | عەرەبی | هەمیشە (پێداچوونەوە) | word, vocabulary | Wort, Vokabel |
-| لوقمە | پاروو | عەرەبی | هەمیشە (پێداچوونەوە) | morsel, bite, mouthful | Bissen, Happen |
-| لیکن، لاکن | بەڵام | عەرەبی | هەمیشە (پێداچوونەوە) | but, however | aber, jedoch |
-| لەحزە | سات | عەرەبی | هەمیشە (پێداچوونەوە) | moment, instant | Moment, Augenblick |
-| لەحم، لحم | گۆشت | عەرەبی | توند (پێداچوونەوە) | meat, flesh | Fleisch |
-| لەحن | ئاواز | عەرەبی | توند (پێداچوونەوە) | melody, tune | Melodie |
-| لەعنەت | نەفرەت | عەرەبی | هەمیشە (پێداچوونەوە) | curse | Fluch |
-| لەقەب | نازناو | عەرەبی | هەمیشە (پێداچوونەوە) | nickname, title | Spitzname, Beiname, Titel |
-| لەمس، لمس | دەستلێدان | عەرەبی | توند (پێداچوونەوە) | touch, touching | Berührung, Tastsinn |
-| لەهجە | زاراوە | عەرەبی | هەمیشە (پێداچوونەوە) | dialect, accent | Dialekt, Akzent |
-| مؤسسۀ، مؤسسه، مۆئەسەسە | دامەزراوە | عەرەبی | هەمیشە (پێداچوونەوە) | institution, foundation, organization | Institution, Einrichtung, Stiftung |
-| مادە | بابەت | عەرەبی | هەمیشە (پێداچوونەوە) | subject, topic, material | Fach, Thema, Stoff |
-| ماقوڵ، ماقووڵ | شایستە، بەهۆش | عەرەبی | توند (پێداچوونەوە) | reasonable, sensible, decent, worthy | vernünftig, angemessen, anständig |
-| مانشێت | سەرخەت | عەرەبی | هەمیشە (پێداچوونەوە) | headline | Schlagzeile |
-| مانع، مانیع | کۆسپ | عەرەبی | هەمیشە (پێداچوونەوە) | obstacle, barrier, hindrance | Hindernis, Barriere |
-| ماهیەت، ماهییەت، ماهیة، ماهیه | بنچینە | عەرەبی | هەمیشە (پێداچوونەوە) | essence, nature, basis | Wesen, Natur, Grundlage |
-| ماکینە، مەکینە | ئامێر | عەرەبی | هەمیشە (پێداچوونەوە) | machine | Maschine |
-| ماڵیات | باج | عەرەبی | هەمیشە (پێداچوونەوە) | tax, taxes | Steuer, Steuern |
-| متاع | کەلوپەل | عەرەبی | هەمیشە (پێداچوونەوە) | goods, belongings, stuff | Waren, Sachen, Habseligkeiten |
-| متحف | مۆزەخانە | عەرەبی | هەمیشە (پێداچوونەوە) | museum | Museum |
-| مجموعه، مجموعة | کۆمەڵ | عەرەبی | هەمیشە (پێداچوونەوە) | group, collection, set | Gruppe, Sammlung, Menge |
-| محطە، محطة | وێستگە | عەرەبی | هەمیشە (پێداچوونەوە) | station | Station, Bahnhof, Haltestelle |
-| محەلی، مەحەلی | خۆجێیی | عەرەبی | هەمیشە (پێداچوونەوە) | local | lokal, örtlich |
-| مخالف | ناڕازی | عەرەبی | هەمیشە (پێداچوونەوە) | opposed, opponent, dissatisfied | dagegen, Gegner, unzufrieden |
-| مراجعە | پێداچوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | review, revision, check | Überprüfung, Durchsicht, überprüfen |
-| مزاح، مزاحی | شوخی | عەرەبی | هەمیشە (پێداچوونەوە) | joke, humor, joking | Scherz, Witz, Spaß |
-| مسافر | گەشتیار | عەرەبی | هەمیشە (پێداچوونەوە) | traveler, passenger, tourist | Reisender, Fahrgast, Tourist |
-| مشتەری، موشتەری | کڕیار | عەرەبی | هەمیشە (پێداچوونەوە) | customer, client, buyer | Kunde, Käufer |
-| مشەخەس، مشخس، مشخص | دیاریکراو | عەرەبی | توند (پێداچوونەوە) | specified, designated, particular | bestimmt, festgelegt |
-| مطبعە، مطبعه، مطبعة | چاپخانە | عەرەبی | هەمیشە (پێداچوونەوە) | printing house, printing press | Druckerei |
-| معرکە | پێکدادان | عەرەبی | هەمیشە (پێداچوونەوە) | clash, battle, fight | Zusammenstoß, Schlacht, Kampf |
-| مفرەد، مفرد | تاک | عەرەبی | هەمیشە (پێداچوونەوە) | singular, single | Singular, Einzahl |
-| موئامەرە، مؤامرە، مؤامرة | پیلان | عەرەبی | هەمیشە (پێداچوونەوە) | conspiracy, plot | Verschwörung, Komplott |
-| موئەررخ | مێژوونووس | عەرەبی | توند (پێداچوونەوە) | historian | Historiker |
-| موئەرریخ، موئەریخ | مێژوونووس | عەرەبی | هەمیشە (پێداچوونەوە) | historian | Historiker |
-| موئەسیس، موئەسسیس | دامەزرێنەر | عەرەبی | هەمیشە (پێداچوونەوە) | founder | Gründer |
-| موئەسەسە، موئەسسەسە | دامەزراوە | عەرەبی | هەمیشە (پێداچوونەوە) | institution, foundation | Einrichtung, Institution, Stiftung |
-| موئەششیر، موئەشیر | نیشانگر | عەرەبی | هەمیشە (پێداچوونەوە) | indicator | Indikator, Kennzahl |
-| موئەقەت، مۆئەقەت | کاتی | عەرەبی | هەمیشە (پێداچوونەوە) | temporary | vorübergehend, zeitweilig |
-| موئەللیف | نووسەر | عەرەبی | هەمیشە (پێداچوونەوە) | author, writer | Autor, Schriftsteller |
-| موازەنە | هاوسەنگی، بەراورد | عەرەبی | هەمیشە (پێداچوونەوە) | balance, comparison, budget | Gleichgewicht, Vergleich, Haushalt |
-| موافیق، موافق | هاوڕا | عەرەبی | هەمیشە (پێداچوونەوە) | agreeing, in agreement | einverstanden, gleicher Meinung |
-| موافەقەت | ڕازیبوون | عەرەبی | توند (پێداچوونەوە) | consent, agreement, approval | Zustimmung, Einverständnis |
-| موبارات | یاری | عەرەبی | هەمیشە (پێداچوونەوە) | match, game | Spiel, Wettkampf |
-| موبارەک | پیرۆز | عەرەبی | هەمیشە (پێداچوونەوە) | blessed, congratulations | gesegnet, herzlichen Glückwunsch |
-| موبالات | گوێدان | عەرەبی | هەمیشە (پێداچوونەوە) | care, concern, heed | Beachtung, Rücksicht |
-| موبتەلا، مبتەلا | تووشبوو | عەرەبی | توند (پێداچوونەوە) | afflicted, affected, suffering from | befallen, betroffen, leidend |
-| موبهەم | ناڕوون | عەرەبی | هەمیشە (پێداچوونەوە) | vague, ambiguous, unclear | vage, mehrdeutig, unklar |
-| موتابیق | گوێرەی | عەرەبی | توند (پێداچوونەوە) | according to, in accordance with, matching | gemäß, entsprechend, übereinstimmend |
-| موتابەعە | چاودێری | عەرەبی | توند (پێداچوونەوە) | monitoring, follow-up, supervision | Überwachung, Verfolgung, Beobachtung |
-| موتالعە، مطالعة، مەتالعە | خوێندنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | reading, study, read | Lesen, Lektüre, lesen |
-| موتالەعە، موتاڵا، موتاڵەعە | خوێندنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | reading, study | Lektüre, Lesen, Studium |
-| موتاهەم، موتاهام | تۆمەتبار | عەرەبی | هەمیشە (پێداچوونەوە) | accused, defendant | Angeklagter, Beschuldigter |
-| موتتەفیق | ڕێککەوتوو | عەرەبی | هەمیشە (پێداچوونەوە) | agreed, in agreement | einig, vereinbart |
-| موتتەهەم، متهم | تۆمەتبار | عەرەبی | توند (پێداچوونەوە) | accused, defendant, suspect | Angeklagter, Beschuldigter, Verdächtiger |
-| موتمەئین | دڵنیا | عەرەبی | توند (پێداچوونەوە) | sure, confident, certain | sicher, zuversichtlich |
-| موتڵەق | ڕەها | عەرەبی | هەمیشە (پێداچوونەوە) | absolute | absolut, unbedingt |
-| موتیع | فەرمانبەردار | عەرەبی | هەمیشە (پێداچوونەوە) | obedient, submissive | gehorsam, unterwürfig |
-| موتەبایەنە | نایەکسانی | عەرەبی | توند (پێداچوونەوە) | inequality | Ungleichung, Ungleichheit |
-| موتەخەسیس، موتەخەسسیس | پسپۆڕ | عەرەبی | هەمیشە (پێداچوونەوە) | specialist, expert | Spezialist, Fachmann, Experte |
-| موتەرجیم | وەرگێڕ | عەرەبی | هەمیشە (پێداچوونەوە) | translator | Übersetzer, Dolmetscher |
-| موتەساوی، متساوی | یەکسان | عەرەبی | هەمیشە (پێداچوونەوە) | equal | gleich |
-| موتەغەییر، متغیر | گۆڕاو | عەرەبی | هەمیشە (پێداچوونەوە) | variable, changing | Variable, veränderlich |
-| موتەهەم، موتهم | تۆمەتبار | عەرەبی | هەمیشە (پێداچوونەوە) | accused, defendant, suspect | Angeklagter, Beschuldigter, Verdächtiger |
-| موتەوازی | هاوپاڵ | عەرەبی | هەمیشە (پێداچوونەوە) | parallel | parallel |
-| موتەوەسیت، متوسط | تێکڕا | عەرەبی | هەمیشە (پێداچوونەوە) | average, mean | Durchschnitt, Mittelwert |
-| موجاوەر، مجاور | تەنیشت | عەرەبی | هەمیشە (پێداچوونەوە) | adjacent, neighboring | benachbart, angrenzend |
-| موجیب | هۆ | عەرەبی | هەمیشە (پێداچوونەوە) | cause, reason | Ursache, Grund |
-| موجەلەد | بوخچە | عەرەبی | هەمیشە (پێداچوونەوە) | folder, volume | Ordner, Band |
-| موجەڕڕەد، موجەڕەد | سەڵت | عەرەبی | هەمیشە (پێداچوونەوە) | single, unmarried, abstract | ledig, alleinstehend, abstrakt |
-| موحارەبە | جەنگ | عەرەبی | هەمیشە (پێداچوونەوە) | war | Krieg |
-| موحازیر | وانەبێژ | عەرەبی | هەمیشە (پێداچوونەوە) | lecturer | Dozent |
-| موحازەرە | وانە | عەرەبی | هەمیشە (پێداچوونەوە) | lecture | Vorlesung, Vortrag |
-| موحاسیب | ژمێریار | عەرەبی | هەمیشە (پێداچوونەوە) | accountant | Buchhalter |
-| موحاسەبە، محاسبة، محاسبه | ژمێریاری | عەرەبی | هەمیشە (پێداچوونەوە) | accounting, accountancy | Buchhaltung, Rechnungswesen |
-| موحاسەرە | گەمارۆ | عەرەبی | هەمیشە (پێداچوونەوە) | siege, blockade | Belagerung, Blockade |
-| موحافیزە، موحافزة | پارێزگا | عەرەبی | هەمیشە (پێداچوونەوە) | province, governorate | Provinz, Gouvernement |
-| موحافەزە | پارێزگا | عەرەبی | هەمیشە (پێداچوونەوە) | province, governorate | Provinz, Gouvernement |
-| موحامی | پارێزەر | عەرەبی | هەمیشە (پێداچوونەوە) | lawyer, attorney | Anwalt, Rechtsanwalt |
-| موحاوەرە، محاورة | گفتوگۆ | عەرەبی | توند (پێداچوونەوە) | dialogue, conversation | Dialog, Gespräch |
-| موحاکەمە | دادگاییکردن | عەرەبی | هەمیشە (پێداچوونەوە) | trial | Prozess, Gerichtsverfahren |
-| موحتاج | نەدار، پێویست | عەرەبی | هەمیشە (پێداچوونەوە) | needy, poor, in need | bedürftig, arm, angewiesen |
-| موحتەرەم | بەڕێز | عەرەبی | هەمیشە (پێداچوونەوە) | respected, honorable, dear | geehrt, verehrt, angesehen |
-| موحتەمەل | لەوانەیە، گونجاو | عەرەبی | هەمیشە (پێداچوونەوە) | probable, likely, possible | wahrscheinlich, möglich |
-| موحتەوا | ناوەڕۆک | عەرەبی | هەمیشە (پێداچوونەوە) | content, contents | Inhalt |
-| موحوەر، محوەر | تەوەر | عەرەبی | هەمیشە (پێداچوونەوە) | axis, pivot | Achse |
-| موحیبەت | خۆشەویستی | عەرەبی | توند (پێداچوونەوە) | love, affection | Liebe, Zuneigung |
-| موحیط | زەریا | عەرەبی | هەمیشە (پێداچوونەوە) | ocean, environment, surroundings | Ozean, Umgebung |
-| موحەبەت، موحەببەت | خۆشەویستی | عەرەبی | هەمیشە (پێداچوونەوە) | love, affection | Liebe, Zuneigung |
-| موحەفیز، محفز | هاندەر | عەرەبی | هەمیشە (پێداچوونەوە) | motivator, stimulus, incentive | Anreiz, Antrieb, Reiz |
-| موحەقیق، محقق | لێکۆلەر | عەرەبی | هەمیشە (پێداچوونەوە) | investigator, researcher | Ermittler, Forscher |
-| موحەڕڕیر، محرر | سەرنووسەر | عەرەبی | توند (پێداچوونەوە) | editor, editor-in-chief | Redakteur, Chefredakteur, Herausgeber |
-| موخالیف | دژ، نەیار | عەرەبی | هەمیشە (پێداچوونەوە) | opponent, opposed, contrary | Gegner, gegen, entgegengesetzt |
-| موخالەفە، موخالەفەت | سەرپێچی | عەرەبی | هەمیشە (پێداچوونەوە) | violation, breach, infringement | Verstoß, Übertretung |
-| موخبیر، مخبیر، موخبر | سیخوڕ | عەرەبی | توند (پێداچوونەوە) | informant, spy, informer | Informant, Spitzel, Spion |
-| موختەسەر | کورت، پوختە | عەرەبی | هەمیشە (پێداچوونەوە) | short, brief, summary | kurz, knapp, Zusammenfassung |
-| موختەلیف | جیاواز | عەرەبی | هەمیشە (پێداچوونەوە) | different, various | verschieden, unterschiedlich |
-| موخریج، مخرج | دەرهێنەر | عەرەبی | هەمیشە (پێداچوونەوە) | director | Regisseur |
-| مودافەعە | بەرگری | عەرەبی | هەمیشە (پێداچوونەوە) | defense | Verteidigung, Abwehr |
-| مودام | هەمیشە | عەرەبی | هەمیشە (پێداچوونەوە) | always, constantly | immer, ständig |
-| موددەت، مودەت | ماوە | عەرەبی | هەمیشە (پێداچوونەوە) | period, duration | Zeitraum, Dauer, Frist |
-| مودعی، مدعی | داواکار | عەرەبی | هەمیشە (پێداچوونەوە) | plaintiff, claimant | Kläger |
-| مودیر | بەڕێوەبەر | عەرەبی | هەمیشە | manager, director | Manager, Direktor, Leiter |
-| مودەعی | دادخواز | عەرەبی | هەمیشە (پێداچوونەوە) | plaintiff, claimant | Kläger |
-| مودەقیق، مدقق | پشکنەر | عەرەبی | توند (پێداچوونەوە) | auditor, inspector, checker | Prüfer, Revisor, Kontrolleur |
-| مودەڕڕیس، مودەڕیس | مامۆستا | عەرەبی | هەمیشە (پێداچوونەوە) | teacher, instructor, lecturer | Lehrer, Dozent |
-| موراجیعە، موراجعە | پێداچوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | review, revision, check | Überprüfung, Durchsicht, Wiederholung |
-| موراجەعە | پێداچوونەوە | عەرەبی | هەمیشە (پێداچوونەوە) | review, revision, consultation | Überprüfung, Durchsicht |
-| موراسیل | پەیامنێر | عەرەبی | هەمیشە (پێداچوونەوە) | correspondent, reporter | Korrespondent, Reporter |
-| موراقیب | چاودێر | عەرەبی | هەمیشە (پێداچوونەوە) | observer, monitor, supervisor | Beobachter, Aufseher |
-| موربا، مربع | چوارگۆشە | عەرەبی | هەمیشە (پێداچوونەوە) | square | Quadrat, Viereck |
-| موربەع | چوارگۆشە | عەرەبی | هەمیشە (پێداچوونەوە) | square | Quadrat |
-| موردیف، مردیف، مرادف | هاوواتا | عەرەبی | هەمیشە (پێداچوونەوە) | synonym | Synonym |
-| موركەب، مركب | پێکهاتە | عەرەبی | هەمیشە (پێداچوونەوە) | compound, composite | Verbindung, zusammengesetzt |
-| مورووەت، مروەت | جوامێری | عەرەبی | هەمیشە (پێداچوونەوە) | chivalry, generosity, magnanimity | Großmut, Edelmut, Ritterlichkeit |
-| مورەخەس، موڕەخەس | مۆڵەتدراو | عەرەبی | هەمیشە (پێداچوونەوە) | licensed, authorized, on leave | lizenziert, genehmigt, befugt |
-| موزاهەرە | خۆپیشاندان | عەرەبی | هەمیشە (پێداچوونەوە) | demonstration, protest | Demonstration, Kundgebung |
-| موزاکەرە | وتووێژ، دانوستان | عەرەبی | هەمیشە (پێداچوونەوە) | negotiation, discussion, talks | Verhandlung, Gespräch |
-| موزدەوەج | دووانی | عەرەبی | هەمیشە (پێداچوونەوە) | double, dual, binary | doppelt |
-| موزمین، مزمن | درێژخایەن | عەرەبی | هەمیشە (پێداچوونەوە) | chronic, long-term | chronisch, langfristig |
-| موزنەب، مذنب، موزنەبات | ئەستێرەی باڵدار | عەرەبی | توند (پێداچوونەوە) | comet | Komet |
-| موزیع | پێشکەشکار | عەرەبی | هەمیشە (پێداچوونەوە) | announcer, broadcaster, presenter | Ansager, Sprecher, Moderator |
-| موسائیدە | یارمەتی | عەرەبی | هەمیشە | help, assistance | Hilfe, Unterstützung |
-| موسائەلە، مساءلە، مساءلة | لێپرسینەوە | عەرەبی | هەمیشە (پێداچوونەوە) | accountability, questioning | Rechenschaft, Verantwortlichkeit |
-| موسابەقە | پێشبڕکێ | عەرەبی | هەمیشە (پێداچوونەوە) | competition, contest, race | Wettbewerb, Wettkampf |
-| موساعید | یاریدەدەر | عەرەبی | هەمیشە (پێداچوونەوە) | assistant, helper | Assistent, Helfer |
-| موساعەدە | یارمەتی | عەرەبی | هەمیشە (پێداچوونەوە) | help, assistance | Hilfe, Unterstützung |
-| موسافیر، موسافر | ڕێبوار، گەشتیار | عەرەبی | هەمیشە (پێداچوونەوە) | traveler, passenger | Reisender, Passagier |
-| موسالەحە، مصالحة | ئاشتبوونەوە | عەرەبی | توند (پێداچوونەوە) | reconciliation | Versöhnung |
-| موساواة، موساواه | یەکسانی | عەرەبی | توند (پێداچوونەوە) | equality | Gleichheit, Gleichberechtigung |
-| موساوات، مساواة | یەکسانی | عەرەبی | هەمیشە (پێداچوونەوە) | equality | Gleichheit, Gleichberechtigung |
-| موستەئجیر، مستأجر | کرێچی | عەرەبی | توند (پێداچوونەوە) | tenant, renter | Mieter, Pächter |
-| موستەتیل، مستطیل | ڕاستگۆشە | عەرەبی | هەمیشە (پێداچوونەوە) | rectangle | Rechteck |
-| موستەثمیر، مستثمر | وەبەرهێنەر | عەرەبی | هەمیشە (پێداچوونەوە) | investor | Investor, Anleger |
-| موستەحیل | نەشیاو | عەرەبی | هەمیشە (پێداچوونەوە) | impossible | unmöglich |
-| موستەسمیر | وەبەرهێنەر | عەرەبی | هەمیشە (پێداچوونەوە) | investor | Investor, Anleger |
-| موستەشار | ڕاوێژکار | عەرەبی | هەمیشە (پێداچوونەوە) | adviser, consultant, counselor | Berater |
-| موستەشفا | نەخۆشخانە | عەرەبی | هەمیشە (پێداچوونەوە) | hospital | Krankenhaus |
-| موستەعید | ئامادە | عەرەبی | هەمیشە (پێداچوونەوە) | ready, prepared, willing | bereit, vorbereitet |
-| موستەغنی | بێنیاز | عەرەبی | هەمیشە (پێداچوونەوە) | self-sufficient, independent | unabhängig, bedürfnislos |
-| موستەقبەل، مستەقبەل | داهاتوو | عەرەبی | هەمیشە | future | Zukunft |
-| موستەقیل، مستقل | سەربەخۆ | عەرەبی | هەمیشە (پێداچوونەوە) | independent | unabhängig, selbständig |
-| موستەلەح، مصطلح | زاراوە | عەرەبی | هەمیشە (پێداچوونەوە) | term, terminology | Begriff, Fachbegriff |
-| موستەمع | بیسەر | عەرەبی | هەمیشە (پێداچوونەوە) | listener | Zuhörer, Hörer |
-| موستەهلیک، مستهلك | بەکارهێنەر | عەرەبی | هەمیشە (پێداچوونەوە) | consumer, user | Verbraucher, Konsument, Benutzer |
-| موستەوا | ئاست | عەرەبی | هەمیشە (پێداچوونەوە) | level | Niveau, Ebene |
-| موستەورید، مستورد | هاوردەکار | عەرەبی | توند (پێداچوونەوە) | importer | Importeur |
-| موستەوی، مستوي | تەخت | عەرەبی | هەمیشە (پێداچوونەوە) | plane, level, flat | Ebene, flach |
-| موسوعە | زانیارنامە | عەرەبی | هەمیشە (پێداچوونەوە) | encyclopedia | Enzyklopädie, Lexikon |
-| موسوەدە، مسودە | ڕەشنووس | عەرەبی | توند (پێداچوونەوە) | draft | Entwurf |
-| موسیبەت | بەڵا، کارەسات | عەرەبی | هەمیشە (پێداچوونەوە) | disaster, catastrophe, calamity | Katastrophe, Unglück |
-| موسەجەل | تۆمارکراو | عەرەبی | هەمیشە (پێداچوونەوە) | registered, recorded | registriert, eingetragen |
-| موسەقەف | ڕۆشنبیر | عەرەبی | توند (پێداچوونەوە) | intellectual, educated person | Intellektueller, Gebildeter |
-| موسەلسەل | زنجیرە | عەرەبی | هەمیشە (پێداچوونەوە) | series, serial | Serie, Reihe |
-| موسەللەس | سێگۆشە | عەرەبی | هەمیشە (پێداچوونەوە) | triangle | Dreieck |
-| موسەللەم، موسەلەم | بێگومان | عەرەبی | هەمیشە (پێداچوونەوە) | certain, undisputed, indisputable | sicher, unbestritten, unumstritten |
-| موسەلەس، مثلث | سێگۆشە | عەرەبی | هەمیشە (پێداچوونەوە) | triangle | Dreieck |
-| موشابەهەت | لێکچوون | عەرەبی | هەمیشە (پێداچوونەوە) | similarity, resemblance | Ähnlichkeit |
-| موشارەکە | بەشداری | عەرەبی | هەمیشە (پێداچوونەوە) | participation, participate | Teilnahme, Beteiligung, teilnehmen |
-| موشاهید | بیننەر | عەرەبی | هەمیشە (پێداچوونەوە) | viewer, spectator, observer | Zuschauer, Beobachter |
-| موشاهەدە | بینین | عەرەبی | هەمیشە (پێداچوونەوە) | observation, watch, see | Beobachtung, beobachten, sehen |
-| موشریف | سەرپەرشتیار | عەرەبی | توند (پێداچوونەوە) | supervisor | Betreuer, Aufseher, Vorgesetzter |
-| موشکیل | کێشە | عەرەبی | هەمیشە (پێداچوونەوە) | problem, difficulty | Problem, Schwierigkeit |
-| موشکیلە، مشکیلە | کێشە | عەرەبی | هەمیشە | problem, issue | Problem |
-| موصادرە، مصادرة | زەوتکردن | عەرەبی | هەمیشە (پێداچوونەوە) | confiscation, seizure | Beschlagnahme, Konfiszierung |
-| موصەویر | وێنەگر | عەرەبی | هەمیشە (پێداچوونەوە) | photographer, cameraman | Fotograf, Kameramann |
-| موعادەلە | یەکسانی | عەرەبی | هەمیشە (پێداچوونەوە) | equation | Gleichung |
-| موعارز | بەرهەڵستکار | عەرەبی | توند (پێداچوونەوە) | opponent, opposition | Gegner, Opposition, Oppositioneller |
-| موعاسیر، معاسیر، معاصر | هاوچەرخ | عەرەبی | هەمیشە (پێداچوونەوە) | contemporary, modern | zeitgenössisch, modern |
-| موعالەجە | چارەسەرکردن | عەرەبی | هەمیشە (پێداچوونەوە) | treatment, treat | Behandlung, behandeln |
-| موعامەلە، موئامەلە، مامەڵە | ڕەفتار | عەرەبی | هەمیشە (پێداچوونەوە) | treatment, behavior, transaction | Umgang, Verhalten, Behandlung |
-| موعاهەدە | پەیمان، ڕێکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | treaty, agreement, pact | Vertrag, Abkommen, Pakt |
-| موعاوەنە، معاوەنە | یارمەتی | عەرەبی | هەمیشە (پێداچوونەوە) | help, assistance, aid | Hilfe, Unterstützung |
-| موعاوەنەت | یارمەتی | عەرەبی | هەمیشە (پێداچوونەوە) | help, assistance, aid | Hilfe, Unterstützung |
-| موعاینە | پشکنین | عەرەبی | هەمیشە (پێداچوونەوە) | examination, checkup | Untersuchung |
-| موعتەبەر | متمانەپێکراو | عەرەبی | هەمیشە (پێداچوونەوە) | reliable, trustworthy, credible | zuverlässig, vertrauenswürdig, glaubwürdig |
-| موعتەقەل، معتقل | بەندکراو | عەرەبی | توند (پێداچوونەوە) | detainee, prisoner | Häftling, Inhaftierter, Gefangener |
-| موعجیزات، موعجیزە | پەرجوو | عەرەبی | هەمیشە (پێداچوونەوە) | miracle | Wunder |
-| موعجەم، معجم | فەرهەنگ | عەرەبی | هەمیشە (پێداچوونەوە) | dictionary, lexicon | Wörterbuch, Lexikon |
-| موعەللیم، موعەلیم | مامۆستا | عەرەبی | هەمیشە (پێداچوونەوە) | teacher | Lehrer |
-| موعەلیق | لێدوانکار | عەرەبی | توند (پێداچوونەوە) | commentator | Kommentator |
-| موعەمما | مەتەڵ | عەرەبی | هەمیشە (پێداچوونەوە) | riddle, puzzle, enigma | Rätsel |
-| موعەیەن، مەعیەن | دیاریکراو | عەرەبی | هەمیشە (پێداچوونەوە) | specific, certain, designated | bestimmt, festgelegt |
-| موغەنی | گۆرانیبێژ | عەرەبی | هەمیشە (پێداچوونەوە) | singer | Sänger |
-| موفسید | گەندەڵ | عەرەبی | توند (پێداچوونەوە) | corrupt | korrupt |
-| موفلیس | مایەپووچ | عەرەبی | هەمیشە (پێداچوونەوە) | bankrupt, broke | bankrott, pleite |
-| موفەتتیش | پشکنەر | عەرەبی | توند (پێداچوونەوە) | inspector | Inspektor, Prüfer |
-| موفەقیەت، مووفەقیەت، موفقیت | سەرکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | success | Erfolg |
-| موفەککیر، مفکر | بیرمەند | عەرەبی | هەمیشە (پێداچوونەوە) | thinker, intellectual | Denker |
-| موقابلە | چاوپێکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | interview, meeting | Interview, Treffen |
-| موقابیل | بەرامبەر | عەرەبی | هەمیشە (پێداچوونەوە) | opposite, against, in return | gegenüber, gegen, Gegenleistung |
-| موقارینە | بەراوردکردن | عەرەبی | هەمیشە (پێداچوونەوە) | comparison, compare | Vergleich, vergleichen |
-| موقارەنە | بەراوردکردن | عەرەبی | هەمیشە | comparison, compare | Vergleich, vergleichen |
-| موقاومەت، مقاومەت | بەرخۆدان | عەرەبی | هەمیشە (پێداچوونەوە) | resistance | Widerstand |
-| موقاوەمەت، موقاوەمە | خۆڕاگری | عەرەبی | هەمیشە (پێداچوونەوە) | resistance, endurance | Widerstand, Durchhaltevermögen |
-| موقایسە | بەراورد | عەرەبی | هەمیشە (پێداچوونەوە) | comparison | Vergleich |
-| موقتەدا | پێشەوا | عەرەبی | هەمیشە (پێداچوونەوە) | leader, imam, role model | Vorbild, Führer, Vorbeter |
-| موقەددیم | پێشکەشکار | عەرەبی | هەمیشە (پێداچوونەوە) | presenter, host | Moderator |
-| موقەددیمە، موقەدیمە، موقەددەمە | پێشەکی | عەرەبی | هەمیشە (پێداچوونەوە) | introduction, preface | Einleitung, Vorwort |
-| موقەددەس، موقەدەس | پیرۆز | عەرەبی | هەمیشە (پێداچوونەوە) | holy, sacred | heilig |
-| موقەررەر، مقرر | دیاریکراو | عەرەبی | هەمیشە (پێداچوونەوە) | specified, scheduled, prescribed | festgelegt, vorgesehen, bestimmt |
-| موقەرەر | وانە | عەرەبی | هەمیشە (پێداچوونەوە) | lesson, course, syllabus | Lektion, Unterrichtsfach, Lehrstoff |
-| مولاحەزە | تێبینی | عەرەبی | هەمیشە (پێداچوونەوە) | note, remark, observation | Bemerkung, Notiz, Anmerkung |
-| مولاقات، ملاقات | چاوپێکەوتن، بینین | عەرەبی | هەمیشە (پێداچوونەوە) | meeting, interview, visit | Treffen, Interview, Besuch |
-| مولحەق، ملحق | پاشکۆ | عەرەبی | هەمیشە (پێداچوونەوە) | appendix, annex, supplement | Anhang, Anlage, Beilage |
-| مولکیەت، ملکیة، مولکیە | خاوەندارێتی | عەرەبی | هەمیشە (پێداچوونەوە) | ownership, property | Eigentum, Besitz |
-| مولەخەس، ملخص، مولخەس | پوختە | عەرەبی | هەمیشە (پێداچوونەوە) | summary, abstract | Zusammenfassung, Kurzfassung |
-| مومتاز | نایاب | عەرەبی | هەمیشە (پێداچوونەوە) | excellent, outstanding | ausgezeichnet, hervorragend |
-| مومکین | دەکرێت، دەشێت | عەرەبی | هەمیشە | possible, can, may | möglich, können |
-| مومەریز | پەرستار | عەرەبی | هەمیشە (پێداچوونەوە) | nurse | Krankenpfleger, Krankenschwester, Pflegekraft |
-| مونازەرە | گفتوگۆ | عەرەبی | هەمیشە (پێداچوونەوە) | debate, discussion | Debatte, Diskussion |
-| موناسیب، موناسب | گونجاو | عەرەبی | هەمیشە (پێداچوونەوە) | suitable, appropriate | passend, geeignet, angemessen |
-| موناسەبەت، مناسەبەت | بۆنە | عەرەبی | هەمیشە (پێداچوونەوە) | occasion, event | Anlass, Gelegenheit |
-| مونافق، موناپیق، منافق | دووڕوو | عەرەبی | توند (پێداچوونەوە) | hypocrite, two-faced | Heuchler, falsch |
-| مونافەسە، مونافسە، منافسة | ڕکابەری، پێشبڕکێ | عەرەبی | توند (پێداچوونەوە) | competition, rivalry | Wettbewerb, Konkurrenz |
-| مونتیج | بەرهەمهێنەر | عەرەبی | توند (پێداچوونەوە) | producer | Produzent, Hersteller |
-| مونتەج | بەرهەم | عەرەبی | هەمیشە (پێداچوونەوە) | product | Produkt, Erzeugnis |
-| مونتەخەب | هەڵبژێردراو | عەرەبی | هەمیشە (پێداچوونەوە) | elected, selected, chosen | gewählt, ausgewählt |
-| مونتەزیر | چاوەڕوان | عەرەبی | هەمیشە (پێداچوونەوە) | waiting, expectant | wartend, erwartungsvoll |
-| مونتەها | کۆتایی | عەرەبی | هەمیشە (پێداچوونەوە) | end, limit, extremity | Ende, Grenze |
-| مونحەنی | چەمە | عەرەبی | هەمیشە (پێداچوونەوە) | curve, curved | Kurve, gekrümmt |
-| مونهەج | بەرنامەی خوێندن | عەرەبی | هەمیشە (پێداچوونەوە) | curriculum, syllabus | Lehrplan, Curriculum |
-| مونیر | ڕووناک | عەرەبی | هەمیشە (پێداچوونەوە) | bright, luminous, shining | hell, leuchtend |
-| مونەزەمە | ڕێکخراو | عەرەبی | هەمیشە (پێداچوونەوە) | organization | Organisation |
-| مونەسیق، مونەسسیق | ڕێکخەر | عەرەبی | هەمیشە (پێداچوونەوە) | coordinator | Koordinator |
-| مونەقەشە | گفتوگۆ | عەرەبی | هەمیشە (پێداچوونەوە) | discussion, debate | Diskussion, Debatte |
-| مونەووەر | ڕووناک | عەرەبی | هەمیشە (پێداچوونەوە) | enlightened, illuminated, bright | erleuchtet, aufgeklärt, hell |
-| موهاجیر، موهاجیرین، موهاجرین | کۆچبەر | عەرەبی | هەمیشە (پێداچوونەوە) | immigrant, emigrant, migrant | Einwanderer, Auswanderer, Migrant |
-| موهاجەرەت | کۆچ | عەرەبی | هەمیشە (پێداچوونەوە) | migration, emigration | Auswanderung, Migration, Einwanderung |
-| موهیم، موهم | گرنگ | عەرەبی | هەمیشە | important | wichtig |
-| موهەددید | هەڕەشەکار | عەرەبی | توند (پێداچوونەوە) | threatening, threatener | bedrohlich, Bedroher |
-| موهەندیس، موهەندس | ئەندازیار | عەرەبی | هەمیشە (پێداچوونەوە) | engineer | Ingenieur |
-| موهەییا | ئامادە | عەرەبی | هەمیشە (پێداچوونەوە) | ready, prepared | bereit, vorbereitet, fertig |
-| موواتین | هاوڵاتی | عەرەبی | هەمیشە (پێداچوونەوە) | citizen | Bürger, Staatsbürger |
-| موواتەنە | هاوولاتیبوون | عەرەبی | هەمیشە (پێداچوونەوە) | citizenship | Staatsbürgerschaft, Bürgerschaft |
-| موواجەهە | ڕووبەڕووبوونەوە | عەرەبی | توند (پێداچوونەوە) | confrontation, facing | Konfrontation, Auseinandersetzung |
-| مووافەقە، موافقة | ڕازیبوون | عەرەبی | هەمیشە (پێداچوونەوە) | approval, consent, agreement | Zustimmung, Einverständnis |
-| مووجە | شەپۆل | عەرەبی | هەمیشە (پێداچوونەوە) | wave | Welle |
-| موولاحەزە | تێبینی | عەرەبی | توند (پێداچوونەوە) | note, remark, observation | Bemerkung, Anmerkung, Beobachtung |
-| مووەزەف، مووەززەف | فەرمانبەر | عەرەبی | هەمیشە (پێداچوونەوە) | employee, official, civil servant | Angestellter, Beamter, Mitarbeiter |
-| موڕاقیب، مراقب | چاودێر | عەرەبی | هەمیشە (پێداچوونەوە) | observer, supervisor, monitor | Beobachter, Aufseher, Kontrolleur |
-| موڕاقەبە، مراقبة | چاودێری | عەرەبی | هەمیشە (پێداچوونەوە) | monitoring, supervision, surveillance | Überwachung, Aufsicht, Kontrolle |
-| موڕەکەب، مرکب، موركب | پێکهاتە | عەرەبی | هەمیشە (پێداچوونەوە) | compound, composite | Verbindung, zusammengesetzt |
-| موکافیء، موکافی | هاوتا | عەرەبی | توند (پێداچوونەوە) | equivalent | gleichwertig, äquivalent |
-| موکەعەب | کوپ | عەرەبی | هەمیشە (پێداچوونەوە) | cube | Würfel |
-| موڵاحیزە، ملاحظة | تێبینی | عەرەبی | هەمیشە (پێداچوونەوە) | remark, note, observation | Bemerkung, Anmerkung, Beobachtung |
-| موڵاحەزە | تێبینی | عەرەبی | هەمیشە (پێداچوونەوە) | observation, note, remark | Beobachtung, Bemerkung, Anmerkung |
-| موڵاقات | چاوپێکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | meeting, interview, audience | Treffen, Begegnung, Unterredung |
-| مۆجە، موجة | شەپۆل | عەرەبی | هەمیشە (پێداچوونەوە) | wave | Welle |
-| مۆحتەرەم، محترم | ڕێزدار | عەرەبی | هەمیشە (پێداچوونەوە) | respected, dear, honorable | geehrt, verehrt, sehr geehrte |
-| مۆسیقار | ئاوازساز | عەرەبی | توند (پێداچوونەوە) | composer, musician | Komponist, Musiker |
-| مۆنتەزەم، منتەزم | ڕێکخراو | عەرەبی | توند (پێداچوونەوە) | organized, regular, orderly | geordnet, regelmäßig, organisiert |
-| میحنەت | ئازار، چەرمەسەری | عەرەبی | هەمیشە (پێداچوونەوە) | hardship, suffering, ordeal | Leid, Not, Mühsal |
-| میحیط | چواردەوری | عەرەبی | توند (پێداچوونەوە) | perimeter, surroundings, environment | Umfang, Umgebung, Umwelt |
-| میرات | کەلەپوور | عەرەبی | هەمیشە (پێداچوونەوە) | heritage, inheritance | Erbe, Kulturerbe |
-| میساحە | ڕووبەر | عەرەبی | هەمیشە (پێداچوونەوە) | area | Fläche |
-| میسافە، مسافە | دووری | عەرەبی | هەمیشە (پێداچوونەوە) | distance | Entfernung, Abstand, Distanz |
-| میساق، میثاق | پەیمان | عەرەبی | هەمیشە (پێداچوونەوە) | covenant, charter, pact | Pakt, Charta, Bund |
-| میسال | نموونە | عەرەبی | هەمیشە (پێداچوونەوە) | example | Beispiel |
-| میعاد | ژوان | عەرەبی | هەمیشە (پێداچوونەوە) | appointment, rendezvous | Termin, Verabredung, Rendezvous |
-| میعدە، معدە، میعدەت | گەدە | عەرەبی | هەمیشە (پێداچوونەوە) | stomach | Magen |
-| میعلومات | زانیاری | عەرەبی | توند (پێداچوونەوە) | information, data | Informationen, Daten |
-| میعمار | بیناساز | عەرەبی | هەمیشە (پێداچوونەوە) | architect, builder | Architekt, Baumeister |
-| میعماری، معماری، موعماری | تەلارسازی، بیناسازی | عەرەبی | هەمیشە (پێداچوونەوە) | architecture, architectural | Architektur, architektonisch |
-| میعیار، معیار | پێوەر | عەرەبی | هەمیشە (پێداچوونەوە) | criterion, standard, measure | Kriterium, Maßstab, Standard |
-| میقدار | بڕ | عەرەبی | هەمیشە (پێداچوونەوە) | amount, quantity | Menge, Betrag |
-| میقیاس، مقیاس | پێوەر | عەرەبی | هەمیشە (پێداچوونەوە) | scale, measure, criterion | Maßstab, Skala, Maß |
-| میلاد | لەدایکبوون | عەرەبی | هەمیشە (پێداچوونەوە) | birth | Geburt |
-| میلادی | زایینی | عەرەبی | هەمیشە (پێداچوونەوە) | AD, Gregorian | nach Christus, gregorianisch |
-| میللییەت، میللیەت | نەتەوەیی | عەرەبی | هەمیشە (پێداچوونەوە) | nationality, nationalism | Nationalität, Volkszugehörigkeit |
-| میللەت، میلەت | نەتەوە، گەل | عەرەبی | هەمیشە | nation, people | Nation, Volk |
-| میلەف | پەڕگە | عەرەبی | هەمیشە (پێداچوونەوە) | file | Datei, Akte |
-| میناعە، مناعة | بەرگری | عەرەبی | هەمیشە (پێداچوونەوە) | immunity, resistance | Immunität, Abwehr |
-| مەبدەء، مەبدەئ | بنەما | عەرەبی | هەمیشە (پێداچوونەوە) | principle, basis | Prinzip, Grundsatz, Grundlage |
-| مەبلەغ | بڕە پارە | عەرەبی | هەمیشە (پێداچوونەوە) | amount, sum of money | Betrag, Geldsumme |
-| مەتار | فڕۆکەخانە | عەرەبی | هەمیشە (پێداچوونەوە) | airport | Flughafen |
-| مەتاع | کەلوپەل | عەرەبی | هەمیشە (پێداچوونەوە) | goods, belongings, stuff | Waren, Habseligkeiten, Sachen |
-| مەتبووعە | بڵاوکراوە | عەرەبی | هەمیشە (پێداچوونەوە) | publication, printed matter | Publikation, Veröffentlichung |
-| مەتبەخ | چێشتخانە | عەرەبی | هەمیشە (پێداچوونەوە) | kitchen | Küche |
-| مەتبەعە | چاپخانە | عەرەبی | هەمیشە (پێداچوونەوە) | printing house, press | Druckerei |
-| مەتحەف | مۆزەخانە | عەرەبی | هەمیشە (پێداچوونەوە) | museum | Museum |
-| مەتعەم | چێشتخانە | عەرەبی | هەمیشە (پێداچوونەوە) | restaurant | Restaurant, Gaststätte |
-| مەتلووب، مەتلوب | داواکراو | عەرەبی | هەمیشە (پێداچوونەوە) | wanted, required, requested | gesucht, erforderlich, verlangt |
-| مەتن | دەق | عەرەبی | هەمیشە | text | Text |
-| مەتەر | باران | عەرەبی | هەمیشە (پێداچوونەوە) | rain | Regen |
-| مەجال، مجال | بوار | عەرەبی | هەمیشە (پێداچوونەوە) | field, scope, opportunity | Bereich, Feld, Spielraum |
-| مەجانی، مەججانی | بێبەرامبەر | عەرەبی | هەمیشە | free, free of charge | kostenlos, gratis |
-| مەجبوور، مجبور | ناچار | عەرەبی | هەمیشە (پێداچوونەوە) | forced, compelled, obliged | gezwungen, genötigt |
-| مەجزەرە | کوشتار | عەرەبی | هەمیشە (پێداچوونەوە) | massacre, slaughter | Massaker, Blutbad |
-| مەجلیس | ئەنجومەن | عەرەبی | هەمیشە (پێداچوونەوە) | council, assembly, parliament | Rat, Versammlung, Parlament |
-| مەجموع، مجموع | کۆ | عەرەبی | هەمیشە (پێداچوونەوە) | sum, total | Summe, Gesamtheit |
-| مەجمووعە، مەجموعە | کۆمەڵە | عەرەبی | هەمیشە (پێداچوونەوە) | collection, group, set | Sammlung, Gruppe |
-| مەجمەع، مجمع | کۆڕ | عەرەبی | توند (پێداچوونەوە) | academy, assembly, complex | Akademie, Versammlung, Komplex |
-| مەجهول | نادیار | عەرەبی | هەمیشە (پێداچوونەوە) | unknown | unbekannt |
-| مەجهوول، مجهول | نادیار | عەرەبی | هەمیشە (پێداچوونەوە) | unknown | unbekannt |
-| مەجەرە، مجرة | کهکەشان | عەرەبی | هەمیشە (پێداچوونەوە) | galaxy, milky way | Galaxie, Milchstraße |
-| مەجەللە | گۆڤار | عەرەبی | هەمیشە (پێداچوونەوە) | magazine | Zeitschrift, Magazin |
-| مەجەلە | گۆڤار | عەرەبی | هەمیشە (پێداچوونەوە) | magazine, journal | Zeitschrift, Magazin |
-| مەحاڵ | نەشیاو، ئەستەم | عەرەبی | هەمیشە (پێداچوونەوە) | impossible | unmöglich |
-| مەحبووب، مەحبوب | خۆشەویست | عەرەبی | هەمیشە (پێداچوونەوە) | beloved, dear | geliebt, Liebling, lieb |
-| مەحبووس | زیندانی | عەرەبی | هەمیشە (پێداچوونەوە) | prisoner, imprisoned | Gefangener, gefangen |
-| مەحبەس | زیندان | عەرەبی | هەمیشە (پێداچوونەوە) | prison, jail | Gefängnis |
-| مەحجووب، مەحجوب | شەرمن | عەرەبی | هەمیشە (پێداچوونەوە) | shy, bashful, modest | schüchtern, verschämt |
-| مەحرووم، مەحروم | بێبەش | عەرەبی | هەمیشە (پێداچوونەوە) | deprived, deprived of | benachteiligt, beraubt, ausgeschlossen |
-| مەحزوون، مەحزون | خەمگین، دڵتەنگ | عەرەبی | توند (پێداچوونەوە) | sad, sorrowful, gloomy | traurig, betrübt |
-| مەحسوور | گەمارۆدراو | عەرەبی | هەمیشە (پێداچوونەوە) | besieged, surrounded | belagert, umzingelt |
-| مەحسووس، مەحسوس | هەستپێکراو | عەرەبی | هەمیشە (پێداچوونەوە) | tangible, perceptible, noticeable | spürbar, greifbar, wahrnehmbar |
-| مەحفووز | پارێزراو | عەرەبی | هەمیشە (پێداچوونەوە) | protected, preserved, saved | geschützt, bewahrt, gespeichert |
-| مەحلول، محلول | توانراو | عەرەبی | توند (پێداچوونەوە) | solution, dissolved, solved | Lösung, gelöst |
-| مەحلوول | توێژراو | عەرەبی | توند (پێداچوونەوە) | solution, dissolved | Lösung, gelöst |
-| مەحوە | سڕینەوە | عەرەبی | هەمیشە (پێداچوونەوە) | erasure, deletion | Löschung, Auslöschung |
-| مەحکووم، مەحکوم | سزادراو | عەرەبی | هەمیشە (پێداچوونەوە) | convicted, condemned, sentenced | verurteilt |
-| مەحکەمە | دادگا | عەرەبی | هەمیشە (پێداچوونەوە) | court | Gericht |
-| مەحەببەت | خۆشەویستی | عەرەبی | هەمیشە (پێداچوونەوە) | love, affection | Liebe, Zuneigung |
-| مەحەتە، مەحەتتە | وێستگە | عەرەبی | هەمیشە (پێداچوونەوە) | station | Station, Bahnhof |
-| مەحەل | شوێن | عەرەبی | هەمیشە | place, location | Ort, Stelle |
-| مەحەللی | ناوچەیی | عەرەبی | هەمیشە (پێداچوونەوە) | local | lokal, örtlich |
-| مەختەبەر، مختبر | تاقیگە | عەرەبی | هەمیشە (پێداچوونەوە) | laboratory, lab | Labor |
-| مەخطووتە، مخطوطە، مخطوطة | دەستنووس | عەرەبی | هەمیشە (پێداچوونەوە) | manuscript | Handschrift, Manuskript |
-| مەخلووق | بوونەوەر | عەرەبی | هەمیشە (پێداچوونەوە) | creature, being | Geschöpf, Lebewesen |
-| مەخلووقات | بوونەوەران | عەرەبی | هەمیشە (پێداچوونەوە) | creatures, beings | Geschöpfe, Lebewesen |
-| مەدار، مدار | خولگە | عەرەبی | هەمیشە (پێداچوونەوە) | orbit | Umlaufbahn, Bahn |
-| مەدح | ستایش | عەرەبی | هەمیشە (پێداچوونەوە) | praise | Lob, Lobpreis |
-| مەدرەسە | قوتابخانە | عەرەبی | هەمیشە (پێداچوونەوە) | school | Schule |
-| مەدیون، مدیون، مدین | وامگر | عەرەبی | توند (پێداچوونەوە) | debtor, borrower | Schuldner, Kreditnehmer |
-| مەدەنی | شارستانی | عەرەبی | توند (پێداچوونەوە) | civil, civilian, civilized | zivil, bürgerlich, zivilisiert |
-| مەدەنییەت | شارستانیەت | عەرەبی | هەمیشە (پێداچوونەوە) | civilization | Zivilisation |
-| مەراجیع | سەرچاوەکان | عەرەبی | هەمیشە (پێداچوونەوە) | references, sources | Quellen, Literaturverzeichnis |
-| مەراق | خولیا | عەرەبی | هەمیشە (پێداچوونەوە) | passion, obsession, hobby | Leidenschaft, Hobby |
-| مەرحووم، مەرحوم | کۆچکردوو | عەرەبی | هەمیشە (پێداچوونەوە) | deceased, late | verstorben, selig |
-| مەرحەبا | بەخێربێیت | عەرەبی | هەمیشە (پێداچوونەوە) | welcome, hello | willkommen, hallo |
-| مەرحەمەت | بەزەیی، دڵۆڤانی | عەرەبی | توند (پێداچوونەوە) | mercy, compassion | Barmherzigkeit, Mitleid, Erbarmen |
-| مەرسووم، مرسوم | فەرمان | عەرەبی | هەمیشە (پێداچوونەوە) | decree, order | Erlass, Dekret, Befehl |
-| مەریز | نەخۆش | عەرەبی | هەمیشە | sick, ill, patient | krank, Patient |
-| مەرەز | نەخۆشی | عەرەبی | هەمیشە (پێداچوونەوە) | disease, illness | Krankheit |
-| مەرەض | نەخۆشی | عەرەبی | هەمیشە (پێداچوونەوە) | disease, illness, sickness | Krankheit, Erkrankung |
-| مەزاق | تام | عەرەبی | هەمیشە (پێداچوونەوە) | taste, flavor | Geschmack |
-| مەزرەعە | کێڵگە | عەرەبی | هەمیشە (پێداچوونەوە) | farm, field | Bauernhof, Farm, Feld |
-| مەزلووم، مظلوم | ستەملێکراو | عەرەبی | توند (پێداچوونەوە) | oppressed, wronged | unterdrückt, Unterdrückter |
-| مەزیج، مزیج | تێکەڵە | عەرەبی | هەمیشە (پێداچوونەوە) | mixture, blend | Mischung, Gemisch |
-| مەزیق، مضيق، مضیق | تەنگە | عەرەبی | هەمیشە (پێداچوونەوە) | strait, narrows | Meerenge, Straße |
-| مەسئول، مەسئوول | بەرپرسیار | عەرەبی | هەمیشە | responsible, in charge | verantwortlich, zuständig |
-| مەسئولیەت، مەسئوولیەت | بەرپرسیارێتی | عەرەبی | هەمیشە | responsibility | Verantwortung |
-| مەساحە، مساحة | ڕووبەر | عەرەبی | هەمیشە (پێداچوونەوە) | area, surface | Fläche, Flächeninhalt |
-| مەسافە | دووری، ماوە | عەرەبی | هەمیشە (پێداچوونەوە) | distance | Entfernung, Abstand, Strecke |
-| مەسدەر، مصدر | سەرچاوە | عەرەبی | هەمیشە (پێداچوونەوە) | source, reference | Quelle |
-| مەسرەح، مەسرەحیە | شانۆ | عەرەبی | هەمیشە (پێداچوونەوە) | theater, stage | Theater, Bühne |
-| مەسرەف، مەسروف | خەرجی | عەرەبی | هەمیشە (پێداچوونەوە) | expense, cost, expenditure | Ausgabe, Kosten |
-| مەسفوفە، مصفوفة | ڕیز | عەرەبی | هەمیشە (پێداچوونەوە) | array, matrix, row | Array, Matrix, Reihe |
-| مەسموح | ڕێگەپێدراو | عەرەبی | هەمیشە (پێداچوونەوە) | allowed, permitted | erlaubt, gestattet |
-| مەسوولیەت، مسئولیەت | بەرپرسیاریەتی | عەرەبی | هەمیشە (پێداچوونەوە) | responsibility | Verantwortung |
-| مەسڵەحەت | بەرژەوەندی | عەرەبی | هەمیشە (پێداچوونەوە) | interest, benefit | Interesse, Nutzen, Wohl |
-| مەسەلە، مەسئەلە | پرس، بابەت | عەرەبی | هەمیشە | issue, matter, question, topic | Frage, Angelegenheit, Thema, Sache |
-| مەسەلەن، مەسلەن | بۆ نموونە | عەرەبی | هەمیشە | for example | zum Beispiel |
-| مەشروع | پڕۆژە | عەرەبی | هەمیشە (پێداچوونەوە) | project | Projekt |
-| مەشریق | ڕۆژهەڵات | عەرەبی | هەمیشە (پێداچوونەوە) | east, orient | Osten, Orient |
-| مەشعەل | چرا | عەرەبی | هەمیشە (پێداچوونەوە) | torch, lamp | Fackel, Lampe |
-| مەشغووڵ، مەشغوول | سەرقاڵ | عەرەبی | هەمیشە (پێداچوونەوە) | busy, occupied | beschäftigt |
-| مەشق | ڕاهێنان | عەرەبی | هەمیشە (پێداچوونەوە) | training, exercise, practice | Training, Übung |
-| مەشەققەت، مەشەقەت | ماندووبوون | عەرەبی | هەمیشە (پێداچوونەوە) | hardship, trouble, fatigue | Mühe, Strapaze, Mühsal |
-| مەطعم | چێشتخانە | عەرەبی | توند (پێداچوونەوە) | restaurant | Restaurant, Gaststätte |
-| مەعاریف | فێرکاری | عەرەبی | هەمیشە (پێداچوونەوە) | education | Bildung, Bildungswesen, Erziehung |
-| مەعاش | مووچە | عەرەبی | هەمیشە | salary, wage | Gehalt, Lohn |
-| مەعانی | واتاکان | عەرەبی | هەمیشە (پێداچوونەوە) | meanings | Bedeutungen |
-| مەعبەد | پەرستگا | عەرەبی | هەمیشە (پێداچوونەوە) | temple, place of worship | Tempel, Gotteshaus |
-| مەعدووم | لەناوچوو | عەرەبی | هەمیشە (پێداچوونەوە) | destroyed, nonexistent, annihilated | vernichtet, nicht vorhanden |
-| مەعدە | گەدە | عەرەبی | هەمیشە (پێداچوونەوە) | stomach | Magen |
-| مەعدەن | کانزا | عەرەبی | هەمیشە (پێداچوونەوە) | metal, mineral | Metall, Mineral |
-| مەعرووف | ناسراو | عەرەبی | هەمیشە (پێداچوونەوە) | known, well-known, famous | bekannt, berühmt |
-| مەعریفەت | زانین | عەرەبی | هەمیشە (پێداچوونەوە) | knowledge, knowing | Wissen, Erkenntnis |
-| مەعرەز | پیشانگا | عەرەبی | هەمیشە (پێداچوونەوە) | exhibition | Ausstellung |
-| مەعرەکە | شەڕ، گۆڕەپان | عەرەبی | هەمیشە (پێداچوونەوە) | battle, fight, arena | Schlacht, Kampf, Kampfplatz |
-| مەعزەرەت | لێبووردن | عەرەبی | هەمیشە (پێداچوونەوە) | apology, excuse | Entschuldigung |
-| مەعسیەت، مەعسییەت | تاوان | عەرەبی | هەمیشە (پێداچوونەوە) | sin | Sünde |
-| مەعشوق | دڵدار | عەرەبی | توند (پێداچوونەوە) | beloved, sweetheart, lover | Geliebte, Geliebter, Liebling |
-| مەعقوول، مەعقول | گونجاو، ژیرانە | عەرەبی | هەمیشە (پێداچوونەوە) | reasonable, sensible | vernünftig, angemessen |
-| مەعلومات، مەعلوومات | زانیاری | عەرەبی | هەمیشە | information, data | Information, Daten |
-| مەعلووم، مەعلوم | دیار، ئاشکرا | عەرەبی | هەمیشە (پێداچوونەوە) | known, clear, obvious | bekannt, klar, offensichtlich |
-| مەعنا | واتا | عەرەبی | هەمیشە | meaning | Bedeutung |
-| مەعنەوی | دەروونی | عەرەبی | هەمیشە (پێداچوونەوە) | spiritual, moral, psychological | geistig, moralisch, psychisch |
-| مەعهەد | پەیمانگا | عەرەبی | هەمیشە (پێداچوونەوە) | institute | Institut |
-| مەعکوس | پێچەوانە | عەرەبی | هەمیشە (پێداچوونەوە) | reverse, inverse, opposite | umgekehrt, entgegengesetzt |
-| مەعیدە | گەدە | عەرەبی | هەمیشە (پێداچوونەوە) | stomach | Magen |
-| مەغناتیس | ئاسنکێش | عەرەبی | هەمیشە (پێداچوونەوە) | magnet | Magnet |
-| مەفسەل، مفصل، مەفسل | جومگە | عەرەبی | توند (پێداچوونەوە) | joint | Gelenk |
-| مەفعول، مفعول | بەرکار | عەرەبی | هەمیشە (پێداچوونەوە) | object | Objekt |
-| مەفعوول | بکراو | عەرەبی | هەمیشە (پێداچوونەوە) | passive, object, patient | Passiv, Objekt |
-| مەفهووم، مەفهوم | چەمک | عەرەبی | هەمیشە (پێداچوونەوە) | concept | Begriff, Konzept |
-| مەقالە، مەقال | وتار | عەرەبی | هەمیشە (پێداچوونەوە) | article, essay | Artikel, Aufsatz |
-| مەقام | پایە، پلە | عەرەبی | توند (پێداچوونەوە) | rank, position, status | Rang, Stellung, Stufe |
-| مەقبوول | پەسەند | عەرەبی | هەمیشە (پێداچوونەوە) | acceptable, accepted | akzeptabel, annehmbar |
-| مەقبووڵ | پەسەند | عەرەبی | هەمیشە (پێداچوونەوە) | acceptable, accepted | akzeptabel, annehmbar |
-| مەقبەرە | گۆڕستان | عەرەبی | هەمیشە (پێداچوونەوە) | cemetery, tomb, graveyard | Friedhof, Grab, Grabmal |
-| مەقتوول، مقتول | کوژراو | عەرەبی | هەمیشە (پێداچوونەوە) | killed, victim | Getöteter, Opfer |
-| مەقسوود | مەبەست | عەرەبی | هەمیشە (پێداچوونەوە) | purpose, intention, meaning | Zweck, Absicht |
-| مەقسەد | مەبەست | عەرەبی | هەمیشە | purpose, intention, meaning | Zweck, Absicht |
-| مەقەڕ، مەقەڕڕ | بارەگا | عەرەبی | هەمیشە (پێداچوونەوە) | headquarters, seat | Hauptsitz, Zentrale, Sitz |
-| مەلاحەت | جوانی | عەرەبی | هەمیشە (پێداچوونەوە) | beauty, charm | Schönheit, Anmut |
-| مەلجەء، مەلجەئ | پەناگە | عەرەبی | هەمیشە (پێداچوونەوە) | shelter, refuge | Zuflucht, Unterschlupf, Schutzraum |
-| مەلعوون | نەفرەتلێکراو | عەرەبی | هەمیشە (پێداچوونەوە) | cursed, damned | verflucht, verdammt |
-| مەلف | پەڕگە | عەرەبی | هەمیشە (پێداچوونەوە) | file, dossier | Akte, Datei |
-| مەلەف، ملف | پەڕگە | عەرەبی | هەمیشە (پێداچوونەوە) | file, dossier, folder | Datei, Akte, Ordner |
-| مەمات | مردن | عەرەبی | هەمیشە (پێداچوونەوە) | death | Tod |
-| مەملەکەت، مملکە، مملکة | پاشایەتی | عەرەبی | هەمیشە (پێداچوونەوە) | kingdom, monarchy | Königreich, Monarchie |
-| مەمنوع، مەمنووع | ڕێگەپێنەدراو | عەرەبی | هەمیشە | forbidden, prohibited, not allowed | verboten, untersagt |
-| مەمنون، مەمنوون | سوپاسگوزار | عەرەبی | هەمیشە | grateful, thankful | dankbar |
-| مەناخ، مناخ | کەش | عەرەبی | هەمیشە (پێداچوونەوە) | climate, weather, atmosphere | Klima, Wetter |
-| مەناعە | بەرگری | عەرەبی | هەمیشە (پێداچوونەوە) | immunity, defense | Immunität, Abwehr |
-| مەناعەت | بەرگری | عەرەبی | هەمیشە (پێداچوونەوە) | immunity | Immunität, Abwehrkraft |
-| مەنبەع، مەنبەغ | سەرچاوە | عەرەبی | توند (پێداچوونەوە) | source, spring | Quelle, Ursprung |
-| مەنتیق | لۆژیک | عەرەبی | هەمیشە (پێداچوونەوە) | logic | Logik |
-| مەنتیقە | ناوچە | عەرەبی | هەمیشە (پێداچوونەوە) | region, area, zone | Region, Gebiet, Bereich |
-| مەندوب | نوێنەر | عەرەبی | توند (پێداچوونەوە) | delegate, representative, envoy | Delegierter, Vertreter, Gesandter |
-| مەنزیل | ماڵ | عەرەبی | هەمیشە (پێداچوونەوە) | house, home, residence | Haus, Wohnung, Heim |
-| مەنسەب | پایە | عەرەبی | هەمیشە (پێداچوونەوە) | position, post, rank | Position, Amt, Rang |
-| مەنشەء، مەنشەئ | سەرچاوە | عەرەبی | هەمیشە (پێداچوونەوە) | origin, source | Ursprung, Herkunft, Quelle |
-| مەنع | ڕێگری | عەرەبی | هەمیشە (پێداچوونەوە) | prevention, obstruction, prohibition | Verhinderung, Verbot, Hindernis |
-| مەنفەعەت | سوود | عەرەبی | هەمیشە (پێداچوونەوە) | benefit, profit, use | Nutzen, Vorteil, Gewinn |
-| مەنهەج | ڕێباز | عەرەبی | هەمیشە (پێداچوونەوە) | method, curriculum, approach | Methode, Lehrplan, Ansatz |
-| مەوت | مردن | عەرەبی | هەمیشە (پێداچوونەوە) | death | Tod |
-| مەوجوودات | بوونەوەران | عەرەبی | هەمیشە (پێداچوونەوە) | beings, creatures | Lebewesen, Geschöpfe, Wesen |
-| مەوزوع، مەوزووع | بابەت | عەرەبی | هەمیشە | subject, topic, matter | Thema, Gegenstand |
-| مەوقووف، مەوقوف | وەستاو | عەرەبی | هەمیشە (پێداچوونەوە) | suspended, stopped, detained | eingestellt, angehalten, festgenommen |
-| مەوقیع | شوێن | عەرەبی | هەمیشە (پێداچوونەوە) | location, place, site | Standort, Ort, Stelle |
-| مەوهیبە، موهیبە، موهبة | بەهرە | عەرەبی | هەمیشە (پێداچوونەوە) | talent, gift | Talent, Begabung |
-| مەکان | شوێن | عەرەبی | هەمیشە | place, location | Ort, Platz |
-| مەکتەب | قوتابخانە | عەرەبی | هەمیشە | school | Schule |
-| مەکتەبە | پەڕتووکخانە | عەرەبی | هەمیشە (پێداچوونەوە) | library | Bibliothek, Bücherei |
-| مەیل | حەز | عەرەبی | هەمیشە (پێداچوونەوە) | inclination, desire, liking | Neigung, Lust, Vorliebe |
-| نائیب | جێگر | عەرەبی | هەمیشە (پێداچوونەوە) | deputy, vice | Stellvertreter, Vize |
-| ناتیج، ناتج | بەرهەم | عەرەبی | هەمیشە (پێداچوونەوە) | product, output, yield | Produkt, Ertrag, Erzeugnis |
-| ناخیب | دەنگدەر | عەرەبی | هەمیشە (پێداچوونەوە) | voter, elector | Wähler |
-| نادم | پەشیمان | عەرەبی | توند (پێداچوونەوە) | regretful, sorry, remorseful | reuevoll, reumütig, bedauernd |
-| ناسیح | ئامۆژگاریکەر | عەرەبی | هەمیشە (پێداچوونەوە) | adviser, counselor | Ratgeber, Berater |
-| ناشر | بڵاوکەرەوە | عەرەبی | هەمیشە (پێداچوونەوە) | publisher | Verleger, Verlag |
-| ناشید | سروود | عەرەبی | هەمیشە (پێداچوونەوە) | anthem, hymn, song | Hymne, Lied |
-| ناعیلاج | بێچارەسەر | عەرەبی | هەمیشە (پێداچوونەوە) | incurable, hopeless | unheilbar, hoffnungslos |
-| ناقید | ڕەخنەگر | عەرەبی | توند (پێداچوونەوە) | critic | Kritiker |
-| ناقیس | ناتەواو | عەرەبی | هەمیشە (پێداچوونەوە) | incomplete, deficient, defective | unvollständig, mangelhaft, fehlerhaft |
-| ناهەق، ناحەق | ناڕەوا | عەرەبی | هەمیشە (پێداچوونەوە) | unjust, unfair | ungerecht, unrecht |
-| ناڕەحەت | نیگەران | عەرەبی | هەمیشە (پێداچوونەوە) | upset, worried, uncomfortable | besorgt, verärgert, unwohl |
-| نایب، نائب | نوێنەر | عەرەبی | هەمیشە (پێداچوونەوە) | deputy, representative, vice | Stellvertreter, Abgeordneter, Vize |
-| نسیج | شانە | عەرەبی | هەمیشە (پێداچوونەوە) | tissue | Gewebe |
-| نوتق، نطق | دەربڕین | عەرەبی | توند (پێداچوونەوە) | pronunciation, speech, expression | Aussprache, Ausdruck, Sprache |
-| نوجووم، نجووم | ئەستێرەکان | عەرەبی | هەمیشە (پێداچوونەوە) | stars | Sterne |
-| نوزج، نضج | گەییشتن | عەرەبی | هەمیشە (پێداچوونەوە) | ripening, maturity, ripen | Reifung, Reife, reifen |
-| نوزووح، نزووح | ئاوارەیی | عەرەبی | هەمیشە (پێداچوونەوە) | displacement | Vertreibung, Flucht |
-| نوسخە، نسخە، نسخة | ڕوونووس | عەرەبی | هەمیشە (پێداچوونەوە) | copy, transcript | Abschrift, Kopie, Exemplar |
-| نوفوز | کاریگەری | عەرەبی | هەمیشە (پێداچوونەوە) | influence, impact | Einfluss, Wirkung |
-| نوقتە | خاڵ | عەرەبی | هەمیشە (پێداچوونەوە) | point, dot | Punkt |
-| نوقسان | کەموکوڕی | عەرەبی | هەمیشە (پێداچوونەوە) | defect, deficiency, shortcoming | Mangel, Defekt |
-| نومو | گەشە | عەرەبی | هەمیشە (پێداچوونەوە) | growth | Wachstum |
-| نۆبەت، نوبەت | دەور | عەرەبی | هەمیشە (پێداچوونەوە) | turn, shift | Reihe, Schicht, Turnus |
-| نیزاع | ناکۆکی | عەرەبی | هەمیشە (پێداچوونەوە) | dispute, conflict | Streit, Konflikt |
-| نیزام | ڕێسا | عەرەبی | هەمیشە (پێداچوونەوە) | system, order, regulation | System, Ordnung, Vorschrift |
-| نیسبە | ڕێژە | عەرەبی | هەمیشە (پێداچوونەوە) | ratio, rate, proportion | Verhältnis, Rate, Anteil |
-| نیسبەت | ڕێژە | عەرەبی | هەمیشە (پێداچوونەوە) | ratio, proportion, rate | Verhältnis, Anteil, Quote |
-| نیعمەت | بەخشش | عەرەبی | هەمیشە (پێداچوونەوە) | blessing, gift, grace | Segen, Gabe, Gnade |
-| نیفاق | دووڕوویی | عەرەبی | هەمیشە (پێداچوونەوە) | hypocrisy, discord | Heuchelei, Zwietracht |
-| نیهایەت | کۆتایی | عەرەبی | هەمیشە (پێداچوونەوە) | end | Ende, Schluss |
-| نیکاح | مارەبڕین | عەرەبی | هەمیشە (پێداچوونەوە) | marriage contract, wedding | Eheschließung, Trauung |
-| نیەت، نیة، نیه | مەبەست | عەرەبی | هەمیشە (پێداچوونەوە) | intention, intent, purpose | Absicht, Vorhaben |
-| نەبات | ڕووەک | عەرەبی | هەمیشە (پێداچوونەوە) | plant | Pflanze |
-| نەباتات | ڕووەکەکان | عەرەبی | هەمیشە (پێداچوونەوە) | plants, vegetation | Pflanzen, Vegetation |
-| نەبز، نبض | لێدان | عەرەبی | هەمیشە (پێداچوونەوە) | pulse, heartbeat, beat | Puls, Herzschlag |
-| نەتیجە | ئەنجام | عەرەبی | هەمیشە | result, outcome | Ergebnis, Resultat |
-| نەجات | ڕزگاری | عەرەبی | هەمیشە (پێداچوونەوە) | rescue, salvation, liberation | Rettung, Erlösung, Befreiung |
-| نەجاح | سەرکەوتن | عەرەبی | هەمیشە (پێداچوونەوە) | success | Erfolg |
-| نەجم، نجم | ئەستێرە | عەرەبی | هەمیشە (پێداچوونەوە) | star | Stern |
-| نەحات | پێکەرتاش | عەرەبی | توند (پێداچوونەوە) | sculptor | Bildhauer |
-| نەحاس، نحاس | مس | عەرەبی | هەمیشە (پێداچوونەوە) | copper | Kupfer |
-| نەحت | پێکەرتاشی | عەرەبی | توند (پێداچوونەوە) | sculpture | Bildhauerei, Skulptur |
-| نەحس | بەدبەختی، بەختڕەشی | عەرەبی | هەمیشە (پێداچوونەوە) | misfortune, bad luck, ominous | Unglück, Pech, unheilvoll |
-| نەحو، نەحۆ | ڕێزمان | عەرەبی | هەمیشە (پێداچوونەوە) | grammar, syntax | Grammatik, Syntax |
-| نەدوە | کۆڕ | عەرەبی | توند (پێداچوونەوە) | seminar, symposium, forum | Seminar, Symposium, Forum |
-| نەزافەت | خاوێنی | عەرەبی | هەمیشە (پێداچوونەوە) | cleanliness, hygiene | Sauberkeit, Reinlichkeit, Hygiene |
-| نەزاهەت، نزاهة | دەستپاکی | عەرەبی | هەمیشە (پێداچوونەوە) | integrity, honesty | Integrität, Ehrlichkeit |
-| نەزع | کێشان | عەرەبی | هەمیشە (پێداچوونەوە) | removal, extraction, death throes | Entfernung, Ziehen, Todeskampf |
-| نەزیف | خوێنچوون | عەرەبی | هەمیشە (پێداچوونەوە) | bleeding, hemorrhage | Blutung |
-| نەزەر، نظر | سەرنج، بۆچوون | عەرەبی | هەمیشە (پێداچوونەوە) | look, view, opinion | Blick, Ansicht, Meinung |
-| نەزەریە | تیۆری | عەرەبی | هەمیشە (پێداچوونەوە) | theory | Theorie |
-| نەسل، نسل | نەوە | عەرەبی | هەمیشە (پێداچوونەوە) | generation, offspring, descendants | Generation, Nachkommen |
-| نەسیج، نەسیجی | شانە | عەرەبی | هەمیشە (پێداچوونەوە) | tissue, fabric, textile | Gewebe, Stoff |
-| نەسیحەت | ئامۆژگاری | عەرەبی | هەمیشە (پێداچوونەوە) | advice | Rat, Ratschlag |
-| نەسەب، نسب | ڕەچەڵەک | عەرەبی | هەمیشە (پێداچوونەوە) | lineage, ancestry, descent | Abstammung, Herkunft |
-| نەشر | بڵاوکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | publication, publish, dissemination | Veröffentlichung, veröffentlichen, Verbreitung |
-| نەص | دەق | عەرەبی | هەمیشە (پێداچوونەوە) | text | Text |
-| نەعرە | هاوار | عەرەبی | هەمیشە (پێداچوونەوە) | shout, yell, roar, scream | Schrei, Gebrüll, schreien |
-| نەفع | سوود | عەرەبی | هەمیشە (پێداچوونەوە) | benefit, use, profit | Nutzen, Vorteil |
-| نەفی | نەرێنی | عەرەبی | هەمیشە (پێداچوونەوە) | negation, negative, exile | Verneinung, negativ |
-| نەفەس | هەناسە | عەرەبی | هەمیشە (پێداچوونەوە) | breath | Atem |
-| نەفەقە، نفقة | بژێوی | عەرەبی | هەمیشە (پێداچوونەوە) | alimony, maintenance, livelihood | Unterhalt, Lebensunterhalt |
-| نەقد | ڕەخنە | عەرەبی | هەمیشە (پێداچوونەوە) | criticism, critique | Kritik |
-| نەقس | کەموکوڕی | عەرەبی | هەمیشە (پێداچوونەوە) | deficiency, defect, shortcoming, flaw | Mangel, Defekt, Schwäche |
-| نەقش | نەخش | عەرەبی | هەمیشە (پێداچوونەوە) | pattern, design, inscription | Muster, Verzierung, Inschrift |
-| نەققاش، نەقاش | نیگارکێش | عەرەبی | هەمیشە (پێداچوونەوە) | painter | Maler |
-| نەقڵ | گواستنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | transfer, transport, transportation | Übertragung, Transport, übertragen |
-| نەقیض، نقیض | پێچەوانە | عەرەبی | هەمیشە (پێداچوونەوە) | opposite, antonym, contrary | Gegenteil, Gegensatz |
-| نەهر | ڕووبار | عەرەبی | توند (پێداچوونەوە) | river | Fluss |
-| نەواه | ناوک | عەرەبی | هەمیشە (پێداچوونەوە) | nucleus, core | Kern, Zellkern, Atomkern |
-| نەواە، نواة، نەواة | ناوکە | عەرەبی | هەمیشە (پێداچوونەوە) | nucleus, kernel, core | Kern, Zellkern |
-| نەوع | جۆر | عەرەبی | هەمیشە | type, kind, sort | Art, Typ, Sorte |
-| نەوعیەت، نوعیة | چۆنیەتی | عەرەبی | هەمیشە (پێداچوونەوە) | quality | Qualität, Beschaffenheit |
-| هامیش، هامش | پەراوێز | عەرەبی | هەمیشە (پێداچوونەوە) | margin, footnote | Rand, Fußnote |
-| هودنە، هدنة، هودنه | ئاگربەست | عەرەبی | هەمیشە (پێداچوونەوە) | ceasefire, truce | Waffenstillstand, Waffenruhe |
-| هویەت، هوییەت | ناسنامە | عەرەبی | هەمیشە (پێداچوونەوە) | identity, ID card | Identität, Ausweis |
-| هیجرە، هجرە | کۆچ | عەرەبی | هەمیشە (پێداچوونەوە) | migration, emigration | Migration, Auswanderung, Wanderung |
-| هیجرەت | کۆچ | عەرەبی | هەمیشە (پێداچوونەوە) | migration, emigration | Migration, Auswanderung |
-| هیجووم، هوجووم | هێرش | عەرەبی | هەمیشە (پێداچوونەوە) | attack, assault | Angriff, Überfall |
-| هەدیە | دیاری | عەرەبی | هەمیشە (پێداچوونەوە) | gift, present | Geschenk |
-| هەدەف | ئامانج | عەرەبی | هەمیشە (پێداچوونەوە) | goal, aim, target, objective | Ziel, Zweck |
-| هەزبە، هضبة، هەدبه | بەرزایی | عەرەبی | توند (پێداچوونەوە) | plateau, highland | Hochebene, Plateau |
-| هەزم، هەزمکردن | هەرس | عەرەبی | توند (پێداچوونەوە) | digestion, digest | Verdauung, verdauen |
-| هەزیمەت | شکست | عەرەبی | هەمیشە (پێداچوونەوە) | defeat | Niederlage |
-| هەیئەت، هەیئە | ئەنجومەن | عەرەبی | هەمیشە (پێداچوونەوە) | council, commission, board | Rat, Kommission, Gremium |
-| واجب | ئەرک | عەرەبی | هەمیشە (پێداچوونەوە) | duty, obligation | Pflicht, Aufgabe |
-| واجیب | ئەرک | عەرەبی | هەمیشە (پێداچوونەوە) | duty, obligation, homework | Pflicht, Aufgabe, Hausaufgabe |
-| واجیهە | ڕووکار | عەرەبی | هەمیشە (پێداچوونەوە) | interface, facade, front | Oberfläche, Schnittstelle, Fassade |
-| واحید | یەک | عەرەبی | هەمیشە (پێداچوونەوە) | one, single | eins, einzig, einzeln |
-| وادی | دۆڵ | عەرەبی | توند (پێداچوونەوە) | valley | Tal |
-| وارث | میراتگر | عەرەبی | هەمیشە (پێداچوونەوە) | heir | Erbe |
-| واردات | هاوردن | عەرەبی | هەمیشە (پێداچوونەوە) | import | Import, Einfuhr |
-| وازیح، واضح | ڕوون | عەرەبی | هەمیشە (پێداچوونەوە) | clear, obvious | klar, deutlich, offensichtlich |
-| واسیع | فراوان | عەرەبی | هەمیشە (پێداچوونەوە) | wide, broad, vast | weit, breit, umfangreich |
-| واقیع | ڕاستی | عەرەبی | هەمیشە (پێداچوونەوە) | reality, truth | Wirklichkeit, Realität |
-| واقیعی، واقعی | ڕاستەقینە | عەرەبی | هەمیشە (پێداچوونەوە) | real, realistic, actual | real, wirklich, realistisch |
-| واقیعەن | بەڕاستی | عەرەبی | هەمیشە (پێداچوونەوە) | really, actually, indeed | wirklich, tatsächlich |
-| وجوود، وجود | بوون | عەرەبی | توند (پێداچوونەوە) | existence, being, presence | Existenz, Dasein, Sein |
-| وراسی، وراثی | بۆماوەیی | عەرەبی | هەمیشە (پێداچوونەوە) | hereditary, genetic | erblich, genetisch |
-| وفیات | مردنەکان | عەرەبی | هەمیشە (پێداچوونەوە) | deaths, fatalities | Todesfälle, Todesopfer |
-| ولادەت، ویلادەت | لەدایکبوون | عەرەبی | هەمیشە (پێداچوونەوە) | birth | Geburt |
-| ووجوود | بوون | عەرەبی | توند (پێداچوونەوە) | existence, being | Existenz, Dasein |
-| ویسعەت | فراوانی | عەرەبی | هەمیشە (پێداچوونەوە) | breadth, width, spaciousness | Weite, Breite, Ausdehnung |
-| ویقار | سەنگینی | عەرەبی | هەمیشە (پێداچوونەوە) | dignity, gravity | Würde, Ernst |
-| ویقایە، وقایە | پاراستن | عەرەبی | هەمیشە (پێداچوونەوە) | prevention, protection | Vorbeugung, Prävention, Schutz |
-| ویلادە، ولادة، ولادت | لەدایکبوون | عەرەبی | هەمیشە (پێداچوونەوە) | birth, childbirth | Geburt |
-| ویلایەت | پارێزگا | عەرەبی | هەمیشە (پێداچوونەوە) | province, state, governorate | Provinz, Bundesland, Gouvernement |
-| وەتەن | نیشتمان | عەرەبی | هەمیشە | homeland, country | Heimat, Vaterland |
-| وەتەنی | نیشتمانی | عەرەبی | هەمیشە (پێداچوونەوە) | national, patriotic | national, vaterländisch |
-| وەجەع | ئازار | عەرەبی | هەمیشە (پێداچوونەوە) | pain, ache | Schmerz |
-| وەحدە، وحدە | یەکە، یەکگرتوویی | عەرەبی | هەمیشە (پێداچوونەوە) | unit, unity | Einheit |
-| وەحدەت | یەکێتی | عەرەبی | هەمیشە (پێداچوونەوە) | unity, union | Einheit, Union |
-| وەحشی | دڕندە | عەرەبی | هەمیشە (پێداچوونەوە) | wild, savage, beast | wild, Bestie, Raubtier |
-| وەحشەت | ترس، دڵەڕاوکێ | عەرەبی | توند (پێداچوونەوە) | terror, horror, dread | Schrecken, Grauen, Angst |
-| وەخت، وەقت | کات | عەرەبی | هەمیشە | time | Zeit |
-| وەراسەت، وراسەت | میراتگری | عەرەبی | هەمیشە (پێداچوونەوە) | heredity, inheritance | Vererbung, Erbe |
-| وەرید | وڕگ | عەرەبی | هەمیشە (پێداچوونەوە) | vein | Vene |
-| وەرەقە | پەڕە | عەرەبی | هەمیشە (پێداچوونەوە) | sheet, page, paper | Blatt, Seite, Zettel |
-| وەرەم | هەڵک | عەرەبی | هەمیشە (پێداچوونەوە) | swelling, tumor | Schwellung, Tumor |
-| وەزع، وەزعییەت | بارودۆخ | عەرەبی | هەمیشە (پێداچوونەوە) | situation, state of affairs | Lage, Situation |
-| وەزن | کێش | عەرەبی | هەمیشە (پێداچوونەوە) | weight | Gewicht |
-| وەزیفە | ئەرک | عەرەبی | هەمیشە (پێداچوونەوە) | duty, task, job | Pflicht, Aufgabe, Stelle |
-| وەسائیل | ئامرازەکان | عەرەبی | توند (پێداچوونەوە) | means, tools, media | Mittel, Werkzeuge |
-| وەساطەت، وساطه، وەساطه | ناوبژیوانی | عەرەبی | هەمیشە (پێداچوونەوە) | mediation | Vermittlung, Mediation |
-| وەسل | پسووڵە | عەرەبی | هەمیشە (پێداچوونەوە) | receipt | Quittung, Beleg |
-| وەسیقە، وەسائیق | بەڵگەنامە | عەرەبی | هەمیشە (پێداچوونەوە) | document | Dokument, Urkunde |
-| وەسیلە | ئامراز | عەرەبی | هەمیشە (پێداچوونەوە) | means, tool, instrument | Mittel, Werkzeug, Instrument |
-| وەسیەت | ڕاسپاردە | عەرەبی | هەمیشە (پێداچوونەوە) | will, testament, bequest | Testament, Vermächtnis |
-| وەصل، وصل | پسوولە | عەرەبی | هەمیشە (پێداچوونەوە) | receipt | Quittung, Beleg |
-| وەعد، وەعدە | بەڵێن | عەرەبی | هەمیشە (پێداچوونەوە) | promise | Versprechen |
-| وەعی، وعي | هۆشیاری | عەرەبی | توند (پێداچوونەوە) | awareness, consciousness | Bewusstsein |
-| وەفا | دڵسۆزی | عەرەبی | توند (پێداچوونەوە) | loyalty, faithfulness | Treue, Loyalität |
-| وەفات | کۆچی دوایی، مردن | عەرەبی | هەمیشە (پێداچوونەوە) | death, passing away | Tod, Ableben |
-| وەقایع | ڕووداوەکان | عەرەبی | هەمیشە (پێداچوونەوە) | events, incidents | Ereignisse, Vorfälle |
-| وەقعە، واقعە | ڕووداو | عەرەبی | توند (پێداچوونەوە) | incident, event | Vorfall, Ereignis |
-| وەلادە | لەدایکبوون | عەرەبی | هەمیشە (پێداچوونەوە) | birth, childbirth | Geburt |
-| وەکالەت، وکالة | نوێنەرایەتی | عەرەبی | هەمیشە (پێداچوونەوە) | power of attorney, representation, agency | Vollmacht, Vertretung |
-| وەکیل | نوێنەر | عەرەبی | هەمیشە (پێداچوونەوە) | representative, agent, deputy | Vertreter, Bevollmächtigter, Abgeordneter |
-| ڕاجیع | سەبارەت، پەیوەست | عەرەبی | هەمیشە (پێداچوونەوە) | regarding, concerning, related | bezüglich, betreffend, zugehörig |
-| ڕاحەت، ڕەحەت | ئاسوودە | عەرەبی | هەمیشە (پێداچوونەوە) | comfortable, at ease, calm | bequem, ruhig, entspannt |
-| ڕاسیب | دەرنەچوو | عەرەبی | هەمیشە (پێداچوونەوە) | failed | durchgefallen, nicht bestanden |
-| ڕزق، رزق، ڕزقی | بژێوی | عەرەبی | توند (پێداچوونەوە) | livelihood, sustenance | Lebensunterhalt, Auskommen |
-| ڕسالە، رسالة | نامە | عەرەبی | توند (پێداچوونەوە) | letter, message, thesis | Brief, Nachricht, Abschlussarbeit |
-| ڕواج، رواج | خواست، بازارگەرمی | عەرەبی | توند (پێداچوونەوە) | demand, popularity, circulation | Nachfrage, Absatz, Beliebtheit |
-| ڕوبع | چارەک | عەرەبی | هەمیشە (پێداچوونەوە) | quarter | Viertel |
-| ڕوتبە | پلە | عەرەبی | هەمیشە (پێداچوونەوە) | rank, degree, grade | Rang, Stufe, Grad |
-| ڕوتووبەت، رطوبة، ڕوتوبە | شلی | عەرەبی | هەمیشە (پێداچوونەوە) | humidity, moisture, fluidity | Feuchtigkeit, Nässe |
-| ڕوسووم، رسوم | تێچوو | عەرەبی | هەمیشە (پێداچوونەوە) | fee, cost, charge | Gebühr, Kosten |
-| ڕوکود، رکود | کزی | عەرەبی | توند (پێداچوونەوە) | recession, stagnation, slump | Rezession, Stagnation, Flaute |
-| ڕۆح، ڕوح، ڕووح | گیان | عەرەبی | هەمیشە (پێداچوونەوە) | soul, spirit | Seele, Geist |
-| ڕیئە، ڕئە | سی | عەرەبی | هەمیشە (پێداچوونەوە) | lung | Lunge |
-| ڕیاسە، ڕیاسەت | سەرۆکایەتی | عەرەبی | هەمیشە (پێداچوونەوە) | presidency, chairmanship | Vorsitz, Präsidentschaft |
-| ڕیاضیات | بیرکاری | عەرەبی | هەمیشە (پێداچوونەوە) | mathematics, math | Mathematik |
-| ڕیاضە | وەرزش | عەرەبی | هەمیشە (پێداچوونەوە) | sport, exercise | Sport, Bewegung, Training |
-| ڕیبا، ربا | سوود | عەرەبی | هەمیشە (پێداچوونەوە) | usury, interest | Wucher, Zins |
-| ڕیحلەت | گەشت، کۆچ | عەرەبی | هەمیشە (پێداچوونەوە) | journey, trip, migration | Reise, Fahrt, Wanderung |
-| ڕیزاعە | شیردان | عەرەبی | هەمیشە (پێداچوونەوە) | breastfeeding, nursing | Stillen |
-| ڕیشوە، ڕشوە | بەرتیل | عەرەبی | هەمیشە (پێداچوونەوە) | bribe, bribery | Bestechung, Schmiergeld |
-| ڕیعایەت | چاودێری، ڕەچاوکردن | عەرەبی | هەمیشە (پێداچوونەوە) | care, consideration, observance | Fürsorge, Rücksicht, Beachtung |
-| ڕیوایەت | گێڕانەوە | عەرەبی | هەمیشە (پێداچوونەوە) | narration, account, narrative | Erzählung, Überlieferung |
-| ڕیە، رئة | سییە | عەرەبی | هەمیشە (پێداچوونەوە) | lung | Lunge |
-| ڕەئسمال، رأسمال، راسمال | سەرمایە | عەرەبی | هەمیشە (پێداچوونەوە) | capital | Kapital |
-| ڕەئی، ڕەئیی | بۆچوون، ڕا | عەرەبی | هەمیشە (پێداچوونەوە) | opinion, view | Meinung, Ansicht |
-| ڕەئیس | سەرۆک | عەرەبی | هەمیشە (پێداچوونەوە) | president, chairman, head | Präsident, Vorsitzender, Leiter |
-| ڕەبح | قازانج | عەرەبی | هەمیشە (پێداچوونەوە) | profit, gain | Gewinn, Profit |
-| ڕەحمەت، ڕەحم | بەزەیی | عەرەبی | هەمیشە (پێداچوونەوە) | mercy, compassion | Barmherzigkeit, Mitleid, Gnade |
-| ڕەساس، رصاص | قورقوشم | عەرەبی | هەمیشە (پێداچوونەوە) | lead | Blei |
-| ڕەسسام، ڕەسام | نیگارکێش | عەرەبی | هەمیشە (پێداچوونەوە) | painter | Maler |
-| ڕەسمی | فەرمی | عەرەبی | هەمیشە (پێداچوونەوە) | official, formal | offiziell, förmlich |
-| ڕەعد، رعد | هورهورە | عەرەبی | هەمیشە (پێداچوونەوە) | thunder | Donner |
-| ڕەعیەت، ڕەعییەت | گەل، هاوڵاتییان | عەرەبی | توند (پێداچوونەوە) | subjects, citizens, people | Untertanen, Bürger, Volk |
-| ڕەغبەت | حەز، ئارەزوو | عەرەبی | توند (پێداچوونەوە) | desire, wish, interest | Wunsch, Verlangen, Lust |
-| ڕەفز، رفض | ڕەتکردنەوە | عەرەبی | هەمیشە (پێداچوونەوە) | rejection, refusal | Ablehnung, ablehnen |
-| ڕەفیق، ڕەفێق | هاوڕێ | عەرەبی | هەمیشە (پێداچوونەوە) | friend, companion | Freund, Gefährte |
-| ڕەقابە | چاودێری | عەرەبی | هەمیشە (پێداچوونەوە) | supervision, monitoring, control | Aufsicht, Überwachung, Kontrolle |
-| ڕەقس | سەما، هەلپەرکێ | عەرەبی | هەمیشە (پێداچوونەوە) | dance, folk dance | Tanz, tanzen, Volkstanz |
-| ڕەقیب | ڕکەبەر | عەرەبی | هەمیشە (پێداچوونەوە) | rival, competitor | Rivale, Konkurrent |
-| ڕەقەم، رەقەم | ژمارە | عەرەبی | هەمیشە | number, digit, figure | Zahl, Nummer, Ziffer |
-| ڕەمز، رمز | نیشانە | عەرەبی | هەمیشە (پێداچوونەوە) | symbol, sign, code | Symbol, Zeichen |
-| ڕەهن، رهن | گرەو | عەرەبی | هەمیشە (پێداچوونەوە) | mortgage, pledge, pawn | Hypothek, Pfand |
-| ڕەواق، رواق | هەیوان | عەرەبی | توند (پێداچوونەوە) | porch, portico, veranda | Veranda, Säulenhalle, Vorhalle |
-| کائنات، کاینات | گیهان | عەرەبی | هەمیشە (پێداچوونەوە) | universe, cosmos | Universum, Kosmos |
-| کائین، کائن | زیندەوەر | عەرەبی | هەمیشە (پێداچوونەوە) | creature, living being, organism | Lebewesen, Geschöpf, Organismus |
-| کائینات | گەردوون | عەرەبی | توند (پێداچوونەوە) | universe, cosmos | Universum, Kosmos, Weltall |
-| کاتیب | نووسەر | عەرەبی | هەمیشە (پێداچوونەوە) | writer, author, clerk | Schriftsteller, Schreiber |
-| کتێب، کیتاب | پەڕتووک | عەرەبی | توند | book | Buch |
-| کوتلە، کتلە | بارستایی | عەرەبی | هەمیشە (پێداچوونەوە) | mass | Masse |
-| کوسوف، كسوف، کوسووف | خۆرگرتن | عەرەبی | توند (پێداچوونەوە) | solar eclipse | Sonnenfinsternis |
-| کولیە، کولیەت، کوللیە | کۆلێژ | عەرەبی | هەمیشە (پێداچوونەوە) | college, faculty | Hochschule, Fakultät, College |
-| کیبریت، کبریت | گۆگرد | عەرەبی | هەمیشە (پێداچوونەوە) | sulfur, match | Schwefel, Streichholz |
-| کیفایەت | بەس | عەرەبی | هەمیشە (پێداچوونەوە) | sufficiency, enough | Genüge, genug |
-| کیلیە، کلیە | گوێرک | عەرەبی | هەمیشە (پێداچوونەوە) | kidney | Niere |
-| کەبد | جگەر | عەرەبی | هەمیشە (پێداچوونەوە) | liver | Leber |
-| کەبید، کبد | جگەر | عەرەبی | هەمیشە (پێداچوونەوە) | liver | Leber |
-| کەبیر | گەورە | عەرەبی | هەمیشە (پێداچوونەوە) | big, large, great | groß |
-| کەرامەت، کرامە، کرامة | شکۆمەندی | عەرەبی | هەمیشە (پێداچوونەوە) | dignity | Würde |
-| کەراهیەت، کەراهییەت | ڕق | عەرەبی | هەمیشە (پێداچوونەوە) | hatred, dislike | Hass, Abneigung |
-| کەزب، کیزب | درۆ | عەرەبی | هەمیشە (پێداچوونەوە) | lie, falsehood | Lüge |
-| کەسافە، کثافة | چڕی | عەرەبی | هەمیشە (پێداچوونەوە) | density | Dichte |
-| کەسافەت | چڕی | عەرەبی | توند (پێداچوونەوە) | density | Dichte |
-| کەسر | شکان | عەرەبی | هەمیشە (پێداچوونەوە) | fracture, break | Bruch, Knochenbruch, brechen |
-| کەسیر | زۆر | عەرەبی | هەمیشە (پێداچوونەوە) | many, much, a lot | viel, viele |
-| کەفاءەت، كفاءة، کەفاءە | لێهاتوویی | عەرەبی | هەمیشە (پێداچوونەوە) | competence, efficiency | Kompetenz, Tüchtigkeit |
-| کەفالەت | بارمتە | عەرەبی | هەمیشە (پێداچوونەوە) | bail, guarantee, surety | Kaution, Bürgschaft |
-| کەلیمە | وشە | عەرەبی | هەمیشە | word | Wort |
-| کەمیەت، كمية | بڕ | عەرەبی | هەمیشە (پێداچوونەوە) | quantity, amount | Menge, Quantität |
-| کەهرەبا، کهرباء، کەهرۆبا | کارەبا | عەرەبی | هەمیشە (پێداچوونەوە) | electricity | Elektrizität, Strom |
-| کەوکەب، کوکب | ئەستێرە | عەرەبی | توند (پێداچوونەوە) | planet, star | Planet, Stern |
-| گوناح | تاوان | عەرەبی | هەمیشە (پێداچوونەوە) | sin, guilt | Sünde, Schuld |
-| یەئس | بێهیوایی | عەرەبی | هەمیشە (پێداچوونەوە) | despair, hopelessness | Verzweiflung, Hoffnungslosigkeit |
-| یەعنی، یانی، یعنی | واتە | عەرەبی | هەمیشە | that is, meaning, i.e. | das heißt, also |
-| یەقین | دڵنیایی | عەرەبی | هەمیشە (پێداچوونەوە) | certainty | Gewissheit, Sicherheit |
-| یەقینەن | بێگومان | عەرەبی | هەمیشە (پێداچوونەوە) | certainly, surely, definitely | sicherlich, bestimmt, zweifellos |
-| یەوم | ڕۆژ | عەرەبی | هەمیشە (پێداچوونەوە) | day | Tag |
-| ئانتیڤایرۆس | دژە ڤایرۆس | ئینگلیزی | هەمیشە (پێداچوونەوە) | antivirus | Antivirus, Virenschutz |
-| ئاوتپوت | دەرهێنراو | ئینگلیزی | هەمیشە (پێداچوونەوە) | output | Ausgabe, Output |
-| ئایدیا | بیرۆکە | ئینگلیزی | هەمیشە (پێداچوونەوە) | idea | Idee |
-| ئۆتۆسەیڤ | خۆپاشەکەوتکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | autosave | automatisches Speichern |
-| ئۆتۆماتیک | خۆکار | ئینگلیزی | هەمیشە (پێداچوونەوە) | automatic | automatisch |
-| ئۆتۆکۆڕێکت | خۆچاککردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | autocorrect | Autokorrektur |
-| ئۆتێنتیکەیشن، ئۆسینتیکەیشن | پشتڕاستکردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | authentication, verification, confirm | Authentifizierung, Verifizierung, Bestätigung |
-| ئۆدیۆ | دەنگ | ئینگلیزی | هەمیشە (پێداچوونەوە) | audio, sound | Audio, Ton |
-| ئۆردەر | داواکاری | ئینگلیزی | هەمیشە (پێداچوونەوە) | order, request | Bestellung, Auftrag |
-| ئۆرگانیزم | زیندەوەر | ئینگلیزی | هەمیشە (پێداچوونەوە) | organism, living being | Organismus, Lebewesen |
-| ئۆفلاین | دەرهێڵ | ئینگلیزی | هەمیشە (پێداچوونەوە) | offline | offline |
-| ئۆفەر | پێشکەش | ئینگلیزی | هەمیشە (پێداچوونەوە) | offer | Angebot |
-| ئۆنلاین | سەرهێڵ | ئینگلیزی | هەمیشە | online | online |
-| ئۆپشن، ئۆپشنز | هەڵبژاردە | ئینگلیزی | هەمیشە | option | Option |
-| ئۆکەی | باشە | ئینگلیزی | هەمیشە | ok, okay, fine | okay, gut, in Ordnung |
-| ئیتیکی، ئەتیکی | ڕەوشتی | ئینگلیزی | هەمیشە (پێداچوونەوە) | ethical, moral | ethisch, moralisch |
-| ئیمپۆرت | هاوردەکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | import | Import, importieren |
-| ئیمەیڵ، ئیمەیل، ئیمێل | نامەی ئەلیکترۆنی | ئینگلیزی | توند | email | E-Mail |
-| ئینبۆکس | نامەکان | ئینگلیزی | هەمیشە (پێداچوونەوە) | inbox | Posteingang |
-| ئینتەرفەیس | ڕووکار | ئینگلیزی | هەمیشە (پێداچوونەوە) | interface | Oberfläche, Schnittstelle |
-| ئینستاڵ | دامەزراندن | ئینگلیزی | هەمیشە (پێداچوونەوە) | install, installation | installieren, Installation |
-| ئینستۆل | دانان | ئینگلیزی | هەمیشە (پێداچوونەوە) | install | installieren |
-| ئینفۆرمەیشن، ئینفۆ | زانیاری | ئینگلیزی | هەمیشە (پێداچوونەوە) | information | Information, Informationen |
-| ئینپوت | تێخراو | ئینگلیزی | هەمیشە (پێداچوونەوە) | input | Eingabe, Input |
-| ئینڤالید | نادروست | ئینگلیزی | هەمیشە (پێداچوونەوە) | invalid, incorrect | ungültig, falsch |
-| ئینکریپشن | نهێنیکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | encryption, encrypt | Verschlüsselung, verschlüsseln |
-| ئیڤێنت | ڕووداو، بۆنە | ئینگلیزی | هەمیشە (پێداچوونەوە) | event, occasion | Veranstaltung, Ereignis, Anlass |
-| ئێتنیک | ڕەگەزی | ئینگلیزی | هەمیشە (پێداچوونەوە) | ethnic, racial | ethnisch |
-| ئێدیت، ئیدیت | دەستکاریکردن | ئینگلیزی | هەمیشە | edit | bearbeiten |
-| ئێدیتۆر | سەرنووسەر، دەستکاریکەر | ئینگلیزی | هەمیشە (پێداچوونەوە) | editor | Redakteur, Editor, Herausgeber |
-| ئێرۆر، ئیرۆر، ئێڕۆر | هەڵە | ئینگلیزی | هەمیشە | error | Fehler |
-| ئێکسپۆرت | هەناردەکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | export | Export, exportieren |
-| ئەتاچ | پاشکۆکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | attach | anhängen, beifügen |
-| ئەتاچمێنت | پاشکۆ | ئینگلیزی | هەمیشە (پێداچوونەوە) | attachment, appendix | Anhang, Anlage |
-| ئەدرەس | ناونیشان | ئینگلیزی | هەمیشە (پێداچوونەوە) | address | Adresse, Anschrift |
-| ئەدمین | بەڕێوەبەر | ئینگلیزی | هەمیشە | admin, administrator | Administrator, Admin |
-| ئەرای | ڕیز | ئینگلیزی | هەمیشە (پێداچوونەوە) | array, row, sequence | Array, Reihe |
-| ئەلارم | زەنگ | ئینگلیزی | هەمیشە (پێداچوونەوە) | alarm, bell | Alarm, Wecker, Klingel |
-| ئەنئینستاڵ | لابردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | uninstall, remove | deinstallieren, entfernen |
-| ئەنالیز، ئانالیز | شیکردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | analysis, analyze | Analyse, analysieren |
-| ئەپ، ئاپ | بەرنامە | ئینگلیزی | توند | app, application, program | App, Anwendung, Programm |
-| ئەپدەیت، ئاپدەیت | نوێکردنەوە | ئینگلیزی | هەمیشە | update | aktualisieren, Update, Aktualisierung |
-| ئەپلۆد، ئاپلۆد | بارکردن | ئینگلیزی | هەمیشە | upload | hochladen, Upload |
-| ئەپلیکەیشن، ئەپڵیکەیشن | بەرنامە | ئینگلیزی | هەمیشە (پێداچوونەوە) | application, app, program | Anwendung, App, Programm |
-| ئەپگرەید | بەرزکردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | upgrade, raise | Upgrade, aufrüsten, erhöhen |
-| ئەڕەی | ڕیزبەند | ئینگلیزی | هەمیشە (پێداچوونەوە) | array | Array, Feld, Reihe |
-| ئەڤاتار | وێنۆچکە | ئینگلیزی | هەمیشە (پێداچوونەوە) | avatar, profile picture | Avatar, Profilbild |
-| ئەکاونت، ئەکاونتی | هەژمار | ئینگلیزی | هەمیشە | account | Konto |
-| ئەکسێس | دەستگەیشتن | ئینگلیزی | هەمیشە (پێداچوونەوە) | access | Zugang, Zugriff |
-| باتن، بەتن | دوگمە | ئینگلیزی | هەمیشە | button | Schaltfläche, Knopf, Taste |
-| بارکۆد | هێڵکۆد | ئینگلیزی | هەمیشە (پێداچوونەوە) | barcode | Barcode, Strichcode |
-| باگ | هەڵە، کەموکوڕی | ئینگلیزی | هەمیشە | bug, error, flaw | Fehler, Bug, Mangel |
-| بایۆلۆژیا | زیندەزانی | ئینگلیزی | هەمیشە (پێداچوونەوە) | biology | Biologie |
-| براوزەر، بڕاوزەر | وێبگەڕ | ئینگلیزی | هەمیشە (پێداچوونەوە) | browser, web browser | Browser, Webbrowser |
-| برایتنس | ڕووناکی | ئینگلیزی | هەمیشە (پێداچوونەوە) | brightness, light | Helligkeit, Licht |
-| بلۆک | ڕێگری | ئینگلیزی | هەمیشە (پێداچوونەوە) | block | blockieren, sperren |
-| بووکمارک | دڵخواز | ئینگلیزی | هەمیشە (پێداچوونەوە) | bookmark, favorite | Lesezeichen, Favorit |
-| بیزنس | بازرگانی | ئینگلیزی | هەمیشە (پێداچوونەوە) | business, trade, commerce | Geschäft, Handel |
-| تاسک | ئەرک | ئینگلیزی | هەمیشە | task | Aufgabe |
-| تاچ | دەستلێدان | ئینگلیزی | هەمیشە (پێداچوونەوە) | touch, tap | Berührung, berühren, tippen |
-| تایم | کات | ئینگلیزی | هەمیشە | time | Zeit |
-| تایملاین | هێڵی کات | ئینگلیزی | هەمیشە (پێداچوونەوە) | timeline | Zeitleiste, Zeitachse, Chronik |
-| تایپ | نووسین | ئینگلیزی | هەمیشە (پێداچوونەوە) | type, typing, writing | tippen, schreiben, Eingabe |
-| ترافیک | هاتووچۆ | ئینگلیزی | هەمیشە (پێداچوونەوە) | traffic | Verkehr |
-| ترێند | باو | ئینگلیزی | هەمیشە (پێداچوونەوە) | trend, trending | Trend |
-| ترەینینگ | ڕاهێنان | ئینگلیزی | هەمیشە (پێداچوونەوە) | training | Training, Schulung, Ausbildung |
-| تیم | دەستە | ئینگلیزی | هەمیشە (پێداچوونەوە) | team | Team, Mannschaft |
-| تێست | تاقیکردنەوە | ئینگلیزی | هەمیشە | test | Test, testen |
-| تێمپلەیت | داڕێژە | ئینگلیزی | هەمیشە (پێداچوونەوە) | template | Vorlage |
-| تێکست | دەق | ئینگلیزی | هەمیشە | text | Text |
-| تەیپ | نووسین | ئینگلیزی | هەمیشە (پێداچوونەوە) | type, typing | tippen, schreiben |
-| جیستچەر | جۆڵە | ئینگلیزی | هەمیشە (پێداچوونەوە) | gesture, movement | Geste, Bewegung |
-| جینۆساید | کۆمەڵکوژی | ئینگلیزی | هەمیشە (پێداچوونەوە) | genocide | Völkermord, Genozid |
-| جیۆلۆجیا | زەویناسی | ئینگلیزی | هەمیشە (پێداچوونەوە) | geology | Geologie |
-| داتا، دەیتا | دراوە، زانیاری | ئینگلیزی | هەمیشە | data | Daten |
-| داتابەیس | بنکەدراو | ئینگلیزی | هەمیشە | database | Datenbank |
-| دارک مۆد | دۆخی تاریک | ئینگلیزی | هەمیشە (پێداچوونەوە) | dark mode | Dunkelmodus, dunkler Modus |
-| داونلۆد، داونلود | داگرتن | ئینگلیزی | هەمیشە | download | herunterladen, Download |
-| داونگرەید | دواخستنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | downgrade | Downgrade, herabstufen |
-| دراگ | ڕاکێشان | ئینگلیزی | هەمیشە (پێداچوونەوە) | drag, pull | ziehen |
-| دلیڤەری | گەیاندن | ئینگلیزی | هەمیشە (پێداچوونەوە) | delivery | Lieferung, Zustellung |
-| دڕۆپ | دانان | ئینگلیزی | هەمیشە (پێداچوونەوە) | drop, place, put | ablegen, fallen lassen, platzieren |
-| دکتۆر | پزیشک | ئینگلیزی | هەمیشە (پێداچوونەوە) | doctor, physician | Arzt, Doktor |
-| دیباگ | هەڵەدۆزی | ئینگلیزی | هەمیشە (پێداچوونەوە) | debugging, debug | Fehlersuche, debuggen |
-| دیزاین | نەخشەسازی | ئینگلیزی | توند | design | Design, Gestaltung, entwerfen |
-| دیزاینەر | نەخشەساز | ئینگلیزی | هەمیشە (پێداچوونەوە) | designer | Designer, Gestalter |
-| دیسلیکت | لابردنی هەڵبژاردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | deselect, unselect | abwählen, Auswahl aufheben |
-| دیسکاونت | داشکاندن | ئینگلیزی | هەمیشە (پێداچوونەوە) | discount | Rabatt, Ermäßigung |
-| دیسکتۆپ | ڕوومێزی | ئینگلیزی | هەمیشە (پێداچوونەوە) | desktop | Desktop, Arbeitsplatz |
-| دیسکۆننێکت | پچڕان | ئینگلیزی | هەمیشە (پێداچوونەوە) | disconnect, disconnection | trennen, Verbindung trennen |
-| دیفۆڵت، دیفالت | بنەڕەت | ئینگلیزی | هەمیشە (پێداچوونەوە) | default | Standard, Voreinstellung, Standardwert |
-| دیلیت | سڕینەوە | ئینگلیزی | هەمیشە | delete | löschen |
-| دیپلۆی | بڵاوکردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | deploy, deployment, release | bereitstellen, Bereitstellung, veröffentlichen |
-| دیڤایس | دەستگا | ئینگلیزی | هەمیشە (پێداچوونەوە) | device, apparatus | Gerät, Apparat |
-| دیکتاتۆر، دیکتاتۆری، دیکتاتۆریەت، دیکتاتۆریەتی | زۆرداری | ئینگلیزی | توند (پێداچوونەوە) | dictator, dictatorship, tyranny | Diktator, Diktatur, Tyrannei |
-| دیکریپشن | کردنەوەی نهێنی | ئینگلیزی | هەمیشە (پێداچوونەوە) | decryption, decrypt | Entschlüsselung, entschlüsseln |
-| دێڤەلۆپەر | گەشەپێدەر | ئینگلیزی | هەمیشە (پێداچوونەوە) | developer | Entwickler |
-| ریپلای | وەلامدانەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | reply, answer | antworten, Antwort |
-| ساین | واژۆکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | sign, signature | unterschreiben, Unterschrift |
-| ساین ئەپ | خۆتۆمارکردن | ئینگلیزی | هەمیشە | sign up, register, registration | registrieren, Registrierung, anmelden |
-| سایکۆلۆژیا | دەرونناسی | ئینگلیزی | هەمیشە (پێداچوونەوە) | psychology | Psychologie |
-| ستارت | دەستپێکردن | ئینگلیزی | هەمیشە | start | starten, Start, beginnen |
-| ستۆر | فرۆشگا | ئینگلیزی | هەمیشە (پێداچوونەوە) | store, shop | Geschäft, Laden |
-| ستۆری | چیرۆک | ئینگلیزی | هەمیشە (پێداچوونەوە) | story | Story, Geschichte |
-| ستۆرەیج | کۆگا | ئینگلیزی | هەمیشە (پێداچوونەوە) | storage, warehouse | Speicher, Lager |
-| ستۆپ | وەستاندن | ئینگلیزی | هەمیشە | stop | stoppen, anhalten |
-| ستیکەر | چەسپاوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | sticker, label | Aufkleber, Sticker |
-| ستەیشن، ستەشن | وێستگە | ئینگلیزی | هەمیشە (پێداچوونەوە) | station | Station, Bahnhof, Haltestelle |
-| سلیکت | هەڵبژاردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | select, selection, choose | auswählen, Auswahl, wählen |
-| سکرۆڵ، سکرول | خلیسکان | ئینگلیزی | هەمیشە (پێداچوونەوە) | scroll | scrollen, blättern |
-| سکرینشۆت، سکرین شۆت | وێنەی شاشە | ئینگلیزی | هەمیشە (پێداچوونەوە) | screenshot | Bildschirmfoto, Screenshot |
-| سکیڵ | لێهاتوویی | ئینگلیزی | هەمیشە (پێداچوونەوە) | skill, competence | Fähigkeit, Kompetenz, Geschick |
-| سۆسیۆلۆژیا | کۆمەڵناسی | ئینگلیزی | هەمیشە (پێداچوونەوە) | sociology | Soziologie |
-| سۆفتوێر، سۆفتوەیر | نەرمەکاڵا | ئینگلیزی | هەمیشە | software | Software |
-| سۆڵووشن، سۆلوشن | چارەسەر | ئینگلیزی | هەمیشە (پێداچوونەوە) | solution | Lösung |
-| سیلێکت | هەلبژاردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | select, choose | auswählen, wählen |
-| سینک | هاوکاتکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | sync, synchronize | synchronisieren, Synchronisierung |
-| سیکیوریتی | ئاسایش | ئینگلیزی | هەمیشە (پێداچوونەوە) | security | Sicherheit |
-| سیگناڵ | ئاماژە | ئینگلیزی | هەمیشە (پێداچوونەوە) | signal, sign | Signal, Zeichen |
-| سێتینگ، سێتینگس، سێتینگز، سێتنگ | ڕێکخستنەکان | ئینگلیزی | هەمیشە | settings | Einstellungen |
-| سێرچ، سەرچ | گەڕان | ئینگلیزی | هەمیشە | search | suchen, Suche |
-| سێرڤس، سێرڤیس | ڕاژە، خزمەتگوزاری | ئینگلیزی | هەمیشە (پێداچوونەوە) | service | Dienst, Dienstleistung, Service |
-| سێرڤەر، سێرڤەڕ، سەرڤەر | ڕاژەکار | ئینگلیزی | هەمیشە | server | Server |
-| سێشن | دانیشتن | ئینگلیزی | هەمیشە (پێداچوونەوە) | session, sitting, meeting | Sitzung, Session |
-| سێند | ناردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | send | senden, schicken |
-| سەبسکرایب | بەشداربوون | ئینگلیزی | هەمیشە | subscribe | abonnieren |
-| سەپۆرت | پشتگیری | ئینگلیزی | هەمیشە (پێداچوونەوە) | support | Support, Unterstützung |
-| سەکسێس | سەرکەوتن | ئینگلیزی | هەمیشە (پێداچوونەوە) | success | Erfolg |
-| سەکەند، سیکەند | چرکە | ئینگلیزی | هەمیشە (پێداچوونەوە) | second | Sekunde |
-| سەیڤ | پاشەکەوتکردن | ئینگلیزی | هەمیشە | save | speichern |
-| شەتداون | داخستن | ئینگلیزی | هەمیشە (پێداچوونەوە) | shutdown, shut down, close | Herunterfahren, herunterfahren, schließen |
-| شەتدۆن | داخستن | ئینگلیزی | هەمیشە (پێداچوونەوە) | shut down, close | herunterfahren, schließen |
-| فایل | پەڕگە | ئینگلیزی | هەمیشە | file | Datei |
-| فایەروۆڵ، فایەرواڵ | ئاگرەدیوار | ئینگلیزی | هەمیشە (پێداچوونەوە) | firewall | Firewall |
-| فریز | وەستان | ئینگلیزی | هەمیشە (پێداچوونەوە) | freeze, hang, stop | einfrieren, hängen, Stillstand |
-| فلاش | بروسکە | ئینگلیزی | هەمیشە (پێداچوونەوە) | flash, lightning | Blitz, Blitzlicht |
-| فوڵسکرین | پڕاوپڕ | ئینگلیزی | هەمیشە (پێداچوونەوە) | fullscreen, full screen | Vollbild |
-| فۆرمات | شێواز | ئینگلیزی | هەمیشە (پێداچوونەوە) | format, style | Format, Formatierung |
-| فۆنەتیک، فونەتیک | دەنگناسی | ئینگلیزی | توند (پێداچوونەوە) | phonetics, phonology | Phonetik, Phonologie |
-| فۆڵدەر، فۆلدەر | بوخچە | ئینگلیزی | هەمیشە | folder | Ordner |
-| فۆڵۆ | شوێنکەوتن | ئینگلیزی | هەمیشە (پێداچوونەوە) | follow | folgen |
-| فۆڵۆوەر | شوێنکەوتوو | ئینگلیزی | هەمیشە (پێداچوونەوە) | follower | Follower, Anhänger |
-| فیدباک | ڕاوبۆچوون | ئینگلیزی | هەمیشە | feedback | Feedback, Rückmeldung |
-| فیچەر | تایبەتمەندی | ئینگلیزی | هەمیشە | feature | Funktion, Merkmal |
-| فیکس | چاککردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | fix, repair | beheben, reparieren, korrigieren |
-| لاتێنسی | دواکەوتن | ئینگلیزی | هەمیشە (پێداچوونەوە) | latency, delay, lag | Latenz, Verzögerung |
-| لایت مۆد | دۆخی ڕووناک | ئینگلیزی | هەمیشە (پێداچوونەوە) | light mode | Hellmodus, heller Modus |
-| لایڤ | ڕاستەوخۆ | ئینگلیزی | هەمیشە (پێداچوونەوە) | live | live, direkt |
-| لایک | پەسەند | ئینگلیزی | هەمیشە (پێداچوونەوە) | like | Like, gefällt mir, mögen |
-| لووپ | خولانەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | loop, rotation | Schleife, Kreislauf |
-| لۆدینگ | بارکردن، چاوەڕێ بکە | ئینگلیزی | هەمیشە | loading, please wait | Laden, bitte warten |
-| لۆکەیشن | شوێن | ئینگلیزی | هەمیشە (پێداچوونەوە) | location, place | Standort, Ort |
-| لۆگ | تۆمار | ئینگلیزی | هەمیشە (پێداچوونەوە) | log, record | Protokoll, Log, Aufzeichnung |
-| لۆگئاوت، لۆگاوت | چوونەدەرەوە | ئینگلیزی | هەمیشە | log out, logout, sign out | abmelden, Abmeldung, ausloggen |
-| لۆگین، لۆگئین | چوونەژوورەوە | ئینگلیزی | هەمیشە | log in, login, sign in | anmelden, Anmeldung, einloggen |
-| لینک | بەستەر | ئینگلیزی | هەمیشە | link | Link |
-| ماتماتیک، ماتیماتیک | بیرکاری | ئینگلیزی | هەمیشە (پێداچوونەوە) | mathematics, math | Mathematik |
-| مارکێتینگ | بازاڕکاری | ئینگلیزی | هەمیشە (پێداچوونەوە) | marketing | Marketing, Vermarktung |
-| مالوێر | بەرنامەی زیانبەخش | ئینگلیزی | هەمیشە (پێداچوونەوە) | malware, malicious software | Malware, Schadsoftware |
-| مانواڵ | دەستی | ئینگلیزی | هەمیشە (پێداچوونەوە) | manual | manuell |
-| مانیجەر، مەنیجەر | بەڕێوەبەر | ئینگلیزی | هەمیشە (پێداچوونەوە) | manager, director | Manager, Leiter, Direktor |
-| ماوس | مشک | ئینگلیزی | هەمیشە (پێداچوونەوە) | mouse | Maus |
-| ماپ | نەخشە | ئینگلیزی | هەمیشە (پێداچوونەوە) | map | Karte, Landkarte |
-| مودێل، مۆدێل | نموونە | ئینگلیزی | هەمیشە (پێداچوونەوە) | model, example, pattern | Modell, Beispiel, Muster |
-| مۆد | دۆخ | ئینگلیزی | هەمیشە (پێداچوونەوە) | mode | Modus |
-| میتینگ | کۆبوونەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | meeting | Besprechung, Treffen, Sitzung |
-| مینیو، مێنیو | پێڕست | ئینگلیزی | هەمیشە | menu | Menü |
-| میوت | بێدەنگکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | mute, silence | stummschalten, Stummschaltung |
-| میکانیزم، میکانیزیم | سازوکار | ئینگلیزی | هەمیشە (پێداچوونەوە) | mechanism | Mechanismus |
-| مێسج، مەسج، مەسیج | نامە | ئینگلیزی | هەمیشە | message | Nachricht |
-| مێمۆری | بیرگە | ئینگلیزی | هەمیشە (پێداچوونەوە) | memory | Speicher, Gedächtnis |
-| مێنشن، مەنشن | ئاماژەدان | ئینگلیزی | هەمیشە (پێداچوونەوە) | mention | Erwähnung, erwähnen |
-| مەرسی | سوپاس | ئینگلیزی | هەمیشە (پێداچوونەوە) | thanks, thank you | danke, Dank |
-| ناتیفای | ئاگادارکردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | notify, notification | benachrichtigen, Benachrichtigung |
-| نارسیزم، نارسسیزم | خۆپەرستی | ئینگلیزی | توند (پێداچوونەوە) | narcissism, selfishness | Narzissmus, Selbstsucht |
-| نۆتیفیکەیشن، نۆتیفیکەیشنی | ئاگادارکردنەوە | ئینگلیزی | هەمیشە | notification | Benachrichtigung |
-| نۆرس | پەرستار | ئینگلیزی | هەمیشە (پێداچوونەوە) | nurse | Krankenschwester, Pfleger |
-| نیوز | هەواڵ | ئینگلیزی | هەمیشە (پێداچوونەوە) | news | Nachrichten, Neuigkeiten |
-| نێتوۆرک، نێتۆرک | تۆڕ | ئینگلیزی | هەمیشە | network | Netzwerk, Netz |
-| نێکست | دواتر | ئینگلیزی | هەمیشە | next | weiter, nächste |
-| نەمبەر | ژمارە | ئینگلیزی | هەمیشە (پێداچوونەوە) | number | Nummer, Zahl |
-| هاردوێر، هاردوەیر | ڕەقەکاڵا | ئینگلیزی | هەمیشە | hardware | Hardware |
-| هێڵپ | یارمەتی | ئینگلیزی | هەمیشە (پێداچوونەوە) | help | Hilfe, helfen |
-| واڵپەیپەر | پاشبنەما | ئینگلیزی | هەمیشە (پێداچوونەوە) | wallpaper, background | Hintergrundbild, Hintergrund |
-| وۆرنینگ | ئاگاداری، هۆشداری | ئینگلیزی | هەمیشە | warning, alert | Warnung, Hinweis |
-| وێبسایت، وێبسایتی، وێب سایت | ماڵپەڕ | ئینگلیزی | توند (پێداچوونەوە) | website | Website, Webseite |
-| پاسوۆرد، پاسۆرد، پاسوورد | وشەی نهێنی | ئینگلیزی | هەمیشە | password | Passwort, Kennwort |
-| پرایڤەسی | تایبەتێتی | ئینگلیزی | هەمیشە (پێداچوونەوە) | privacy | Privatsphäre, Datenschutz |
-| پرۆبلەم | کێشە | ئینگلیزی | هەمیشە (پێداچوونەوە) | problem, issue | Problem |
-| پرۆجێکت، پڕۆجێکت | پڕۆژە | ئینگلیزی | هەمیشە | project | Projekt |
-| پرۆفایل، پڕۆفایل | پەڕەی کەسی | ئینگلیزی | توند | profile | Profil |
-| پرۆگرامەر | بەرنامەساز | ئینگلیزی | هەمیشە (پێداچوونەوە) | programmer | Programmierer |
-| پرینت | چاپکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | print | drucken |
-| پرینتەر | چاپکەر | ئینگلیزی | هەمیشە (پێداچوونەوە) | printer | Drucker |
-| پرێزێنتەیشن | پێشکەشکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | presentation | Präsentation, Vorstellung |
-| پلەگین، پلۆگین | پێوەکراو | ئینگلیزی | هەمیشە (پێداچوونەوە) | plugin, add-on, extension | Plugin, Erweiterung, Add-on |
-| پڕاکتیکی، پراکتیکی | کرداری | ئینگلیزی | هەمیشە (پێداچوونەوە) | practical | praktisch |
-| پۆست | بڵاوکراوە | ئینگلیزی | هەمیشە | post | Beitrag, Post |
-| پۆپ ئەپ | دەرپەڕین | ئینگلیزی | هەمیشە (پێداچوونەوە) | popup, pop-up | Popup, Pop-up-Fenster |
-| پێرمیشن | مۆڵەت | ئینگلیزی | هەمیشە (پێداچوونەوە) | permission | Erlaubnis, Berechtigung |
-| پەیج | پەڕە | ئینگلیزی | هەمیشە | page | Seite |
-| پەیست | لکاندن | ئینگلیزی | هەمیشە (پێداچوونەوە) | paste, stick | einfügen, kleben |
-| چات | گفتوگۆ | ئینگلیزی | هەمیشە | chat, conversation | Chat, Gespräch |
-| چارجەر | بارگەکەر | ئینگلیزی | هەمیشە (پێداچوونەوە) | charger | Ladegerät |
-| چەنەڵ | کەناڵ | ئینگلیزی | هەمیشە (پێداچوونەوە) | channel | Kanal, Sender |
-| چەینج | گۆڕین | ئینگلیزی | هەمیشە (پێداچوونەوە) | change | ändern, wechseln |
-| ڕاندم، ڕاندەم | هەڕەمەکی | ئینگلیزی | هەمیشە (پێداچوونەوە) | random | zufällig |
-| ڕۆتەیت | سووڕاندن | ئینگلیزی | هەمیشە (پێداچوونەوە) | rotate, turn | drehen, rotieren |
-| ڕیجیستر | تۆمارکردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | register, registration | registrieren, Registrierung |
-| ڕیزایز | گۆڕینی قەبارە | ئینگلیزی | هەمیشە (پێداچوونەوە) | resize | Größe ändern |
-| ڕیسایکڵ بین، تراش بین | خڵتەدان | ئینگلیزی | هەمیشە (پێداچوونەوە) | recycle bin, trash | Papierkorb |
-| ڕیستارت | دەستپێکردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | restart | neu starten |
-| ڕیستۆر | گەڕاندنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | restore | wiederherstellen |
-| ڕیسپۆنس | وەڵام | ئینگلیزی | هەمیشە (پێداچوونەوە) | response, answer, reply | Antwort, Reaktion |
-| ڕیسیڤ | وەرگرتن | ئینگلیزی | هەمیشە (پێداچوونەوە) | receive | empfangen, erhalten |
-| ڕیسێت | ڕێکخستنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | reset | zurücksetzen |
-| ڕیسێرچ | توێژینەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | research | Forschung, forschen |
-| ڕیفرێش | نوێکردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | refresh, update, renew | aktualisieren, erneuern |
-| ڕیلیز | بڵاوکردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | release, publish | veröffentlichen, Veröffentlichung |
-| ڕیپلای | وەڵام | ئینگلیزی | هەمیشە (پێداچوونەوە) | reply | Antwort, antworten |
-| ڕیڤیو | پێداچوونەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | review | Überprüfung, Rezension, prüfen |
-| ڕیکلام، ڕێکلام | بانگەشە | ئینگلیزی | هەمیشە (پێداچوونەوە) | advertisement, ad, advertising | Werbung, Anzeige, Reklame |
-| ڕیکوێست | داواکاری | ئینگلیزی | هەمیشە (پێداچوونەوە) | request | Anfrage, Antrag, Anforderung |
-| ڕێکۆرد | تۆمار | ئینگلیزی | هەمیشە (پێداچوونەوە) | record, recording | Aufnahme, Rekord, aufnehmen |
-| ڤاریەبڵ | گۆڕاو | ئینگلیزی | هەمیشە (پێداچوونەوە) | variable | Variable, veränderlich |
-| ڤالید | دروست | ئینگلیزی | هەمیشە (پێداچوونەوە) | valid, correct | gültig, korrekt |
-| ڤایبرەیشن | لەرزین | ئینگلیزی | هەمیشە (پێداچوونەوە) | vibration, shaking, tremble | Vibration, Zittern, vibrieren |
-| ڤۆڵیوم | بڵندی دەنگ | ئینگلیزی | هەمیشە (پێداچوونەوە) | volume, loudness | Lautstärke |
-| ڤێرژن، ڤێرشن، ڤێرژەن | وەشان | ئینگلیزی | هەمیشە | version | Version |
-| ڤێریفای | دڵنیاکردنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | verify, confirm, make sure | verifizieren, bestätigen, überprüfen |
-| کاش | حەشارگە | ئینگلیزی | هەمیشە (پێداچوونەوە) | cache | Cache, Zwischenspeicher |
-| کانسڵ، کانسێڵ | هەڵوەشاندنەوە، پاشگەزبوونەوە | ئینگلیزی | هەمیشە | cancel, cancellation | abbrechen, stornieren, Abbruch |
-| کاپیتالیزم، کاپیتالیزمی، کابیتالیزم | سەرمایەداری | ئینگلیزی | هەمیشە (پێداچوونەوە) | capitalism | Kapitalismus |
-| کراش | لەکارکەوتن | ئینگلیزی | هەمیشە (پێداچوونەوە) | crash, breakdown | Absturz, abstürzen, Ausfall |
-| کرۆپ | بڕین | ئینگلیزی | هەمیشە (پێداچوونەوە) | crop, cut | zuschneiden, schneiden |
-| کریەیتەر | داهێنەر | ئینگلیزی | هەمیشە (پێداچوونەوە) | creator | Ersteller, Schöpfer |
-| کرەش | ڕووخان | ئینگلیزی | هەمیشە (پێداچوونەوە) | crash, collapse | Absturz, Zusammenbruch, abstürzen |
-| کلاس | پۆل | ئینگلیزی | هەمیشە (پێداچوونەوە) | class, category | Klasse, Kategorie |
-| کلاود | هەور | ئینگلیزی | هەمیشە (پێداچوونەوە) | cloud | Wolke, Cloud |
-| کلیک | کرتە، کرتەکردن | ئینگلیزی | هەمیشە | click | klicken, Klick |
-| کۆدینگ | کۆدنووسین | ئینگلیزی | هەمیشە (پێداچوونەوە) | coding, programming | Programmieren, Codierung |
-| کۆرس | خول | ئینگلیزی | هەمیشە (پێداچوونەوە) | course | Kurs, Lehrgang |
-| کۆمێنت، کۆمێنتی | لێدوان | ئینگلیزی | هەمیشە | comment | Kommentar |
-| کۆنتاکت | پەیوەندی | ئینگلیزی | هەمیشە (پێداچوونەوە) | contact | Kontakt |
-| کۆنتڕاکت، کۆنتراکت | گرێبەست | ئینگلیزی | هەمیشە (پێداچوونەوە) | contract | Vertrag |
-| کۆنتێنت | ناوەڕۆک | ئینگلیزی | هەمیشە (پێداچوونەوە) | content | Inhalt |
-| کۆننێکت | پەیوەستبوون | ئینگلیزی | هەمیشە (پێداچوونەوە) | connect, connection | verbinden, Verbindung |
-| کۆپی | لەبەرگرتنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | copy | kopieren, Kopie |
-| کیبۆرد | تەختەکلیل | ئینگلیزی | هەمیشە | keyboard | Tastatur |
-| کەنسڵ | هەلوەشاندنەوە | ئینگلیزی | هەمیشە (پێداچوونەوە) | cancel | abbrechen, stornieren |
-| گرووپ، گروپ | کۆمەڵە | ئینگلیزی | هەمیشە (پێداچوونەوە) | group | Gruppe |
-| یوزەر، یووزەر | بەکارهێنەر | ئینگلیزی | هەمیشە | user | Benutzer, Nutzer |
-| یوزەرنەیم، یووزەرنەیم | ناوی بەکارهێنەر | ئینگلیزی | هەمیشە | username | Benutzername |
-| یوینستۆل، ئەنیوینستۆل، ئەنئینستۆل | لابردن | ئینگلیزی | هەمیشە (پێداچوونەوە) | uninstall, remove | deinstallieren, entfernen |
-| ئارز، ارز | دراوی بیانی | فارسی | توند (پێداچوونەوە) | foreign currency, foreign exchange | Devisen, Fremdwährung |
-| ئافات | کارەسات | فارسی | هەمیشە (پێداچوونەوە) | disaster, calamity, catastrophe | Katastrophe, Unglück, Unheil |
-| ئوستاد | مامۆستا | فارسی | توند (پێداچوونەوە) | teacher, professor | Lehrer, Professor |
-| ئومێد | هیوا | فارسی | هەمیشە (پێداچوونەوە) | hope | Hoffnung |
-| بایەقوش، بایەقووش | کوندەپەپوو | فارسی | توند (پێداچوونەوە) | owl | Eule |
-| برادەر | هاوڕێ | فارسی | هەمیشە (پێداچوونەوە) | friend, buddy | Freund, Kumpel |
-| بول | میز | فارسی | هەمیشە (پێداچوونەوە) | urine | Urin, Harn |
-| بیشتر | زیاتر | فارسی | هەمیشە | more | mehr |
-| بیمار | نەخۆش | فارسی | هەمیشە (پێداچوونەوە) | sick, ill, patient | krank, Patient |
-| تداوی | چارەسەرکردن | فارسی | هەمیشە (پێداچوونەوە) | treatment, cure, treat | Behandlung, Heilung, behandeln |
-| تۆفان، طوفان | ڕەشەبا | فارسی | هەمیشە (پێداچوونەوە) | storm, hurricane, tempest | Sturm, Orkan |
-| تەداوی | چارەسەرکردن | فارسی | هەمیشە (پێداچوونەوە) | treatment, cure | Behandlung, Heilung |
-| تەفاوت | جیاوازی | فارسی | هەمیشە (پێداچوونەوە) | difference | Unterschied |
-| تەلاش | هەوڵ | فارسی | هەمیشە (پێداچوونەوە) | effort, endeavor, try | Bemühung, Anstrengung, versuchen |
-| تەماشا | سەیر | فارسی | هەمیشە (پێداچوونەوە) | look, watch, view | ansehen, zuschauen, Anblick |
-| حەفتە | هەفتە | فارسی | هەمیشە (پێداچوونەوە) | week | Woche |
-| خاتیرە، خاطرات، خاتیرات، خاتیره | یادەوەری، بیرەوەری | فارسی | هەمیشە (پێداچوونەوە) | memory, memoir, recollection | Erinnerung, Memoiren |
-| خواهش، خاهش | داوا | فارسی | هەمیشە (پێداچوونەوە) | request, wish | Bitte, Wunsch |
-| خوب | باش | فارسی | هەمیشە | good | gut |
-| خەیلی | زۆر | فارسی | هەمیشە | very, a lot, much | sehr, viel |
-| دۆست | هاوڕێ | فارسی | هەمیشە (پێداچوونەوە) | friend | Freund |
-| دیدار | چاوپێکەوتن، بینین | فارسی | هەمیشە (پێداچوونەوە) | meeting, visit, sight | Treffen, Besuch, Wiedersehen |
-| دیهقان، دهقان، ده‌قان | جوتیار | فارسی | هەمیشە (پێداچوونەوە) | farmer, peasant | Bauer, Landwirt |
-| دێهقان، دەهقان | جوتیار | فارسی | هەمیشە (پێداچوونەوە) | farmer, peasant | Bauer, Landwirt |
-| دەرحاڵ، دەرحال | دەستبەجێ، یەکسەر | فارسی | هەمیشە (پێداچوونەوە) | immediately, at once | sofort, unverzüglich |
-| دەرد | ئازار | فارسی | توند (پێداچوونەوە) | pain, suffering | Schmerz, Leid |
-| دەستوور، دستور | یاسای بنەڕەتی | فارسی | توند (پێداچوونەوە) | constitution | Verfassung |
-| زووکام، زکام | سەرماهەڵگرتن | فارسی | هەمیشە (پێداچوونەوە) | cold, common cold | Erkältung, Schnupfen |
-| زەخم | بریین | فارسی | هەمیشە (پێداچوونەوە) | wound | Wunde |
-| سەرمەشق | نموونە | فارسی | هەمیشە (پێداچوونەوە) | model, example, role model | Vorbild, Beispiel, Muster |
-| سەوزەوات، سەوزیجات | سەوزە | فارسی | هەمیشە (پێداچوونەوە) | vegetables | Gemüse |
-| شاید | لەوانەیە | فارسی | هەمیشە | maybe, perhaps | vielleicht |
-| عەرزوحال، عەرز حاڵ، عەرزحاڵ | سکاڵا | فارسی | توند (پێداچوونەوە) | petition, complaint | Bittschrift, Beschwerde, Gesuch |
-| فشار | گوشار | فارسی | هەمیشە (پێداچوونەوە) | pressure | Druck |
-| فیهرست | پێڕست | فارسی | هەمیشە (پێداچوونەوە) | index, table of contents, list | Inhaltsverzeichnis, Verzeichnis, Index |
-| قارەمان | پالەوان | فارسی | هەمیشە (پێداچوونەوە) | hero, champion | Held, Meister |
-| قرمز | سووری تۆخ | فارسی | توند (پێداچوونەوە) | crimson, dark red | karminrot, dunkelrot |
-| قەرارداد | گرێبەست | فارسی | توند (پێداچوونەوە) | contract, agreement | Vertrag, Vereinbarung |
-| قەهرەمان، قەهرامان | پاڵەوان | فارسی | هەمیشە (پێداچوونەوە) | hero, champion | Held, Meister |
-| مانا | واتا | فارسی | هەمیشە (پێداچوونەوە) | meaning, sense | Bedeutung, Sinn |
-| مودارا | لێبووردن | فارسی | توند (پێداچوونەوە) | tolerance, leniency, forbearance | Nachsicht, Toleranz, Duldsamkeit |
-| موژگان | برژانگ | فارسی | هەمیشە (پێداچوونەوە) | eyelash | Wimper |
-| نارەحەت | دڵتەنگ، دڵگران | فارسی | هەمیشە (پێداچوونەوە) | upset, sad, uncomfortable | traurig, bedrückt, verärgert |
-| پاداشت | خەڵات | فارسی | هەمیشە (پێداچوونەوە) | reward, prize, award | Belohnung, Preis, Auszeichnung |
-| پیچیدە | ئاڵۆز | فارسی | هەمیشە (پێداچوونەوە) | complicated, complex | kompliziert, verwickelt, komplex |
-| کۆشش، کۆششی | هەوڵ | فارسی | هەمیشە (پێداچوونەوە) | effort, endeavor | Bemühung, Anstrengung |
-| کۆمەک | یارمەتی | فارسی | هەمیشە (پێداچوونەوە) | help, aid, assistance | Hilfe, Unterstützung |
-| گوناه | تاوان | فارسی | هەمیشە (پێداچوونەوە) | sin, guilt, crime | Sünde, Schuld, Vergehen |
-| یاخود | یان | فارسی | هەمیشە (پێداچوونەوە) | or | oder |
-| یاداشت، یادداشت | تێبینی | فارسی | هەمیشە (پێداچوونەوە) | note, memo | Notiz, Vermerk |
-| ئابلوقە، ئابڵوقە | گەمارۆ | تورکی | هەمیشە (پێداچوونەوە) | siege, blockade | Belagerung, Blockade |
-| ئیش | کار | تورکی | هەمیشە | work, job | Arbeit |
-| بوش | بەتاڵ | تورکی | توند (پێداچوونەوە) | empty, vacant | leer, frei |
-| تاقم | دەستە | تورکی | هەمیشە (پێداچوونەوە) | set, team, crew, group | Satz, Team, Mannschaft, Gruppe |
-| خەستە | ماندوو | تورکی | هەمیشە (پێداچوونەوە) | tired, exhausted | müde, erschöpft |
-| دۆغرو، دوغرو | ڕاستەڕاست | تورکی | هەمیشە (پێداچوونەوە) | straight, directly, honest | geradeaus, direkt, ehrlich |
-| شەپقە | کلاو | تورکی | هەمیشە (پێداچوونەوە) | hat, cap | Hut, Mütze |
-| فامیل | خزم | تورکی | هەمیشە (پێداچوونەوە) | relative, family, kin | Verwandter, Familie, Verwandtschaft |
-| قایش | پشتێن | تورکی | هەمیشە (پێداچوونەوە) | belt, strap | Gürtel, Riemen |
-| قوندەرە، قۆندەرە، قۆندەرەی | پێڵاو | تورکی | هەمیشە (پێداچوونەوە) | shoe | Schuh |
-| قۆماندا، کۆماندا، کوماندا | فەرمان | تورکی | هەمیشە (پێداچوونەوە) | command, order | Befehl, Kommando |
-| قەدەغە | ڕێگەپێنەدراو | تورکی | توند | forbidden, prohibited, ban | verboten, Verbot |
-| قەشەنگ | جوان | تورکی | توند (پێداچوونەوە) | beautiful, pretty, nice | schön, hübsch |
-| موختار | گوندساڵار | تورکی | توند (پێداچوونەوە) | village head, headman | Dorfvorsteher, Ortsvorsteher |
-| یاواش | بەهێمنی | تورکی | توند (پێداچوونەوە) | slowly, calmly, gently | langsam, ruhig, sanft |
+| ئابڵووقە | گەمارۆ | siege, blockade | Belagerung, Blockade | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئاخیر | دوایین | last, final | letzte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئازمە، أزمە، ازمە | تەنگانە | crisis, hardship | Krise, Notlage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئافەت | بەڵا، کارەسات | disaster, calamity, plague | Katastrophe, Unglück, Plage | عەرەبی | توند (پێداچوونەوە) |
+| ئالەت | ئامێر | tool, instrument, device | Werkzeug, Instrument, Gerät | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئوسبووع، ئوسبوع | هەفتە | week | Woche | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئوستاز | مامۆستا | teacher, professor | Lehrer, Professor | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئوسلوب، ئوسلووب، اسلوب | شێواز | style, method | Stil, Methode | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئوسوول | بنەما | principles, fundamentals, basis | Grundsätze, Prinzipien, Grundlagen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئوفوقی | ئاسۆیی | horizontal | waagerecht, horizontal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئۆقیانووس، ئۆقیانوس | زەریا | ocean, sea | Ozean, Meer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیبتیدائی، ئیبتیدایی | سەرەتایی | primary, elementary | Grundschule, elementar | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیبتیکار | داهێنان | innovation, invention | Innovation, Erfindung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیبداع | داهێنان | creativity, innovation, creation | Kreativität, Schöpfung, Innovation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیبدال، ابدال | گۆڕینەوە | substitution, replacement, exchange | Ersetzung, Austausch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیبرام، ابرام | بەستن | conclusion of a contract, conclude | Abschluss, abschließen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیبلاغ، ابلاغ | ئاگادارکردنەوە | notification, notify | Benachrichtigung, benachrichtigen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیتاعەت، تاعەت | گوێڕایەڵی | obedience | Gehorsam | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیتحاد | یەکیەتی | union, unity | Union, Einheit, Verband | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیتفاقیە، اتفاقیە، ئیتفاقیەت | ڕێکەوتننامە | agreement, treaty, accord | Abkommen, Vertrag, Vereinbarung | عەرەبی | توند (پێداچوونەوە) |
+| ئیتیجاه، اتجاه | ئاراستە | direction, trend | Richtung, Tendenz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیتیحاد، ئیتتیحاد | یەکگرتن | union, unity | Vereinigung, Einheit, Union | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیتیسال | پەیوەندی | contact, communication, connection | Kontakt, Verbindung, Kommunikation | عەرەبی | هەمیشە |
+| ئیتیفاق، ئیتتیفاق | ڕێککەوتن | agreement | Vereinbarung, Abkommen, Einigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیتیفاقیە، اتفاقیه، ئیتیفاقیه | ڕێکەوتن | agreement, treaty | Abkommen, Vereinbarung, Vertrag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیتیلاف، ائتلاف | هاوپەیمانی | coalition, alliance | Koalition, Bündnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیتیهام، اتهام | تۆمەتبارکردن | accusation, charge, accuse | Anklage, Beschuldigung, beschuldigen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیجاب | ئەرێنی | affirmation, affirmative, positive | Bejahung, positiv | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیجارە، اجارة | کرێ | rent, lease | Miete, Pacht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیجازە | مۆڵەت | permission, license, leave | Erlaubnis, Genehmigung, Lizenz | عەرەبی | هەمیشە |
+| ئیجتیماع | کۆبوونەوە | meeting, gathering, social | Versammlung, Sitzung, Treffen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیجتیماعی | کۆمەڵایەتی | social | sozial, gesellschaftlich | عەرەبی | هەمیشە |
+| ئیجتیهاد | هەوڵ | effort, endeavor, independent reasoning | Bemühung, Anstrengung, Fleiß | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیجرا | جێبەجێکردن | implementation, execution, carry out | Durchführung, Umsetzung, ausführen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیجراء، اجراء، ئیجراا | ڕێوشوێن | procedure, measure | Verfahren, Maßnahme | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیجرائات | ڕێوشوێن | procedures, measures | Maßnahmen, Verfahren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیجماع | کۆدەنگی | consensus, unanimity | Konsens, Einstimmigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحالە، احالة | گوازنەوە | transfer, referral | Überweisung, Übertragung, Weiterleitung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحترام | ڕێز | respect | Respekt, Achtung | عەرەبی | هەمیشە |
+| ئیحتیاج | پێویستی | need, necessity | Bedarf, Bedürfnis, Notwendigkeit | عەرەبی | هەمیشە |
+| ئیحتیاط، احتیاط | وریایی | caution, precaution | Vorsicht, Vorsorge | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحتیال | فێڵ | fraud, deception, trick | Betrug, Täuschung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحتیجاج | ناڕەزایی | protest, objection | Protest, Einspruch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحتیراق، احتراق | سووتان | combustion, burning | Verbrennung | عەرەبی | توند (پێداچوونەوە) |
+| ئیحتیرام | ڕێز | respect | Respekt, Achtung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحتیلال | داگیرکاری | occupation | Besatzung, Besetzung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحتیمال | لەوانەیە، ئەگەر | probability, possibility, maybe, perhaps | Wahrscheinlichkeit, Möglichkeit, vielleicht | عەرەبی | هەمیشە |
+| ئیحتیکار | یەکدەستی | monopoly | Monopol | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحسا، احصاء، احصائیە | ئامار | statistics | Statistik | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحساس | هەست | feeling, sensation, sense | Gefühl, Empfindung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحسان | چاکە | kindness, good deed, charity | Güte, Wohltat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحصائیات، ئیحسائیات | ئامار | statistics | Statistik | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیحیا | زیندووکردنەوە | revival, revive | Wiederbelebung, wiederbeleben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیختراع | داهێنان | invention | Erfindung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیختیار | هەڵبژاردن | choice, selection, choose | Wahl, Auswahl, wählen | عەرەبی | هەمیشە |
+| ئیختیراع | داهێنان | invention, invent | Erfindung, erfinden | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیختیلاف، اختلاف | جیاوازی | difference, disagreement | Unterschied, Meinungsverschiedenheit | عەرەبی | توند (پێداچوونەوە) |
+| ئیخراج | دەرهێنان | directing, production, extraction | Regie, Inszenierung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیخلاس | دڵسۆزی | sincerity, loyalty, devotion | Aufrichtigkeit, Treue, Hingabe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیدارە | بەڕێوەبردن، بەڕێوەبەرایەتی | management, administration, directorate | Verwaltung, Leitung, Management | عەرەبی | هەمیشە |
+| ئیدانە | تاوانبارکردن | condemnation, conviction, accusation | Verurteilung, Anklage, Beschuldigung | عەرەبی | توند (پێداچوونەوە) |
+| ئیدراک | تێگەیشتن | perception, understanding, awareness | Wahrnehmung, Verständnis, Erkenntnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیدعا، ادعاء، ئیدعاء | داواکاری | claim, lawsuit | Anspruch, Klage, Behauptung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیدیعا، ئیددیعا | بانگەشە | claim, assertion | Behauptung, Anspruch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیرادات، ایرادات | داهات | revenue, income | Einnahmen, Einkommen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیرادە، ارادة، ئیراده | خواست | will, desire | Wille, Wunsch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیرتیفاع، ارتفاع | بڵندی | height, altitude | Höhe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیرشاد | ڕێنمایی | guidance, instruction | Anleitung, Beratung, Orientierung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیزاحات، ئیزاح | ڕوونکردنەوە | explanation, clarification | Erklärung, Erläuterung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیزاعە | ئێزگە | radio, radio station, broadcast | Rundfunk, Radio, Sender | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیزافە | زیادکردن | add, addition | hinzufügen, Ergänzung | عەرەبی | هەمیشە |
+| ئیزن، اذن | مۆڵەت | permission, leave, permit | Erlaubnis, Genehmigung, Urlaub | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیسابە | تووشبوون | infection, injury, affliction | Infektion, Verletzung, Erkrankung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیسبات | سەلماندن | proof, prove | Beweis, beweisen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستاذ | مامۆستا | teacher, professor | Lehrer, Professor | عەرەبی | توند (پێداچوونەوە) |
+| ئیستبداد، استبداد | زۆرداری | tyranny, despotism, oppression | Tyrannei, Despotismus, Unterdrückung | عەرەبی | توند (پێداچوونەوە) |
+| ئیستبیان، ئیستبانە | ڕاپرسی | questionnaire, survey | Fragebogen, Umfrage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستخدام | بەکارهێنان | use, usage | Benutzung, Verwendung, benutzen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستخلاص | کوورتکردنەوە | summary, summarize, extraction | Zusammenfassung, zusammenfassen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستدلال | بەڵگەهێنان | reasoning, argumentation | Argumentation, Schlussfolgerung, Beweisführung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستراحەت | پشوو، ئارامگیری | rest, break, relaxation | Ruhe, Pause, Erholung | عەرەبی | توند (پێداچوونەوە) |
+| ئیستقلال | سەربەخۆیی | independence | Unabhängigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیئناف، استئناف | پێداچوونەوە | appeal, review | Berufung, Revision | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیثمار، استثمار، ئیستسمار | وەبەرهێنان | investment | Investition, Anlage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیجابە، استجابة | وەلامدانەوە | response, reply, respond | Reaktion, Antwort, antworten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیجواب، ئیستجواب | لێپرسینەوە | interrogation, questioning | Verhör, Vernehmung, Befragung | عەرەبی | توند (پێداچوونەوە) |
+| ئیستیدعا | داواکاری | request, application, petition | Antrag, Gesuch, Anfrage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیذکار | پێداچوونەوە | revision, review, studying | Wiederholung, Durchsicht, Lernen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیراحەت | پشوو | rest, break | Ruhe, Pause, Erholung | عەرەبی | هەمیشە |
+| ئیستیراد | هاوردن | import | Import, importieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیسمار | وەبەرهێنان | investment, exploitation | Investition, Ausbeutung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیشارە | ڕاوێژ | consultation, advice | Beratung, Rat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیعاب | تێگەیشتن | comprehension, understanding | Verständnis, Erfassung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیعارە، ئیستعارە | خوازە | metaphor | Metapher | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیعداد | ئامادەیی | readiness, preparedness, aptitude | Bereitschaft, Begabung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیعراض | پێشکەشکردن | presentation, review, display | Präsentation, Vorführung, Überblick | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیعفا | لەکارکشانەوە | resignation | Rücktritt, Kündigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیعمار، ئیستعمار | داگیرکاری | colonialism, colonization | Kolonialismus, Besatzung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیعمال | بەکارهێنان | use, usage | Gebrauch, Verwendung, benutzen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیفادە، ئستفادە | بەکارهێنان، سوود وەرگرتن | use, utilize, benefit | benutzen, verwenden, Nutzung | عەرەبی | هەمیشە |
+| ئیستیفتاء، ئیستیفتا | ڕاپرسی | referendum, poll | Referendum, Volksabstimmung, Umfrage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیفهام، استفهام | پرسیارکردن | question, interrogation, inquiry | Frage, Fragestellung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیقرار | سەقامگیری | stability | Stabilität | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیقلال | سەربەخۆیی | independence | Unabhängigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیلا، ئیستیلاء | داگیرکردن | seizure, conquest, occupation | Eroberung, Besetzung, Inbesitznahme | عەرەبی | توند (پێداچوونەوە) |
+| ئیستیلام، استلام | وەرگرتن | receipt, receive | Empfang, empfangen, erhalten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیمرار | بەردەوامی | continuity, continuation | Kontinuität, Fortsetzung, Beständigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستینتاج | دەرئەنجام | conclusion, inference, result | Schlussfolgerung, Folgerung, Ergebnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیهزا | گاڵتەپێکردن | mockery, ridicule | Spott, Verspottung, verspotten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیهلاک | بەکاربردن | consumption | Verbrauch, Konsum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیستیکشاف | دۆزینەوە | discovery, exploration | Entdeckung, Erkundung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیسراف | بەفیڕۆدان | waste, extravagance | Verschwendung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیسعاف | فریاگوزاری | ambulance, first aid, emergency service | Krankenwagen, Erste Hilfe, Rettungsdienst | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیسلاح | چاکسازی | reform, correction | Reform, Verbesserung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیسم | ناو | name | Name | عەرەبی | هەمیشە |
+| ئیسهال | سکچوون | diarrhea | Durchfall | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیشارە | ئاماژە | sign, signal, reference, indication | Zeichen, Hinweis, Verweis | عەرەبی | هەمیشە |
+| ئیشارەت، ئیشاره | ئاماژە | sign, signal, reference, gesture | Zeichen, Hinweis, Geste | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیشتیاق | تامەزرۆیی | longing, yearning, eagerness | Sehnsucht, Verlangen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیشتیباه | هەڵە | mistake, error | Fehler, Irrtum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیشتیراک | بەشداریکردن | participation, subscription, participate | Teilnahme, Abonnement, teilnehmen | عەرەبی | هەمیشە |
+| ئیشراف | سەرپەرشتی | supervision, oversight | Aufsicht, Beaufsichtigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیشراق | تیشکدانەوە | radiance, illumination, sunrise | Ausstrahlung, Strahlen, Erleuchtung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیشعار، اشعار | ئاگاداری | notice, notification | Mitteilung, Benachrichtigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیشکال، اشکال | کێشە | problem, issue, difficulty | Problem, Schwierigkeit | عەرەبی | توند (پێداچوونەوە) |
+| ئیصدار | بڵاوکردنەوە | publication, release, issue | Herausgabe, Veröffentlichung | عەرەبی | توند (پێداچوونەوە) |
+| ئیعادە | دووبارەکردنەوە | repetition, repeat, return | Wiederholung, wiederholen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعانە | یارمەتی | aid, help, assistance | Hilfe, Unterstützung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعتراز | ناڕەزایی | objection, protest | Einspruch, Einwand, Protest | عەرەبی | توند (پێداچوونەوە) |
+| ئیعتیبار، ئیعتبار، ئیعتباری | متمانە | trust, confidence, credibility | Vertrauen, Glaubwürdigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعتیدا، ئیعتیداء | هێرش | attack, assault, aggression | Angriff, Überfall | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعتیدال، اعتدال | مامناوەندی | moderation | Mäßigung, Mäßigkeit | عەرەبی | توند (پێداچوونەوە) |
+| ئیعتیراز | ناڕەزایی | objection, protest | Einspruch, Protest, Widerspruch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعتیراف، ئیعتراف | دانپێدانان | confession, admission, recognition | Geständnis, Eingeständnis, Anerkennung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعتیزار، اعتذار | لێبووردن | apology, apologize | Entschuldigung, sich entschuldigen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعتیساب | مانگرتن | strike, sit-in | Streik, Sitzstreik | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعتیقاد | باوەڕ | belief, faith | Glaube, Überzeugung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعتیقال، ئیعتقال | دەستگیرکردن | arrest, detention | Festnahme, Verhaftung | عەرەبی | توند (پێداچوونەوە) |
+| ئیعتیماد | پشتبەستن، متمانە | reliance, trust, confidence | Vertrauen, Verlass | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعدادات | ڕێکخستنەکان | settings, configuration | Einstellungen, Konfiguration | عەرەبی | هەمیشە |
+| ئیعدام | لەسێدارەدان | execution | Hinrichtung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعلام | ڕاگەیاندن | media, announcement | Medien, Bekanntmachung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیعلامی | ڕاگەیاندنی | media, press | medial, Medien, Presse | عەرەبی | توند (پێداچوونەوە) |
+| ئیعلان | ڕاگەیاندن | announcement, notification, announce | Bekanntmachung, Ankündigung, bekanntgeben | عەرەبی | هەمیشە |
+| ئیعلانات | ڕاگەیاندنەکان | announcements, advertisements | Bekanntmachungen, Anzeigen, Werbung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیفادە | دەربڕین | expression, statement | Ausdruck, Aussage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیفتیراز، افتراض | گریمان | assumption, supposition | Annahme, Vermutung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیفراج | ئازادکردن | release, liberation | Freilassung, Befreiung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیفراز، افراز | دەرچواندن | secretion, excretion | Absonderung, Ausscheidung, Sekretion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیفراط، افراط | زیادەڕۆیی | excess, extremism, exaggeration | Übermaß, Übertreibung, Exzess | عەرەبی | توند (پێداچوونەوە) |
+| ئیقاع، ایقاع | ئاهەنگ | rhythm | Rhythmus | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیقامە | نیشتەجێبوون | residence, stay | Aufenthalt, Wohnsitz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیقتیباس | وەرگرتنەوە | quotation, citation, quote | Zitat, Zitieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیقتیدار | توانا | ability, capability, power | Fähigkeit, Können, Macht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیقتیراح | پێشنیار | suggestion, proposal | Vorschlag | عەرەبی | هەمیشە |
+| ئیقتیراز، اقتراض، ئیقتراز | وامگرتن | borrowing, borrow | Kreditaufnahme, leihen, borgen | عەرەبی | توند (پێداچوونەوە) |
+| ئیقتیساد | ئابووری | economy, economics | Wirtschaft | عەرەبی | هەمیشە |
+| ئیقرار | دانپێدانان | confession, admission, confess | Geständnis, Bekenntnis, gestehen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیقلیم | هەرێم | region, climate | Region, Gebiet, Klima | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیقناع | دڵنیاکردن | persuasion, convince | Überzeugung, überzeugen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیلتزام، التزام | پابەندبوون | commitment, obligation | Verpflichtung, Engagement | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیلتیئام | چاکبوونەوە | healing, recovery | Heilung, Genesung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیلتیزام | پابەندی | commitment, obligation | Verpflichtung, Engagement | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیلتیفات | ئاوڕدانەوە | attention, regard, consideration | Beachtung, Aufmerksamkeit, Rücksicht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیلتیماس، التماس | داواکاری | petition, request, plea | Gesuch, Bitte, Antrag | عەرەبی | توند (پێداچوونەوە) |
+| ئیلتیهاب | ئاوسان | inflammation, swelling | Entzündung, Schwellung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیلغاء، ئیلغا | هەڵوەشاندنەوە | cancellation, abolition, annulment | Aufhebung, Abschaffung, Annullierung | عەرەبی | توند (پێداچوونەوە) |
+| ئیمارەت، ئیمارە، امارة | میرنشین | emirate, principality | Emirat, Fürstentum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیمتیاز، امتیاز | تایبەتمەندی | privilege, feature, distinction | Privileg, Merkmal, Auszeichnung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیمتیحان | تاقیکردنەوە | exam, test | Prüfung, Test | عەرەبی | هەمیشە |
+| ئیمتیساس، امتصاص | هەڵمژین | absorption, absorb | Aufnahme, Absorption, aufnehmen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیمزا | واژۆ | signature, sign | Unterschrift, unterschreiben | عەرەبی | هەمیشە |
+| ئیمساک، امساک، إمساك | سکڕاگرتن | constipation | Verstopfung | عەرەبی | توند (پێداچوونەوە) |
+| ئیملا، إملاء، یملا | ڕاستنووسی | spelling, dictation, orthography | Rechtschreibung, Diktat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیمکان | توانا، دەرفەت | possibility, opportunity, ability | Möglichkeit, Gelegenheit, Fähigkeit | عەرەبی | هەمیشە |
+| ئیمکانیات | تواناکان | capabilities, resources, possibilities | Möglichkeiten, Fähigkeiten, Mittel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینایە، عینایە | چاودێری | care, supervision | Pflege, Betreuung, Aufsicht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینباط، انبات | چرپین | germination, sprouting, germinate | Keimung, keimen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینتاج | بەرهەمهێنان | production | Produktion, Herstellung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینتیخابات، ئینتیخاب | هەڵبژاردن | election | Wahl | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینتیزار | چاوەڕوانی | waiting, expectation, wait | Warten, Erwartung, warten | عەرەبی | هەمیشە |
+| ئینتیسار | سەرکەوتن | victory, triumph | Sieg, Triumph | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینتیشار | بڵاوبوونەوە | spread, dissemination | Verbreitung, Ausbreitung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینتیفازە، انتفاضة، ئینتیفاضه | ڕاپەرین | uprising, intifada | Aufstand, Intifada | عەرەبی | توند (پێداچوونەوە) |
+| ئینتیقال | گواستنەوە | transfer, transition | Übertragung, Übergang, Versetzung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینتیقام | تۆڵە | revenge, vengeance | Rache | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینتیها | کۆتایی | end, expiry, conclusion | Ende, Ablauf, Abschluss | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینتیهاک | پێشێلکردن | violation, breach | Verletzung, Verstoß | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینحیاز، انحیاز، انحياز | لایەنگری | bias, partiality, alignment | Parteilichkeit, Voreingenommenheit, Parteinahme | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینحیراف، انحراف | لادان | deviation, deflection, deviate | Abweichung, Ablenkung, abweichen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینحیسار، انحصار | یەکدەستی | monopoly | Monopol | عەرەبی | توند (پێداچوونەوە) |
+| ئینحیلال | هەڵوەشاندنەوە | dissolution, disintegration | Auflösung, Zerfall | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینساف، انصاف | دادپەروەری | fairness, justice, equity | Fairness, Gerechtigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینسان | مرۆڤ | human, person, human being | Mensch | عەرەبی | هەمیشە |
+| ئینسیجام | گونجان | harmony, coherence, consistency | Harmonie, Kohärenz, Einklang | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینسیحاب، انسحاب | کشانەوە | withdrawal, retreat | Rückzug | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینسیهار، انصهار | توانەوە | melting, fusion | Schmelzen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینعام | بەخشش | gift, grant, bounty | Gabe, Geschenk, Gnade | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینعیکاس، انعكاس | ڕاگەرانەوە | reflection | Reflexion, Spiegelung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینفیجار، انفجار، ئینفجار | تەقینەوە | explosion, blast, explode | Explosion, explodieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینقلاب، ئینقلابی | شۆڕش | revolution, coup | Revolution, Umsturz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینقیراز | لەناوچوون | extinction | Aussterben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینقیسام، انقسام | دابەشبوون | division, split | Teilung, Spaltung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینقیلاب | شۆڕش | revolution | Revolution | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینهیار، انهیار، انهيار | ڕووخان | collapse, breakdown | Zusammenbruch, Einsturz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئینکیسار، انکسار | شکان | refraction, breaking | Brechung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیهانە | سووکایەتی | insult, humiliation | Beleidigung, Demütigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیهتیرام، احترام | ڕێزگرتن | respect, honor | Respekt, Achtung, Ehrerbietung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیهتیزاز، اهتزاز | لەرزین | vibration, oscillation, vibrate | Schwingung, Vibration, Zittern | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیهتیمام | گرنگیدان | attention, care, concern | Aufmerksamkeit, Interesse, Beachtung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیهمال | کەمتەرخەمی | negligence, neglect | Nachlässigkeit, Vernachlässigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیکتیئاب | خەمۆکی | depression | Depression | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئیکتیشاف | دۆزینەوە | discovery, discover | Entdeckung, entdecken | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەتفال | منداڵان | children | Kinder | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەجر، اجر، أجر | مووچە، کرێ | wage, salary, fee | Lohn, Gehalt, Gebühr | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەجهیزە | ڕەقەکاڵا | hardware, devices | Hardware, Geräte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەحباب | هاوڕێیان، خۆشەویستان | loved ones, friends | Freunde, Liebsten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەحسەن | باشتر | better, best | besser, beste | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەحمەق | گەمژە، دیوانە | stupid, fool, idiot, crazy | dumm, Dummkopf, Idiot, verrückt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەحواڵ | بارودۆخ | circumstances, conditions, situation | Umstände, Lage, Verhältnisse | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەخلاق | ڕەوشت | morals, ethics, behavior | Moral, Ethik, Benehmen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەدیب | وێژەوان، نووسەر | writer, man of letters | Schriftsteller, Literat | عەرەبی | توند (پێداچوونەوە) |
+| ئەدەب | وێژە | literature | Literatur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەدەبیات | وێژە | literature | Literatur | عەرەبی | توند (پێداچوونەوە) |
+| ئەراضی | خاک، زەوی | territory, land, soil | Gebiet, Land, Boden | عەرەبی | توند (پێداچوونەوە) |
+| ئەرواح | گیانەکان | spirits, souls | Geister, Seelen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەساس | بنەما | basis, foundation, principle | Grundlage, Basis, Prinzip | عەرەبی | هەمیشە |
+| ئەساسی | سەرەکی، بنەڕەتی | basic, main, fundamental | grundlegend, wesentlich | عەرەبی | هەمیشە |
+| ئەساسەن | لە بنەڕەتدا | basically, fundamentally, originally | grundsätzlich, eigentlich, im Grunde | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەسلەحە | چەکەکان | weapons, arms | Waffen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەسڵەن | هەرگیز، لە بنەڕەتدا | never, at all, basically, originally | nie, überhaupt, grundsätzlich, ursprünglich | عەرەبی | هەمیشە |
+| ئەشعار | هۆنراوەکان | poems | Gedichte | عەرەبی | توند (پێداچوونەوە) |
+| ئەشیعە | تیشک | radiation, ray, x-ray | Strahlung, Strahl, Röntgenstrahlen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەعراز | نیشانەکان | symptoms, signs | Symptome, Anzeichen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەعزا | ئەندام | member, organ, limb | Mitglied, Organ, Glied | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەعمال | کارەکان، کردەوەکان | deeds, actions, works | Taten, Handlungen, Werke | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەغلەبیەت، اغلبیة، أغلبیة | زۆرینە | majority | Mehrheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەغڵەبیەت، ئەکثەریەت | زۆرینە | majority | Mehrheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەقرەبا، ئەقاریب | خزمان | relatives | Verwandte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەقەلیەت | کەمینە | minority | Minderheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەلان، ئاڵان | ئێستا | now | jetzt | عەرەبی | هەمیشە |
+| ئەلحان | ئاواز | melodies, tunes | Melodien | عەرەبی | توند (پێداچوونەوە) |
+| ئەلکتریکی، ئیلێکتریکی، ئەلیکتریکی | کارەبایی | electric, electrical | elektrisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەلەم، الم | ئازار | pain, ache | Schmerz | عەرەبی | توند (پێداچوونەوە) |
+| ئەمر | فەرمان | order, command | Befehl, Anordnung | عەرەبی | هەمیشە |
+| ئەمعا، أمعاء | هەناو | intestines, bowels | Darm, Eingeweide | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەمما | بەڵام | but, however | aber, jedoch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەمەل | هیوا | hope | Hoffnung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەنسیجە، انسجة | بافت | tissue | Gewebe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەنف | لوت | nose | Nase | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەنواع | جۆرەکان | types, kinds | Arten, Typen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەوراق | پەڕەکان، بەڵگەنامەکان | papers, documents | Papiere, Dokumente, Unterlagen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەولاد، عەولاد | منداڵ، نەوە | children, offspring, descendants | Kinder, Nachkommen, Nachwuchs | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەوەل | یەکەم | first | erste | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەوەلەن | یەکەم | first, firstly | erstens, zuerst | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەکسەر | زۆربەی | most, majority | meiste, Mehrheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەکیدەن | بێگومان، بە دڵنیاییەوە | certainly, surely, definitely | sicher, bestimmt, auf jeden Fall | عەرەبی | هەمیشە |
+| ئەڵبەتە | بێگومان | certainly, of course | natürlich, selbstverständlich, sicherlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئەڵقە، ئەلقە، ئەڵقەی | بازنە | ring, circle, loop | Ring, Kreis, Schlaufe | عەرەبی | توند (پێداچوونەوە) |
+| اتحاد | یەکگرتن | union, unity, unification | Union, Einheit, Vereinigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| باحیس، باحث | توێژەر | researcher | Forscher | عەرەبی | هەمیشە (پێداچوونەوە) |
+| باعیس | هۆ | cause, reason | Ursache, Grund | عەرەبی | هەمیشە (پێداچوونەوە) |
+| باقی | ماوە، ئەوانی تر | remaining, rest, the others | übrig, Rest, die anderen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بالذات | بەتایبەتی | especially, in particular, specifically | besonders, insbesondere | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بایع، بائع | فرۆشیار | seller, vendor | Verkäufer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بتولە، بوتولە | پاڵەوانیەتی | championship, tournament | Meisterschaft, Turnier | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بوتوولە، بطولة، بوتوولەت | پاڵەوانیەتی | heroism, championship | Heldentum, Meisterschaft | عەرەبی | توند (پێداچوونەوە) |
+| بوحران، بحران | تەنگانە | crisis | Krise | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بوحەیرە | گۆل | lake | See | عەرەبی | توند (پێداچوونەوە) |
+| بوخار، بخار | هەڵم | steam, vapor | Dampf | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بورهان | سەلماندن | proof, evidence | Beweis, Nachweis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بورودە، برودة، بوروودە | ساردی | coldness, cold | Kälte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بورودەت، بروودەت | سەرما | cold | Kälte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بولعوم | گەروو | throat, pharynx | Rachen, Kehle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بوویزە، بویضە | هێلکە | egg, ovum | Ei, Eizelle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بڕکان، بورکان | چیای ئاگرین | volcano | Vulkan | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بیئە، بیئەت | ژینگە | environment | Umwelt, Umgebung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بیع | فرۆشتن | sale, selling, sell | Verkauf, verkaufen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بێعار | بێشەرم | shameless, impudent | schamlos, unverschämt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بێڕەحمی، بێرەحمی | بێبەزەیی | cruelty, mercilessness | Grausamkeit, Erbarmungslosigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەتالە، بطالة | بێکاری | unemployment | Arbeitslosigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەتەل | پاڵەوان | hero, champion | Held, Meister | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەحر | دەریا | sea | Meer, See | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەحس | باس، گفتوگۆ | discussion, debate, topic | Diskussion, Debatte, Gespräch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەخیل | چاوتەنگ | stingy, miserly | geizig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەراءەت، براءت، بەراعەت | بێتاوانی | innocence, acquittal | Unschuld, Freispruch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەرائەت | بێتاوانی | innocence, acquittal | Unschuld, Freispruch | عەرەبی | توند (پێداچوونەوە) |
+| بەرابەر | یەکسان، هاوشان | equal, equivalent, opposite | gleich, gleichwertig, gegenüber | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەرق، برق | بروسکە | lightning | Blitz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەرمەجیات | نەرمەکاڵا | software | Software | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەرودەت | ساردی | coldness, cold | Kälte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەزاعە، بزاعە | کاڵا | goods, merchandise, commodity | Ware, Güter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەشەر | مرۆڤ | human, human being | Mensch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەشەریەت، بەشەرییەت، ئینسانیەت، ئینسانییەت | مرۆڤایەتی | humanity, mankind | Menschheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەعدەن | دواتر | later, afterwards | später, danach | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەعزێک، بەعزی، بەعزێ | هەندێک | some, a few | einige, manche | عەرەبی | هەمیشە |
+| بەعزەن | هەندێک جار | sometimes | manchmal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەقا | مانەوە | survival, remaining | Überleben, Fortbestand | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەقاڵ | دووکاندار | grocer, shopkeeper | Lebensmittelhändler, Krämer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەقییە، بەقیە | پاشماوە | remainder, rest | Rest, Überrest | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەلاغ، بلاغ | ئاگادارکردنەوە | notification, report, announcement | Benachrichtigung, Meldung, Mitteilung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەلەدیە، بلدیە | شارەوانی | municipality | Gemeinde, Stadtverwaltung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەهەرحال | هەرچۆنێک بێت | anyway, in any case, however | jedenfalls, sowieso, wie auch immer | عەرەبی | توند (پێداچوونەوە) |
+| بەهەرحاڵ | هەرچۆنێک بێت | anyway, anyhow, in any case | jedenfalls, wie auch immer, sowieso | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەول | میز | urine | Urin, Harn | عەرەبی | هەمیشە (پێداچوونەوە) |
+| بەیزە، بيضة | هێلکە | egg | Ei | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تاجر | بازرگان | merchant, trader, businessman | Händler, Kaufmann | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تاجیر | بازرگان | merchant, trader, businessman | Händler, Kaufmann | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تاریخ | مێژوو، ڕێکەوت | history, date | Geschichte, Datum | عەرەبی | هەمیشە |
+| تاقەت | توانا، ئارام | patience, strength, endurance | Geduld, Kraft | عەرەبی | توند |
+| تالع، تالیع | بەخت، چارەنووس | luck, fortune, fate, destiny | Glück, Schicksal, Los | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تالیب | قوتابی، خوێندکار | student, pupil | Student, Schüler | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تایید | پشتگیری | support, endorsement, approval | Unterstützung, Befürwortung, Zustimmung | عەرەبی | توند (پێداچوونەوە) |
+| تراث | کەلەپور | heritage, tradition | Erbe, Tradition | عەرەبی | توند (پێداچوونەوە) |
+| ترقی، تەرقی | پێشکەوتن | progress, advancement | Fortschritt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تعریف | پێناسە | definition, define | Definition, definieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| توحفە، تۆحفە | دیاری | gift, present | Geschenk, Gabe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| توقیف | بەندکردن | arrest, detention | Festnahme, Verhaftung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تووربە، تربة، توربه | خۆڵ | soil, earth, dust | Erde, Boden, Staub | عەرەبی | هەمیشە (پێداچوونەوە) |
+| توول، طول | درێژی | length | Länge | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تیب | پزیشکی | medicine | Medizin | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تیجارە، تجارة | بازرگانی | trade, commerce | Handel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تیجارەت | بازرگانی | trade, commerce | Handel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تیفل | منداڵ | child | Kind | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەئجیل، تأجیل | دواخستن | postponement, delay | Aufschub, Verschiebung, verschieben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەئخیر، تأخیر، تاخیر | دواخستن | delay, postponement, postpone | Verzögerung, Aufschub, verschieben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەئسیر | کاریگەری | influence, effect, impact | Einfluss, Wirkung, Auswirkung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەئسیس، تأسیس، تاسیس | دامەزراندن | establishment, founding, establish | Gründung, gründen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەئمین، تأمین، تامین | دابینکردن | provision, securing, insurance, provide | Bereitstellung, Sicherstellung, Versicherung, bereitstellen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەئکید، تاکید | جەختکردنەوە | emphasis, affirmation, confirmation | Betonung, Bekräftigung, Bestätigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەئیید، تائید | پشتڕاستکردنەوە | confirmation, endorsement | Bestätigung, Befürwortung | عەرەبی | توند (پێداچوونەوە) |
+| تەبابەت | پزیشکی | medicine | Medizin, Heilkunde | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەبادل | گۆڕینەوە | exchange, swap | Austausch, Tausch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەبادول، تبادل، تبادول | ئاڵوگۆڕ | exchange, trade | Austausch, Tausch, Handel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەبخیر، تبخیر | هەڵمبوون | evaporation, vaporization | Verdampfung, Verdunstung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەبرید، تبرید | ساردکردنەوە | cooling, refrigeration | Kühlung, kühlen | عەرەبی | توند (پێداچوونەوە) |
+| تەبریک، تبریک | پیرۆزبایی | congratulation, congratulate | Glückwunsch, gratulieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەبعە | چاپ | edition, print, printing | Auflage, Ausgabe, Druck | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەبعەن | بێگومان | of course, certainly | natürlich, selbstverständlich | عەرەبی | هەمیشە |
+| تەبلیغ | ڕاگەیاندن | announcement, notification, propaganda | Bekanntmachung, Mitteilung, Verkündigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەبوخور | هەڵاوسان | evaporation, evaporate | Verdunstung, Verdampfung, verdunsten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەبیب | پزیشک | doctor, physician | Arzt | عەرەبی | هەمیشە |
+| تەبیعی | سروشتی | natural | natürlich | عەرەبی | هەمیشە |
+| تەبیعەت، تەبع | سروشت | nature | Natur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەبەخخور | هەڵقواڵین | evaporation, boiling | Verdampfung, Verdunstung, Sieden | عەرەبی | توند (پێداچوونەوە) |
+| تەبەخور، تبخر | هەڵمبوون | evaporation | Verdampfung, Verdunstung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەبەرع | بەخشین | donation, contribution | Spende, Schenkung | عەرەبی | توند (پێداچوونەوە) |
+| تەبەقە | چین | class, layer, level | Schicht, Klasse | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەتابوق | گونجان | congruence, correspondence, match | Übereinstimmung, Kongruenz | عەرەبی | توند (پێداچوونەوە) |
+| تەتبیق | جێبەجێکردن | implementation, apply, implement | Umsetzung, anwenden, umsetzen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەتعیم، تەتعیمات | دەرمانلێدان | vaccination, immunization, vaccinate | Impfung, impfen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەتویر | پەرەپێدان | development, improvement | Entwicklung, Weiterentwicklung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەتەوور، تەتەووور | پەرەسەندن | development, evolution | Entwicklung, Evolution | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەجاوز | پێشێلکردن | violation, transgression, exceed | Verletzung, Übertretung, überschreiten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەجدید | نوێکردنەوە | renewal, renovation, update | Erneuerung, Renovierung, Aktualisierung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەجروبە، تەجرەبە | ئەزموون | experience, experiment | Erfahrung, Experiment | عەرەبی | هەمیشە |
+| تەجریبی، تجریبي، تجریبی | ئەزموونی | experimental, empirical | experimentell, empirisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەجهیزات | کەرەستە | equipment | Ausrüstung, Ausstattung, Geräte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەجەدود، تجدد | نوێبوونەوە | renewal, regeneration | Erneuerung, Regeneration | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەجەمود، تجمد | بەستن | freezing, solidification | Gefrieren, Erstarrung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحال، تەحاڵ | سپرز | spleen | Milz | عەرەبی | توند (پێداچوونەوە) |
+| تەحالوف، تحالف | هاوپەیمانی | alliance, coalition | Bündnis, Allianz, Koalition | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحدید | دیاریکردن | determine, define, limit | bestimmen, festlegen, begrenzen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحریر | ئازادکردن | liberation, liberate, free | Befreiung, befreien | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحریم، تحریم | گەمارۆ | sanction, embargo, blockade | Sanktion, Embargo, Blockade | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحریک | هاندان | incite, provoke, stimulate, encourage | anstiften, anregen, ermutigen, provozieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحسیل | خوێندن، بەدەستهێنان | study, education, acquisition | Studium, Ausbildung, Erwerb | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحسین | ستایش | praise, admiration | Lob, Bewunderung, loben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحفیز | هاندان | motivation, encouragement | Motivation, Ansporn, Ermutigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحقیق، تەحقیقات | لێکۆڵینەوە | investigation, research | Untersuchung, Forschung, Ermittlung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحلیل | شیکردنەوە | analysis, analyze | Analyse, analysieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحویل | گواستنەوە | transfer, conversion, transformation | Überweisung, Übertragung, Umwandlung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحکیم | بەهێزکردن | strengthen, consolidate, fortify | stärken, festigen, befestigen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحەدی، تەحەددی | ڕووبەڕووبوونەوە | challenge, confrontation | Herausforderung, Konfrontation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحەلول، تحلل | بۆگەنبوون | decomposition, decay | Zersetzung, Verfall | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحەممول، تەحەمول | بەرگەگرتن | endurance, tolerance, bear | Ertragen, Ausdauer, ertragen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحەول | گۆڕان | change, transformation, transition | Wandel, Veränderung, Übergang | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەحەوول، تحول | گۆڕان | change, transformation | Wandel, Veränderung, Umwandlung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەخدیر | بێهۆشکردن | anesthesia, sedation | Narkose, Betäubung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەخریب، تەخریبات | وێرانکاری | destruction, sabotage, vandalism | Zerstörung, Sabotage, Verwüstung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەخسیب، تخصیب | پیتاندن | fertilization, fertilize | Befruchtung, Düngung, befruchten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەخمین | خەمڵاندن | estimate, estimation | Schätzung, schätzen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەخەروج | دەرچوون | graduation | Abschluss | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەخەسوس، تخصص | پسپۆڕی | specialization, expertise, specialty | Spezialisierung, Fachgebiet, Fachwissen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەخەمور، تخمر | ترشبوون | fermentation, ferment | Gärung, gären | عەرەبی | توند (پێداچوونەوە) |
+| تەدریس | وانەوتنەوە | teaching, teach | Unterricht, unterrichten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەدقیق، تدقیق | پێداچوونەوە | review, check, proofreading | Überprüfung, Korrektur, überprüfen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەدقیقات، تدقیقات | توێژینەوە | research, investigations | Forschung, Untersuchungen | عەرەبی | توند (پێداچوونەوە) |
+| تەدوین، تدوین | تۆمارکردن | recording, compilation, documentation | Aufzeichnung, Niederschrift | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەربیە، تەربیەت | پەروەردە | education, upbringing | Erziehung, Bildung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرتیب | ڕێکخستن | arrangement, organization, order, arrange | Anordnung, Ordnung, ordnen | عەرەبی | هەمیشە |
+| تەرتیبات | ڕێکخستنەکان | arrangements, preparations | Vorkehrungen, Anordnungen, Vorbereitungen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرجومە | وەرگێڕان | translation, translate | Übersetzung, übersetzen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرجیح | هەڵبژاردن | preference, choice | Vorzug, Bevorzugung, Wahl | عەرەبی | توند (پێداچوونەوە) |
+| تەرجەمە | وەرگێڕان | translation, translate | Übersetzung, übersetzen | عەرەبی | هەمیشە |
+| تەرح، طرح | لاکردنەوە، پێشنیار | subtraction, proposal, subtract | Subtraktion, Vorschlag, subtrahieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرخان | تایبەتکردن | allocate, dedicate, assign | zuweisen, widmen, bereitstellen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرفیع | بەرزکردنەوە | raise, promotion, elevation | Beförderung, Erhöhung, anheben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرقیم، ترقیم | خاڵبەندی | punctuation, numbering | Zeichensetzung, Interpunktion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرقیە، ترقیة | بەرزکردنەوە | promotion | Beförderung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرکیب | پێکهاتە | composition, structure, compound | Zusammensetzung, Struktur, Verbindung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرکیز، ترکیز | سەرنج | concentration, focus, attention | Konzentration, Aufmerksamkeit | عەرەبی | توند (پێداچوونەوە) |
+| تەریقە | ڕێباز، ڕێگا | path, way, order, method | Weg, Pfad, Orden, Methode | عەرەبی | توند (پێداچوونەوە) |
+| تەرەددود | دوودڵی | hesitation, indecision | Zögern, Unentschlossenheit | عەرەبی | توند (پێداچوونەوە) |
+| تەرەدود، تردد | بەسامد | frequency | Frequenz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرەف، طرف | لایەن | side, party | Seite, Partei | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەرەقی، تەرەققی | پێشکەوتن | progress, advancement, development | Fortschritt, Entwicklung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەزاد | دژواتا | contrast, antithesis, antonymy | Gegensatz, Kontrast, Antithese | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەزامون، تضامن | هاوپشتی | solidarity | Solidarität | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەزاوج، تزاوج | جووتبوون | mating, pairing | Paarung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەزریق | دەرزی | injection | Spritze, Injektion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەزویر | ساختەکاری | forgery, fraud, falsification | Fälschung, Betrug | عەرەبی | توند (پێداچوونەوە) |
+| تەزییق، تەزیق | گوشار | pressure, harassment, constraint | Druck, Bedrängnis, Belästigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەزەخوم، تضخم | هەڵچوون | inflation | Inflation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەسادوف، تەسادف | ڕێکەوت | coincidence, chance | Zufall | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەساوی، تساوی | یەکسانی | equality | Gleichheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەسجیل | تۆمارکردن | registration, record | Registrierung, Eintragung, registrieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەسحیح | ڕاستکردنەوە | correction, correct | Korrektur, korrigieren, berichtigen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەسخین، تسخین | گەرمکردن | heating | Erhitzung, Heizung, erwärmen | عەرەبی | توند (پێداچوونەوە) |
+| تەسدیر | هەناردن | export | Export, exportieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەسدیق | پشتڕاستکردنەوە | confirmation, verification, confirm | Bestätigung, bestätigen | عەرەبی | هەمیشە |
+| تەسلیم | ڕادەستکردن | delivery, handover, surrender | Übergabe, Lieferung, Kapitulation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەسنیف | پۆلێنکردن | classification, categorization | Klassifizierung, Einteilung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەسویت، تصویت | دەنگدان | voting, vote | Abstimmung, Wahl, abstimmen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەسویر | وێنە | picture, image, photo | Bild, Foto | عەرەبی | هەمیشە |
+| تەسویق | بازاڕکردن | marketing | Marketing, Vermarktung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەسەمم، تسمم | ژەهراوبوون | poisoning | Vergiftung | عەرەبی | توند (پێداچوونەوە) |
+| تەسەموم | ژەهراویبوون | poisoning, intoxication | Vergiftung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەشبیه | لێکچواندن | simile, comparison | Vergleich, Gleichnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەشجیع | هاندان | encouragement, encourage | Ermutigung, ermutigen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەشخیس، تشخیص | هەڵسەنگاندن | diagnosis, assessment, evaluation | Diagnose, Bewertung, Beurteilung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەشخیص | دەستنیشانکردن | diagnosis, identification, diagnose | Diagnose, Feststellung, diagnostizieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەشریح، تەشریخ | شیکاری لەش | anatomy, dissection | Anatomie, Sektion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەشریع | یاساسازی | legislation, lawmaking | Gesetzgebung | عەرەبی | توند (پێداچوونەوە) |
+| تەشفیر | نهێنیکردن | encryption, encrypt | Verschlüsselung, verschlüsseln | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەشویق | هاندان | encouragement, encourage | Ermutigung, ermutigen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەشکیل | پێکهێنان | formation, form, establish | Bildung, bilden, gründen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەشکیلات | پێکهاتە، ڕێکخراو | organization, structure, formation | Organisation, Struktur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەشەکور، تشکر | سوپاس | thanks, thank | Dank, danken | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەصدیق، تصدیق | پەسندکردن | certification, approval, endorsement | Beglaubigung, Bestätigung, Genehmigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەصویر | وێنەگرتن | photography, filming | Fotografie, Aufnahme | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەضخوم، تەزخوم | هەڵکشانی نرخ | inflation | Inflation, Teuerung | عەرەبی | توند (پێداچوونەوە) |
+| تەعادل، تعادل، تەعادول | هاوسەنگی | balance, equilibrium | Gleichgewicht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعافی، تعافی | چاکبوونەوه | recovery, healing | Genesung, Erholung, Heilung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعام | خواردن | food, meal | Essen, Nahrung, Mahlzeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعاون | هاوکاری | cooperation | Zusammenarbeit, Kooperation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعایوش | پێکەوەژیان | coexistence | Koexistenz, Zusammenleben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعبیر | دەربڕین | expression | Ausdruck, Äußerung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعتیل، تەعطیل | پشوو | holiday, vacation, closure | Ferien, Urlaub, Feiertag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعجوب، تعجب | سەرسوڕمان | astonishment, surprise, amazement | Erstaunen, Verwunderung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعجیل | پەلەکردن | hurry, haste | Eile, beeilen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعدی | دەستدرێژی | assault, aggression, abuse | Übergriff, Angriff, Missbrauch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعدیل | دەستکاری، گۆڕانکاری | modification, change, edit | Änderung, ändern, bearbeiten | عەرەبی | هەمیشە |
+| تەعریف | پێناسە | definition, define | Definition, definieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعزیب | ئەشکەنجەدان | torture, torment | Folter, foltern, Qual | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعزیم | ڕێزلێنان | respect, honor, reverence | Respekt, Ehre, Verehrung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعقیب | شوێنکەوتن | pursuit, follow, prosecute | Verfolgung, verfolgen, folgen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعقیم | پاکژکردن | sterilization, sterilize, disinfect | Sterilisation, sterilisieren, desinfizieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعلیق | لێدوان | comment, commentary | Kommentar, Stellungnahme | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعلیم | فێرکردن | teaching, education, teach | Unterricht, Lehre, lehren | عەرەبی | هەمیشە |
+| تەعلیمات | ڕێنمایی | instructions, guidelines, regulations | Anweisungen, Richtlinien, Anleitung | عەرەبی | هەمیشە |
+| تەعمیر | چاککردنەوە | repair, fix | reparieren, Reparatur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعمیم، تعمیم | گشتیکردن | generalization, generalize, circular | Verallgemeinerung, verallgemeinern, Rundschreiben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعویض | قەرەبووکردنەوە | compensation, indemnity | Entschädigung, Ausgleich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعیین، تەعین | دیاریکردن | determine, appoint, designation | bestimmen, festlegen, ernennen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعەب | ماندووبوون | fatigue, tiredness, exhaustion | Müdigkeit, Erschöpfung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعەسوب، تەعەسسوب | دەمارگیری | fanaticism, bigotry, prejudice | Fanatismus, Engstirnigkeit, Voreingenommenheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعەفون، تعفن | بۆگەنبوون | rot, decay, putrefaction | Fäulnis, Verwesung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعەللوق، تەعەلوق | پەیوەندی | attachment, connection, relation | Bindung, Verbindung, Beziehung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەعەلوم، تەعەللوم | فێربوون | learning | Lernen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەغزیە، تغذیة، تغذیه | خۆراک | nutrition, food, nourishment | Ernährung, Nahrung | عەرەبی | توند (پێداچوونەوە) |
+| تەغییر | گۆڕان | change, alteration | Änderung, Veränderung, Wandel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەفاعل | کارلێک | interaction | Wechselwirkung, Interaktion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەفاعول، تفاعل | کارلێک | interaction, reaction | Wechselwirkung, Reaktion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەفتیش | پشکنین | inspection, search, check | Inspektion, Durchsuchung, Kontrolle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەفریق | کەمکردنەوە | subtraction, separation | Subtraktion, Trennung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەفرەقە | دووبەرەکی | division, discord, disunity | Spaltung, Zwietracht, Uneinigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەفسیر | ڕوونکردنەوە، لێکدانەوە | interpretation, explanation | Interpretation, Erklärung, Auslegung | عەرەبی | توند (پێداچوونەوە) |
+| تەفسیل، تەفاسیل | وردەکاری | detail | Detail, Einzelheit | عەرەبی | هەمیشە |
+| تەفسیلات، تەفصیلات | وردەکاری | details | Einzelheiten, Details | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقازا | داوا | demand, request | Forderung, Anfrage, verlangen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقاعود | خانەنشینی | retirement | Ruhestand, Rente | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقدیر | پێزانین | appreciation, estimate | Anerkennung, Wertschätzung, Schätzung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقدیم | پێشکەشکردن | presentation, submission, present | Präsentation, Vorstellung, vorlegen | عەرەبی | هەمیشە |
+| تەقریب، تقریب | نزیکردنەوە | approximation, rounding, approximate | Annäherung, Rundung, runden | عەرەبی | توند (پێداچوونەوە) |
+| تەقریبەن | نزیکەی | approximately, about, nearly | ungefähr, etwa, fast | عەرەبی | هەمیشە |
+| تەقس، طقس، تەخس | کەش و هەوا | weather, climate | Wetter, Klima | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقسیر | کەمتەرخەمی | negligence, shortcoming, fault | Nachlässigkeit, Versäumnis, Schuld | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقسیط، تقسیط، تەقسیت | قیستبەندی | installment, installment payment | Ratenzahlung, Rate | عەرەبی | توند (پێداچوونەوە) |
+| تەقسیم | دابەشکردن | division, divide, distribute | Teilung, teilen, aufteilen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقصیر، تقصیر | کەموکوڕی | shortcoming, negligence, fault | Versäumnis, Mangel, Nachlässigkeit | عەرەبی | توند (پێداچوونەوە) |
+| تەقلید | لاسایی | imitation, imitate | Nachahmung, nachahmen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقنیە | تەکنیک | technique, technology | Technik, Technologie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقویم | ڕۆژژمێر | calendar | Kalender | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقییم | هەڵسەنگاندن | evaluation, assessment | Bewertung, Beurteilung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقەدوم، تەقەددوم | پێشکەوتن | progress, advance | Fortschritt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقەلا | هەوڵ | effort, attempt | Mühe, Bemühung, Versuch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەقەللوب، تەقەلوب | گۆڕانکاری | fluctuation, change, upheaval | Schwankung, Wandel, Umwälzung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەلخیص | کوورتکردنەوە | summary, summarize | Zusammenfassung, zusammenfassen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەلقیح، تلقیح | پیتاندن | vaccination, pollination, fertilization | Impfung, Bestäubung, Befruchtung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەلیف | نووسین | writing, authorship, composition | Verfassen, Schreiben | عەرەبی | توند (پێداچوونەوە) |
+| تەلەب | داوا | request, demand | Antrag, Bitte, Forderung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەلەبە | قوتابی | student, pupil | Schüler, Student | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەلەووس، تلوث | پیسبوون | pollution, contamination | Verschmutzung, Verunreinigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەماس | پەیوەندی | contact, connection | Kontakt, Verbindung | عەرەبی | هەمیشە |
+| تەماسول | هاوشێوەیی | similarity, symmetry | Ähnlichkeit, Symmetrie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەماع، تەماح، تەمەع | چاوچنۆکی | greed | Gier, Habgier | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەمام، تمام | تەواو، باشە | complete, finished, okay | vollständig, fertig, in Ordnung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەمدید | درێژکردنەوە | extension, prolongation, extend | Verlängerung, verlängern | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەمریز، تمریض | پەرستاری | nursing | Krankenpflege, Pflege | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەمریض | پەرستاری | nursing | Krankenpflege, Pflege | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەمرین | ڕاهێنان | exercise, practice, training | Übung, Training | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەمییز | جیاکاری | discrimination | Diskriminierung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەمەدود، تمدد، تەمەدوود | فراوانبوون | expansion, extension, expand | Ausdehnung, Erweiterung, ausdehnen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەنازوع، تنازع | کێشمەکێش | dispute, conflict, struggle | Streit, Konflikt, Auseinandersetzung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەناسوب | ڕێژە | proportion, ratio, rate | Verhältnis, Proportion, Anteil | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەناسول، تناسل | زاوزێ | reproduction, breeding | Fortpflanzung, Vermehrung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەناقوز، تناقض، تەناقوض | ناکۆکی | contradiction, inconsistency | Widerspruch | عەرەبی | توند (پێداچوونەوە) |
+| تەنزیم | ڕێکخستن | organization, organize, regulate | Organisation, organisieren, regeln | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەنسیق | هەماهەنگی | coordination | Koordination, Abstimmung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەنفیذ، تەنفید | جێبەجێکردن | implementation, execution | Umsetzung, Durchführung, Ausführung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەنفیز، تنفیذ | جێبەجێکردن | implementation, execution, implement | Durchführung, Umsetzung, durchführen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەنمیە | پەرەپێدان | development, develop | Entwicklung, entwickeln | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەنەفوس | هەناسەدان | breathing, respiration, breathe | Atmung, atmen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەنەوع | جۆراوجۆری | diversity, variety | Vielfalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەنەوو | فرەڕەنگی | diversity, pluralism | Vielfalt, Pluralismus | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەنەووع، تەنووع | فرەڕەنگی | diversity, variety | Vielfalt, Diversität | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەهجیر، تهجیر | ئاوارەکردن | displacement, deportation, displace | Vertreibung, Deportation, vertreiben | عەرەبی | توند (پێداچوونەوە) |
+| تەهجییە، تهجئة | ڕاستنووسی | spelling, orthography | Rechtschreibung, Buchstabieren | عەرەبی | توند (پێداچوونەوە) |
+| تەهدید | هەڕەشە | threat | Drohung, Bedrohung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەهمە، تهمة | تۆمەت | accusation, charge | Anklage, Beschuldigung, Vorwurf | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەواری، تەوارئ | پەلە | emergency, urgency, haste | Notfall, Eile, Dringlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوازن، توازن | هاوسەنگی | balance, equilibrium | Gleichgewicht, Balance | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوازون | هاوسەنگی | balance, equilibrium | Gleichgewicht, Balance | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەواسول، تەواصول | پەیوەندی | communication, contact, connection | Kommunikation, Kontakt, Verbindung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوتور، توتر | گرژی | tension | Spannung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوجیه، توجیه | ڕێنمایی | guidance, instruction, direction | Anleitung, Orientierung, Hinweis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوزیح | ڕوونکردنەوە | explanation, clarification | Erklärung, Erläuterung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوزیع | دابەشکردن | distribution, distribute | Verteilung, verteilen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوسیع، توسیع | فراوانکردن | expansion, enlargement, expand | Erweiterung, Ausbau, erweitern | عەرەبی | توند (پێداچوونەوە) |
+| تەوسیق، توثیق | تۆمارکردن | documentation, recording | Dokumentation, Beurkundung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوضیح، توضیح | ڕوونکردنەوە | clarification, explanation | Erklärung, Erläuterung, Klarstellung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوقیع | واژۆ | signature, sign | Unterschrift, unterschreiben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوقیف | ڕاگرتن، دەستگیرکردن | stop, arrest, suspension | Festnahme, Verhaftung, Anhalten, Einstellung | عەرەبی | توند (پێداچوونەوە) |
+| تەولید، تولید | بەرهەمهێنان | production, generation, produce | Produktion, Erzeugung, produzieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوەسوع | فراوانبوون | expansion, enlargement | Ausdehnung, Erweiterung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەوەقوف | ڕاگرتن | stop, halt, suspension | Stopp, Anhalten, Einstellung | عەرەبی | توند (پێداچوونەوە) |
+| تەکاسور، تەکاثور | زاوزێ | reproduction, breeding | Fortpflanzung, Vermehrung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەکاسوف، تكاثف | چڕبوونەوە | condensation, condense | Kondensation, Verdichtung, kondensieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەکاسوور | زاوزێ | reproduction, multiplication, breeding | Fortpflanzung, Vermehrung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەکاموول | پەرەسەندن | evolution, development | Evolution, Entwicklung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەکرار | دووبارەکردنەوە | repetition, repeat | Wiederholung, wiederholen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەکلیف | سپاردە | assignment, task, homework | Aufgabe, Auftrag, Hausaufgabe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەکیف، تکیف | گونجان | adaptation, adjustment, adapt | Anpassung, anpassen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەڵاق، تەلاق | جیابوونەوە | divorce | Scheidung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەیارە | فڕۆکە | airplane, aircraft | Flugzeug | عەرەبی | هەمیشە (پێداچوونەوە) |
+| تەیر | باڵندە | bird | Vogel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جازیبییەت | ڕاکێشان | attraction, gravity, charm | Anziehung, Schwerkraft, Anziehungskraft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جازیبیە، جاذبیە | هێزی کێشان | gravity, gravitation | Schwerkraft, Gravitation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جازیبیەت، جاذبية | کێشان | gravity, attraction | Schwerkraft, Anziehung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جامیعە، جامعە | زانکۆ | university | Universität, Hochschule | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جاهیل | نەزان | ignorant | unwissend | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جایحە، جایحه | دەردی جیهانگیر | pandemic, epidemic | Pandemie, Seuche | عەرەبی | توند (پێداچوونەوە) |
+| جزئیات | وردەکاری، بەشەکان | details, particulars, parts | Einzelheiten, Details, Teile | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جنس | ڕەگەز | sex, gender, race | Geschlecht, Rasse | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جواب | وەڵام | answer, reply | Antwort | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جوبن | ترسنۆکی | cowardice | Feigheit | عەرەبی | توند (پێداچوونەوە) |
+| جورعە | بەش | dose, portion | Dosis, Portion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جوسەیم، جسیم، جوسەیمات | وچکە | particle | Teilchen, Partikel | عەرەبی | توند (پێداچوونەوە) |
+| جومجومه، جومجمه | کاسەسەر | skull | Schädel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جومجومە، جمجمة | کاسەی سەر | skull | Schädel | عەرەبی | توند (پێداچوونەوە) |
+| جومعە، جمعه | هەینی | Friday | Freitag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جوملە، جومڵە | ڕستە | sentence | Satz | عەرەبی | هەمیشە |
+| جومهوریەت، جمهوریەت، جومهووریه | کۆمار | republic | Republik | عەرەبی | توند (پێداچوونەوە) |
+| جیراحە، جراحە | نەشتەرگەری | surgery | Chirurgie, Operation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جیسم | لەش | body | Körper, Leib | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جیلد | پێست | skin | Haut | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جینائی، جنائی | تاوانی | criminal | strafrechtlich, kriminell | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جینایی | تاوانی | criminal, penal | kriminell, strafrechtlich | عەرەبی | توند (پێداچوونەوە) |
+| جینایەت | تاوان | crime | Verbrechen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جینسیە | هاوڵاتیبوون، نەتەوایەتی | citizenship, nationality | Staatsbürgerschaft, Staatsangehörigkeit, Nationalität | عەرەبی | توند (پێداچوونەوە) |
+| جینسیەت، جنسیة | نەتەوایەتی | nationality, citizenship | Staatsangehörigkeit, Nationalität | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جیهاز | ئامێر | device, apparatus | Gerät, Apparat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەبەل، جبل | چیا | mountain | Berg | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەحیم | دۆزەخ | hell | Hölle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەدول، جەدوال | خشتە | table, schedule | Tabelle, Plan | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەدید | نوێ | new | neu | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەراحی، جراحی، جیراحی | نەشتەرگەری | surgery, surgical | Chirurgie, Operation, chirurgisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەرح | برین | wound, injury | Wunde, Verletzung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەرم | تاوان | crime, offense | Verbrechen, Straftat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەریدە | ڕۆژنامە | newspaper | Zeitung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەریمە، جەرائم | تاوان | crime, offense | Verbrechen, Straftat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەزر، جذر | ڕەگ | root | Wurzel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەزیرە | دوورگە | island | Insel | عەرەبی | توند (پێداچوونەوە) |
+| جەفاف | وشکەساڵی | drought | Dürre, Trockenheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەلسە، جلسة | دانیشتن | session, meeting, sitting | Sitzung, Tagung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەلید، جلید | بەستێن | ice, frost | Eis, Frost | عەرەبی | توند (پێداچوونەوە) |
+| جەماعەت | کۆمەڵ، کۆمەڵگا | community, group, congregation, society | Gemeinschaft, Gruppe, Gemeinde, Gesellschaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەمع | کۆ | sum, total, plural, collection | Summe, Plural, Sammlung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەمعییەت، جەمعیەت | کۆمەڵە | association, society | Verein, Gesellschaft, Verband | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەمیع | هەموو | all, every | alle, sämtliche | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەمیل | جوان | beautiful, pretty | schön, hübsch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەنازە | پرسە | funeral, mourning, corpse | Beerdigung, Trauerfeier, Leichnam | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەهد، جوهد | خۆڕاگری | effort, endurance, perseverance | Anstrengung, Ausdauer, Durchhaltevermögen | عەرەبی | توند (پێداچوونەوە) |
+| جەهل | نەزانی | ignorance | Unwissenheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەواب | وەڵام | answer, reply | Antwort, antworten | عەرەبی | هەمیشە |
+| جەوهەر، جوهر | بنچینه | essence, substance, basis | Wesen, Substanz, Grundlage | عەرەبی | توند (پێداچوونەوە) |
+| جەڕاح | نەشتەرگەر | surgeon | Chirurg | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەڕاحی | نەشتەرگەری | surgery | Chirurgie, Operation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| جەیش | سوپا | army | Armee, Heer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حاجەت، حاجات | پێویستی | need, necessity | Bedürfnis, Bedarf, Notwendigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حاد | تیژ | acute, sharp | akut, scharf | عەرەبی | توند (پێداچوونەوە) |
+| حادیسە | ڕووداو | event, incident, accident | Ereignis, Vorfall, Unfall | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حارس | پاسەوان | guard, watchman | Wächter, Wache | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حازر | ئامادە | ready, present | bereit, fertig, anwesend | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حاسڵ، حاصل | ئەنجام | result, outcome | Ergebnis, Resultat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حاسیلی، حاصلی | بەکوورتی، کەواتە | in short, so, therefore | kurz gesagt, also, folglich | عەرەبی | توند (پێداچوونەوە) |
+| حاشا | نکۆڵی | denial, never | Leugnung, keineswegs, bestreiten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حاشیە | پەراوێز | margin, footnote, sideline | Rand, Fußnote | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حالت | دۆخ | state, condition, situation | Zustand, Lage, Situation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حامی | پارێزەر | protector, defender, guardian | Beschützer, Verteidiger, Schützer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حامیلە | دووگیان | pregnant | schwanger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حاکم | فەرمانڕەوا | ruler, governor | Herrscher, Machthaber | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حاکمییەت، حاکمیەت | دەسەڵات | sovereignty, authority, rule | Souveränität, Herrschaft, Macht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حاڵ | بار، دۆخ | condition, state, situation | Zustand, Lage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حاڵا | ئێستا | now | jetzt | عەرەبی | هەمیشە |
+| حاڵیەن، حالیەن | ئێستا | currently, now, at present | derzeit, jetzt, zurzeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حاڵەت | دۆخ | state, condition, case | Zustand, Fall, Lage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حدوود، حەد، حەدد | سنوور | border, limits, boundary | Grenze, Grenzen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حرف، حروف | پیت | letter | Buchstabe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حزوور، حضور | ئامادەبوون | presence, attendance | Anwesenheit, Präsenz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حس، حسّی | هەست | feeling, sense, sensation | Gefühl, Sinn, Empfindung | عەرەبی | توند (پێداچوونەوە) |
+| حقووق | مافەکان | rights, law | Rechte, Rechtswissenschaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوار | گفتوگۆ | dialogue, conversation | Dialog, Gespräch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوججەت، حوجەت | بەڵگە | proof, evidence, argument | Beweis, Argument | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوجوم، هجوم | هێرش | attack, assault | Angriff, Überfall | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوجە، حجة | بەڵگە | argument, proof, evidence | Argument, Beweis, Beleg | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حودود، حدود | سنوور | border, boundary, limit | Grenze | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حودووس | ڕوودان | occurrence | Ereignis, Auftreten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حورمەت | ڕێز | respect | Respekt, Achtung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوروق، حروق | سووتان | burning, combustion, burn | Verbrennung, Brennen, Verbrennen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوزن | خەم | sorrow, grief, sadness | Trauer, Kummer, Traurigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوزوور، حوضور | ئامادەبوون | presence, attendance | Anwesenheit, Gegenwart | عەرەبی | توند (پێداچوونەوە) |
+| حوسن | جوانی | beauty | Schönheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوقنە، حقنە | دەرزی | injection, syringe, shot | Spritze, Injektion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوقووق، حقوق، حوقوق | ماف | rights, law | Rechte, Recht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوقووقی | یاسایی | legal, juridical | rechtlich, juristisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حومما | تا | fever | Fieber | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوودود | سنوور | border, boundary, limit | Grenze | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوڕیەت | ئازادی | freedom, liberty | Freiheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوکم | فەرمان، دەسەڵات | rule, authority, power, verdict | Herrschaft, Macht, Urteil | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوکمدار | فەرمانڕەوا | ruler | Herrscher | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوکمڕانی، حکومڕانی | فەرمانڕەوایی | governance, rule, reign | Herrschaft, Regierungsführung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حوکەما | داناکان | wise men, sages, philosophers | Weise, Philosophen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حکایە | چیرۆک | story, tale | Geschichte, Erzählung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حکومی، حکوومی | میری | governmental, public, state | staatlich, öffentlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حکومەت، حوکومەت، حوکوومەت، حکوومەت | میری | government | Regierung | عەرەبی | توند |
+| حیاد | بێلایەنی | neutrality | Neutralität | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیدەت، حیددەت | توندی | intensity, sharpness, severity | Intensität, Schärfe, Heftigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیرس | چاوچنۆکی | greed, avarice | Gier, Habgier | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیرمان | بێبەشی | deprivation | Entbehrung, Benachteiligung, Mangel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیرەت، حەیرەت | سەرسوڕمان | amazement, astonishment, bewilderment | Staunen, Erstaunen, Verwunderung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیزب | پارت | party | Partei | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیساب، حساب | هەژمار | calculation, account, count | Berechnung, Rechnung, Konto | عەرەبی | هەمیشە |
+| حیشمەت | شکۆ | majesty, grandeur, glory | Pracht, Würde, Herrlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیفز، حفز | پاراستن، لەبەرکردن | protection, preserve, memorize, save | Schutz, bewahren, auswendig lernen, speichern | عەرەبی | توند (پێداچوونەوە) |
+| حیلە، حیله | فێل | trick, ruse | List, Trick | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیمار | گوێدرێژ | donkey | Esel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیمایە، حیمایەت | پاراستن | protection, protect | Schutz, schützen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیوار | وتووێژ | dialogue, conversation | Dialog, Gespräch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیوان | ئاژەڵ | animal | Tier | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیکایەت | چیرۆک | story, tale | Geschichte, Erzählung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیکمەت | دانایی | wisdom | Weisheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حیکە | خنیان | itch, itching | Juckreiz, Jucken | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەب، حەبە، حەبدانە | دەنکە | pill, tablet | Tablette, Pille | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەبس، حبس | زیندانیکردن | imprisonment, prison, jail | Haft, Gefängnis, Inhaftierung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەبیب | خۆشەویست | beloved, darling | Geliebte, Liebling | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەتا، حەتتا | تەنانەت، تا | even, until | sogar, bis | عەرەبی | هەمیشە |
+| حەتمەن | بێگومان، بەدڵنیایی | certainly, definitely, surely | bestimmt, sicher, unbedingt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەجم | ئەندازە | size, volume | Größe, Umfang, Volumen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەداسە، حەداسەت | نوێگەری | modernity, innovation | Modernität, Neuerung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەدید، حدید | ئاسن | iron | Eisen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەرارە، حرارە | گەرمی | heat, temperature | Wärme, Hitze, Temperatur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەرارەت | گەرمی | heat, temperature | Hitze, Wärme, Temperatur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەرام | ناڕەوا | forbidden, unlawful, sinful | verboten, unrecht, unerlaubt | عەرەبی | توند (پێداچوونەوە) |
+| حەرب | جەنگ | war | Krieg | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەرف | پیت | letter | Buchstabe | عەرەبی | هەمیشە |
+| حەریف | ڕکابەر | rival, opponent, competitor | Rivale, Gegner, Konkurrent | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەرەس | پاسەوان | guard | Wache, Wächter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەرەکەت، حەرەکە | جووڵە | movement, motion | Bewegung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەزارە، حضارة | شارستانیەت | civilization | Zivilisation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەزف | سڕینەوە | deletion, delete, remove | löschen, entfernen | عەرەبی | هەمیشە |
+| حەزین | خەمبار | sad, sorrowful | traurig, betrübt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەزەر | وریایی، ئاگاداری | caution, wariness, vigilance, awareness | Vorsicht, Wachsamkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەسادەت | ئیرەیی | envy, jealousy | Neid, Eifersucht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەسار، حیسار | پەرژین | fence, enclosure, wall | Zaun, Einfriedung, Mauer | عەرەبی | توند (پێداچوونەوە) |
+| حەساسییەت، حەساسیەت | هەستیاری | sensitivity, allergy | Empfindlichkeit, Allergie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەساسیە، حساسیە | هەستیاری | allergy, sensitivity | Allergie, Empfindlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەسبە، حصبة، حەصبە | سورکە | measles | Masern | عەرەبی | توند (پێداچوونەوە) |
+| حەسرەت | داخ، ئاوات | regret, longing, sorrow | Sehnsucht, Bedauern, Kummer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەسەد | ئیرەیی | envy, jealousy | Neid, Eifersucht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەشو | پڕکردنەوە | filling, stuffing | Füllung, Füllen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەشەرە، حەشەرات | مێرووله | insect | Insekt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەفلە، حافلە | ئاهەنگ | party, celebration, concert | Feier, Fest, Party | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەفید، حفید | نەوە | grandchild | Enkel, Enkelkind | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەق، هەق، حق | ماف، ڕاستی | right, truth | Recht, Wahrheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەقیبە | جانتا | bag, suitcase, briefcase | Tasche, Koffer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەقیقی | ڕاستەقینە | real, true, genuine | wirklich, echt, wahr | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەقیقەت | ڕاستی | truth, reality, fact | Wahrheit, Wirklichkeit | عەرەبی | هەمیشە |
+| حەقیقەتەن، حقیقتا | بەڕاستی | really, truly, indeed | wirklich, tatsächlich, wahrhaftig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەل | چارەسەر | solution, solve | Lösung, lösen | عەرەبی | هەمیشە |
+| حەلقە، حەلقەی | بازنە، چەنبەر | ring, circle, episode | Ring, Kreis, Folge | عەرەبی | توند (پێداچوونەوە) |
+| حەمال، حەمباڵ، حەمباڵی | بارهەڵگر | porter, carrier | Träger, Gepäckträger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەمام | گەرماو | bath, bathhouse, bathroom | Bad, Badehaus, Badezimmer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەماڵ | کۆڵکێش | porter | Träger, Gepäckträger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەمل، حەمڵ | دووگیانی | pregnancy | Schwangerschaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەملە | هێرش | attack, assault, campaign | Angriff, Attacke, Feldzug | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەواس | هەستەکان | senses | Sinne | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەوالی، حوالی | نزیکەی، دەوروبەری | about, approximately, around | ungefähr, etwa, rund | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەواڵە، حواله، حوالة | گواستنەوەی پارە | money transfer, remittance | Überweisung, Geldtransfer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەوز | گۆم | pool, pond, basin | Becken, Teich | عەرەبی | توند (پێداچوونەوە) |
+| حەپس | زیندان | prison, jail | Gefängnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەپسخانە | گرتووخانە، زیندان | prison, jail | Gefängnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەکیم | پزیشک، دانا | doctor, physician, wise | Arzt, weise | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەکەم، حکەم | داوەر | referee, arbiter, umpire | Schiedsrichter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەڵاڵ | ڕەوا | lawful, permissible, legitimate | erlaubt, rechtmäßig, legitim | عەرەبی | توند (پێداچوونەوە) |
+| حەیا | شەرم | modesty, shame, shyness | Scham, Bescheidenheit, Schüchternheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەیات | ژیان | life | Leben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەیران | سەرسام، سەرسوڕمان | astonished, amazed, bewildered | erstaunt, verwundert, verblüfft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەیف | مخابن | pity, what a pity | schade, Bedauern | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەیوان | ئاژەڵ | animal | Tier | عەرەبی | هەمیشە (پێداچوونەوە) |
+| حەیوانات | ئاژەڵان | animals | Tiere | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خائین | ناپاک | traitor, treacherous | Verräter, verräterisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خاتیمە | کۆتایی | conclusion, end, ending | Schluss, Ende, Abschluss | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خادم | خزمەتکار | servant | Diener | عەرەبی | توند (پێداچوونەوە) |
+| خاریج | دەرەوە | outside, abroad | außen, draußen, Ausland | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خاسیەت، خاسییەت | تایبەتمەندی | characteristic, property, feature | Eigenschaft, Merkmal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خاص | تایبەت | special, private, specific | besonders, privat, speziell | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خاڵیص | پاک، بێگەرد | pure, sheer, unmixed | rein, pur, lauter | عەرەبی | توند (پێداچوونەوە) |
+| خسووسی، خوسووسی، خصوصی | تایبەت | private, special, particular | privat, besonders, speziell | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خوسوف، خسوف، خوسووف | مانگگرتن | lunar eclipse | Mondfinsternis | عەرەبی | توند (پێداچوونەوە) |
+| خوف | ترس | fear | Angst, Furcht | عەرەبی | توند (پێداچوونەوە) |
+| خولاسە | پوختە | summary | Zusammenfassung | عەرەبی | هەمیشە |
+| خولاصە | کوورتە | summary, abstract | Zusammenfassung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خۆشحاڵ | دڵخۆش | happy, glad, pleased | glücklich, froh, erfreut | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خیانەت | ناپاکی | betrayal, treason | Verrat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خیتاب | وتار | speech, address | Rede, Ansprache | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خیدمەت، خزمەت | ڕاژە | service | Dienst, Dienstleistung | عەرەبی | توند |
+| خیلاف، خلاف | ناکۆکی | dispute, disagreement, conflict | Streit, Meinungsverschiedenheit, Konflikt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خیلقەت | سروشت | creation, nature | Schöpfung, Natur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەبیر، خبیر | پسپۆر | expert, specialist | Experte, Fachmann | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەبەر | هەواڵ | news | Nachricht, Neuigkeit | عەرەبی | هەمیشە |
+| خەت، خط | هێڵ | line | Linie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەتا، خطا | هەڵە | mistake, error, fault | Fehler, Schuld | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەتەر | مەترسی | danger, risk | Gefahr, Risiko | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەرافات | باوەڕی پووچ | superstition | Aberglaube | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەریتە | نەخشە | map | Karte, Landkarte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەسائیس، خصائص | تایبەتمەندی | characteristic, feature, property | Eigenschaft, Merkmal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەسارە | زیان | damage, loss | Schaden, Verlust | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەسارەت، خسارە، خسارت، خساره | زیان | loss, damage | Verlust, Schaden | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەسب، خصب | بەرهەمدار | fertile, productive | fruchtbar, ergiebig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەفیف | سووک | light, mild | leicht, mild | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەلایق | خەڵک | people, folk | Leute, Volk | عەرەبی | توند (پێداچوونەوە) |
+| خەلیت، خلیط | تێکەڵ | mixture, mixed | Mischung, gemischt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەلیج، خلیج | کەنداو | gulf, bay | Golf, Bucht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەلیە، خلیە | خانە | cell | Zelle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەندەق | چاڵ | trench, ditch, pit | Graben, Grube | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەوف | ترس | fear | Angst, Furcht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەڵق، خەلق | گەل | people, nation | Volk, Leute | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەیات، خەیاط | دەرزیدوز | tailor | Schneider | عەرەبی | هەمیشە (پێداچوونەوە) |
+| خەیانەت | ناپاکی | betrayal, treason | Verrat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دائیرە | فەرمانگە | department, office, circle | Behörde, Amt, Kreis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دائیمی | هەمیشەیی | permanent | ständig, dauerhaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دائیمەن | هەمیشە | always, constantly | immer, ständig | عەرەبی | هەمیشە |
+| داخیل | ناوەوە | inside, interior | innen, Innere | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دالە | کریار | function | Funktion | عەرەبی | توند (پێداچوونەوە) |
+| دایین، دائن | وامدەر | creditor, lender | Gläubiger, Kreditgeber | عەرەبی | توند (پێداچوونەوە) |
+| دراسە | لێکۆڵینەوە | study, research | Studie, Studium, Untersuchung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دوخە، دوخة | گێژبوون | dizziness, vertigo | Schwindel | عەرەبی | توند (پێداچوونەوە) |
+| دوستوور، دوستور | یاسای بنەڕەتی | constitution | Verfassung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دوعا، دۆعا | نزا | prayer | Gebet, Bittgebet | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دونیا، دنیا | جیهان | world | Welt | عەرەبی | توند |
+| دوهوون، دوهون | چەوری | fat, grease | Fett | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دیراسە، دیراسات | توێژینەوە | study, research | Studie, Forschung, Studium | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دیفاع | بەرگری | defense | Verteidigung, Abwehr | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دیققەت، دیقەت | سەرنج | attention, notice, care | Aufmerksamkeit, Achtung, Sorgfalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دیماغ، دماغ | مێشک | brain | Gehirn, Hirn | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دیە، دية | خوێنبەها | blood money | Blutgeld | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەخاڵەت، دەخالەت، تدخل | تێوەگلان | interference, intervention, involvement | Einmischung, Intervention, Verwicklung | عەرەبی | توند (پێداچوونەوە) |
+| دەخل، دخل | داهات | income, revenue | Einkommen, Einnahmen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەرحەق | دەربارەی | about, regarding | über, bezüglich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەرس | وانە | lesson | Lektion, Unterrichtsstunde | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەرەجە | پلە | degree, rank, level | Grad, Rang, Stufe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەعم | پشتگیری | support | Unterstützung, unterstützen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەعوا | دادخوازی، سکاڵا | lawsuit, complaint, claim | Klage, Prozess, Anspruch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەعوەت | بانگهێشت | invitation, invite | Einladung, einladen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەفعە | جار | time, occasion | Mal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەفن | ناشتن | burial, bury | Beerdigung, Bestattung, begraben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەقیق | ورد | precise, accurate, exact | genau, präzise | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەقیقە | خولەک | minute | Minute | عەرەبی | هەمیشە |
+| دەقیقەن | بە وردی، ڕێک | exactly, precisely | genau, präzise | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەلال، دلال | ناوبژیوان | broker, middleman, agent | Makler, Vermittler | عەرەبی | توند (پێداچوونەوە) |
+| دەلالە، دلالة | واتاناسی | semantics, meaning | Semantik, Bedeutung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەلیل، دلیل | بەڵگە | evidence, proof, guide | Beweis, Beleg, Nachweis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەمعە | فرمێسک | tear | Träne | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەوا | دەرمان | medicine, medication, drug | Medikament, Arznei, Medizin | عەرەبی | هەمیشە (پێداچوونەوە) |
+| دەوام | ئامادەبوون | attendance, working hours | Anwesenheit, Arbeitszeit, Dienst | عەرەبی | هەمیشە (پێداچوونەوە) |
+| رئە، ریە | سی | lung | Lunge | عەرەبی | هەمیشە (پێداچوونەوە) |
+| رابط | بەستەر | link, connector | Link, Verbindung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| راحەت | ئاسووده، ئارام | comfortable, calm, relaxed | bequem, ruhig, entspannt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ربح | قازانج | profit, gain | Gewinn, Profit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ریزاعە، رضاعة، ریضاعه | شیردان | breastfeeding, nursing | Stillen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| رەعی، رعي | لەوەڕان | grazing, graze | Weiden, weiden | عەرەبی | هەمیشە (پێداچوونەوە) |
+| رەمل، رمل | خۆڵەمێش | sand | Sand | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زاویە | گۆشە | angle, corner | Winkel, Ecke | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زاکیرە | بیرگە | memory | Speicher, Gedächtnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زاڵم، ظالم | ستەمکار | oppressor, tyrant, unjust | Unterdrücker, Tyrann, ungerecht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زایع | ون | lost, missing | verloren, vermisst | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زوجاج، زجاج | شووشە | glass | Glas | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زووبان، ذوبان | تواندنەوە | melting, dissolving | Schmelzen, Auflösung | عەرەبی | توند (پێداچوونەوە) |
+| زوڵم، ظلم | ستەم | oppression, injustice, tyranny | Unterdrückung, Ungerechtigkeit, Tyrannei | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زیارەت | سەردان | visit, pilgrimage | Besuch, Wallfahrt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زیلزال، زلزال | بومەلەرزه | earthquake | Erdbeben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەباب، ضباب | تەم | fog, mist | Nebel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەحمەت | ئەستەم، ماندووبوون | difficult, hard, trouble | schwierig, schwer, Mühe | عەرەبی | هەمیشە |
+| زەراعەت | کشتوکاڵ | agriculture, farming | Landwirtschaft, Ackerbau | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەرب، ضەرب | لێکدان | multiplication | Multiplikation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەرووری، زەروری | پێویست | necessary, essential | notwendig, nötig, erforderlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەریبە، ضریبة | باج | tax | Steuer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەرەر | زیان | damage, harm, loss | Schaden, Verlust | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەعف | لاوازی | weakness, frailty | Schwäche | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەعیف | لاواز | weak | schwach | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەعیم | سەرکردە، ڕابەر | leader | Anführer, Führer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەغت، ضەغط | پەستان | pressure | Druck | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەلزەلە | بوومەلەرزە | earthquake | Erdbeben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەهەب، ذهب | زێڕ | gold | Gold | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەواج | هاوسەرگیری | marriage | Ehe, Heirat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەوبەعە، زوبعة، زەوبەعه | گەردەلوول | tornado, whirlwind, cyclone | Tornado, Wirbelsturm | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەوج | مێرد | husband | Ehemann, Mann | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەوجی | جووت | even, pair | gerade, Paar | عەرەبی | توند (پێداچوونەوە) |
+| زەوجە | هاوسەر | wife, spouse | Ehefrau, Frau, Ehepartner | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەوق | چێژ | taste, pleasure, enjoyment | Geschmack, Genuss, Vergnügen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەکی | زیرەک | intelligent, clever, smart | intelligent, klug | عەرەبی | هەمیشە (پێداچوونەوە) |
+| زەیف | میوان | guest | Gast | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سائیح | گەشتیار | tourist | Tourist | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سائیل، سایل | شلە | liquid, fluid | Flüssigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سابت، ثابت | نەگۆڕ | constant, fixed, unchanging | konstant, fest, unveränderlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سابیت | نەگۆڕ | constant, fixed, stable | konstant, fest, beständig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سابیق | پێشوو | former, previous | ehemalig, vorherig, früher | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ساحیل، ساحل | کەنار | coast, shore, beach | Küste, Ufer, Strand | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ساحێب، ساحیب | خاوەن | owner | Besitzer, Eigentümer, Inhaber | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سادرات، صادرات | هەنارکردن | export | Export, Ausfuhr | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سادق، سادیق | ڕاستگۆ | honest, truthful | ehrlich, aufrichtig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سادیر، سادیرات | هەناردن | exported, export | Export, exportiert, ausgehend | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ساعت | کاتژمێر | hour, clock, watch | Stunde, Uhr | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ساعەت، سەعات | کاتژمێر | hour, clock, watch | Stunde, Uhr | عەرەبی | هەمیشە |
+| سامیع، سامع | گوێگر | listener | Zuhörer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سانیە | چرکە | second | Sekunde | عەرەبی | هەمیشە |
+| سجیللات | تۆمارەکان | records, registers | Aufzeichnungen, Register, Akten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سریع، سروع | خێرا | fast, quick, rapid | schnell, rasch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سلاح، ئەسلیحە | چەک | weapon, arms | Waffe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سلالە، سلالة | تیرە | breed, strain, lineage | Rasse, Stamm, Abstammung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سلامەتی | تەندروستی | health, safety | Gesundheit, Sicherheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سمسار، سیمسار | ناوبژیوان | broker, middleman, agent | Makler, Vermittler | عەرەبی | توند (پێداچوونەوە) |
+| سوئال، سوال | پرسیار | question | Frage | عەرەبی | هەمیشە |
+| سوبح | بەیانی | morning | Morgen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سوحبەت، سۆحبەت، سوحبەتی | گفتوگۆ | conversation, chat, talk | Gespräch, Unterhaltung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سورعە، سوورعە، سرعە | خێرایی | speed, velocity | Geschwindigkeit, Schnelligkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سورعەت، سرعة | خێرایی | speed, velocity | Geschwindigkeit, Schnelligkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سوعال، سعال | کۆخە | cough | Husten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سوعوبەت | ئەستەمی | difficulty, hardship | Schwierigkeit, Mühe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سوق، سووق | بازاڕ | market | Markt | عەرەبی | توند (پێداچوونەوە) |
+| سوقووت، سقوط | کەوتن | fall, falling, collapse | Fall, Sturz, Zusammenbruch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سولب، صلب | ڕەق | solid, hard | fest, hart | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سولتانەت، سلطنە، سلطنة، سلتنە | پاشایەتی | sultanate, kingdom | Sultanat, Königreich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سولتە، سلطة، سلطه | دەسەڵات | authority, power | Macht, Behörde, Gewalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سولووک، سلوک، سولوک | هەڵسوکەوت | behavior, conduct | Verhalten, Benehmen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سوم | ژەهر | poison, toxin | Gift | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سونعی، سوناعی | دەستکرد | artificial, man-made, handmade | künstlich, handgemacht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سوورعەت | خێرایی | speed, velocity | Geschwindigkeit, Schnelligkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سوکان، سكان | دانیشتوان | population, inhabitants | Bevölkerung, Einwohner | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سوکوت | بێدەنگی | silence | Schweigen, Stille | عەرەبی | توند (پێداچوونەوە) |
+| سوکون، سکون | وەستان | stillness, calm, rest | Ruhe, Stillstand | عەرەبی | توند (پێداچوونەوە) |
+| سوکوون | وەستان | stillness, rest, standstill | Stillstand, Ruhe | عەرەبی | توند (پێداچوونەوە) |
+| سوڵح | ئاشتی | peace | Frieden | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سۆلب | ڕەق | solid, hard | fest, hart | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیاحە، سیاحەت | گەشتیاری | tourism | Tourismus | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیادەت، سیادە | سەروەری | sovereignty | Souveränität, Hoheit | عەرەبی | توند (پێداچوونەوە) |
+| سیاسی | ڕامیاری | political, politician | politisch, Politiker | عەرەبی | توند (پێداچوونەوە) |
+| سیاسەت | ڕامیاری | politics, policy | Politik | عەرەبی | توند |
+| سیجل، سجل | تۆمار | register, record | Register, Verzeichnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیححەت، سیحەت | تەندروستی | health | Gesundheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیحر | جادوو | magic, sorcery | Zauber, Magie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیحی، سیححی | تەندروستی | health, sanitary | Gesundheit, gesundheitlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیدق | ڕاستی | truth, honesty | Wahrheit, Ehrlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیراع، صراع | کێبەرکێ | conflict, struggle, competition | Konflikt, Kampf, Wettbewerb | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیعر، سعر | نرخ | price, rate | Preis, Kurs | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیفارە، سفارة، سیفاره | باڵوزخانه | embassy | Botschaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیلاح | چەک | weapon, arms | Waffe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیلسیلە، سلسلة | زنجیرە، بنەماڵە | series, chain, dynasty | Reihe, Kette, Dynastie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سیلعە، سلعة، سلعه | کاڵا | commodity, goods, product | Ware, Gut, Produkt | عەرەبی | توند (پێداچوونەوە) |
+| سیناعەت، سناعەت | پیشەسازی | industry | Industrie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سینف، سەنف | پۆل | class, grade, classroom | Klasse, Klassenzimmer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سییاق، سیاق | چوارچێوە | context, framework | Kontext, Zusammenhang, Rahmen | عەرەبی | توند (پێداچوونەوە) |
+| سەبات | خۆڕاگری، بەردەوامی | steadfastness, stability, persistence | Standhaftigkeit, Beständigkeit, Stabilität | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەبر | ئارام، ئارامگرتن | patience | Geduld | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەبەب | هۆ، هۆکار | reason, cause, factor | Grund, Ursache, Faktor | عەرەبی | هەمیشە |
+| سەتح، سطح | ئاست، ڕوو | surface, level | Oberfläche, Ebene, Niveau | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەحافی | ڕۆژنامەنووس | journalist | Journalist | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەحافە، سەحافەت | ڕۆژنامەگەری | journalism, press | Journalismus, Presse | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەحرا | بیابان، دەشت | desert, plain | Wüste, Ebene | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەحنە | دیمەن | scene, stage | Szene, Bühne | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەحیح | دروست | correct, right, true | richtig, korrekt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەحیفە، سەحیفەی | لاپەڕە، پەڕە | page, sheet | Seite, Blatt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەحەر | بەرەبەیان | dawn, daybreak | Morgendämmerung, Morgengrauen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەحەرا، صحراء، سحراء | بیابان | desert | Wüste | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەحەفی | ڕۆژنامەنووس | journalist | Journalist | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەخا، سخا | دڵفراوانی | generosity | Großzügigkeit | عەرەبی | توند (پێداچوونەوە) |
+| سەخرە، صخرة، سەخره | بەرد | rock, stone | Fels, Stein | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەداقەت | دڵسۆزی | sincerity, loyalty, honesty | Aufrichtigkeit, Treue, Ehrlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەدیی، سەدییات | شیرەمژ | mammal | Säugetier | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەدەقە | بەخشین | alms, charity, donation | Almosen, Spende, Wohltätigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەرحەد | سنوور | border, frontier, boundary | Grenze | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەرقە، سرقة | دزی | theft, robbery | Diebstahl, Raub | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەروەت | دەوڵەمەندی | wealth, riches | Reichtum, Vermögen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەریح | ڕاشکاو | frank, explicit, outspoken | offen, ausdrücklich, freimütig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەریع | خێرا | fast, quick | schnell | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەرەتان | شیرپەنجە | cancer | Krebs | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەطح | ئاست | surface, level | Oberfläche, Ebene, Niveau | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەعادەت | بەختەوەری | happiness | Glück | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەعب | ئەستەم | difficult, hard | schwierig, schwer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەعی | هەوڵ | effort, endeavor | Bemühung, Anstrengung | عەرەبی | توند (پێداچوونەوە) |
+| سەغیر | بچووک | small, little | klein | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەفارەت | باڵیۆزخانە | embassy | Botschaft | عەرەبی | توند (پێداچوونەوە) |
+| سەفح، سفح | دامەن | slope, foothill | Hang, Abhang, Berghang | عەرەبی | توند (پێداچوونەوە) |
+| سەفحە | لاپەڕە | page | Seite | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەفیر | باڵیۆز | ambassador | Botschafter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەفینە | کەشتی | ship | Schiff | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەفەر | گەشت | trip, journey, travel | Reise, Fahrt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەقافە، سەقافەت | ڕۆشنبیری | culture | Kultur, Bildung | عەرەبی | هەمیشە |
+| سەقف | بنمیچ | ceiling, roof | Decke, Dach | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەقیم | نەخۆش | sick, ill | krank | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەقەت | پەککەوتە | disabled, handicapped, crippled | behindert, versehrt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەلات، سەڵات، سلاة، نەماز | نوێژ | prayer | Gebet | عەرەبی | توند (پێداچوونەوە) |
+| سەلج، ثلج | بەفر | snow | Schnee | عەرەبی | توند (پێداچوونەوە) |
+| سەلیقە | چێژ | taste, flair | Geschmack, Gespür | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەم | ژەهر | poison, venom | Gift | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەماوات | ئاسمانەکان | heavens, skies | Himmel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەمع | بیستن | hearing, listen | Hören, Gehör, hören | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەمەک | ماسی | fish | Fisch | عەرەبی | توند (پێداچوونەوە) |
+| سەنعەت، سنعەت | پیشەسازی، هونەر | industry, art, craft | Industrie, Kunst, Handwerk | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەنە | ساڵ | year | Jahr | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەنەوی | ناوەندی | secondary, high school | Oberschule, Gymnasium | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەهل | ئاسان | easy | leicht, einfach | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەهم، سیهم | بەش | share, stock, portion | Aktie, Anteil | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەوتیات، صوتیات | دەنگناسی | phonetics, phonology | Phonetik, Phonologie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەیارە | ئۆتۆمبێل | car, automobile | Auto, Wagen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەیدەلی، صیدلی | دەرمانساز | pharmacist | Apotheker | عەرەبی | هەمیشە (پێداچوونەوە) |
+| سەیدەلیە، صیدلیە | دەرمانخانە | pharmacy | Apotheke | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شاتئ، شاطئ، شاطیء | کەنار | shore, coast, beach | Küste, Ufer, Strand | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شاعیر، شاعر | هۆنەر، هەڵبەستوان | poet | Dichter | عەرەبی | توند (پێداچوونەوە) |
+| شاهید | شایەت | witness | Zeuge | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شخصی | کەسی | personal, private | persönlich, privat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شعوور | هەست | feeling, awareness, consciousness | Gefühl, Bewusstsein | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شوبات | ڕەشەمە | February | Februar | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شوبهە، شبهە | گومان | doubt, suspicion | Zweifel, Verdacht | عەرەبی | توند (پێداچوونەوە) |
+| شوجاع | ئازا | brave, courageous | mutig, tapfer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شوعاع | تیشک | ray, beam | Strahl | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شوعبە | بەش | section, branch, department | Abteilung, Zweig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شوعلە، شەعلە | بڵێسە، گڕ | flame, blaze | Flamme, Lohe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شوعور، شعور | هەستکردن | feeling, consciousness, awareness | Gefühl, Bewusstsein | عەرەبی | توند (پێداچوونەوە) |
+| شوعوور | هەست | feeling, consciousness, awareness | Gefühl, Bewusstsein | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شکایەت | سکاڵا | complaint, grievance | Beschwerde, Klage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شکڵ | شێوە | shape, form | Form, Gestalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شیرا، شراء | کڕین | purchase, buying, buy | Kauf, kaufen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شیرکەت | کۆمپانیا | company, firm | Firma, Unternehmen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شیریان | خوێنبەر | artery | Arterie, Schlagader | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شیعر، شێعر، شعر | هۆنراوە، هەڵبەست | poetry, poem | Gedicht, Dichtung, Poesie | عەرەبی | توند (پێداچوونەوە) |
+| شیفا | چاکبوونەوە | recovery, healing, cure | Genesung, Heilung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شیوعی، شیووعی، شیوعیی، شیووعیی | کۆمۆنیستی | communist | kommunistisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەباب | گەنجان | youth, young people | Jugend, Jugendliche | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەبەکە، شبکە | تۆڕ | network | Netzwerk, Netz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەجاعەت | ئازایەتی | courage, bravery | Mut, Tapferkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەجەر، شەجەرە | دار | tree | Baum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەحنە، شحنة | بار | charge, load, cargo | Ladung, Last | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەخس | کەس | person, individual | Person | عەرەبی | هەمیشە |
+| شەخسی | کەسی | personal, private | persönlich, privat | عەرەبی | هەمیشە |
+| شەخسیەت | کەسایەتی | personality, character | Persönlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەدید | توند | severe, intense, strong | schwer, heftig, stark | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەراکەت، شراکة، شراکه | هاوبەشی | partnership, participation | Partnerschaft, Beteiligung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەرت | مەرج | condition, requirement | Bedingung, Voraussetzung | عەرەبی | هەمیشە |
+| شەرح | ڕاڤە | explanation, commentary | Erklärung, Erläuterung, Kommentar | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەرعییەت، شرعیه | ڕەواداری | legitimacy | Legitimität | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەرعیەت | ڕەوایی | legitimacy | Legitimität | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەرق | ڕۆژهەڵات | east | Osten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەریان | شادرگ | artery | Arterie, Schlagader | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەریک، شریک | هاوبەش | partner, associate | Partner, Teilhaber | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەریکە، شركة، شەریکەت | هاوبەشی | company, partnership | Firma, Unternehmen, Partnerschaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەعبی | گەلی | popular, folk, public | volkstümlich, populär | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەفافییە، شفافیە، شفافية | ڕوونی | transparency, clarity | Transparenz, Klarheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەفافیەت | ئاشکرایی | transparency | Transparenz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەمس | خۆر | sun | Sonne | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەمع | مۆم | candle | Kerze | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەهادە، شەهادەت | بڕوانامە | certificate, degree, diploma | Zeugnis, Abschluss, Diplom | عەرەبی | هەمیشە (پێداچوونەوە) |
+| شەک، شک | گومان | doubt, suspicion | Zweifel, Verdacht | عەرەبی | توند (پێداچوونەوە) |
+| شەکل، شکل | شێوە | shape, form, way | Form, Gestalt, Weise | عەرەبی | هەمیشە |
+| شەیخوخە، شیخوخه | پیربوون | aging, old age | Altern, Alter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ضمیر، زامیر | جێناو | pronoun | Pronomen, Fürwort | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ضەریبە | باج | tax | Steuer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| طاقا، طاقە | وزە | energy, power | Energie, Kraft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عائید | پەیوەست | related, pertaining, belonging | zugehörig, betreffend, bezüglich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عائیلە، عایلە | خێزان | family | Familie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عابید | پەرستیار | worshipper, devotee | Anbeter, Verehrer, Gläubiger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عاتیفە | سۆز | emotion, feeling | Gefühl, Emotion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عاجز | بێتوانا | unable, helpless, incapable | unfähig, hilflos | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عادات | نەریتەکان | customs, traditions, habits | Bräuche, Sitten, Traditionen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عادی | ئاسایی | normal, ordinary, usual | normal, gewöhnlich, üblich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عادەت | خوو، نەریت | habit, custom, tradition | Gewohnheit, Sitte, Tradition | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عادەتەن | بەزۆری | usually, normally, mostly | normalerweise, gewöhnlich, meistens | عەرەبی | هەمیشە |
+| عار | شەرم | shame, disgrace | Schande, Scham | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عاریزی، عارزی | کاتی | temporary, incidental, accidental | vorübergehend, zeitweilig, zufällig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عاریف | زانا | wise, knowledgeable, sage | weise, kundig, Weiser | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عازف | مۆسیقاژەن | musician, player | Musiker, Instrumentalist | عەرەبی | توند (پێداچوونەوە) |
+| عاسیفه، عاصفة، عاسیفە | ڕەشەبا | storm, tempest | Sturm, Unwetter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عاشق، ئاشق | دڵدار، ئەویندار | lover, in love | Liebhaber, verliebt | عەرەبی | توند (پێداچوونەوە) |
+| عافیەت | تەندروستی | health, well-being | Gesundheit, Wohlbefinden | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عاقل، عەقیل | هۆشیار، وریا | wise, sensible, intelligent, careful | klug, vernünftig, weise, vorsichtig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عاقڵ، ئاقڵ | ژیر | wise, sensible, clever | klug, vernünftig, weise | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عاقیبەت | ئاکام، کۆتایی | outcome, end, consequence | Ende, Ausgang, Folge | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عالیم | زانا | scholar, scientist, learned | Gelehrter, Wissenschaftler | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عالەم | جیهان | world | Welt | عەرەبی | هەمیشە |
+| عام، عومووم، عموومی، عوموومی | گشتی | general, public | allgemein, öffentlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عامل، عوامل | هۆکار | factor, agent | Faktor, Ursache | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عامیل | هۆکار | factor, cause, agent | Faktor, Ursache | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عروس | بووک | bride | Braut | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عودوان | هێرش | aggression, attack | Aggression, Angriff | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عورفی | نەریتی | customary, traditional, conventional | üblich, traditionell, gewohnheitsmäßig | عەرەبی | توند (پێداچوونەوە) |
+| عوریان | ڕووت | naked, nude | nackt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عوزر | بیانوو | excuse, pretext | Ausrede, Entschuldigung, Vorwand | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عوزو، عوزوو | ئەندام | member, organ, limb | Mitglied, Organ, Glied | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عوسارە، عصارة | شیلە | juice, sap | Saft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عوقدە | گرێ | knot, complex | Knoten, Komplex | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عوقم، عقم، عوقوم | نەزۆکی | infertility, sterility | Unfruchtbarkeit | عەرەبی | توند (پێداچوونەوە) |
+| عوقوبە، عوقووبە، عقوبە | سزا | punishment, penalty | Strafe, Bestrafung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عوقوبەت، عقوبة، عوقوبه | سزا | punishment, penalty | Strafe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عولوم، علووم، علوم | زانست | science, sciences | Wissenschaft, Wissenschaften | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عولووم | زانستەکان | sciences | Wissenschaften | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عومالە، عمالة | کرێکاری | labor, workforce | Arbeit, Arbeitskräfte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عومر | تەمەن | age, life | Alter, Leben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عومق، عمق | قوڵایی | depth | Tiefe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عوملە | دراو | currency | Währung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عونسور | توخم | element | Element | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عونسوریەت، عونسوریە | ڕەگەزپەرستی | racism | Rassismus | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عونف | توندوتیژی | violence | Gewalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیبادەت، عبادەت | پەرستن | worship | Anbetung, Gottesdienst, anbeten | عەرەبی | توند (پێداچوونەوە) |
+| عیبارەت | دەستەواژە | phrase, expression | Ausdruck, Redewendung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیبرەت | پەند | lesson, moral, example | Lehre, Lektion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیتاب | سەرزەنشت | reproach, rebuke, blame | Vorwurf, Tadel, Rüge | عەرەبی | توند (پێداچوونەوە) |
+| عیجز | بێتوانایی | inability, helplessness, impotence | Unfähigkeit, Hilflosigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیززەت | سەربەرزی | dignity, honor, pride | Würde, Ehre, Stolz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیشرەت، عوشرەت | ڕابواردن | pleasure, revelry, enjoyment | Vergnügen, Genuss | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیففەت، عیفەت | داوێنپاکی | chastity, virtue | Keuschheit, Tugend | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیقاب | سزا | punishment, penalty | Strafe, Bestrafung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیلاج | چارەسەر | treatment, cure, remedy | Behandlung, Heilung, Heilmittel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیللەت | هۆ | cause, reason | Ursache, Grund | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیلم | زانست | science, knowledge | Wissenschaft, Wissen | عەرەبی | هەمیشە |
+| عیلمی | زانستی | scientific | wissenschaftlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عیلە، علة | هۆکار | cause, reason | Ursache, Grund | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عینایەت | گرنگیدان | care, attention, concern | Fürsorge, Aufmerksamkeit, Sorge | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عینوان، عنوان | ناونیشان | address, title | Adresse, Titel | عەرەبی | هەمیشە |
+| عەتر | بۆن | perfume, scent, fragrance | Parfüm, Duft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەتس | پیژان | sneeze, sneezing | Niesen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەتف | سۆز | affection, compassion, sympathy | Zuneigung, Mitgefühl, Zärtlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەتەب | گلەیی | reproach, complaint, blame | Vorwurf, Tadel, Klage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەتەش، عطش | تینووێتی | thirst | Durst | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەجز | بێتوانایی | inability, incapacity, helplessness | Unfähigkeit, Hilflosigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەجیب | سەرسوڕهێنەر | amazing, strange, wonderful | erstaunlich, seltsam, wunderlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەجەب، عەجایب | سەرسوڕهێنەر | amazing, astonishing, wonder | erstaunlich, wunderbar, Wunder | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەجەبا | ئایا، گەلۆ | I wonder, whether | ob, wohl | عەرەبی | توند (پێداچوونەوە) |
+| عەجەلە | پەلە | hurry, haste | Eile | عەرەبی | هەمیشە |
+| عەداڵەت، عەدالەت | دادپەروەری | justice, fairness | Gerechtigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەدو، عەدوی | دوژمن | enemy | Feind | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەدوا | لەقبوون | infection, contagion | Ansteckung, Infektion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەدوو | دوژمن | enemy | Feind | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەدڵ، عەدل | داد | justice | Gerechtigkeit, Recht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەدەد | ژمارە | number | Zahl, Anzahl | عەرەبی | هەمیشە |
+| عەدەم | نەبوون | nonexistence, absence, lack | Nichtsein, Fehlen, Mangel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەرز، عەرد | زەوی | earth, land, ground | Erde, Boden, Land | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەروس، عرووس | بووک | bride, daughter-in-law | Braut, Schwiegertochter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەرەق | خوێ | sweat | Schweiß | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەزاب | ئازار | torment, suffering, pain | Qual, Leid, Schmerz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەزل | لابردن | dismissal, removal, dismiss | Entlassung, Absetzung, entlassen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەزیز | خۆشەویست | dear, beloved | lieb, geliebt, teuer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەزیەت | ئازار | pain, torment, suffering | Schmerz, Qual, Leid | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەزەلات، عەزەلە | مۆسک | muscle | Muskel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەسا، عەصا | گۆچان | stick, cane, staff | Stock, Gehstock, Stab | عەرەبی | توند (پێداچوونەوە) |
+| عەسر | سەردەم، ئێوارە | era, age, afternoon | Zeitalter, Epoche, Nachmittag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەسکەر | سەرباز، لەشکر | soldier, army | Soldat, Armee, Heer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەسکەری | سەربازی | military | militärisch, Militär | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەسەب، عصب | دەمار | nerve | Nerv | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەشق، عیشق، عشق | ئەوین، خۆشەویستی | love | Liebe | عەرەبی | توند (پێداچوونەوە) |
+| عەشوائی | هەڕەمەکی | random, haphazard | zufällig, willkürlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەشیرەت، عەشرەت، عەشائیر، عەشایر | هۆز | tribe, clan | Stamm, Sippe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەضلە | ماسولکە | muscle | Muskel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەفو | لێبوردن | forgiveness, pardon, amnesty | Vergebung, Verzeihung, Amnestie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەقد | گرێبەست | contract | Vertrag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەقرەب | دووپشک | scorpion | Skorpion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەقل، عقل | هۆش، ژیری | mind, reason, intellect | Verstand, Vernunft, Intellekt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەقلانی، عقلانی | هۆشمەندانە | rational, reasonable, sensible | rational, vernünftig | عەرەبی | توند (پێداچوونەوە) |
+| عەقڵ، ئەقڵ | ژیری | mind, reason, intelligence | Verstand, Vernunft, Intelligenz | عەرەبی | توند |
+| عەقیدە | باوەڕ، بیروباوەڕ | belief, creed, doctrine | Glaube, Überzeugung, Weltanschauung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەقیم | نەزۆک | sterile, infertile, barren | unfruchtbar, steril | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەلاقە، عیلاقە، عیلاقات | پەیوەندی | relationship, relation, connection | Beziehung, Verhältnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەلامەت | نیشانە | sign, mark, symptom | Zeichen, Merkmal, Symptom | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەلاوە | سەرەڕای، زیاتر | in addition, besides, moreover | zusätzlich, außerdem, darüber hinaus | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەلەم | ئاڵا | flag, banner | Flagge, Fahne | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەمامە | مێزەر | turban | Turban | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەمبار، عەنبار | کۆگا | warehouse, storehouse, depot | Lager, Lagerhaus, Speicher | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەمدەن | بە ئەنقەست | deliberately, intentionally, on purpose | absichtlich, vorsätzlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەمر | تەمەن | age, lifetime | Alter, Lebensdauer | عەرەبی | توند (پێداچوونەوە) |
+| عەمودی | ئەستوونی | vertical | senkrecht, vertikal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەمید | ڕاگر | dean | Dekan | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەمەل | کار | work, action, deed | Arbeit, Tat, Handlung | عەرەبی | هەمیشە |
+| عەمەلیات | کردەوە | operations, procedure, process | Operation, Vorgang, Verfahren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەمەلە | کرێکار | worker, laborer | Arbeiter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەناسر، عەناسیر | توخمەکان | elements | Elemente | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەنعەنە، عەنعەنات | نەریت | tradition, custom | Tradition, Brauch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەنکەبووت، عەنکەبوت | جاڵجاڵۆکە | spider | Spinne | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەهد | پەیمان | pact, treaty, covenant | Pakt, Vertrag, Bund | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەولەمە | جیهانگیری | globalization | Globalisierung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەکس | وێنە، پێچەوانە | picture, photo, opposite, reflection | Bild, Foto, Gegenteil | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەیب | شەرم، کەموکوڕی | shame, defect, fault | Schande, Mangel, Fehler | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەیش | ژیان | life, living | Leben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەیلە | خێزان | family | Familie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| عەینەک | چاویلکە | glasses, spectacles | Brille | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غابە | دارستان | forest, woods | Wald | عەرەبی | توند (پێداچوونەوە) |
+| غافل | بێئاگا | unaware, heedless, careless | ahnungslos, unachtsam, nachlässig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غافڵ | بێئاگا | unaware, heedless, negligent | ahnungslos, unachtsam, achtlos | عەرەبی | توند (پێداچوونەوە) |
+| غایە، غایة | مەبەست | purpose, goal, aim | Zweck, Ziel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غروور، غرور | لووتبەرزی | arrogance, pride, vanity | Arroganz, Hochmut, Stolz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غوبار، غبار | تۆز | dust | Staub | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غودە، غدة | چرگ | gland | Drüse | عەرەبی | توند (پێداچوونەوە) |
+| غورفە | ژوور | room | Zimmer, Raum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غوغا | هاتووهاوار | uproar, commotion, noise | Lärm, Tumult, Aufruhr | عەرەبی | توند (پێداچوونەوە) |
+| غیاب، غەیاب | نەبوون | absence | Abwesenheit, Fehlen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غیزا | خۆراک | food, nutrition, nourishment | Nahrung, Essen, Ernährung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غیشا، غشاء، غیشاء | پەردە | membrane | Membran, Hülle | عەرەبی | توند (پێداچوونەوە) |
+| غیلاف | بەرگ | cover, jacket | Umschlag, Einband, Hülle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەرامە | پێبژاردن | fine, penalty | Geldstrafe, Bußgeld | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەرز، غرض، غەرض | مەبەست | purpose, aim, intention | Zweck, Absicht, Ziel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەرق، غەریق | خنکاو، نوقم | drowned, immersed, sunk | ertrunken, versunken | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەریب | نامۆ | strange, stranger, foreign | fremd, seltsam, Fremder | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەزو، غزو | داگیرکردن | invasion, occupation, invade | Invasion, Besetzung, einmarschieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەزەب | تووڕەیی | anger, rage | Zorn, Wut | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەسیان، غثیان | دڵەتان | nausea | Übelkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەسەیان | دڵەتێکچوون | nausea | Übelkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەشیان | بێهۆشبوون | fainting, unconsciousness | Ohnmacht, Bewusstlosigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەصب، غەسب | زەوتکردن | seizure, usurpation, expropriation | Beschlagnahme, Usurpation, Enteignung | عەرەبی | توند (پێداچوونەوە) |
+| غەلا، غلاء، غەلاء | گرانی | high prices, expensiveness, inflation | Teuerung, hohe Preise | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەلیان، غلیان | کوڵان | boiling | Sieden, Kochen | عەرەبی | توند (پێداچوونەوە) |
+| غەلەت | هەڵە | mistake, error, wrong | Fehler, Irrtum, falsch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەلەط، غلەط | هەڵە | mistake, error, wrong | Fehler, Irrtum, falsch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەنا | دەوڵەمەندی | wealth, richness | Reichtum | عەرەبی | توند (پێداچوونەوە) |
+| غەنیمەت، غەنیمە | دەستکەوت | spoils, booty, gain | Beute, Gewinn | عەرەبی | توند (پێداچوونەوە) |
+| غەیبوبە، غیبوبە، غەیبووبە | بێهۆشی | coma, unconsciousness | Koma, Bewusstlosigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| غەیری | جگە لە | other than, except, apart from | außer, abgesehen von | عەرەبی | توند (پێداچوونەوە) |
+| فائیدە، فایدە | سوود | benefit, use, advantage | Nutzen, Vorteil | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فاتورە، فاتوورە | پسووڵە | invoice, bill | Rechnung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فاسد | گەندەڵ | corrupt, rotten, spoiled | korrupt, verdorben, faul | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فاسق، فاسیق | خراپەکار | wicked, sinner, immoral | sündhaft, Sünder, lasterhaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فاعیل | بکەر | subject, agent, doer | Subjekt, Täter, Handelnder | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فاقە | هەژاری | poverty, destitution | Armut, Not | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فایز، فائیز | سوود | interest, profit, benefit | Zins, Gewinn, Nutzen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فرعی | لاوەکی | secondary, subsidiary, side | nebensächlich, untergeordnet | عەرەبی | توند (پێداچوونەوە) |
+| فورسەت، فرصەت | هەل | opportunity, chance | Gelegenheit, Chance | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فیراق، فیرقەت، فراق | دووری، جیابوونەوە | separation, remoteness | Trennung, Ferne | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فیرقە | دەستە، تیپ | group, team, band | Gruppe, Mannschaft, Truppe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فیزە، فضة، فیضە | زیو | silver | Silber | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فیعل | کردار | verb, act, deed | Verb, Tat, Handlung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فیعلەن، فعلەن | بە کردەوە | actually, in fact, in practice | tatsächlich, in der Tat, praktisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فیلحەقیقە | لە ڕاستیدا | in fact, actually, in reality | tatsächlich, in Wirklichkeit, eigentlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فیکر | بیر | thought, thinking, mind | Gedanke, Denken | عەرەبی | هەمیشە |
+| فیکرە | بیرۆکە | idea | Idee | عەرەبی | هەمیشە |
+| فەتح، فتح | داگیرکردن | conquest, conquer, occupation | Eroberung, erobern, Besetzung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەترە، فەترەت | ماوە | period, term, duration | Zeitraum, Periode, Amtszeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەحس، فحص | پشکنین | examination, checkup, test | Untersuchung, Prüfung, Test | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەردی | تاک | odd, individual, single | ungerade, einzeln, individuell | عەرەبی | توند (پێداچوونەوە) |
+| فەرزییە، فرضیة | گریمان | hypothesis, assumption | Hypothese, Annahme | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەرزیە، فرضیە | گریمانە | hypothesis, assumption | Hypothese, Annahme | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەرعی | لاوەکی | secondary, subsidiary, minor | nebensächlich, sekundär, untergeordnet | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەرق | جیاوازی | difference | Unterschied | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەریق | دەستە | team | Mannschaft, Team | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەرەح | شادی | joy, happiness | Freude, Glück | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەساحەت | ڕەوانبێژی | eloquence | Beredsamkeit, Eloquenz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەساد | گەندەڵی | corruption | Korruption | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەسل | بەش، وەرز | chapter, section, season, semester | Kapitel, Abschnitt, Jahreszeit, Semester | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەسیح | ڕەوانبێژ | eloquent | redegewandt, eloquent | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەشەل، فشل | تێکشکان | failure | Misserfolg, Scheitern | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەعالییەت، فەعالیەت | چالاکی | activity | Aktivität, Tätigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەقر | هەژاری | poverty | Armut | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەقرە | بڕگە | paragraph, item, clause | Absatz, Punkt, Klausel | عەرەبی | توند (پێداچوونەوە) |
+| فەقس | چرووکردنەوە | hatching, hatch | Ausbrüten, Schlüpfen, ausbrüten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەقیر | هەژار | poor | arm | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەقەت، فقط | تەنها | only, just | nur | عەرەبی | هەمیشە |
+| فەقەرە، فیقەرە، فقرة | بەند | paragraph, clause, stanza | Absatz, Abschnitt, Strophe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەلاح | جووتیار | farmer, peasant | Bauer, Landwirt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەلەج | لاساریی | paralysis | Lähmung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەن، فەنن | هونەر | art | Kunst | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەننان، فەنان | هونەرمەند | artist | Künstler | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەهم | تێگەیشتن | understanding, comprehension | Verständnis, Verstehen | عەرەبی | توند (پێداچوونەوە) |
+| فەوری، فەورا | دەستبەجێ، خێرا | immediate, instant, urgent | sofortig, unverzüglich, dringend | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەوزا، فوزا، فوضى | شڵەژاوی | chaos, disorder, turmoil | Chaos, Durcheinander, Unordnung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەوقەلعادە | نائاسایی | extraordinary, unusual, exceptional | außergewöhnlich, ungewöhnlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| فەیزان، فەیضان | لافاو | flood | Überschwemmung, Flut | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قائیدە | یاسا، ڕێسا | rule, principle | Regel, Grundsatz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قاتڵ | بکوژ | killer, murderer | Mörder | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قارئ | خوێنەر | reader | Leser | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قارە، قاره | کیشوەر | continent | Kontinent, Erdteil | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قازی | دادوەر | judge | Richter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قاسید، قاسد | نامەبەر | messenger, courier | Bote, Kurier | عەرەبی | توند (پێداچوونەوە) |
+| قاعدە | بنەما | rule, principle, base | Regel, Grundsatz, Basis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قاعیدە | ڕێسا، بنکە | rule, base, principle | Regel, Basis, Grundsatz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قافیە، قافیەت | سەروا | rhyme | Reim | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قامووس، قاموس | فەرهەنگ | dictionary | Wörterbuch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قامەت | باڵا | stature, height, figure | Gestalt, Statur, Größe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قانع، قانیع | ڕازی | satisfied, content | zufrieden | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قانون، قانوون | یاسا | law | Gesetz, Recht | عەرەبی | هەمیشە |
+| قانوونی، قانونی | یاسایی | legal, lawful | gesetzlich, rechtlich, legal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قایل | ڕازی | content, satisfied, convinced | zufrieden, einverstanden, überzeugt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قایمە، قائمة، قاییمه | پێڕست | list, index | Liste, Verzeichnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قایید، قائد، قاید | ڕابەر | leader, commander | Führer, Anführer, Befehlshaber | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قبووڵ، قەبووڵ، قوبووڵ | پەسەند | acceptance, accept, approval | Annahme, annehmen, akzeptieren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قبوڵ، قبول | پەسەندکردن، وەرگرتن | acceptance, accept, approve | Annahme, annehmen, akzeptieren, billigen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قسم | بەش، جۆر | part, section, kind | Teil, Abschnitt, Art | عەرەبی | توند (پێداچوونەوە) |
+| قوبح | ناشیرینی | ugliness | Hässlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قوتر | تیر | diameter | Durchmesser | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قودرەت | توانا، هێز | power, ability, might | Macht, Fähigkeit, Kraft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قوسوور | کەموکوڕی | shortcoming, deficiency, fault | Mangel, Unzulänglichkeit, Fehler | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قوللە | لوتکە | summit, peak, top | Gipfel, Spitze | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قوماش | پارچە | fabric, cloth, material | Stoff, Tuch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قووت | بژێوی | livelihood, sustenance, daily bread | Lebensunterhalt, Nahrung | عەرەبی | توند (پێداچوونەوە) |
+| قووە، قوە | هێز | force, power, strength | Kraft, Macht, Stärke | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قووەت | هێز | strength, power, force | Kraft, Stärke | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قیاس | پێوانە، بەراورد | measurement, comparison, analogy | Messung, Vergleich, Analogie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قیافە، قیافەت | ڕووخسار | appearance, face, look | Aussehen, Gesicht, Erscheinung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قیرائەت، قرائەت | خوێندنەوە | reading, recitation | Lesen, Lesung | عەرەبی | توند (پێداچوونەوە) |
+| قیسمە، قسمة | دابەشکردن | division, divide | Division, Teilung, teilen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قیسمەت، قسمەت | چارەنووس | fate, destiny | Schicksal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قیصە | چیرۆک | story, tale | Geschichte, Erzählung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قیمەت، قیمة، قیمه | نرخ | price, value | Preis, Wert | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەباحەت | ناشیرینی، خراپە | ugliness, wickedness, shame | Hässlichkeit, Schändlichkeit, Bosheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەبر | گۆڕ | grave, tomb | Grab | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەبرستان، قبرستان، قەبورستان | گۆڕستان | cemetery, graveyard | Friedhof | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەبلەن | پێشتر | before, previously, formerly | vorher, früher, zuvor | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەبوول | پەسەند | acceptance, approval, accept | Annahme, Akzeptanz, annehmen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەبیح | ناشیرین | ugly, shameful | hässlich, schändlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەبیلە | هۆز | tribe, clan | Stamm, Sippe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەترە | دڵۆپ | drop | Tropfen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەتل، قتل | کوشتن | killing, murder | Tötung, Mord | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەتڵ | کوشتن | killing, murder | Tötung, Mord, töten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەحبە | لەشفرۆش | prostitute | Prostituierte | عەرەبی | توند (پێداچوونەوە) |
+| قەد | باڵا | stature, height, figure | Statur, Größe, Gestalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەدد | باڵا | stature, height | Statur, Körpergröße, Gestalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەدر | بەها، ڕێز | value, worth, respect | Wert, Ansehen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەدیم، قدیم | کۆن | old, ancient | alt, antik | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەدەم | هەنگاو | step | Schritt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەرار | بڕیار | decision | Entscheidung, Beschluss | عەرەبی | هەمیشە |
+| قەراغ، قەراخ | لێوار | edge, shore, bank | Rand, Ufer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەرحە | زوخاو | ulcer, pus | Geschwür, Eiter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەرز | وام | loan, debt | Kredit, Darlehen, Schuld | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەریب | نزیک | near, close | nah, nahe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەرین | هاوڕێ | companion, comrade, friend | Gefährte, Begleiter, Freund | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەزف، قذف | بوختان | slander, defamation | Verleumdung, Diffamierung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەزیە، قەزییە | دۆز، پرس | issue, cause, question | Frage, Sache, Angelegenheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەساب | گۆشتفرۆش | butcher | Metzger, Fleischer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەسد | مەبەست | intention, purpose | Absicht, Zweck | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەسر | کۆشک | palace | Palast, Schloss | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەسیدە، قەسیدەت، قصیدة | هۆنراوە | poem | Gedicht | عەرەبی | توند (پێداچوونەوە) |
+| قەسەم | سوێند | oath | Eid, Schwur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەصیدە | هۆنراوە | poem | Gedicht | عەرەبی | توند (پێداچوونەوە) |
+| قەلب | دڵ | heart | Herz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەلیل | کەم | few, little | wenig, wenige | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەمەر | مانگ | moon | Mond | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەناعەت | ڕازیبوون | contentment, satisfaction | Zufriedenheit, Genügsamkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەواڵە | بەڵگەنامە | deed, document | Urkunde, Dokument | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەول | بەڵێن، وتە | promise, word, saying | Versprechen, Wort, Aussage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەوم، ئەقوام | گەل، هۆز | people, nation, tribe | Volk, Stamm | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەومیەت، قومیە، قومیة | نەتەوەیەتی | nationality, nationalism, ethnicity | Nationalität, Volkszugehörigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەوی | بەهێز | strong, powerful | stark, kräftig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەڕن، قەرن | سەدە | century | Jahrhundert | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەڵب | دڵ | heart | Herz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەڵق، قلق | نیگەرانی | anxiety, worry, concern | Sorge, Unruhe, Besorgnis | عەرەبی | توند (پێداچوونەوە) |
+| قەڵەم، قەلەم | پێنووس | pen | Stift, Füller | عەرەبی | هەمیشە (پێداچوونەوە) |
+| قەیران | تەنگژە | crisis | Krise | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لائیحە، لایحه، لاییحە | ڕێنمایی | regulation, guideline, bill | Verordnung, Richtlinie, Gesetzentwurf | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لائیق، لایق، لایەق | شایستە | worthy, suitable, deserving | würdig, angemessen, geeignet | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لاجیئ، لاجیء | پەنابەر | refugee | Flüchtling | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لازم | پێویست | necessary, required, needed | notwendig, nötig, erforderlich | عەرەبی | هەمیشە |
+| لایتناهی | بێکۆتایی | infinite, infinity, endless | unendlich, Unendlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لوتف، لطف | میهرەبانی | kindness, favor, grace | Freundlichkeit, Güte, Gefallen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لوتفەن | تکایە | please | bitte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لوغەت | وشە | word, vocabulary | Wort, Vokabel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لوقمە | پاروو | morsel, bite, mouthful | Bissen, Happen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لیکن، لاکن | بەڵام | but, however | aber, jedoch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لەحزە | سات | moment, instant | Moment, Augenblick | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لەحم، لحم | گۆشت | meat, flesh | Fleisch | عەرەبی | توند (پێداچوونەوە) |
+| لەحن | ئاواز | melody, tune | Melodie | عەرەبی | توند (پێداچوونەوە) |
+| لەعنەت | نەفرەت | curse | Fluch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لەقەب | نازناو | nickname, title | Spitzname, Beiname, Titel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| لەمس، لمس | دەستلێدان | touch, touching | Berührung, Tastsinn | عەرەبی | توند (پێداچوونەوە) |
+| لەهجە | زاراوە | dialect, accent | Dialekt, Akzent | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مؤسسۀ، مؤسسه، مۆئەسەسە | دامەزراوە | institution, foundation, organization | Institution, Einrichtung, Stiftung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مادە | بابەت | subject, topic, material | Fach, Thema, Stoff | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ماقوڵ، ماقووڵ | شایستە، بەهۆش | reasonable, sensible, decent, worthy | vernünftig, angemessen, anständig | عەرەبی | توند (پێداچوونەوە) |
+| مانشێت | سەرخەت | headline | Schlagzeile | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مانع، مانیع | کۆسپ | obstacle, barrier, hindrance | Hindernis, Barriere | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ماهیەت، ماهییەت، ماهیة، ماهیه | بنچینە | essence, nature, basis | Wesen, Natur, Grundlage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ماکینە، مەکینە | ئامێر | machine | Maschine | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ماڵیات | باج | tax, taxes | Steuer, Steuern | عەرەبی | هەمیشە (پێداچوونەوە) |
+| متاع | کەلوپەل | goods, belongings, stuff | Waren, Sachen, Habseligkeiten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| متحف | مۆزەخانە | museum | Museum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مجموعه، مجموعة | کۆمەڵ | group, collection, set | Gruppe, Sammlung, Menge | عەرەبی | هەمیشە (پێداچوونەوە) |
+| محطە، محطة | وێستگە | station | Station, Bahnhof, Haltestelle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| محەلی، مەحەلی | خۆجێیی | local | lokal, örtlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مخالف | ناڕازی | opposed, opponent, dissatisfied | dagegen, Gegner, unzufrieden | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مراجعە | پێداچوونەوە | review, revision, check | Überprüfung, Durchsicht, überprüfen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مزاح، مزاحی | شوخی | joke, humor, joking | Scherz, Witz, Spaß | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مسافر | گەشتیار | traveler, passenger, tourist | Reisender, Fahrgast, Tourist | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مشتەری، موشتەری | کڕیار | customer, client, buyer | Kunde, Käufer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مشەخەس، مشخس، مشخص | دیاریکراو | specified, designated, particular | bestimmt, festgelegt | عەرەبی | توند (پێداچوونەوە) |
+| مطبعە، مطبعه، مطبعة | چاپخانە | printing house, printing press | Druckerei | عەرەبی | هەمیشە (پێداچوونەوە) |
+| معرکە | پێکدادان | clash, battle, fight | Zusammenstoß, Schlacht, Kampf | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مفرەد، مفرد | تاک | singular, single | Singular, Einzahl | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موئامەرە، مؤامرە، مؤامرة | پیلان | conspiracy, plot | Verschwörung, Komplott | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موئەررخ | مێژوونووس | historian | Historiker | عەرەبی | توند (پێداچوونەوە) |
+| موئەرریخ، موئەریخ | مێژوونووس | historian | Historiker | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موئەسیس، موئەسسیس | دامەزرێنەر | founder | Gründer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موئەسەسە، موئەسسەسە | دامەزراوە | institution, foundation | Einrichtung, Institution, Stiftung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موئەششیر، موئەشیر | نیشانگر | indicator | Indikator, Kennzahl | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موئەقەت، مۆئەقەت | کاتی | temporary | vorübergehend, zeitweilig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موئەللیف | نووسەر | author, writer | Autor, Schriftsteller | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موازەنە | هاوسەنگی، بەراورد | balance, comparison, budget | Gleichgewicht, Vergleich, Haushalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موافیق، موافق | هاوڕا | agreeing, in agreement | einverstanden, gleicher Meinung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موافەقەت | ڕازیبوون | consent, agreement, approval | Zustimmung, Einverständnis | عەرەبی | توند (پێداچوونەوە) |
+| موبارات | یاری | match, game | Spiel, Wettkampf | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موبارەک | پیرۆز | blessed, congratulations | gesegnet, herzlichen Glückwunsch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موبالات | گوێدان | care, concern, heed | Beachtung, Rücksicht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موبتەلا، مبتەلا | تووشبوو | afflicted, affected, suffering from | befallen, betroffen, leidend | عەرەبی | توند (پێداچوونەوە) |
+| موبهەم | ناڕوون | vague, ambiguous, unclear | vage, mehrdeutig, unklar | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتابیق | گوێرەی | according to, in accordance with, matching | gemäß, entsprechend, übereinstimmend | عەرەبی | توند (پێداچوونەوە) |
+| موتابەعە | چاودێری | monitoring, follow-up, supervision | Überwachung, Verfolgung, Beobachtung | عەرەبی | توند (پێداچوونەوە) |
+| موتالعە، مطالعة، مەتالعە | خوێندنەوە | reading, study, read | Lesen, Lektüre, lesen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتالەعە، موتاڵا، موتاڵەعە | خوێندنەوە | reading, study | Lektüre, Lesen, Studium | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتاهەم، موتاهام | تۆمەتبار | accused, defendant | Angeklagter, Beschuldigter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتتەفیق | ڕێککەوتوو | agreed, in agreement | einig, vereinbart | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتتەهەم، متهم | تۆمەتبار | accused, defendant, suspect | Angeklagter, Beschuldigter, Verdächtiger | عەرەبی | توند (پێداچوونەوە) |
+| موتمەئین | دڵنیا | sure, confident, certain | sicher, zuversichtlich | عەرەبی | توند (پێداچوونەوە) |
+| موتڵەق | ڕەها | absolute | absolut, unbedingt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتیع | فەرمانبەردار | obedient, submissive | gehorsam, unterwürfig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتەبایەنە | نایەکسانی | inequality | Ungleichung, Ungleichheit | عەرەبی | توند (پێداچوونەوە) |
+| موتەخەسیس، موتەخەسسیس | پسپۆڕ | specialist, expert | Spezialist, Fachmann, Experte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتەرجیم | وەرگێڕ | translator | Übersetzer, Dolmetscher | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتەساوی، متساوی | یەکسان | equal | gleich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتەغەییر، متغیر | گۆڕاو | variable, changing | Variable, veränderlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتەهەم، موتهم | تۆمەتبار | accused, defendant, suspect | Angeklagter, Beschuldigter, Verdächtiger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتەوازی | هاوپاڵ | parallel | parallel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موتەوەسیت، متوسط | تێکڕا | average, mean | Durchschnitt, Mittelwert | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موجاوەر، مجاور | تەنیشت | adjacent, neighboring | benachbart, angrenzend | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موجیب | هۆ | cause, reason | Ursache, Grund | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موجەلەد | بوخچە | folder, volume | Ordner, Band | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موجەڕڕەد، موجەڕەد | سەڵت | single, unmarried, abstract | ledig, alleinstehend, abstrakt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحارەبە | جەنگ | war | Krieg | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحازیر | وانەبێژ | lecturer | Dozent | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحازەرە | وانە | lecture | Vorlesung, Vortrag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحاسیب | ژمێریار | accountant | Buchhalter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحاسەبە، محاسبة، محاسبه | ژمێریاری | accounting, accountancy | Buchhaltung, Rechnungswesen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحاسەرە | گەمارۆ | siege, blockade | Belagerung, Blockade | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحافیزە، موحافزة | پارێزگا | province, governorate | Provinz, Gouvernement | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحافەزە | پارێزگا | province, governorate | Provinz, Gouvernement | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحامی | پارێزەر | lawyer, attorney | Anwalt, Rechtsanwalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحاوەرە، محاورة | گفتوگۆ | dialogue, conversation | Dialog, Gespräch | عەرەبی | توند (پێداچوونەوە) |
+| موحاکەمە | دادگاییکردن | trial | Prozess, Gerichtsverfahren | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحتاج | نەدار، پێویست | needy, poor, in need | bedürftig, arm, angewiesen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحتەرەم | بەڕێز | respected, honorable, dear | geehrt, verehrt, angesehen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحتەمەل | لەوانەیە، گونجاو | probable, likely, possible | wahrscheinlich, möglich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحتەوا | ناوەڕۆک | content, contents | Inhalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحوەر، محوەر | تەوەر | axis, pivot | Achse | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحیبەت | خۆشەویستی | love, affection | Liebe, Zuneigung | عەرەبی | توند (پێداچوونەوە) |
+| موحیط | زەریا | ocean, environment, surroundings | Ozean, Umgebung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحەبەت، موحەببەت | خۆشەویستی | love, affection | Liebe, Zuneigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحەفیز، محفز | هاندەر | motivator, stimulus, incentive | Anreiz, Antrieb, Reiz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحەقیق، محقق | لێکۆلەر | investigator, researcher | Ermittler, Forscher | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موحەڕڕیر، محرر | سەرنووسەر | editor, editor-in-chief | Redakteur, Chefredakteur, Herausgeber | عەرەبی | توند (پێداچوونەوە) |
+| موخالیف | دژ، نەیار | opponent, opposed, contrary | Gegner, gegen, entgegengesetzt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موخالەفە، موخالەفەت | سەرپێچی | violation, breach, infringement | Verstoß, Übertretung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موخبیر، مخبیر، موخبر | سیخوڕ | informant, spy, informer | Informant, Spitzel, Spion | عەرەبی | توند (پێداچوونەوە) |
+| موختەسەر | کورت، پوختە | short, brief, summary | kurz, knapp, Zusammenfassung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موختەلیف | جیاواز | different, various | verschieden, unterschiedlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موخریج، مخرج | دەرهێنەر | director | Regisseur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مودافەعە | بەرگری | defense | Verteidigung, Abwehr | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مودام | هەمیشە | always, constantly | immer, ständig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موددەت، مودەت | ماوە | period, duration | Zeitraum, Dauer, Frist | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مودعی، مدعی | داواکار | plaintiff, claimant | Kläger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مودیر | بەڕێوەبەر | manager, director | Manager, Direktor, Leiter | عەرەبی | هەمیشە |
+| مودەعی | دادخواز | plaintiff, claimant | Kläger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مودەقیق، مدقق | پشکنەر | auditor, inspector, checker | Prüfer, Revisor, Kontrolleur | عەرەبی | توند (پێداچوونەوە) |
+| مودەڕڕیس، مودەڕیس | مامۆستا | teacher, instructor, lecturer | Lehrer, Dozent | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موراجیعە، موراجعە | پێداچوونەوە | review, revision, check | Überprüfung, Durchsicht, Wiederholung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موراجەعە | پێداچوونەوە | review, revision, consultation | Überprüfung, Durchsicht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موراسیل | پەیامنێر | correspondent, reporter | Korrespondent, Reporter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موراقیب | چاودێر | observer, monitor, supervisor | Beobachter, Aufseher | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موربا، مربع | چوارگۆشە | square | Quadrat, Viereck | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موربەع | چوارگۆشە | square | Quadrat | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موردیف، مردیف، مرادف | هاوواتا | synonym | Synonym | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موركەب، مركب | پێکهاتە | compound, composite | Verbindung, zusammengesetzt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مورووەت، مروەت | جوامێری | chivalry, generosity, magnanimity | Großmut, Edelmut, Ritterlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مورەخەس، موڕەخەس | مۆڵەتدراو | licensed, authorized, on leave | lizenziert, genehmigt, befugt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موزاهەرە | خۆپیشاندان | demonstration, protest | Demonstration, Kundgebung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موزاکەرە | وتووێژ، دانوستان | negotiation, discussion, talks | Verhandlung, Gespräch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موزدەوەج | دووانی | double, dual, binary | doppelt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موزمین، مزمن | درێژخایەن | chronic, long-term | chronisch, langfristig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موزنەب، مذنب، موزنەبات | ئەستێرەی باڵدار | comet | Komet | عەرەبی | توند (پێداچوونەوە) |
+| موزیع | پێشکەشکار | announcer, broadcaster, presenter | Ansager, Sprecher, Moderator | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسائیدە | یارمەتی | help, assistance | Hilfe, Unterstützung | عەرەبی | هەمیشە |
+| موسائەلە، مساءلە، مساءلة | لێپرسینەوە | accountability, questioning | Rechenschaft, Verantwortlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسابەقە | پێشبڕکێ | competition, contest, race | Wettbewerb, Wettkampf | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موساعید | یاریدەدەر | assistant, helper | Assistent, Helfer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موساعەدە | یارمەتی | help, assistance | Hilfe, Unterstützung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسافیر، موسافر | ڕێبوار، گەشتیار | traveler, passenger | Reisender, Passagier | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسالەحە، مصالحة | ئاشتبوونەوە | reconciliation | Versöhnung | عەرەبی | توند (پێداچوونەوە) |
+| موساواة، موساواه | یەکسانی | equality | Gleichheit, Gleichberechtigung | عەرەبی | توند (پێداچوونەوە) |
+| موساوات، مساواة | یەکسانی | equality | Gleichheit, Gleichberechtigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەئجیر، مستأجر | کرێچی | tenant, renter | Mieter, Pächter | عەرەبی | توند (پێداچوونەوە) |
+| موستەتیل، مستطیل | ڕاستگۆشە | rectangle | Rechteck | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەثمیر، مستثمر | وەبەرهێنەر | investor | Investor, Anleger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەحیل | نەشیاو | impossible | unmöglich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەسمیر | وەبەرهێنەر | investor | Investor, Anleger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەشار | ڕاوێژکار | adviser, consultant, counselor | Berater | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەشفا | نەخۆشخانە | hospital | Krankenhaus | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەعید | ئامادە | ready, prepared, willing | bereit, vorbereitet | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەغنی | بێنیاز | self-sufficient, independent | unabhängig, bedürfnislos | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەقبەل، مستەقبەل | داهاتوو | future | Zukunft | عەرەبی | هەمیشە |
+| موستەقیل، مستقل | سەربەخۆ | independent | unabhängig, selbständig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەلەح، مصطلح | زاراوە | term, terminology | Begriff, Fachbegriff | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەمع | بیسەر | listener | Zuhörer, Hörer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەهلیک، مستهلك | بەکارهێنەر | consumer, user | Verbraucher, Konsument, Benutzer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەوا | ئاست | level | Niveau, Ebene | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موستەورید، مستورد | هاوردەکار | importer | Importeur | عەرەبی | توند (پێداچوونەوە) |
+| موستەوی، مستوي | تەخت | plane, level, flat | Ebene, flach | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسوعە | زانیارنامە | encyclopedia | Enzyklopädie, Lexikon | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسوەدە، مسودە | ڕەشنووس | draft | Entwurf | عەرەبی | توند (پێداچوونەوە) |
+| موسیبەت | بەڵا، کارەسات | disaster, catastrophe, calamity | Katastrophe, Unglück | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسەجەل | تۆمارکراو | registered, recorded | registriert, eingetragen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسەقەف | ڕۆشنبیر | intellectual, educated person | Intellektueller, Gebildeter | عەرەبی | توند (پێداچوونەوە) |
+| موسەلسەل | زنجیرە | series, serial | Serie, Reihe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسەللەس | سێگۆشە | triangle | Dreieck | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسەللەم، موسەلەم | بێگومان | certain, undisputed, indisputable | sicher, unbestritten, unumstritten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موسەلەس، مثلث | سێگۆشە | triangle | Dreieck | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موشابەهەت | لێکچوون | similarity, resemblance | Ähnlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موشارەکە | بەشداری | participation, participate | Teilnahme, Beteiligung, teilnehmen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موشاهید | بیننەر | viewer, spectator, observer | Zuschauer, Beobachter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موشاهەدە | بینین | observation, watch, see | Beobachtung, beobachten, sehen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موشریف | سەرپەرشتیار | supervisor | Betreuer, Aufseher, Vorgesetzter | عەرەبی | توند (پێداچوونەوە) |
+| موشکیل | کێشە | problem, difficulty | Problem, Schwierigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موشکیلە، مشکیلە | کێشە | problem, issue | Problem | عەرەبی | هەمیشە |
+| موصادرە، مصادرة | زەوتکردن | confiscation, seizure | Beschlagnahme, Konfiszierung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موصەویر | وێنەگر | photographer, cameraman | Fotograf, Kameramann | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعادەلە | یەکسانی | equation | Gleichung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعارز | بەرهەڵستکار | opponent, opposition | Gegner, Opposition, Oppositioneller | عەرەبی | توند (پێداچوونەوە) |
+| موعاسیر، معاسیر، معاصر | هاوچەرخ | contemporary, modern | zeitgenössisch, modern | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعالەجە | چارەسەرکردن | treatment, treat | Behandlung, behandeln | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعامەلە، موئامەلە، مامەڵە | ڕەفتار | treatment, behavior, transaction | Umgang, Verhalten, Behandlung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعاهەدە | پەیمان، ڕێکەوتن | treaty, agreement, pact | Vertrag, Abkommen, Pakt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعاوەنە، معاوەنە | یارمەتی | help, assistance, aid | Hilfe, Unterstützung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعاوەنەت | یارمەتی | help, assistance, aid | Hilfe, Unterstützung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعاینە | پشکنین | examination, checkup | Untersuchung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعتەبەر | متمانەپێکراو | reliable, trustworthy, credible | zuverlässig, vertrauenswürdig, glaubwürdig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعتەقەل، معتقل | بەندکراو | detainee, prisoner | Häftling, Inhaftierter, Gefangener | عەرەبی | توند (پێداچوونەوە) |
+| موعجیزات، موعجیزە | پەرجوو | miracle | Wunder | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعجەم، معجم | فەرهەنگ | dictionary, lexicon | Wörterbuch, Lexikon | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعەللیم، موعەلیم | مامۆستا | teacher | Lehrer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعەلیق | لێدوانکار | commentator | Kommentator | عەرەبی | توند (پێداچوونەوە) |
+| موعەمما | مەتەڵ | riddle, puzzle, enigma | Rätsel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موعەیەن، مەعیەن | دیاریکراو | specific, certain, designated | bestimmt, festgelegt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موغەنی | گۆرانیبێژ | singer | Sänger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موفسید | گەندەڵ | corrupt | korrupt | عەرەبی | توند (پێداچوونەوە) |
+| موفلیس | مایەپووچ | bankrupt, broke | bankrott, pleite | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موفەتتیش | پشکنەر | inspector | Inspektor, Prüfer | عەرەبی | توند (پێداچوونەوە) |
+| موفەقیەت، مووفەقیەت، موفقیت | سەرکەوتن | success | Erfolg | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موفەککیر، مفکر | بیرمەند | thinker, intellectual | Denker | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقابلە | چاوپێکەوتن | interview, meeting | Interview, Treffen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقابیل | بەرامبەر | opposite, against, in return | gegenüber, gegen, Gegenleistung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقارینە | بەراوردکردن | comparison, compare | Vergleich, vergleichen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقارەنە | بەراوردکردن | comparison, compare | Vergleich, vergleichen | عەرەبی | هەمیشە |
+| موقاومەت، مقاومەت | بەرخۆدان | resistance | Widerstand | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقاوەمەت، موقاوەمە | خۆڕاگری | resistance, endurance | Widerstand, Durchhaltevermögen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقایسە | بەراورد | comparison | Vergleich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقتەدا | پێشەوا | leader, imam, role model | Vorbild, Führer, Vorbeter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقەددیم | پێشکەشکار | presenter, host | Moderator | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقەددیمە، موقەدیمە، موقەددەمە | پێشەکی | introduction, preface | Einleitung, Vorwort | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقەددەس، موقەدەس | پیرۆز | holy, sacred | heilig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقەررەر، مقرر | دیاریکراو | specified, scheduled, prescribed | festgelegt, vorgesehen, bestimmt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موقەرەر | وانە | lesson, course, syllabus | Lektion, Unterrichtsfach, Lehrstoff | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مولاحەزە | تێبینی | note, remark, observation | Bemerkung, Notiz, Anmerkung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مولاقات، ملاقات | چاوپێکەوتن، بینین | meeting, interview, visit | Treffen, Interview, Besuch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مولحەق، ملحق | پاشکۆ | appendix, annex, supplement | Anhang, Anlage, Beilage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مولکیەت، ملکیة، مولکیە | خاوەندارێتی | ownership, property | Eigentum, Besitz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مولەخەس، ملخص، مولخەس | پوختە | summary, abstract | Zusammenfassung, Kurzfassung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مومتاز | نایاب | excellent, outstanding | ausgezeichnet, hervorragend | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مومکین | دەکرێت، دەشێت | possible, can, may | möglich, können | عەرەبی | هەمیشە |
+| مومەریز | پەرستار | nurse | Krankenpfleger, Krankenschwester, Pflegekraft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونازەرە | گفتوگۆ | debate, discussion | Debatte, Diskussion | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موناسیب، موناسب | گونجاو | suitable, appropriate | passend, geeignet, angemessen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موناسەبەت، مناسەبەت | بۆنە | occasion, event | Anlass, Gelegenheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونافق، موناپیق، منافق | دووڕوو | hypocrite, two-faced | Heuchler, falsch | عەرەبی | توند (پێداچوونەوە) |
+| مونافەسە، مونافسە، منافسة | ڕکابەری، پێشبڕکێ | competition, rivalry | Wettbewerb, Konkurrenz | عەرەبی | توند (پێداچوونەوە) |
+| مونتیج | بەرهەمهێنەر | producer | Produzent, Hersteller | عەرەبی | توند (پێداچوونەوە) |
+| مونتەج | بەرهەم | product | Produkt, Erzeugnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونتەخەب | هەڵبژێردراو | elected, selected, chosen | gewählt, ausgewählt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونتەزیر | چاوەڕوان | waiting, expectant | wartend, erwartungsvoll | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونتەها | کۆتایی | end, limit, extremity | Ende, Grenze | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونحەنی | چەمە | curve, curved | Kurve, gekrümmt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونهەج | بەرنامەی خوێندن | curriculum, syllabus | Lehrplan, Curriculum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونیر | ڕووناک | bright, luminous, shining | hell, leuchtend | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونەزەمە | ڕێکخراو | organization | Organisation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونەسیق، مونەسسیق | ڕێکخەر | coordinator | Koordinator | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونەقەشە | گفتوگۆ | discussion, debate | Diskussion, Debatte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مونەووەر | ڕووناک | enlightened, illuminated, bright | erleuchtet, aufgeklärt, hell | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موهاجیر، موهاجیرین، موهاجرین | کۆچبەر | immigrant, emigrant, migrant | Einwanderer, Auswanderer, Migrant | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موهاجەرەت | کۆچ | migration, emigration | Auswanderung, Migration, Einwanderung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موهیم، موهم | گرنگ | important | wichtig | عەرەبی | هەمیشە |
+| موهەددید | هەڕەشەکار | threatening, threatener | bedrohlich, Bedroher | عەرەبی | توند (پێداچوونەوە) |
+| موهەندیس، موهەندس | ئەندازیار | engineer | Ingenieur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موهەییا | ئامادە | ready, prepared | bereit, vorbereitet, fertig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موواتین | هاوڵاتی | citizen | Bürger, Staatsbürger | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موواتەنە | هاوولاتیبوون | citizenship | Staatsbürgerschaft, Bürgerschaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موواجەهە | ڕووبەڕووبوونەوە | confrontation, facing | Konfrontation, Auseinandersetzung | عەرەبی | توند (پێداچوونەوە) |
+| مووافەقە، موافقة | ڕازیبوون | approval, consent, agreement | Zustimmung, Einverständnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مووجە | شەپۆل | wave | Welle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موولاحەزە | تێبینی | note, remark, observation | Bemerkung, Anmerkung, Beobachtung | عەرەبی | توند (پێداچوونەوە) |
+| مووەزەف، مووەززەف | فەرمانبەر | employee, official, civil servant | Angestellter, Beamter, Mitarbeiter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موڕاقیب، مراقب | چاودێر | observer, supervisor, monitor | Beobachter, Aufseher, Kontrolleur | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موڕاقەبە، مراقبة | چاودێری | monitoring, supervision, surveillance | Überwachung, Aufsicht, Kontrolle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موڕەکەب، مرکب، موركب | پێکهاتە | compound, composite | Verbindung, zusammengesetzt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موکافیء، موکافی | هاوتا | equivalent | gleichwertig, äquivalent | عەرەبی | توند (پێداچوونەوە) |
+| موکەعەب | کوپ | cube | Würfel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موڵاحیزە، ملاحظة | تێبینی | remark, note, observation | Bemerkung, Anmerkung, Beobachtung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موڵاحەزە | تێبینی | observation, note, remark | Beobachtung, Bemerkung, Anmerkung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| موڵاقات | چاوپێکەوتن | meeting, interview, audience | Treffen, Begegnung, Unterredung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مۆجە، موجة | شەپۆل | wave | Welle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مۆحتەرەم، محترم | ڕێزدار | respected, dear, honorable | geehrt, verehrt, sehr geehrte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مۆسیقار | ئاوازساز | composer, musician | Komponist, Musiker | عەرەبی | توند (پێداچوونەوە) |
+| مۆنتەزەم، منتەزم | ڕێکخراو | organized, regular, orderly | geordnet, regelmäßig, organisiert | عەرەبی | توند (پێداچوونەوە) |
+| میحنەت | ئازار، چەرمەسەری | hardship, suffering, ordeal | Leid, Not, Mühsal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میحیط | چواردەوری | perimeter, surroundings, environment | Umfang, Umgebung, Umwelt | عەرەبی | توند (پێداچوونەوە) |
+| میرات | کەلەپوور | heritage, inheritance | Erbe, Kulturerbe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میساحە | ڕووبەر | area | Fläche | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میسافە، مسافە | دووری | distance | Entfernung, Abstand, Distanz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میساق، میثاق | پەیمان | covenant, charter, pact | Pakt, Charta, Bund | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میسال | نموونە | example | Beispiel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میعاد | ژوان | appointment, rendezvous | Termin, Verabredung, Rendezvous | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میعدە، معدە، میعدەت | گەدە | stomach | Magen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میعلومات | زانیاری | information, data | Informationen, Daten | عەرەبی | توند (پێداچوونەوە) |
+| میعمار | بیناساز | architect, builder | Architekt, Baumeister | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میعماری، معماری، موعماری | تەلارسازی، بیناسازی | architecture, architectural | Architektur, architektonisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میعیار، معیار | پێوەر | criterion, standard, measure | Kriterium, Maßstab, Standard | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میقدار | بڕ | amount, quantity | Menge, Betrag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میقیاس، مقیاس | پێوەر | scale, measure, criterion | Maßstab, Skala, Maß | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میلاد | لەدایکبوون | birth | Geburt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میلادی | زایینی | AD, Gregorian | nach Christus, gregorianisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میللییەت، میللیەت | نەتەوەیی | nationality, nationalism | Nationalität, Volkszugehörigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میللەت، میلەت | نەتەوە، گەل | nation, people | Nation, Volk | عەرەبی | هەمیشە |
+| میلەف | پەڕگە | file | Datei, Akte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| میناعە، مناعة | بەرگری | immunity, resistance | Immunität, Abwehr | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەبدەء، مەبدەئ | بنەما | principle, basis | Prinzip, Grundsatz, Grundlage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەبلەغ | بڕە پارە | amount, sum of money | Betrag, Geldsumme | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەتار | فڕۆکەخانە | airport | Flughafen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەتاع | کەلوپەل | goods, belongings, stuff | Waren, Habseligkeiten, Sachen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەتبووعە | بڵاوکراوە | publication, printed matter | Publikation, Veröffentlichung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەتبەخ | چێشتخانە | kitchen | Küche | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەتبەعە | چاپخانە | printing house, press | Druckerei | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەتحەف | مۆزەخانە | museum | Museum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەتعەم | چێشتخانە | restaurant | Restaurant, Gaststätte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەتلووب، مەتلوب | داواکراو | wanted, required, requested | gesucht, erforderlich, verlangt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەتن | دەق | text | Text | عەرەبی | هەمیشە |
+| مەتەر | باران | rain | Regen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجال، مجال | بوار | field, scope, opportunity | Bereich, Feld, Spielraum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجانی، مەججانی | بێبەرامبەر | free, free of charge | kostenlos, gratis | عەرەبی | هەمیشە |
+| مەجبوور، مجبور | ناچار | forced, compelled, obliged | gezwungen, genötigt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجزەرە | کوشتار | massacre, slaughter | Massaker, Blutbad | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجلیس | ئەنجومەن | council, assembly, parliament | Rat, Versammlung, Parlament | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجموع، مجموع | کۆ | sum, total | Summe, Gesamtheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجمووعە، مەجموعە | کۆمەڵە | collection, group, set | Sammlung, Gruppe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجمەع، مجمع | کۆڕ | academy, assembly, complex | Akademie, Versammlung, Komplex | عەرەبی | توند (پێداچوونەوە) |
+| مەجهول | نادیار | unknown | unbekannt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجهوول، مجهول | نادیار | unknown | unbekannt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجەرە، مجرة | کهکەشان | galaxy, milky way | Galaxie, Milchstraße | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجەللە | گۆڤار | magazine | Zeitschrift, Magazin | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەجەلە | گۆڤار | magazine, journal | Zeitschrift, Magazin | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحاڵ | نەشیاو، ئەستەم | impossible | unmöglich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحبووب، مەحبوب | خۆشەویست | beloved, dear | geliebt, Liebling, lieb | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحبووس | زیندانی | prisoner, imprisoned | Gefangener, gefangen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحبەس | زیندان | prison, jail | Gefängnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحجووب، مەحجوب | شەرمن | shy, bashful, modest | schüchtern, verschämt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحرووم، مەحروم | بێبەش | deprived, deprived of | benachteiligt, beraubt, ausgeschlossen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحزوون، مەحزون | خەمگین، دڵتەنگ | sad, sorrowful, gloomy | traurig, betrübt | عەرەبی | توند (پێداچوونەوە) |
+| مەحسوور | گەمارۆدراو | besieged, surrounded | belagert, umzingelt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحسووس، مەحسوس | هەستپێکراو | tangible, perceptible, noticeable | spürbar, greifbar, wahrnehmbar | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحفووز | پارێزراو | protected, preserved, saved | geschützt, bewahrt, gespeichert | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحلول، محلول | توانراو | solution, dissolved, solved | Lösung, gelöst | عەرەبی | توند (پێداچوونەوە) |
+| مەحلوول | توێژراو | solution, dissolved | Lösung, gelöst | عەرەبی | توند (پێداچوونەوە) |
+| مەحوە | سڕینەوە | erasure, deletion | Löschung, Auslöschung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحکووم، مەحکوم | سزادراو | convicted, condemned, sentenced | verurteilt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحکەمە | دادگا | court | Gericht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحەببەت | خۆشەویستی | love, affection | Liebe, Zuneigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحەتە، مەحەتتە | وێستگە | station | Station, Bahnhof | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەحەل | شوێن | place, location | Ort, Stelle | عەرەبی | هەمیشە |
+| مەحەللی | ناوچەیی | local | lokal, örtlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەختەبەر، مختبر | تاقیگە | laboratory, lab | Labor | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەخطووتە، مخطوطە، مخطوطة | دەستنووس | manuscript | Handschrift, Manuskript | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەخلووق | بوونەوەر | creature, being | Geschöpf, Lebewesen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەخلووقات | بوونەوەران | creatures, beings | Geschöpfe, Lebewesen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەدار، مدار | خولگە | orbit | Umlaufbahn, Bahn | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەدح | ستایش | praise | Lob, Lobpreis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەدرەسە | قوتابخانە | school | Schule | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەدیون، مدیون، مدین | وامگر | debtor, borrower | Schuldner, Kreditnehmer | عەرەبی | توند (پێداچوونەوە) |
+| مەدەنی | شارستانی | civil, civilian, civilized | zivil, bürgerlich, zivilisiert | عەرەبی | توند (پێداچوونەوە) |
+| مەدەنییەت | شارستانیەت | civilization | Zivilisation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەراجیع | سەرچاوەکان | references, sources | Quellen, Literaturverzeichnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەراق | خولیا | passion, obsession, hobby | Leidenschaft, Hobby | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەرحووم، مەرحوم | کۆچکردوو | deceased, late | verstorben, selig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەرحەبا | بەخێربێیت | welcome, hello | willkommen, hallo | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەرحەمەت | بەزەیی، دڵۆڤانی | mercy, compassion | Barmherzigkeit, Mitleid, Erbarmen | عەرەبی | توند (پێداچوونەوە) |
+| مەرسووم، مرسوم | فەرمان | decree, order | Erlass, Dekret, Befehl | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەریز | نەخۆش | sick, ill, patient | krank, Patient | عەرەبی | هەمیشە |
+| مەرەز | نەخۆشی | disease, illness | Krankheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەرەض | نەخۆشی | disease, illness, sickness | Krankheit, Erkrankung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەزاق | تام | taste, flavor | Geschmack | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەزرەعە | کێڵگە | farm, field | Bauernhof, Farm, Feld | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەزلووم، مظلوم | ستەملێکراو | oppressed, wronged | unterdrückt, Unterdrückter | عەرەبی | توند (پێداچوونەوە) |
+| مەزیج، مزیج | تێکەڵە | mixture, blend | Mischung, Gemisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەزیق، مضيق، مضیق | تەنگە | strait, narrows | Meerenge, Straße | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەسئول، مەسئوول | بەرپرسیار | responsible, in charge | verantwortlich, zuständig | عەرەبی | هەمیشە |
+| مەسئولیەت، مەسئوولیەت | بەرپرسیارێتی | responsibility | Verantwortung | عەرەبی | هەمیشە |
+| مەساحە، مساحة | ڕووبەر | area, surface | Fläche, Flächeninhalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەسافە | دووری، ماوە | distance | Entfernung, Abstand, Strecke | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەسدەر، مصدر | سەرچاوە | source, reference | Quelle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەسرەح، مەسرەحیە | شانۆ | theater, stage | Theater, Bühne | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەسرەف، مەسروف | خەرجی | expense, cost, expenditure | Ausgabe, Kosten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەسفوفە، مصفوفة | ڕیز | array, matrix, row | Array, Matrix, Reihe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەسموح | ڕێگەپێدراو | allowed, permitted | erlaubt, gestattet | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەسوولیەت، مسئولیەت | بەرپرسیاریەتی | responsibility | Verantwortung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەسڵەحەت | بەرژەوەندی | interest, benefit | Interesse, Nutzen, Wohl | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەسەلە، مەسئەلە | پرس، بابەت | issue, matter, question, topic | Frage, Angelegenheit, Thema, Sache | عەرەبی | هەمیشە |
+| مەسەلەن، مەسلەن | بۆ نموونە | for example | zum Beispiel | عەرەبی | هەمیشە |
+| مەشروع | پڕۆژە | project | Projekt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەشریق | ڕۆژهەڵات | east, orient | Osten, Orient | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەشعەل | چرا | torch, lamp | Fackel, Lampe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەشغووڵ، مەشغوول | سەرقاڵ | busy, occupied | beschäftigt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەشق | ڕاهێنان | training, exercise, practice | Training, Übung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەشەققەت، مەشەقەت | ماندووبوون | hardship, trouble, fatigue | Mühe, Strapaze, Mühsal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەطعم | چێشتخانە | restaurant | Restaurant, Gaststätte | عەرەبی | توند (پێداچوونەوە) |
+| مەعاریف | فێرکاری | education | Bildung, Bildungswesen, Erziehung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعاش | مووچە | salary, wage | Gehalt, Lohn | عەرەبی | هەمیشە |
+| مەعانی | واتاکان | meanings | Bedeutungen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعبەد | پەرستگا | temple, place of worship | Tempel, Gotteshaus | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعدووم | لەناوچوو | destroyed, nonexistent, annihilated | vernichtet, nicht vorhanden | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعدە | گەدە | stomach | Magen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعدەن | کانزا | metal, mineral | Metall, Mineral | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعرووف | ناسراو | known, well-known, famous | bekannt, berühmt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعریفەت | زانین | knowledge, knowing | Wissen, Erkenntnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعرەز | پیشانگا | exhibition | Ausstellung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعرەکە | شەڕ، گۆڕەپان | battle, fight, arena | Schlacht, Kampf, Kampfplatz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعزەرەت | لێبووردن | apology, excuse | Entschuldigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعسیەت، مەعسییەت | تاوان | sin | Sünde | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعشوق | دڵدار | beloved, sweetheart, lover | Geliebte, Geliebter, Liebling | عەرەبی | توند (پێداچوونەوە) |
+| مەعقوول، مەعقول | گونجاو، ژیرانە | reasonable, sensible | vernünftig, angemessen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعلومات، مەعلوومات | زانیاری | information, data | Information, Daten | عەرەبی | هەمیشە |
+| مەعلووم، مەعلوم | دیار، ئاشکرا | known, clear, obvious | bekannt, klar, offensichtlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعنا | واتا | meaning | Bedeutung | عەرەبی | هەمیشە |
+| مەعنەوی | دەروونی | spiritual, moral, psychological | geistig, moralisch, psychisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعهەد | پەیمانگا | institute | Institut | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعکوس | پێچەوانە | reverse, inverse, opposite | umgekehrt, entgegengesetzt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەعیدە | گەدە | stomach | Magen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەغناتیس | ئاسنکێش | magnet | Magnet | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەفسەل، مفصل، مەفسل | جومگە | joint | Gelenk | عەرەبی | توند (پێداچوونەوە) |
+| مەفعول، مفعول | بەرکار | object | Objekt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەفعوول | بکراو | passive, object, patient | Passiv, Objekt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەفهووم، مەفهوم | چەمک | concept | Begriff, Konzept | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەقالە، مەقال | وتار | article, essay | Artikel, Aufsatz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەقام | پایە، پلە | rank, position, status | Rang, Stellung, Stufe | عەرەبی | توند (پێداچوونەوە) |
+| مەقبوول | پەسەند | acceptable, accepted | akzeptabel, annehmbar | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەقبووڵ | پەسەند | acceptable, accepted | akzeptabel, annehmbar | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەقبەرە | گۆڕستان | cemetery, tomb, graveyard | Friedhof, Grab, Grabmal | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەقتوول، مقتول | کوژراو | killed, victim | Getöteter, Opfer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەقسوود | مەبەست | purpose, intention, meaning | Zweck, Absicht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەقسەد | مەبەست | purpose, intention, meaning | Zweck, Absicht | عەرەبی | هەمیشە |
+| مەقەڕ، مەقەڕڕ | بارەگا | headquarters, seat | Hauptsitz, Zentrale, Sitz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەلاحەت | جوانی | beauty, charm | Schönheit, Anmut | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەلجەء، مەلجەئ | پەناگە | shelter, refuge | Zuflucht, Unterschlupf, Schutzraum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەلعوون | نەفرەتلێکراو | cursed, damned | verflucht, verdammt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەلف | پەڕگە | file, dossier | Akte, Datei | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەلەف، ملف | پەڕگە | file, dossier, folder | Datei, Akte, Ordner | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەمات | مردن | death | Tod | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەملەکەت، مملکە، مملکة | پاشایەتی | kingdom, monarchy | Königreich, Monarchie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەمنوع، مەمنووع | ڕێگەپێنەدراو | forbidden, prohibited, not allowed | verboten, untersagt | عەرەبی | هەمیشە |
+| مەمنون، مەمنوون | سوپاسگوزار | grateful, thankful | dankbar | عەرەبی | هەمیشە |
+| مەناخ، مناخ | کەش | climate, weather, atmosphere | Klima, Wetter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەناعە | بەرگری | immunity, defense | Immunität, Abwehr | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەناعەت | بەرگری | immunity | Immunität, Abwehrkraft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەنبەع، مەنبەغ | سەرچاوە | source, spring | Quelle, Ursprung | عەرەبی | توند (پێداچوونەوە) |
+| مەنتیق | لۆژیک | logic | Logik | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەنتیقە | ناوچە | region, area, zone | Region, Gebiet, Bereich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەندوب | نوێنەر | delegate, representative, envoy | Delegierter, Vertreter, Gesandter | عەرەبی | توند (پێداچوونەوە) |
+| مەنزیل | ماڵ | house, home, residence | Haus, Wohnung, Heim | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەنسەب | پایە | position, post, rank | Position, Amt, Rang | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەنشەء، مەنشەئ | سەرچاوە | origin, source | Ursprung, Herkunft, Quelle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەنع | ڕێگری | prevention, obstruction, prohibition | Verhinderung, Verbot, Hindernis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەنفەعەت | سوود | benefit, profit, use | Nutzen, Vorteil, Gewinn | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەنهەج | ڕێباز | method, curriculum, approach | Methode, Lehrplan, Ansatz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەوت | مردن | death | Tod | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەوجوودات | بوونەوەران | beings, creatures | Lebewesen, Geschöpfe, Wesen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەوزوع، مەوزووع | بابەت | subject, topic, matter | Thema, Gegenstand | عەرەبی | هەمیشە |
+| مەوقووف، مەوقوف | وەستاو | suspended, stopped, detained | eingestellt, angehalten, festgenommen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەوقیع | شوێن | location, place, site | Standort, Ort, Stelle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەوهیبە، موهیبە، موهبة | بەهرە | talent, gift | Talent, Begabung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەکان | شوێن | place, location | Ort, Platz | عەرەبی | هەمیشە |
+| مەکتەب | قوتابخانە | school | Schule | عەرەبی | هەمیشە |
+| مەکتەبە | پەڕتووکخانە | library | Bibliothek, Bücherei | عەرەبی | هەمیشە (پێداچوونەوە) |
+| مەیل | حەز | inclination, desire, liking | Neigung, Lust, Vorliebe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نائیب | جێگر | deputy, vice | Stellvertreter, Vize | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ناتیج، ناتج | بەرهەم | product, output, yield | Produkt, Ertrag, Erzeugnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ناخیب | دەنگدەر | voter, elector | Wähler | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نادم | پەشیمان | regretful, sorry, remorseful | reuevoll, reumütig, bedauernd | عەرەبی | توند (پێداچوونەوە) |
+| ناسیح | ئامۆژگاریکەر | adviser, counselor | Ratgeber, Berater | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ناشر | بڵاوکەرەوە | publisher | Verleger, Verlag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ناشید | سروود | anthem, hymn, song | Hymne, Lied | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ناعیلاج | بێچارەسەر | incurable, hopeless | unheilbar, hoffnungslos | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ناقید | ڕەخنەگر | critic | Kritiker | عەرەبی | توند (پێداچوونەوە) |
+| ناقیس | ناتەواو | incomplete, deficient, defective | unvollständig, mangelhaft, fehlerhaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ناهەق، ناحەق | ناڕەوا | unjust, unfair | ungerecht, unrecht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ناڕەحەت | نیگەران | upset, worried, uncomfortable | besorgt, verärgert, unwohl | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نایب، نائب | نوێنەر | deputy, representative, vice | Stellvertreter, Abgeordneter, Vize | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نسیج | شانە | tissue | Gewebe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نوتق، نطق | دەربڕین | pronunciation, speech, expression | Aussprache, Ausdruck, Sprache | عەرەبی | توند (پێداچوونەوە) |
+| نوجووم، نجووم | ئەستێرەکان | stars | Sterne | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نوزج، نضج | گەییشتن | ripening, maturity, ripen | Reifung, Reife, reifen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نوزووح، نزووح | ئاوارەیی | displacement | Vertreibung, Flucht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نوسخە، نسخە، نسخة | ڕوونووس | copy, transcript | Abschrift, Kopie, Exemplar | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نوفوز | کاریگەری | influence, impact | Einfluss, Wirkung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نوقتە | خاڵ | point, dot | Punkt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نوقسان | کەموکوڕی | defect, deficiency, shortcoming | Mangel, Defekt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نومو | گەشە | growth | Wachstum | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نۆبەت، نوبەت | دەور | turn, shift | Reihe, Schicht, Turnus | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نیزاع | ناکۆکی | dispute, conflict | Streit, Konflikt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نیزام | ڕێسا | system, order, regulation | System, Ordnung, Vorschrift | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نیسبە | ڕێژە | ratio, rate, proportion | Verhältnis, Rate, Anteil | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نیسبەت | ڕێژە | ratio, proportion, rate | Verhältnis, Anteil, Quote | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نیعمەت | بەخشش | blessing, gift, grace | Segen, Gabe, Gnade | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نیفاق | دووڕوویی | hypocrisy, discord | Heuchelei, Zwietracht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نیهایەت | کۆتایی | end | Ende, Schluss | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نیکاح | مارەبڕین | marriage contract, wedding | Eheschließung, Trauung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نیەت، نیة، نیه | مەبەست | intention, intent, purpose | Absicht, Vorhaben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەبات | ڕووەک | plant | Pflanze | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەباتات | ڕووەکەکان | plants, vegetation | Pflanzen, Vegetation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەبز، نبض | لێدان | pulse, heartbeat, beat | Puls, Herzschlag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەتیجە | ئەنجام | result, outcome | Ergebnis, Resultat | عەرەبی | هەمیشە |
+| نەجات | ڕزگاری | rescue, salvation, liberation | Rettung, Erlösung, Befreiung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەجاح | سەرکەوتن | success | Erfolg | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەجم، نجم | ئەستێرە | star | Stern | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەحات | پێکەرتاش | sculptor | Bildhauer | عەرەبی | توند (پێداچوونەوە) |
+| نەحاس، نحاس | مس | copper | Kupfer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەحت | پێکەرتاشی | sculpture | Bildhauerei, Skulptur | عەرەبی | توند (پێداچوونەوە) |
+| نەحس | بەدبەختی، بەختڕەشی | misfortune, bad luck, ominous | Unglück, Pech, unheilvoll | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەحو، نەحۆ | ڕێزمان | grammar, syntax | Grammatik, Syntax | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەدوە | کۆڕ | seminar, symposium, forum | Seminar, Symposium, Forum | عەرەبی | توند (پێداچوونەوە) |
+| نەزافەت | خاوێنی | cleanliness, hygiene | Sauberkeit, Reinlichkeit, Hygiene | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەزاهەت، نزاهة | دەستپاکی | integrity, honesty | Integrität, Ehrlichkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەزع | کێشان | removal, extraction, death throes | Entfernung, Ziehen, Todeskampf | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەزیف | خوێنچوون | bleeding, hemorrhage | Blutung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەزەر، نظر | سەرنج، بۆچوون | look, view, opinion | Blick, Ansicht, Meinung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەزەریە | تیۆری | theory | Theorie | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەسل، نسل | نەوە | generation, offspring, descendants | Generation, Nachkommen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەسیج، نەسیجی | شانە | tissue, fabric, textile | Gewebe, Stoff | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەسیحەت | ئامۆژگاری | advice | Rat, Ratschlag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەسەب، نسب | ڕەچەڵەک | lineage, ancestry, descent | Abstammung, Herkunft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەشر | بڵاوکردنەوە | publication, publish, dissemination | Veröffentlichung, veröffentlichen, Verbreitung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەص | دەق | text | Text | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەعرە | هاوار | shout, yell, roar, scream | Schrei, Gebrüll, schreien | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەفع | سوود | benefit, use, profit | Nutzen, Vorteil | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەفی | نەرێنی | negation, negative, exile | Verneinung, negativ | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەفەس | هەناسە | breath | Atem | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەفەقە، نفقة | بژێوی | alimony, maintenance, livelihood | Unterhalt, Lebensunterhalt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەقد | ڕەخنە | criticism, critique | Kritik | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەقس | کەموکوڕی | deficiency, defect, shortcoming, flaw | Mangel, Defekt, Schwäche | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەقش | نەخش | pattern, design, inscription | Muster, Verzierung, Inschrift | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەققاش، نەقاش | نیگارکێش | painter | Maler | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەقڵ | گواستنەوە | transfer, transport, transportation | Übertragung, Transport, übertragen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەقیض، نقیض | پێچەوانە | opposite, antonym, contrary | Gegenteil, Gegensatz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەهر | ڕووبار | river | Fluss | عەرەبی | توند (پێداچوونەوە) |
+| نەواه | ناوک | nucleus, core | Kern, Zellkern, Atomkern | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەواە، نواة، نەواة | ناوکە | nucleus, kernel, core | Kern, Zellkern | عەرەبی | هەمیشە (پێداچوونەوە) |
+| نەوع | جۆر | type, kind, sort | Art, Typ, Sorte | عەرەبی | هەمیشە |
+| نەوعیەت، نوعیة | چۆنیەتی | quality | Qualität, Beschaffenheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| هامیش، هامش | پەراوێز | margin, footnote | Rand, Fußnote | عەرەبی | هەمیشە (پێداچوونەوە) |
+| هودنە، هدنة، هودنه | ئاگربەست | ceasefire, truce | Waffenstillstand, Waffenruhe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| هویەت، هوییەت | ناسنامە | identity, ID card | Identität, Ausweis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| هیجرە، هجرە | کۆچ | migration, emigration | Migration, Auswanderung, Wanderung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| هیجرەت | کۆچ | migration, emigration | Migration, Auswanderung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| هیجووم، هوجووم | هێرش | attack, assault | Angriff, Überfall | عەرەبی | هەمیشە (پێداچوونەوە) |
+| هەدیە | دیاری | gift, present | Geschenk | عەرەبی | هەمیشە (پێداچوونەوە) |
+| هەدەف | ئامانج | goal, aim, target, objective | Ziel, Zweck | عەرەبی | هەمیشە (پێداچوونەوە) |
+| هەزبە، هضبة، هەدبه | بەرزایی | plateau, highland | Hochebene, Plateau | عەرەبی | توند (پێداچوونەوە) |
+| هەزم، هەزمکردن | هەرس | digestion, digest | Verdauung, verdauen | عەرەبی | توند (پێداچوونەوە) |
+| هەزیمەت | شکست | defeat | Niederlage | عەرەبی | هەمیشە (پێداچوونەوە) |
+| هەیئەت، هەیئە | ئەنجومەن | council, commission, board | Rat, Kommission, Gremium | عەرەبی | هەمیشە (پێداچوونەوە) |
+| واجب | ئەرک | duty, obligation | Pflicht, Aufgabe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| واجیب | ئەرک | duty, obligation, homework | Pflicht, Aufgabe, Hausaufgabe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| واجیهە | ڕووکار | interface, facade, front | Oberfläche, Schnittstelle, Fassade | عەرەبی | هەمیشە (پێداچوونەوە) |
+| واحید | یەک | one, single | eins, einzig, einzeln | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وادی | دۆڵ | valley | Tal | عەرەبی | توند (پێداچوونەوە) |
+| وارث | میراتگر | heir | Erbe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| واردات | هاوردن | import | Import, Einfuhr | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وازیح، واضح | ڕوون | clear, obvious | klar, deutlich, offensichtlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| واسیع | فراوان | wide, broad, vast | weit, breit, umfangreich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| واقیع | ڕاستی | reality, truth | Wirklichkeit, Realität | عەرەبی | هەمیشە (پێداچوونەوە) |
+| واقیعی، واقعی | ڕاستەقینە | real, realistic, actual | real, wirklich, realistisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| واقیعەن | بەڕاستی | really, actually, indeed | wirklich, tatsächlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وجوود، وجود | بوون | existence, being, presence | Existenz, Dasein, Sein | عەرەبی | توند (پێداچوونەوە) |
+| وراسی، وراثی | بۆماوەیی | hereditary, genetic | erblich, genetisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وفیات | مردنەکان | deaths, fatalities | Todesfälle, Todesopfer | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ولادەت، ویلادەت | لەدایکبوون | birth | Geburt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ووجوود | بوون | existence, being | Existenz, Dasein | عەرەبی | توند (پێداچوونەوە) |
+| ویسعەت | فراوانی | breadth, width, spaciousness | Weite, Breite, Ausdehnung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ویقار | سەنگینی | dignity, gravity | Würde, Ernst | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ویقایە، وقایە | پاراستن | prevention, protection | Vorbeugung, Prävention, Schutz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ویلادە، ولادة، ولادت | لەدایکبوون | birth, childbirth | Geburt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ویلایەت | پارێزگا | province, state, governorate | Provinz, Bundesland, Gouvernement | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەتەن | نیشتمان | homeland, country | Heimat, Vaterland | عەرەبی | هەمیشە |
+| وەتەنی | نیشتمانی | national, patriotic | national, vaterländisch | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەجەع | ئازار | pain, ache | Schmerz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەحدە، وحدە | یەکە، یەکگرتوویی | unit, unity | Einheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەحدەت | یەکێتی | unity, union | Einheit, Union | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەحشی | دڕندە | wild, savage, beast | wild, Bestie, Raubtier | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەحشەت | ترس، دڵەڕاوکێ | terror, horror, dread | Schrecken, Grauen, Angst | عەرەبی | توند (پێداچوونەوە) |
+| وەخت، وەقت | کات | time | Zeit | عەرەبی | هەمیشە |
+| وەراسەت، وراسەت | میراتگری | heredity, inheritance | Vererbung, Erbe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەرید | وڕگ | vein | Vene | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەرەقە | پەڕە | sheet, page, paper | Blatt, Seite, Zettel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەرەم | هەڵک | swelling, tumor | Schwellung, Tumor | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەزع، وەزعییەت | بارودۆخ | situation, state of affairs | Lage, Situation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەزن | کێش | weight | Gewicht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەزیفە | ئەرک | duty, task, job | Pflicht, Aufgabe, Stelle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەسائیل | ئامرازەکان | means, tools, media | Mittel, Werkzeuge | عەرەبی | توند (پێداچوونەوە) |
+| وەساطەت، وساطه، وەساطه | ناوبژیوانی | mediation | Vermittlung, Mediation | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەسل | پسووڵە | receipt | Quittung, Beleg | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەسیقە، وەسائیق | بەڵگەنامە | document | Dokument, Urkunde | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەسیلە | ئامراز | means, tool, instrument | Mittel, Werkzeug, Instrument | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەسیەت | ڕاسپاردە | will, testament, bequest | Testament, Vermächtnis | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەصل، وصل | پسوولە | receipt | Quittung, Beleg | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەعد، وەعدە | بەڵێن | promise | Versprechen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەعی، وعي | هۆشیاری | awareness, consciousness | Bewusstsein | عەرەبی | توند (پێداچوونەوە) |
+| وەفا | دڵسۆزی | loyalty, faithfulness | Treue, Loyalität | عەرەبی | توند (پێداچوونەوە) |
+| وەفات | کۆچی دوایی، مردن | death, passing away | Tod, Ableben | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەقایع | ڕووداوەکان | events, incidents | Ereignisse, Vorfälle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەقعە، واقعە | ڕووداو | incident, event | Vorfall, Ereignis | عەرەبی | توند (پێداچوونەوە) |
+| وەلادە | لەدایکبوون | birth, childbirth | Geburt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەکالەت، وکالة | نوێنەرایەتی | power of attorney, representation, agency | Vollmacht, Vertretung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| وەکیل | نوێنەر | representative, agent, deputy | Vertreter, Bevollmächtigter, Abgeordneter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕاجیع | سەبارەت، پەیوەست | regarding, concerning, related | bezüglich, betreffend, zugehörig | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕاحەت، ڕەحەت | ئاسوودە | comfortable, at ease, calm | bequem, ruhig, entspannt | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕاسیب | دەرنەچوو | failed | durchgefallen, nicht bestanden | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕزق، رزق، ڕزقی | بژێوی | livelihood, sustenance | Lebensunterhalt, Auskommen | عەرەبی | توند (پێداچوونەوە) |
+| ڕسالە، رسالة | نامە | letter, message, thesis | Brief, Nachricht, Abschlussarbeit | عەرەبی | توند (پێداچوونەوە) |
+| ڕواج، رواج | خواست، بازارگەرمی | demand, popularity, circulation | Nachfrage, Absatz, Beliebtheit | عەرەبی | توند (پێداچوونەوە) |
+| ڕوبع | چارەک | quarter | Viertel | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕوتبە | پلە | rank, degree, grade | Rang, Stufe, Grad | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕوتووبەت، رطوبة، ڕوتوبە | شلی | humidity, moisture, fluidity | Feuchtigkeit, Nässe | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕوسووم، رسوم | تێچوو | fee, cost, charge | Gebühr, Kosten | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕوکود، رکود | کزی | recession, stagnation, slump | Rezession, Stagnation, Flaute | عەرەبی | توند (پێداچوونەوە) |
+| ڕۆح، ڕوح، ڕووح | گیان | soul, spirit | Seele, Geist | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیئە، ڕئە | سی | lung | Lunge | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیاسە، ڕیاسەت | سەرۆکایەتی | presidency, chairmanship | Vorsitz, Präsidentschaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیاضیات | بیرکاری | mathematics, math | Mathematik | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیاضە | وەرزش | sport, exercise | Sport, Bewegung, Training | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیبا، ربا | سوود | usury, interest | Wucher, Zins | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیحلەت | گەشت، کۆچ | journey, trip, migration | Reise, Fahrt, Wanderung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیزاعە | شیردان | breastfeeding, nursing | Stillen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیشوە، ڕشوە | بەرتیل | bribe, bribery | Bestechung, Schmiergeld | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیعایەت | چاودێری، ڕەچاوکردن | care, consideration, observance | Fürsorge, Rücksicht, Beachtung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیوایەت | گێڕانەوە | narration, account, narrative | Erzählung, Überlieferung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕیە، رئة | سییە | lung | Lunge | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەئسمال، رأسمال، راسمال | سەرمایە | capital | Kapital | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەئی، ڕەئیی | بۆچوون، ڕا | opinion, view | Meinung, Ansicht | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەئیس | سەرۆک | president, chairman, head | Präsident, Vorsitzender, Leiter | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەبح | قازانج | profit, gain | Gewinn, Profit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەحمەت، ڕەحم | بەزەیی | mercy, compassion | Barmherzigkeit, Mitleid, Gnade | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەساس، رصاص | قورقوشم | lead | Blei | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەسسام، ڕەسام | نیگارکێش | painter | Maler | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەسمی | فەرمی | official, formal | offiziell, förmlich | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەعد، رعد | هورهورە | thunder | Donner | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەعیەت، ڕەعییەت | گەل، هاوڵاتییان | subjects, citizens, people | Untertanen, Bürger, Volk | عەرەبی | توند (پێداچوونەوە) |
+| ڕەغبەت | حەز، ئارەزوو | desire, wish, interest | Wunsch, Verlangen, Lust | عەرەبی | توند (پێداچوونەوە) |
+| ڕەفز، رفض | ڕەتکردنەوە | rejection, refusal | Ablehnung, ablehnen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەفیق، ڕەفێق | هاوڕێ | friend, companion | Freund, Gefährte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەقابە | چاودێری | supervision, monitoring, control | Aufsicht, Überwachung, Kontrolle | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەقس | سەما، هەلپەرکێ | dance, folk dance | Tanz, tanzen, Volkstanz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەقیب | ڕکەبەر | rival, competitor | Rivale, Konkurrent | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەقەم، رەقەم | ژمارە | number, digit, figure | Zahl, Nummer, Ziffer | عەرەبی | هەمیشە |
+| ڕەمز، رمز | نیشانە | symbol, sign, code | Symbol, Zeichen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەهن، رهن | گرەو | mortgage, pledge, pawn | Hypothek, Pfand | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ڕەواق، رواق | هەیوان | porch, portico, veranda | Veranda, Säulenhalle, Vorhalle | عەرەبی | توند (پێداچوونەوە) |
+| کائنات، کاینات | گیهان | universe, cosmos | Universum, Kosmos | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کائین، کائن | زیندەوەر | creature, living being, organism | Lebewesen, Geschöpf, Organismus | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کائینات | گەردوون | universe, cosmos | Universum, Kosmos, Weltall | عەرەبی | توند (پێداچوونەوە) |
+| کاتیب | نووسەر | writer, author, clerk | Schriftsteller, Schreiber | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کتێب، کیتاب | پەڕتووک | book | Buch | عەرەبی | توند |
+| کوتلە، کتلە | بارستایی | mass | Masse | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کوسوف، كسوف، کوسووف | خۆرگرتن | solar eclipse | Sonnenfinsternis | عەرەبی | توند (پێداچوونەوە) |
+| کولیە، کولیەت، کوللیە | کۆلێژ | college, faculty | Hochschule, Fakultät, College | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کیبریت، کبریت | گۆگرد | sulfur, match | Schwefel, Streichholz | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کیفایەت | بەس | sufficiency, enough | Genüge, genug | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کیلیە، کلیە | گوێرک | kidney | Niere | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەبد | جگەر | liver | Leber | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەبید، کبد | جگەر | liver | Leber | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەبیر | گەورە | big, large, great | groß | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەرامەت، کرامە، کرامة | شکۆمەندی | dignity | Würde | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەراهیەت، کەراهییەت | ڕق | hatred, dislike | Hass, Abneigung | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەزب، کیزب | درۆ | lie, falsehood | Lüge | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەسافە، کثافة | چڕی | density | Dichte | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەسافەت | چڕی | density | Dichte | عەرەبی | توند (پێداچوونەوە) |
+| کەسر | شکان | fracture, break | Bruch, Knochenbruch, brechen | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەسیر | زۆر | many, much, a lot | viel, viele | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەفاءەت، كفاءة، کەفاءە | لێهاتوویی | competence, efficiency | Kompetenz, Tüchtigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەفالەت | بارمتە | bail, guarantee, surety | Kaution, Bürgschaft | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەلیمە | وشە | word | Wort | عەرەبی | هەمیشە |
+| کەمیەت، كمية | بڕ | quantity, amount | Menge, Quantität | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەهرەبا، کهرباء، کەهرۆبا | کارەبا | electricity | Elektrizität, Strom | عەرەبی | هەمیشە (پێداچوونەوە) |
+| کەوکەب، کوکب | ئەستێرە | planet, star | Planet, Stern | عەرەبی | توند (پێداچوونەوە) |
+| گوناح | تاوان | sin, guilt | Sünde, Schuld | عەرەبی | هەمیشە (پێداچوونەوە) |
+| یەئس | بێهیوایی | despair, hopelessness | Verzweiflung, Hoffnungslosigkeit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| یەعنی، یانی، یعنی | واتە | that is, meaning, i.e. | das heißt, also | عەرەبی | هەمیشە |
+| یەقین | دڵنیایی | certainty | Gewissheit, Sicherheit | عەرەبی | هەمیشە (پێداچوونەوە) |
+| یەقینەن | بێگومان | certainly, surely, definitely | sicherlich, bestimmt, zweifellos | عەرەبی | هەمیشە (پێداچوونەوە) |
+| یەوم | ڕۆژ | day | Tag | عەرەبی | هەمیشە (پێداچوونەوە) |
+| ئانتیڤایرۆس | دژە ڤایرۆس | antivirus | Antivirus, Virenschutz | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئاوتپوت | دەرهێنراو | output | Ausgabe, Output | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئایدیا | بیرۆکە | idea | Idee | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئۆتۆسەیڤ | خۆپاشەکەوتکردن | autosave | automatisches Speichern | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئۆتۆماتیک | خۆکار | automatic | automatisch | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئۆتۆکۆڕێکت | خۆچاککردنەوە | autocorrect | Autokorrektur | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئۆتێنتیکەیشن، ئۆسینتیکەیشن | پشتڕاستکردنەوە | authentication, verification, confirm | Authentifizierung, Verifizierung, Bestätigung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئۆدیۆ | دەنگ | audio, sound | Audio, Ton | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئۆردەر | داواکاری | order, request | Bestellung, Auftrag | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئۆرگانیزم | زیندەوەر | organism, living being | Organismus, Lebewesen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئۆفلاین | دەرهێڵ | offline | offline | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئۆفەر | پێشکەش | offer | Angebot | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئۆنلاین | سەرهێڵ | online | online | ئینگلیزی | هەمیشە |
+| ئۆپشن، ئۆپشنز | هەڵبژاردە | option | Option | ئینگلیزی | هەمیشە |
+| ئۆکەی | باشە | ok, okay, fine | okay, gut, in Ordnung | ئینگلیزی | هەمیشە |
+| ئیتیکی، ئەتیکی | ڕەوشتی | ethical, moral | ethisch, moralisch | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئیمپۆرت | هاوردەکردن | import | Import, importieren | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئیمەیڵ، ئیمەیل، ئیمێل | نامەی ئەلیکترۆنی | email | E-Mail | ئینگلیزی | توند |
+| ئینبۆکس | نامەکان | inbox | Posteingang | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئینتەرفەیس | ڕووکار | interface | Oberfläche, Schnittstelle | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئینستاڵ | دامەزراندن | install, installation | installieren, Installation | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئینستۆل | دانان | install | installieren | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئینفۆرمەیشن، ئینفۆ | زانیاری | information | Information, Informationen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئینپوت | تێخراو | input | Eingabe, Input | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئینڤالید | نادروست | invalid, incorrect | ungültig, falsch | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئینکریپشن | نهێنیکردن | encryption, encrypt | Verschlüsselung, verschlüsseln | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئیڤێنت | ڕووداو، بۆنە | event, occasion | Veranstaltung, Ereignis, Anlass | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئێتنیک | ڕەگەزی | ethnic, racial | ethnisch | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئێدیت، ئیدیت | دەستکاریکردن | edit | bearbeiten | ئینگلیزی | هەمیشە |
+| ئێدیتۆر | سەرنووسەر، دەستکاریکەر | editor | Redakteur, Editor, Herausgeber | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئێرۆر، ئیرۆر، ئێڕۆر | هەڵە | error | Fehler | ئینگلیزی | هەمیشە |
+| ئێکسپۆرت | هەناردەکردن | export | Export, exportieren | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەتاچ | پاشکۆکردن | attach | anhängen, beifügen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەتاچمێنت | پاشکۆ | attachment, appendix | Anhang, Anlage | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەدرەس | ناونیشان | address | Adresse, Anschrift | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەدمین | بەڕێوەبەر | admin, administrator | Administrator, Admin | ئینگلیزی | هەمیشە |
+| ئەرای | ڕیز | array, row, sequence | Array, Reihe | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەلارم | زەنگ | alarm, bell | Alarm, Wecker, Klingel | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەنئینستاڵ | لابردن | uninstall, remove | deinstallieren, entfernen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەنالیز، ئانالیز | شیکردنەوە | analysis, analyze | Analyse, analysieren | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەپ، ئاپ | بەرنامە | app, application, program | App, Anwendung, Programm | ئینگلیزی | توند |
+| ئەپدەیت، ئاپدەیت | نوێکردنەوە | update | aktualisieren, Update, Aktualisierung | ئینگلیزی | هەمیشە |
+| ئەپلۆد، ئاپلۆد | بارکردن | upload | hochladen, Upload | ئینگلیزی | هەمیشە |
+| ئەپلیکەیشن، ئەپڵیکەیشن | بەرنامە | application, app, program | Anwendung, App, Programm | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەپگرەید | بەرزکردنەوە | upgrade, raise | Upgrade, aufrüsten, erhöhen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەڕەی | ڕیزبەند | array | Array, Feld, Reihe | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەڤاتار | وێنۆچکە | avatar, profile picture | Avatar, Profilbild | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئەکاونت، ئەکاونتی | هەژمار | account | Konto | ئینگلیزی | هەمیشە |
+| ئەکسێس | دەستگەیشتن | access | Zugang, Zugriff | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| باتن، بەتن | دوگمە | button | Schaltfläche, Knopf, Taste | ئینگلیزی | هەمیشە |
+| بارکۆد | هێڵکۆد | barcode | Barcode, Strichcode | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| باگ | هەڵە، کەموکوڕی | bug, error, flaw | Fehler, Bug, Mangel | ئینگلیزی | هەمیشە |
+| بایۆلۆژیا | زیندەزانی | biology | Biologie | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| براوزەر، بڕاوزەر | وێبگەڕ | browser, web browser | Browser, Webbrowser | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| برایتنس | ڕووناکی | brightness, light | Helligkeit, Licht | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| بلۆک | ڕێگری | block | blockieren, sperren | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| بووکمارک | دڵخواز | bookmark, favorite | Lesezeichen, Favorit | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| بیزنس | بازرگانی | business, trade, commerce | Geschäft, Handel | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| تاسک | ئەرک | task | Aufgabe | ئینگلیزی | هەمیشە |
+| تاچ | دەستلێدان | touch, tap | Berührung, berühren, tippen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| تایم | کات | time | Zeit | ئینگلیزی | هەمیشە |
+| تایملاین | هێڵی کات | timeline | Zeitleiste, Zeitachse, Chronik | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| تایپ | نووسین | type, typing, writing | tippen, schreiben, Eingabe | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ترافیک | هاتووچۆ | traffic | Verkehr | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ترێند | باو | trend, trending | Trend | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ترەینینگ | ڕاهێنان | training | Training, Schulung, Ausbildung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| تیم | دەستە | team | Team, Mannschaft | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| تێست | تاقیکردنەوە | test | Test, testen | ئینگلیزی | هەمیشە |
+| تێمپلەیت | داڕێژە | template | Vorlage | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| تێکست | دەق | text | Text | ئینگلیزی | هەمیشە |
+| تەیپ | نووسین | type, typing | tippen, schreiben | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| جیستچەر | جۆڵە | gesture, movement | Geste, Bewegung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| جینۆساید | کۆمەڵکوژی | genocide | Völkermord, Genozid | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| جیۆلۆجیا | زەویناسی | geology | Geologie | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| داتا، دەیتا | دراوە، زانیاری | data | Daten | ئینگلیزی | هەمیشە |
+| داتابەیس | بنکەدراو | database | Datenbank | ئینگلیزی | هەمیشە |
+| دارک مۆد | دۆخی تاریک | dark mode | Dunkelmodus, dunkler Modus | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| داونلۆد، داونلود | داگرتن | download | herunterladen, Download | ئینگلیزی | هەمیشە |
+| داونگرەید | دواخستنەوە | downgrade | Downgrade, herabstufen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دراگ | ڕاکێشان | drag, pull | ziehen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دلیڤەری | گەیاندن | delivery | Lieferung, Zustellung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دڕۆپ | دانان | drop, place, put | ablegen, fallen lassen, platzieren | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دکتۆر | پزیشک | doctor, physician | Arzt, Doktor | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دیباگ | هەڵەدۆزی | debugging, debug | Fehlersuche, debuggen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دیزاین | نەخشەسازی | design | Design, Gestaltung, entwerfen | ئینگلیزی | توند |
+| دیزاینەر | نەخشەساز | designer | Designer, Gestalter | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دیسلیکت | لابردنی هەڵبژاردن | deselect, unselect | abwählen, Auswahl aufheben | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دیسکاونت | داشکاندن | discount | Rabatt, Ermäßigung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دیسکتۆپ | ڕوومێزی | desktop | Desktop, Arbeitsplatz | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دیسکۆننێکت | پچڕان | disconnect, disconnection | trennen, Verbindung trennen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دیفۆڵت، دیفالت | بنەڕەت | default | Standard, Voreinstellung, Standardwert | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دیلیت | سڕینەوە | delete | löschen | ئینگلیزی | هەمیشە |
+| دیپلۆی | بڵاوکردنەوە | deploy, deployment, release | bereitstellen, Bereitstellung, veröffentlichen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دیڤایس | دەستگا | device, apparatus | Gerät, Apparat | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دیکتاتۆر، دیکتاتۆری، دیکتاتۆریەت، دیکتاتۆریەتی | زۆرداری | dictator, dictatorship, tyranny | Diktator, Diktatur, Tyrannei | ئینگلیزی | توند (پێداچوونەوە) |
+| دیکریپشن | کردنەوەی نهێنی | decryption, decrypt | Entschlüsselung, entschlüsseln | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| دێڤەلۆپەر | گەشەپێدەر | developer | Entwickler | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ریپلای | وەلامدانەوە | reply, answer | antworten, Antwort | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ساین | واژۆکردن | sign, signature | unterschreiben, Unterschrift | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ساین ئەپ | خۆتۆمارکردن | sign up, register, registration | registrieren, Registrierung, anmelden | ئینگلیزی | هەمیشە |
+| سایکۆلۆژیا | دەرونناسی | psychology | Psychologie | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ستارت | دەستپێکردن | start | starten, Start, beginnen | ئینگلیزی | هەمیشە |
+| ستۆر | فرۆشگا | store, shop | Geschäft, Laden | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ستۆری | چیرۆک | story | Story, Geschichte | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ستۆرەیج | کۆگا | storage, warehouse | Speicher, Lager | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ستۆپ | وەستاندن | stop | stoppen, anhalten | ئینگلیزی | هەمیشە |
+| ستیکەر | چەسپاوە | sticker, label | Aufkleber, Sticker | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ستەیشن، ستەشن | وێستگە | station | Station, Bahnhof, Haltestelle | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سلیکت | هەڵبژاردن | select, selection, choose | auswählen, Auswahl, wählen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سکرۆڵ، سکرول | خلیسکان | scroll | scrollen, blättern | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سکرینشۆت، سکرین شۆت | وێنەی شاشە | screenshot | Bildschirmfoto, Screenshot | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سکیڵ | لێهاتوویی | skill, competence | Fähigkeit, Kompetenz, Geschick | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سۆسیۆلۆژیا | کۆمەڵناسی | sociology | Soziologie | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سۆفتوێر، سۆفتوەیر | نەرمەکاڵا | software | Software | ئینگلیزی | هەمیشە |
+| سۆڵووشن، سۆلوشن | چارەسەر | solution | Lösung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سیلێکت | هەلبژاردن | select, choose | auswählen, wählen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سینک | هاوکاتکردن | sync, synchronize | synchronisieren, Synchronisierung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سیکیوریتی | ئاسایش | security | Sicherheit | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سیگناڵ | ئاماژە | signal, sign | Signal, Zeichen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سێتینگ، سێتینگس، سێتینگز، سێتنگ | ڕێکخستنەکان | settings | Einstellungen | ئینگلیزی | هەمیشە |
+| سێرچ، سەرچ | گەڕان | search | suchen, Suche | ئینگلیزی | هەمیشە |
+| سێرڤس، سێرڤیس | ڕاژە، خزمەتگوزاری | service | Dienst, Dienstleistung, Service | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سێرڤەر، سێرڤەڕ، سەرڤەر | ڕاژەکار | server | Server | ئینگلیزی | هەمیشە |
+| سێشن | دانیشتن | session, sitting, meeting | Sitzung, Session | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سێند | ناردن | send | senden, schicken | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سەبسکرایب | بەشداربوون | subscribe | abonnieren | ئینگلیزی | هەمیشە |
+| سەپۆرت | پشتگیری | support | Support, Unterstützung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سەکسێس | سەرکەوتن | success | Erfolg | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سەکەند، سیکەند | چرکە | second | Sekunde | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| سەیڤ | پاشەکەوتکردن | save | speichern | ئینگلیزی | هەمیشە |
+| شەتداون | داخستن | shutdown, shut down, close | Herunterfahren, herunterfahren, schließen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| شەتدۆن | داخستن | shut down, close | herunterfahren, schließen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| فایل | پەڕگە | file | Datei | ئینگلیزی | هەمیشە |
+| فایەروۆڵ، فایەرواڵ | ئاگرەدیوار | firewall | Firewall | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| فریز | وەستان | freeze, hang, stop | einfrieren, hängen, Stillstand | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| فلاش | بروسکە | flash, lightning | Blitz, Blitzlicht | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| فوڵسکرین | پڕاوپڕ | fullscreen, full screen | Vollbild | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| فۆرمات | شێواز | format, style | Format, Formatierung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| فۆنەتیک، فونەتیک | دەنگناسی | phonetics, phonology | Phonetik, Phonologie | ئینگلیزی | توند (پێداچوونەوە) |
+| فۆڵدەر، فۆلدەر | بوخچە | folder | Ordner | ئینگلیزی | هەمیشە |
+| فۆڵۆ | شوێنکەوتن | follow | folgen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| فۆڵۆوەر | شوێنکەوتوو | follower | Follower, Anhänger | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| فیدباک | ڕاوبۆچوون | feedback | Feedback, Rückmeldung | ئینگلیزی | هەمیشە |
+| فیچەر | تایبەتمەندی | feature | Funktion, Merkmal | ئینگلیزی | هەمیشە |
+| فیکس | چاککردنەوە | fix, repair | beheben, reparieren, korrigieren | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| لاتێنسی | دواکەوتن | latency, delay, lag | Latenz, Verzögerung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| لایت مۆد | دۆخی ڕووناک | light mode | Hellmodus, heller Modus | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| لایڤ | ڕاستەوخۆ | live | live, direkt | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| لایک | پەسەند | like | Like, gefällt mir, mögen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| لووپ | خولانەوە | loop, rotation | Schleife, Kreislauf | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| لۆدینگ | بارکردن، چاوەڕێ بکە | loading, please wait | Laden, bitte warten | ئینگلیزی | هەمیشە |
+| لۆکەیشن | شوێن | location, place | Standort, Ort | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| لۆگ | تۆمار | log, record | Protokoll, Log, Aufzeichnung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| لۆگئاوت، لۆگاوت | چوونەدەرەوە | log out, logout, sign out | abmelden, Abmeldung, ausloggen | ئینگلیزی | هەمیشە |
+| لۆگین، لۆگئین | چوونەژوورەوە | log in, login, sign in | anmelden, Anmeldung, einloggen | ئینگلیزی | هەمیشە |
+| لینک | بەستەر | link | Link | ئینگلیزی | هەمیشە |
+| ماتماتیک، ماتیماتیک | بیرکاری | mathematics, math | Mathematik | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| مارکێتینگ | بازاڕکاری | marketing | Marketing, Vermarktung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| مالوێر | بەرنامەی زیانبەخش | malware, malicious software | Malware, Schadsoftware | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| مانواڵ | دەستی | manual | manuell | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| مانیجەر، مەنیجەر | بەڕێوەبەر | manager, director | Manager, Leiter, Direktor | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ماوس | مشک | mouse | Maus | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ماپ | نەخشە | map | Karte, Landkarte | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| مودێل، مۆدێل | نموونە | model, example, pattern | Modell, Beispiel, Muster | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| مۆد | دۆخ | mode | Modus | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| میتینگ | کۆبوونەوە | meeting | Besprechung, Treffen, Sitzung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| مینیو، مێنیو | پێڕست | menu | Menü | ئینگلیزی | هەمیشە |
+| میوت | بێدەنگکردن | mute, silence | stummschalten, Stummschaltung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| میکانیزم، میکانیزیم | سازوکار | mechanism | Mechanismus | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| مێسج، مەسج، مەسیج | نامە | message | Nachricht | ئینگلیزی | هەمیشە |
+| مێمۆری | بیرگە | memory | Speicher, Gedächtnis | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| مێنشن، مەنشن | ئاماژەدان | mention | Erwähnung, erwähnen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| مەرسی | سوپاس | thanks, thank you | danke, Dank | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ناتیفای | ئاگادارکردنەوە | notify, notification | benachrichtigen, Benachrichtigung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| نارسیزم، نارسسیزم | خۆپەرستی | narcissism, selfishness | Narzissmus, Selbstsucht | ئینگلیزی | توند (پێداچوونەوە) |
+| نۆتیفیکەیشن، نۆتیفیکەیشنی | ئاگادارکردنەوە | notification | Benachrichtigung | ئینگلیزی | هەمیشە |
+| نۆرس | پەرستار | nurse | Krankenschwester, Pfleger | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| نیوز | هەواڵ | news | Nachrichten, Neuigkeiten | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| نێتوۆرک، نێتۆرک | تۆڕ | network | Netzwerk, Netz | ئینگلیزی | هەمیشە |
+| نێکست | دواتر | next | weiter, nächste | ئینگلیزی | هەمیشە |
+| نەمبەر | ژمارە | number | Nummer, Zahl | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| هاردوێر، هاردوەیر | ڕەقەکاڵا | hardware | Hardware | ئینگلیزی | هەمیشە |
+| هێڵپ | یارمەتی | help | Hilfe, helfen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| واڵپەیپەر | پاشبنەما | wallpaper, background | Hintergrundbild, Hintergrund | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| وۆرنینگ | ئاگاداری، هۆشداری | warning, alert | Warnung, Hinweis | ئینگلیزی | هەمیشە |
+| وێبسایت، وێبسایتی، وێب سایت | ماڵپەڕ | website | Website, Webseite | ئینگلیزی | توند (پێداچوونەوە) |
+| پاسوۆرد، پاسۆرد، پاسوورد | وشەی نهێنی | password | Passwort, Kennwort | ئینگلیزی | هەمیشە |
+| پرایڤەسی | تایبەتێتی | privacy | Privatsphäre, Datenschutz | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| پرۆبلەم | کێشە | problem, issue | Problem | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| پرۆجێکت، پڕۆجێکت | پڕۆژە | project | Projekt | ئینگلیزی | هەمیشە |
+| پرۆفایل، پڕۆفایل | پەڕەی کەسی | profile | Profil | ئینگلیزی | توند |
+| پرۆگرامەر | بەرنامەساز | programmer | Programmierer | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| پرینت | چاپکردن | print | drucken | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| پرینتەر | چاپکەر | printer | Drucker | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| پرێزێنتەیشن | پێشکەشکردن | presentation | Präsentation, Vorstellung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| پلەگین، پلۆگین | پێوەکراو | plugin, add-on, extension | Plugin, Erweiterung, Add-on | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| پڕاکتیکی، پراکتیکی | کرداری | practical | praktisch | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| پۆست | بڵاوکراوە | post | Beitrag, Post | ئینگلیزی | هەمیشە |
+| پۆپ ئەپ | دەرپەڕین | popup, pop-up | Popup, Pop-up-Fenster | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| پێرمیشن | مۆڵەت | permission | Erlaubnis, Berechtigung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| پەیج | پەڕە | page | Seite | ئینگلیزی | هەمیشە |
+| پەیست | لکاندن | paste, stick | einfügen, kleben | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| چات | گفتوگۆ | chat, conversation | Chat, Gespräch | ئینگلیزی | هەمیشە |
+| چارجەر | بارگەکەر | charger | Ladegerät | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| چەنەڵ | کەناڵ | channel | Kanal, Sender | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| چەینج | گۆڕین | change | ändern, wechseln | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕاندم، ڕاندەم | هەڕەمەکی | random | zufällig | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕۆتەیت | سووڕاندن | rotate, turn | drehen, rotieren | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیجیستر | تۆمارکردن | register, registration | registrieren, Registrierung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیزایز | گۆڕینی قەبارە | resize | Größe ändern | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیسایکڵ بین، تراش بین | خڵتەدان | recycle bin, trash | Papierkorb | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیستارت | دەستپێکردنەوە | restart | neu starten | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیستۆر | گەڕاندنەوە | restore | wiederherstellen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیسپۆنس | وەڵام | response, answer, reply | Antwort, Reaktion | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیسیڤ | وەرگرتن | receive | empfangen, erhalten | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیسێت | ڕێکخستنەوە | reset | zurücksetzen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیسێرچ | توێژینەوە | research | Forschung, forschen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیفرێش | نوێکردنەوە | refresh, update, renew | aktualisieren, erneuern | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیلیز | بڵاوکردنەوە | release, publish | veröffentlichen, Veröffentlichung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیپلای | وەڵام | reply | Antwort, antworten | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیڤیو | پێداچوونەوە | review | Überprüfung, Rezension, prüfen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیکلام، ڕێکلام | بانگەشە | advertisement, ad, advertising | Werbung, Anzeige, Reklame | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕیکوێست | داواکاری | request | Anfrage, Antrag, Anforderung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڕێکۆرد | تۆمار | record, recording | Aufnahme, Rekord, aufnehmen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڤاریەبڵ | گۆڕاو | variable | Variable, veränderlich | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڤالید | دروست | valid, correct | gültig, korrekt | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڤایبرەیشن | لەرزین | vibration, shaking, tremble | Vibration, Zittern, vibrieren | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڤۆڵیوم | بڵندی دەنگ | volume, loudness | Lautstärke | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ڤێرژن، ڤێرشن، ڤێرژەن | وەشان | version | Version | ئینگلیزی | هەمیشە |
+| ڤێریفای | دڵنیاکردنەوە | verify, confirm, make sure | verifizieren, bestätigen, überprüfen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کاش | حەشارگە | cache | Cache, Zwischenspeicher | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کانسڵ، کانسێڵ | هەڵوەشاندنەوە، پاشگەزبوونەوە | cancel, cancellation | abbrechen, stornieren, Abbruch | ئینگلیزی | هەمیشە |
+| کاپیتالیزم، کاپیتالیزمی، کابیتالیزم | سەرمایەداری | capitalism | Kapitalismus | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کراش | لەکارکەوتن | crash, breakdown | Absturz, abstürzen, Ausfall | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کرۆپ | بڕین | crop, cut | zuschneiden, schneiden | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کریەیتەر | داهێنەر | creator | Ersteller, Schöpfer | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کرەش | ڕووخان | crash, collapse | Absturz, Zusammenbruch, abstürzen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کلاس | پۆل | class, category | Klasse, Kategorie | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کلاود | هەور | cloud | Wolke, Cloud | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کلیک | کرتە، کرتەکردن | click | klicken, Klick | ئینگلیزی | هەمیشە |
+| کۆدینگ | کۆدنووسین | coding, programming | Programmieren, Codierung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کۆرس | خول | course | Kurs, Lehrgang | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کۆمێنت، کۆمێنتی | لێدوان | comment | Kommentar | ئینگلیزی | هەمیشە |
+| کۆنتاکت | پەیوەندی | contact | Kontakt | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کۆنتڕاکت، کۆنتراکت | گرێبەست | contract | Vertrag | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کۆنتێنت | ناوەڕۆک | content | Inhalt | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کۆننێکت | پەیوەستبوون | connect, connection | verbinden, Verbindung | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کۆپی | لەبەرگرتنەوە | copy | kopieren, Kopie | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| کیبۆرد | تەختەکلیل | keyboard | Tastatur | ئینگلیزی | هەمیشە |
+| کەنسڵ | هەلوەشاندنەوە | cancel | abbrechen, stornieren | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| گرووپ، گروپ | کۆمەڵە | group | Gruppe | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| یوزەر، یووزەر | بەکارهێنەر | user | Benutzer, Nutzer | ئینگلیزی | هەمیشە |
+| یوزەرنەیم، یووزەرنەیم | ناوی بەکارهێنەر | username | Benutzername | ئینگلیزی | هەمیشە |
+| یوینستۆل، ئەنیوینستۆل، ئەنئینستۆل | لابردن | uninstall, remove | deinstallieren, entfernen | ئینگلیزی | هەمیشە (پێداچوونەوە) |
+| ئارز، ارز | دراوی بیانی | foreign currency, foreign exchange | Devisen, Fremdwährung | فارسی | توند (پێداچوونەوە) |
+| ئافات | کارەسات | disaster, calamity, catastrophe | Katastrophe, Unglück, Unheil | فارسی | هەمیشە (پێداچوونەوە) |
+| ئوستاد | مامۆستا | teacher, professor | Lehrer, Professor | فارسی | توند (پێداچوونەوە) |
+| ئومێد | هیوا | hope | Hoffnung | فارسی | هەمیشە (پێداچوونەوە) |
+| بایەقوش، بایەقووش | کوندەپەپوو | owl | Eule | فارسی | توند (پێداچوونەوە) |
+| برادەر | هاوڕێ | friend, buddy | Freund, Kumpel | فارسی | هەمیشە (پێداچوونەوە) |
+| بول | میز | urine | Urin, Harn | فارسی | هەمیشە (پێداچوونەوە) |
+| بیشتر | زیاتر | more | mehr | فارسی | هەمیشە |
+| بیمار | نەخۆش | sick, ill, patient | krank, Patient | فارسی | هەمیشە (پێداچوونەوە) |
+| تداوی | چارەسەرکردن | treatment, cure, treat | Behandlung, Heilung, behandeln | فارسی | هەمیشە (پێداچوونەوە) |
+| تۆفان، طوفان | ڕەشەبا | storm, hurricane, tempest | Sturm, Orkan | فارسی | هەمیشە (پێداچوونەوە) |
+| تەداوی | چارەسەرکردن | treatment, cure | Behandlung, Heilung | فارسی | هەمیشە (پێداچوونەوە) |
+| تەفاوت | جیاوازی | difference | Unterschied | فارسی | هەمیشە (پێداچوونەوە) |
+| تەلاش | هەوڵ | effort, endeavor, try | Bemühung, Anstrengung, versuchen | فارسی | هەمیشە (پێداچوونەوە) |
+| تەماشا | سەیر | look, watch, view | ansehen, zuschauen, Anblick | فارسی | هەمیشە (پێداچوونەوە) |
+| حەفتە | هەفتە | week | Woche | فارسی | هەمیشە (پێداچوونەوە) |
+| خاتیرە، خاطرات، خاتیرات، خاتیره | یادەوەری، بیرەوەری | memory, memoir, recollection | Erinnerung, Memoiren | فارسی | هەمیشە (پێداچوونەوە) |
+| خواهش، خاهش | داوا | request, wish | Bitte, Wunsch | فارسی | هەمیشە (پێداچوونەوە) |
+| خوب | باش | good | gut | فارسی | هەمیشە |
+| خەیلی | زۆر | very, a lot, much | sehr, viel | فارسی | هەمیشە |
+| دۆست | هاوڕێ | friend | Freund | فارسی | هەمیشە (پێداچوونەوە) |
+| دیدار | چاوپێکەوتن، بینین | meeting, visit, sight | Treffen, Besuch, Wiedersehen | فارسی | هەمیشە (پێداچوونەوە) |
+| دیهقان، دهقان، ده‌قان | جوتیار | farmer, peasant | Bauer, Landwirt | فارسی | هەمیشە (پێداچوونەوە) |
+| دێهقان، دەهقان | جوتیار | farmer, peasant | Bauer, Landwirt | فارسی | هەمیشە (پێداچوونەوە) |
+| دەرحاڵ، دەرحال | دەستبەجێ، یەکسەر | immediately, at once | sofort, unverzüglich | فارسی | هەمیشە (پێداچوونەوە) |
+| دەرد | ئازار | pain, suffering | Schmerz, Leid | فارسی | توند (پێداچوونەوە) |
+| دەستوور، دستور | یاسای بنەڕەتی | constitution | Verfassung | فارسی | توند (پێداچوونەوە) |
+| زووکام، زکام | سەرماهەڵگرتن | cold, common cold | Erkältung, Schnupfen | فارسی | هەمیشە (پێداچوونەوە) |
+| زەخم | بریین | wound | Wunde | فارسی | هەمیشە (پێداچوونەوە) |
+| سەرمەشق | نموونە | model, example, role model | Vorbild, Beispiel, Muster | فارسی | هەمیشە (پێداچوونەوە) |
+| سەوزەوات، سەوزیجات | سەوزە | vegetables | Gemüse | فارسی | هەمیشە (پێداچوونەوە) |
+| شاید | لەوانەیە | maybe, perhaps | vielleicht | فارسی | هەمیشە |
+| عەرزوحال، عەرز حاڵ، عەرزحاڵ | سکاڵا | petition, complaint | Bittschrift, Beschwerde, Gesuch | فارسی | توند (پێداچوونەوە) |
+| فشار | گوشار | pressure | Druck | فارسی | هەمیشە (پێداچوونەوە) |
+| فیهرست | پێڕست | index, table of contents, list | Inhaltsverzeichnis, Verzeichnis, Index | فارسی | هەمیشە (پێداچوونەوە) |
+| قارەمان | پالەوان | hero, champion | Held, Meister | فارسی | هەمیشە (پێداچوونەوە) |
+| قرمز | سووری تۆخ | crimson, dark red | karminrot, dunkelrot | فارسی | توند (پێداچوونەوە) |
+| قەرارداد | گرێبەست | contract, agreement | Vertrag, Vereinbarung | فارسی | توند (پێداچوونەوە) |
+| قەهرەمان، قەهرامان | پاڵەوان | hero, champion | Held, Meister | فارسی | هەمیشە (پێداچوونەوە) |
+| مانا | واتا | meaning, sense | Bedeutung, Sinn | فارسی | هەمیشە (پێداچوونەوە) |
+| مودارا | لێبووردن | tolerance, leniency, forbearance | Nachsicht, Toleranz, Duldsamkeit | فارسی | توند (پێداچوونەوە) |
+| موژگان | برژانگ | eyelash | Wimper | فارسی | هەمیشە (پێداچوونەوە) |
+| نارەحەت | دڵتەنگ، دڵگران | upset, sad, uncomfortable | traurig, bedrückt, verärgert | فارسی | هەمیشە (پێداچوونەوە) |
+| پاداشت | خەڵات | reward, prize, award | Belohnung, Preis, Auszeichnung | فارسی | هەمیشە (پێداچوونەوە) |
+| پیچیدە | ئاڵۆز | complicated, complex | kompliziert, verwickelt, komplex | فارسی | هەمیشە (پێداچوونەوە) |
+| کۆشش، کۆششی | هەوڵ | effort, endeavor | Bemühung, Anstrengung | فارسی | هەمیشە (پێداچوونەوە) |
+| کۆمەک | یارمەتی | help, aid, assistance | Hilfe, Unterstützung | فارسی | هەمیشە (پێداچوونەوە) |
+| گوناه | تاوان | sin, guilt, crime | Sünde, Schuld, Vergehen | فارسی | هەمیشە (پێداچوونەوە) |
+| یاخود | یان | or | oder | فارسی | هەمیشە (پێداچوونەوە) |
+| یاداشت، یادداشت | تێبینی | note, memo | Notiz, Vermerk | فارسی | هەمیشە (پێداچوونەوە) |
+| ئابلوقە، ئابڵوقە | گەمارۆ | siege, blockade | Belagerung, Blockade | تورکی | هەمیشە (پێداچوونەوە) |
+| ئیش | کار | work, job | Arbeit | تورکی | هەمیشە |
+| بوش | بەتاڵ | empty, vacant | leer, frei | تورکی | توند (پێداچوونەوە) |
+| تاقم | دەستە | set, team, crew, group | Satz, Team, Mannschaft, Gruppe | تورکی | هەمیشە (پێداچوونەوە) |
+| خەستە | ماندوو | tired, exhausted | müde, erschöpft | تورکی | هەمیشە (پێداچوونەوە) |
+| دۆغرو، دوغرو | ڕاستەڕاست | straight, directly, honest | geradeaus, direkt, ehrlich | تورکی | هەمیشە (پێداچوونەوە) |
+| شەپقە | کلاو | hat, cap | Hut, Mütze | تورکی | هەمیشە (پێداچوونەوە) |
+| فامیل | خزم | relative, family, kin | Verwandter, Familie, Verwandtschaft | تورکی | هەمیشە (پێداچوونەوە) |
+| قایش | پشتێن | belt, strap | Gürtel, Riemen | تورکی | هەمیشە (پێداچوونەوە) |
+| قوندەرە، قۆندەرە، قۆندەرەی | پێڵاو | shoe | Schuh | تورکی | هەمیشە (پێداچوونەوە) |
+| قۆماندا، کۆماندا، کوماندا | فەرمان | command, order | Befehl, Kommando | تورکی | هەمیشە (پێداچوونەوە) |
+| قەدەغە | ڕێگەپێنەدراو | forbidden, prohibited, ban | verboten, Verbot | تورکی | توند |
+| قەشەنگ | جوان | beautiful, pretty, nice | schön, hübsch | تورکی | توند (پێداچوونەوە) |
+| موختار | گوندساڵار | village head, headman | Dorfvorsteher, Ortsvorsteher | تورکی | توند (پێداچوونەوە) |
+| یاواش | بەهێمنی | slowly, calmly, gently | langsam, ruhig, sanft | تورکی | توند (پێداچوونەوە) |
