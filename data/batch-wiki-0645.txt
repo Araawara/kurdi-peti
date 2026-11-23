@@ -1,0 +1,14 @@
+غەنیمەت|غەنیمە|دەستکەوت|strict|ar|knowledge
+قەرز|قەرض|دەین|core|ar|knowledge
+موخالەفە|مخالفة,مخالفه|دژایەتی|strict|ar|knowledge
+تەهجیر|تهجیر|ئاوارەکردن|strict|ar|knowledge
+تەجدید|تجدید|نۆژەنکردنەوە|core|ar|knowledge
+تەخریب|تخریب|وێرانکردن|core|ar|knowledge
+موعتەقەل|معتقل|بەندکراو|strict|ar|knowledge
+تەرخان||تایبەتکردن|core|ar|knowledge
+تەئمین|تأمین,تامین|دابینکردن|core|ar|knowledge
+تەئخیر|تأخیر,تاخیر|دواخستن|core|ar|knowledge
+تەئسیس|تأسیس,تاسیس|دامەزراندن|core|ar|knowledge
+تەرجیح|ترجیح|پێشخستن|strict|ar|knowledge
+تەوسیع|توسیع|فراوانکردن|strict|ar|knowledge
+موحەڕڕیر|محرر|سەرنووسەر|strict|ar|knowledge
