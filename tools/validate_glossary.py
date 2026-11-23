@@ -12,7 +12,7 @@ from pathlib import Path
 PATH = Path(__file__).resolve().parent.parent / "skills" / "kurdi-peti" / "references" / "glossary.json"
 ORIGINS = {"ar", "fa", "tr", "en"}
 LEVELS = {"core", "strict"}
-KEYS = {"loan", "variants", "origin", "pure", "level", "review", "note", "source", "exact"}
+KEYS = {"loan", "variants", "origin", "pure", "level", "review", "note", "source", "exact", "en", "de"}
 BAD_CHARS = {"ك": "ک", "ي": "ی", "ى": "ی", "ة": "ە", "ـ": ""}
 
 
@@ -68,6 +68,15 @@ def validate(data):
         for text_key in ("source", "note"):
             if text_key in e and not isinstance(e[text_key], str):
                 errors.append(f"{where}: «{text_key}» دەبێت دەق بێت")
+        for lang in ("en", "de"):
+            if lang in e:
+                vals = e[lang]
+                if not isinstance(vals, list) or not vals or not all(isinstance(x, str) and x.strip() for x in vals):
+                    errors.append(f"{where}: «{lang}» دەبێت لیستێکی پڕ لە دەق بێت")
+                elif any(any("\u0600" <= ch <= "\u06ff" for ch in x) for x in vals):
+                    errors.append(f"{where}: «{lang}» نابێت پیتی کوردی یان عەرەبیی تێدا بێت")
+                elif len(set(vals)) != len(vals):
+                    errors.append(f"{where}: «{lang}» دووبارەی تێدایە")
         for w in pure:
             for p in word_problems(w):
                 errors.append(f"{where}: وشەی پەتی «{w}»: {p}")

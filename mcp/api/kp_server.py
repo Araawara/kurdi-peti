@@ -42,13 +42,36 @@ def describe(e):
         line += "  [پێداچوونەوەی دەوێت]"
     if e.get("note"):
         line += f"  ({e['note']})"
+    if e.get("en"):
+        line += "  · EN: " + ", ".join(e["en"])
+    if e.get("de"):
+        line += "  · DE: " + ", ".join(e["de"])
     return line
+
+
+def is_latin(q):
+    return any("a" <= ch.lower() <= "z" for ch in q)
+
+
+def find_foreign(q, limit=20):
+    """English or German word → entries whose en/de lists contain it."""
+    q = q.lower()
+    exact, partial = [], []
+    for e in ENTRIES:
+        words = [w.lower() for w in e.get("en", []) + e.get("de", [])]
+        if q in words:
+            exact.append(e)
+        elif any(q in w.split() or (len(q) > 3 and w.startswith(q)) for w in words):
+            partial.append(e)
+    return (exact + partial)[:limit]
 
 
 def find(query, limit=20):
     q = norm(query)
     if not q:
         return [], []
+    if is_latin(q):
+        return find_foreign(q, limit), []
     exact = [e for rx, e in COMPILED if rx.fullmatch(q)]
     loans = exact or [e for e in ENTRIES if any(q in f for f in [e["loan"], *e.get("variants", [])])]
     pure = [e for e in ENTRIES if e not in loans and any(q in p for p in e["pure"])]
@@ -60,7 +83,10 @@ def find(query, limit=20):
 def tool_search_word(args):
     loans, pure = find(args.get("word", ""))
     out = []
-    if loans:
+    if loans and is_latin(args.get("word", "")):
+        out.append("وشە کوردییە پەتییەکان بۆ ئەم واتایە (یەکەمیان باشترینە):")
+        out += ["- " + describe(e) for e in loans]
+    elif loans:
         out.append("وشەی بیانی:")
         out += ["- " + describe(e) for e in loans]
     if pure:
@@ -112,8 +138,8 @@ TOOLS = [
         "title": "گەڕان لە فەرهەنگ",
         "description": "گەڕان لە فەرهەنگی کوردیی پەتی. وشەیەکی بیانی بنووسە (مەسەلە، فایل) بۆ ئەوەی جێگرەوە "
                        "کوردییەکەی بدۆزیتەوە، یان وشەیەکی کوردی (پرس) بۆ ئەوەی ببینیت جێگرەوەی کام وشە بیانییانەیە. "
-                       "شێوەی گۆڕاویش کار دەکات (مەسەلەکان). "
-                       "(Look up a loanword or a Kurdish word in the pure Sorani glossary.)",
+                       "شێوەی گۆڕاویش کار دەکات (مەسەلەکان). وشەی ئینگلیزی یان ئەڵمانیش دەدۆزرێتەوە (issue، Frage). "
+                       "(Look up a loanword, a Kurdish word, or an English/German word in the pure Sorani glossary.)",
         "inputSchema": {"type": "object", "properties": {"word": {"type": "string", "description": "وشەکە"}},
                         "required": ["word"]},
         "annotations": READ_ONLY,
