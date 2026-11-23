@@ -161,15 +161,15 @@ BLOB_API = "https://vercel.com/api/blob"
 REQUEST = {}  # per-request context (OIDC token) set by the handler
 
 
-def save_suggestion(record):
-    """Store one suggestion as a private JSON file in Vercel Blob (OIDC auth, same protocol as @vercel/blob)."""
+def save_suggestion(record, prefix="suggestions"):
+    """Store one record as a private JSON file in Vercel Blob (OIDC auth, same protocol as @vercel/blob)."""
     token = REQUEST.get("oidc") or os.environ.get("VERCEL_OIDC_TOKEN")
     store = os.environ.get("BLOB_STORE_ID")
     if not (token and store):
         raise RuntimeError("Blob storage is not configured")
     stamp = time.strftime("%Y%m%d-%H%M%S", time.gmtime())
     req = urllib.request.Request(
-        f"{BLOB_API}/?{urlencode({'pathname': f'suggestions/{stamp}.json'})}",
+        f"{BLOB_API}/?{urlencode({'pathname': f'{prefix}/{stamp}.json'})}",
         data=json.dumps(record, ensure_ascii=False).encode(), method="PUT",
         headers={"authorization": f"Bearer {token}", "x-vercel-blob-store-id": store, "x-api-version": "13",
                  "x-vercel-blob-access": "private", "x-add-random-suffix": "1",
@@ -290,6 +290,34 @@ code{{background:#f1f5f9;padding:4px 8px;border-radius:6px;direction:ltr;display
 </body></html>"""
 
 
+# ---- review page API: /review.html asks for unreviewed words and sends one verdict per word ----
+
+REVIEW_POOL = [e for e in ENTRIES if e.get("review")]
+VOTES = ("ok", "wrong", "better")
+
+
+def review_words(n=30):
+    import random
+    pick = random.sample(REVIEW_POOL, min(n, len(REVIEW_POOL)))
+    return {"left": len(REVIEW_POOL), "words": [
+        {"loan": e["loan"], "variants": e.get("variants", []), "pure": e["pure"],
+         "origin": ORIGINS.get(e["origin"], e["origin"]), "note": e.get("note", "")} for e in pick]}
+
+
+def save_review(data):
+    """Validate one verdict and store it under reviews/. Returns an error text or None."""
+    if not isinstance(data, dict):
+        return "داواکارییەکە هەڵەیە"
+    loan, vote, better = norm(str(data.get("loan", "")))[:60], str(data.get("vote", "")), norm(str(data.get("better", "")))[:200]
+    if vote not in VOTES or not any(e["loan"] == loan for e in REVIEW_POOL):
+        return "وشەکە یان دەنگەکە نەناسرایەوە"
+    if vote == "better" and not better:
+        return "وشە باشترەکە بنووسە"
+    save_suggestion({"type": "review", "loan": loan, "vote": vote, "better": better if vote == "better" else "",
+                     "at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}, prefix="reviews")
+    return None
+
+
 class handler(BaseHTTPRequestHandler):
     def _send(self, status, body=b"", ctype="application/json"):
         self.send_response(status)
@@ -314,6 +342,14 @@ class handler(BaseHTTPRequestHandler):
             loans, _ = find(path[len("/word/"):], limit=1)
             text = describe(loans[0]) if loans else "نەدۆزرایەوە"
             return self._send(200, text.encode(), "text/plain")
+        if path.rstrip("/") == "/review":
+            self.send_response(308)
+            self.send_header("Location", "/review.html")
+            self.send_header("Content-Length", "0")
+            self.end_headers()
+            return None
+        if path == "/review/words":
+            return self._send(200, json.dumps(review_words(), ensure_ascii=False).encode())
         if path.rstrip("/") == "/mcp":
             return self._send(405, b'{"error":"Use POST for MCP"}')
         # No auth: OAuth discovery (/.well-known/...) and unknown paths must 404,
@@ -323,6 +359,20 @@ class handler(BaseHTTPRequestHandler):
         self._send(200, HOME.format(base=self._base(), count=len(ENTRIES)).encode(), "text/html")
 
     def do_POST(self):
+        if self.path.split("?")[0] == "/review/vote":
+            try:
+                length = min(int(self.headers.get("Content-Length") or 0), 4096)
+                data = json.loads(self.rfile.read(length) or b"null")
+            except (ValueError, json.JSONDecodeError):
+                data = None
+            REQUEST["oidc"] = self.headers.get("x-vercel-oidc-token")
+            try:
+                error = save_review(data)
+            except Exception:
+                return self._send(503, json.dumps({"error": "پاشەکەوتکردن سەرکەوتوو نەبوو"}, ensure_ascii=False).encode())
+            if error:
+                return self._send(400, json.dumps({"error": error}, ensure_ascii=False).encode())
+            return self._send(200, b'{"ok":true}')
         if self.path.split("?")[0].rstrip("/") not in ("", "/mcp"):
             return self._send(404, b'{"error":"Not found"}')
         try:

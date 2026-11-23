@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="ckb" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>کوردیی پەتی – پێداچوونەوە</title>
+<meta name="description" content="پێداچوونەوەی وشەکانی فەرهەنگی کوردیی پەتی: ئایا جێگرەوە کوردییەکە ڕاستە؟">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<style>
+:root{--bg:#fbfaf7;--fg:#1d1b18;--mut:#5f5a52;--card:#fff;--line:#e6e1d8;--acc:#1f7a3a;--red:#c8102e;--sun:#f2b705}
+@media (prefers-color-scheme:dark){:root{--bg:#141311;--fg:#ece8e1;--mut:#a59f95;--card:#1d1c19;--line:#2e2c28;--acc:#4cc06e;--red:#ef5a6f}}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.7 "Vazirmatn","Noto Naskh Arabic","Noto Sans Arabic",system-ui,sans-serif}
+.flag{height:6px;background:linear-gradient(var(--red) 0 33%,#fff 33% 66%,var(--acc) 66%)}
+.wrap{max-width:560px;margin:0 auto;padding:20px 16px 40px;min-height:calc(100dvh - 6px);display:flex;flex-direction:column}
+header{display:flex;align-items:center;gap:12px}
+header img{width:40px;height:40px;border-radius:10px;border:1px solid var(--line)}
+h1{font-size:20px;margin:0;line-height:1.3}
+.mut{color:var(--mut);font-size:15px}
+.bar{height:6px;background:var(--line);border-radius:3px;margin:16px 0 6px;overflow:hidden}
+.bar i{display:block;height:100%;width:0;background:var(--acc);transition:width .25s}
+.count{display:flex;justify-content:space-between;font-size:14px;color:var(--mut)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px 18px;margin:16px 0;text-align:center}
+.loan{font-size:32px;font-weight:700;line-height:1.4}
+.vars{font-size:15px;color:var(--mut);min-height:1.5em}
+.arrow{font-size:22px;color:var(--mut);margin:6px 0}
+.pure{font-size:28px;font-weight:700;color:var(--acc);line-height:1.5}
+.note{font-size:15px;color:var(--mut);margin-top:6px}
+.q{text-align:center;margin:4px 0 10px;font-size:16px}
+.btns{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+button{font:inherit;font-size:18px;border-radius:14px;border:1px solid var(--line);background:var(--card);color:var(--fg);padding:14px 8px;min-height:56px;cursor:pointer}
+button:active{transform:scale(.98)}
+button:disabled{opacity:.5;cursor:default}
+.ok{background:var(--acc);border-color:var(--acc);color:#fff}
+.wrong{border-color:var(--red);color:var(--red)}
+.wide{grid-column:1/-1}
+.skip{background:none;border:0;color:var(--mut);font-size:15px;min-height:44px}
+.better{display:none;margin-top:10px;gap:8px}
+.better.on{display:flex}
+input{flex:1;min-width:0;font:inherit;font-size:18px;padding:12px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--fg)}
+.msg{text-align:center;min-height:1.6em;font-size:15px;color:var(--mut)}
+.done{text-align:center;padding:30px 0}
+.done b{font-size:26px;display:block;margin-bottom:8px}
+footer{margin-top:auto;padding-top:24px;font-size:14px;text-align:center}
+a{color:var(--acc)}
+</style>
+</head>
+<body>
+<div class="flag"></div>
+<main class="wrap">
+<header><img src="/icon.svg" alt="ئاڵای کوردستان"><div><h1>پێداچوونەوەی وشەکان</h1><div class="mut">ئایا جێگرەوە کوردییەکە ڕاستە؟</div></div></header>
+
+<div class="bar"><i id="bar"></i></div>
+<div class="count"><span id="pos">…</span><span id="left"></span></div>
+
+<section id="main">
+  <div class="card" aria-live="polite">
+    <div class="loan" id="loan">…</div>
+    <div class="vars" id="vars"></div>
+    <div class="arrow">↓</div>
+    <div class="pure" id="pure"></div>
+    <div class="note" id="note"></div>
+  </div>
+  <p class="q">ئایا ئەم وشە کوردییە جێگرەوەیەکی دروستە بۆ وشە بیانییەکە؟</p>
+  <div class="btns">
+    <button class="ok" data-vote="ok">✓ ڕاستە</button>
+    <button class="wrong" data-vote="wrong">✗ هەڵەیە</button>
+    <button class="wide" id="betterBtn">✎ وشەیەکی باشترم هەیە</button>
+  </div>
+  <form class="better" id="betterForm">
+    <input id="betterIn" maxlength="200" placeholder="وشە باشترەکە بنووسە" autocomplete="off">
+    <button class="ok" type="submit">ناردن</button>
+  </form>
+  <div class="btns"><button class="skip wide" id="skip">نازانم، بازدان ←</button></div>
+  <p class="msg" id="msg"></p>
+</section>
+
+<section id="end" class="done" hidden>
+  <b>سوپاس! 🌿</b>
+  <p id="endText"></p>
+  <button class="ok" id="more">٣٠ وشەی تر</button>
+</section>
+
+<footer class="mut">دەنگەکان بێ ناو پاشەکەوت دەکرێن و هەموو ڕۆژێک دەخوێندرێنەوە. <a href="/docs.html">ڕێنمایی</a> · <a href="/privacy.html">تایبەتمەندی</a></footer>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const KU = n => String(n).replace(/\d/g, d => "٠١٢٣٤٥٦٧٨٩"[d]);
+let words = [], i = 0, sent = 0, busy = false;
+
+async function load() {
+  $("main").hidden = false; $("end").hidden = true; $("msg").textContent = "";
+  $("loan").textContent = "…"; $("pure").textContent = ""; $("vars").textContent = ""; $("note").textContent = "";
+  try {
+    const r = await fetch("/review/words", {cache: "no-store"});
+    const d = await r.json();
+    words = d.words; i = 0;
+    $("left").textContent = KU(d.left) + " وشە پێداچوونەوەیان ماوە";
+    show();
+  } catch (e) { $("msg").textContent = "پەیوەندی نەکرا. تکایە پەڕەکە نوێ بکەرەوە."; }
+}
+
+function show() {
+  if (i >= words.length) return finish();
+  const w = words[i];
+  $("loan").textContent = w.loan;
+  $("vars").textContent = (w.variants.length ? w.variants.join("، ") + " · " : "") + w.origin;
+  $("pure").textContent = w.pure.join("، ");
+  $("note").textContent = w.note || "";
+  $("pos").textContent = KU(i + 1) + " لە " + KU(words.length);
+  $("bar").style.width = (i / words.length * 100) + "%";
+  $("betterForm").classList.remove("on"); $("betterIn").value = "";
+}
+
+async function vote(v, better) {
+  if (busy) return;
+  busy = true;
+  document.querySelectorAll("button").forEach(b => b.disabled = true);
+  try {
+    const r = await fetch("/review/vote", {method: "POST", headers: {"content-type": "application/json"},
+      body: JSON.stringify({loan: words[i].loan, vote: v, better: better || ""})});
+    if (!r.ok) throw new Error((await r.json()).error);
+    sent++; i++; $("msg").textContent = ""; show();
+  } catch (e) { $("msg").textContent = e.message || "نەنێردرا، دووبارە هەوڵ بدەرەوە."; }
+  busy = false;
+  document.querySelectorAll("button").forEach(b => b.disabled = false);
+}
+
+function finish() {
+  $("bar").style.width = "100%";
+  $("main").hidden = true; $("end").hidden = false;
+  $("endText").textContent = KU(sent) + " دەنگت دا. هەر دەنگێک فەرهەنگەکە باشتر دەکات.";
+}
+
+document.querySelectorAll("[data-vote]").forEach(b => b.onclick = () => vote(b.dataset.vote));
+$("betterBtn").onclick = () => { $("betterForm").classList.add("on"); $("betterIn").focus(); };
+$("betterForm").onsubmit = e => { e.preventDefault(); const t = $("betterIn").value.trim(); if (t) vote("better", t); };
+$("skip").onclick = () => { if (!busy) { i++; show(); } };
+$("more").onclick = load;
+load();
+</script>
+</body>
+</html>

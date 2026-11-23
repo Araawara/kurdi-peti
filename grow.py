@@ -7,6 +7,7 @@
   python grow.py reject FILE     وشەکانی FILE (یەک لە هەر ڕیزێک) بۆ data/rejected.txt، تا دووبارە پێشنیار نەکرێنەوە
   python grow.py fp FILE         پشکنینی هەڵەی ناسینەوە: وشەکانی FILE لە کتێبەکاندا چی دەگرن
   python grow.py publish         build.py و نوێکردنەوەی سکیڵی Claude Code (Vercel لە ڕێگەی GitHubەوە بڵاو دەکاتەوە)
+  python grow.py reviews         دەنگەکانی پەڕەی /review: ✓✓ بێ ناڕەزایی ← نیشانەی review لادەبرێت؛ ئەوانی تر ← data/review_todo.txt
   python grow.py done            پێشنیارە نوێیەکان وەک چارەسەرکراو نیشان دەکات
   python grow.py sync            وەرگرتنی نوێترین وەشان لە GitHub (وشە پەسەندکراوەکانی Issues)
   python grow.py commit          ناردنی گۆڕانکارییەکانی ئەمڕۆ بۆ GitHub
@@ -120,9 +121,8 @@ def blob_request(url, token, store, method="GET", body=None):
         return r.read()
 
 
-def cmd_pull():
-    token, store = blob_env()
-    listing = json.loads(blob_request(f"{BLOB_API}?{urlencode({'prefix': 'suggestions/', 'limit': 1000})}", token, store))
+def pull_prefix(prefix, out, token, store):
+    listing = json.loads(blob_request(f"{BLOB_API}?{urlencode({'prefix': prefix + '/', 'limit': 1000})}", token, store))
     blobs = listing.get("blobs", [])
     got = []
     for b in blobs:
@@ -132,12 +132,58 @@ def cmd_pull():
             print(f"skip {b.get('pathname')}: {exc}")
             blobs = [x for x in blobs if x is not b]
     if got:
-        with open(DATA / "suggestions.jsonl", "a", encoding="utf-8") as fh:
+        with open(DATA / out, "a", encoding="utf-8") as fh:
             for s in got:
                 fh.write(json.dumps({**s, "status": "new"}, ensure_ascii=False) + "\n")
     if blobs:
         blob_request(f"{BLOB_API}/delete", token, store, "POST", {"urls": [b["url"] for b in blobs]})
-    log(f"pull: {len(got)} پێشنیاری نوێ")
+    return len(got)
+
+
+def cmd_pull():
+    token, store = blob_env()
+    n = pull_prefix("suggestions", "suggestions.jsonl", token, store)
+    r = pull_prefix("reviews", "reviews.jsonl", token, store)
+    log(f"pull: {n} پێشنیاری نوێ، {r} دەنگی پێداچوونەوە")
+
+
+# ---- reviews: votes from the /review page ----
+
+def cmd_reviews():
+    path = DATA / "reviews.jsonl"
+    rows = [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()] if path.exists() else []
+    votes = collections.defaultdict(list)
+    for r in rows:
+        if r.get("status") == "new":
+            votes[r["loan"]].append(r)
+    g = load()
+    by_loan = {e["loan"]: e for e in g["entries"]}
+    approved, todo = [], []
+    for loan, vs in votes.items():
+        e = by_loan.get(loan)
+        c = collections.Counter(v["vote"] for v in vs)
+        if not e or not e.get("review"):
+            for v in vs:
+                v["status"] = "done"
+        elif c["ok"] >= 2 and not c["wrong"] and not c["better"]:
+            e.pop("review", None)
+            approved.append(loan)
+            for v in vs:
+                v["status"] = "done"
+        elif c["wrong"] or c["better"]:
+            better = sorted({v["better"] for v in vs if v.get("better")})
+            todo.append(f"{loan}\t{'، '.join(e['pure'])}\t✓{c['ok']} ✗{c['wrong']}"
+                        + (f"\tپێشنیار: {'، '.join(better)}" if better else ""))
+            for v in vs:
+                v["status"] = "done"
+        # a single ✓ waits for a second vote
+    if approved:
+        save(g)
+    if rows:
+        path.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows), encoding="utf-8")
+    (DATA / "review_todo.txt").write_text("\n".join(todo) + ("\n" if todo else ""), encoding="utf-8")
+    log(f"reviews: {len(approved)} وشە پەسەند کران، {len(todo)} وشە بۆ بڕیاردان")
+    print(f"پەسەندکراو: {len(approved)}  |  بۆ بڕیاردان (data/review_todo.txt): {len(todo)}")
 
 
 # ---- todo: next corpus candidates ----
@@ -310,6 +356,8 @@ if __name__ == "__main__":
         {"merge": cmd_merge, "reject": cmd_reject, "fp": cmd_fp}[cmd](args[1])
     elif cmd == "publish":
         cmd_publish()
+    elif cmd == "reviews":
+        cmd_reviews()
     elif cmd == "done":
         cmd_done()
     elif cmd == "sync":

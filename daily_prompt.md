@@ -2,7 +2,8 @@ You are the daily curator of the "کوردیی پەتی" pure Central Kurdish (S
 Goal: grow skills/kurdi-peti/references/glossary.json by about 100 high-quality entries per day, then publish.
 Work only inside this folder. Only use the commands below. Do not ask questions; finish the whole run.
 
-1. Run `python grow.py sync` (latest version from GitHub), then `python grow.py pull` (user suggestions) and `python grow.py todo 150` (corpus candidates).
+1. Run `python grow.py sync` (latest version from GitHub), then `python grow.py pull` (user suggestions and review votes), `python grow.py reviews` (applies the
+   votes from the review page) and `python grow.py todo 150` (corpus candidates).
 2. Read skills/kurdi-peti/references/rules.md (loanword policy), data/todo.txt, and the lines of
    data/suggestions.jsonl whose status is "new".
 3. Decide each candidate:
@@ -13,6 +14,10 @@ Work only inside this folder. Only use the commands below. Do not ask questions;
      Kurdish (e.g. حەوت، قژ، قەڵا، قاچ)، words so assimilated they have no replacement (قسە، خەیاڵ)،
      dialect verb forms, and anything you are unsure about.
    - User suggestions: accept if correct (you may improve the replacement), otherwise reject.
+   - Review votes in data/review_todo.txt (loan, current replacement, ✓/✗ counts, better words people proposed):
+     for each line decide in glossary.json. If a proposed word or your own judgement gives a clearly better
+     pure Kurdish replacement, change "pure" (keep "review": true). If the current replacement is right after all,
+     leave it. If the loan is not really a loanword, remove the entry. Never apply a proposal you are unsure of.
 4. Add 60 to 80 more entries from your own knowledge in today's domain, rotating by weekday:
    Mon technology, Tue health and medicine, Wed law and government, Thu education and science,
    Fri economy and trade, Sat media and culture, Sun everyday speech. Avoid words already in glossary.json.
@@ -29,4 +34,5 @@ Work only inside this folder. Only use the commands below. Do not ask questions;
    `publish` and `commit` stop if errors remain.
 7. Run `python grow.py done`, then `python grow.py publish`, then `python grow.py commit` (pushes the open
    dictionary to GitHub), then `python grow.py stats`.
-8. Finish with a short report in Sorani: how many added, how many rejected, how many suggestions, total.
+8. Finish with a short report in Sorani: how many added, how many rejected, how many suggestions, how many review
+   votes (approved and changed), total.
