@@ -43,9 +43,42 @@ def load():
 
 
 def save(data):
+    merged = merge_duplicates(data["entries"])
+    if merged:
+        log(f"save: {merged} ڕیزی دووبارە تێکەڵ کرا")
     body = ",\n".join("    " + json.dumps(e, ensure_ascii=False) for e in data["entries"])
     GLOSSARY.write_text('{\n  "version": 1,\n  "about": ' + json.dumps(data["about"], ensure_ascii=False)
                         + ',\n  "entries": [\n' + body + "\n  ]\n}\n", encoding="utf-8")
+
+
+def merge_duplicates(entries):
+    """ڕیزە دووبارەکان (هەمان وشەی بیانی) تێکەڵ دەکات و یەکەمیان دەهێڵێتەوە. ژمارەی تێکەڵکراوەکان دەگەڕێنێتەوە."""
+    first, out, merged = {}, [], 0
+    for e in entries:
+        keep = first.get(e["loan"])
+        if keep is None:
+            first[e["loan"]] = e
+            out.append(e)
+            continue
+        for w in e["pure"]:
+            if w not in keep["pure"]:
+                keep["pure"].append(w)
+        for v in e.get("variants", []):
+            if v != keep["loan"] and v not in keep.setdefault("variants", []):
+                keep["variants"].append(v)
+        merged += 1
+    entries[:] = out
+    return merged
+
+
+def validate_or_stop():
+    """پێش بڵاوکردنەوە فەرهەنگەکە دەپشکنێت؛ ئەگەر هەڵە هەبێت ڕادەوەستێت."""
+    result = subprocess.run([sys.executable, str(ROOT / "tools" / "validate_glossary.py")],
+                            capture_output=True, text=True, encoding="utf-8")
+    if result.returncode != 0:
+        errors = [l for l in result.stdout.splitlines() if l.startswith("[هەڵە]")]
+        log(f"پشکنین شکستی هێنا ({len(errors)} هەڵە)؛ هیچ شتێک بڵاو نەکرایەوە: {errors[:5]}")
+        sys.exit(1)
 
 
 def known_forms(entries):
@@ -185,6 +218,10 @@ def cmd_fp(path):
 # ---- publish ----
 
 def cmd_publish():
+    data = load()
+    if merge_duplicates(data["entries"]):
+        save(data)
+    validate_or_stop()
     for d in SKILL.rglob("__pycache__"):
         shutil.rmtree(d)
     subprocess.run([sys.executable, str(ROOT / "build.py")], check=True)
@@ -221,6 +258,7 @@ def cmd_sync():
 
 def cmd_commit():
     """Commit today's glossary changes and push them to GitHub, so the open dictionary grows too."""
+    validate_or_stop()
     git("add", "skills/kurdi-peti/references/glossary.json", "skills/kurdi-peti/references/ui_terms.tsv",
         "data/rejected.txt", *[str(p.relative_to(ROOT)) for p in DATA.glob("batch-*.txt")],
         *[str(p.relative_to(ROOT)) for p in DATA.glob("reject-*.txt")])
