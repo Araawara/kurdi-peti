@@ -16,6 +16,8 @@ jobs:
           python-version: "3.12"
       - name: پشکنینی فەرهەنگ
         run: python tools/validate_glossary.py
+      - name: پشکنینی ڕەگی بیانی
+        run: python tools/check_roots.py --strict | tee -a "$GITHUB_STEP_SUMMARY"
       - name: دروستکردنی پاکێجەکان
         run: python build.py
       - name: پشکنینی کوردیی بەڵگەنامەکان

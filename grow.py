@@ -79,6 +79,12 @@ def validate_or_stop():
         errors = [l for l in result.stdout.splitlines() if l.startswith("[هەڵە]")]
         log(f"پشکنین شکستی هێنا ({len(errors)} هەڵە)؛ هیچ شتێک بڵاو نەکرایەوە: {errors[:5]}")
         sys.exit(1)
+    roots = subprocess.run([sys.executable, str(ROOT / "tools" / "check_roots.py"), "--strict"],
+                           capture_output=True, text=True, encoding="utf-8")
+    if roots.returncode != 0:
+        errors = [l for l in roots.stdout.splitlines() if l.startswith("[هەڵە]")]
+        log(f"پشکنینی ڕەگ: {len(errors)} وشەی پەتی هێشتا وشەی بیانییان تێدایە؛ چاکیان بکە: {errors[:5]}")
+        sys.exit(1)
 
 
 def known_forms(entries):

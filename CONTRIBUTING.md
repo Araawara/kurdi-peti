@@ -39,7 +39,7 @@
    | `source` | سەرچاوە، بۆ نموونە `community` |
    | `review` | `true` ئەگەر هێشتا پێداچوونەوەی دەوێت |
 
-3. پشکنین: `python tools/validate_glossary.py`
+3. پشکنین: `python tools/validate_glossary.py` و `python tools/check_roots.py` (ڕەگی بیانی لە ناو وشەی پەتیدا)
 4. pull request بنێرە. پشکنینە خۆکارەکان لە GitHub بە شێوەیەکی خۆبەخۆ جێبەجێ دەبن.
 
 `glossary.md` و `mcp/api/kp_data.py` دەستکاری مەکە؛ دوای پەسەندکردن خۆکارانە دروست دەکرێنەوە.

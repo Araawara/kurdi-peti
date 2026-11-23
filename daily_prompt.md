@@ -23,6 +23,10 @@ Work only inside this folder. Only use the commands below. Do not ask questions;
 6. Run `python grow.py fp data/batch-YYYYMMDD.txt`. If an entry matches genuine Kurdish words
    (e.g. a short loan + suffix forming a native word), fix it in glossary.json: add "exact": true, drop the
    bad variant, or remove that entry. Do not change entries you did not add today.
+6b. Run `python tools/check_roots.py`. Every [هەڵە] line means a "pure" replacement still contains a loanword
+   (for example خزمەتگوزاری contains خزمەت). Fix each one in glossary.json by choosing a genuinely Kurdish word
+   (use the suggestion after ←). Look at [ئاگاداری] lines too and fix them when a clear Kurdish word exists.
+   `publish` and `commit` stop if errors remain.
 7. Run `python grow.py done`, then `python grow.py publish`, then `python grow.py commit` (pushes the open
    dictionary to GitHub), then `python grow.py stats`.
 8. Finish with a short report in Sorani: how many added, how many rejected, how many suggestions, total.
